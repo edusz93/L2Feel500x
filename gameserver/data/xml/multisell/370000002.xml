@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Blacksmith of Mammon - SA removal -->
+<list maintainEnchantment="true">
+	<npcs>
+		<npc>31126</npc> <!-- Blacksmith of Mammon -->
+		<npc>50010</npc> <!-- GM SHOP -->
+	</npcs>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="6843" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="6844" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="7680" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="7682" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="7683" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="7695" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="7696" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8187" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8188" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8189" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8660" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8912" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8913" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="5808" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="6394" count="1"/>
+	</item>
+	<item>
+		<production id="13001" count="10"/>
+		<production id="13004" count="50"/>
+		<ingredient id="8921" count="1"/>
+	</item>
+</list>

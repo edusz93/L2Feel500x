@@ -1,0 +1,3 @@
+07/07/2024 16:28:17 >>> HWID: [E0D55EBF25A0] >>> Player: [Accuracy]
+13/07/2024 14:17:00 >>> HWID: [E0D55EBF25A0] >>> Player: [Accuracy]
+13/07/2024 14:43:14 >>> HWID: [E0D55EBF25A0] >>> Player: [Accuracy]

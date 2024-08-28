@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="7600" levels="1" name="Gludio Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7601" levels="1" name="Dion Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7602" levels="1" name="Giran Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7603" levels="1" name="Oren Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7604" levels="1" name="Aden Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7605" levels="1" name="Innadril Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7606" levels="1" name="Goddard Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7607" levels="1" name="Rune Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="7608" levels="1" name="Schuttgart Castle" >
+		<set name="magicLvl" val="1"/>
+		<set name="mpConsume" val="0"/>
+		<set name="reuseDelay" val="6000"/>
+		<set name="hitTime" val="5"/>
+		<set name="target" val="ONE"/>
+		<set name="skillType" val="CONT"/>
+		<set name="isMagic" val="true"/>
+		<set name="operateType" val="TOGGLE"/>
+		<set name="castRange" val="400"/>
+		<set name="effectRange" val="900"/>
+		<for>
+			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0" stackOrder="1" stackType="castle">
+				<add stat="pDef" val="100" />
+				<add stat="mDef" val="100" />
+			</effect>
+		</for>
+	</skill>
+</list>

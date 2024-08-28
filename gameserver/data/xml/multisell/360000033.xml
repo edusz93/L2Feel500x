@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Blessed Earring of Antharas -->
+	<item id="1">
+		<ingredient id="6656" count="1"/>
+		<ingredient id="12024" count="8"/>
+		<production id="12000" count="1"/>
+	</item>
+	<!-- Blessed Necklace of Valakas -->
+	<item id="2">
+		<ingredient id="6657" count="1"/>
+		<ingredient id="12025" count="5"/>
+		<production id="12001" count="1"/>
+	</item>
+	<!-- Blessed Ring of Baium -->
+	<item id="3">
+		<ingredient id="6658" count="1"/>
+		<ingredient id="12026" count="7"/>
+		<production id="12002" count="1"/>
+	</item>
+	<!-- Blessed Zaken's Earring -->
+	<item id="4">
+		<ingredient id="6659" count="1"/>
+		<ingredient id="12027" count="10"/>
+		<production id="12003" count="1"/>
+	</item>
+	<!-- Blessed Ring of Queen Ant -->
+	<item id="5">
+		<ingredient id="6660" count="1"/>
+		<ingredient id="12028" count="15"/>
+		<production id="12004" count="1"/>
+	</item>
+	<!-- Blessed Earring of Orfen -->
+	<item id="6">
+		<ingredient id="6661" count="1"/>
+		<ingredient id="12029" count="15"/>
+		<production id="12005" count="1"/>
+	</item>
+	<!-- Blessed Frintezza's Necklace -->
+	<item id="7">
+		<ingredient id="8191" count="1"/>
+		<ingredient id="12030" count="10"/>
+		<production id="12006" count="1"/>
+	</item>
+	<!-- Blessed Ring of Core -->
+	<item id="8">
+		<ingredient id="6662" count="1"/>
+		<ingredient id="12031" count="15"/>
+		<production id="12007" count="1"/>
+	</item>
+</list>

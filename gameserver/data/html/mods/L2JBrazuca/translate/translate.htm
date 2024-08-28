@@ -1,0 +1,71 @@
+<html>
+	<body>
+		<center><img src=L2UI_CH3.herotower_deco width=256 height=32></center>
+		<table width="230px">
+			<tr>
+				<td><button value="" action="" width=64 height=64 back="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M" fore="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M"></td>
+				<td>
+					<font color="LEVEL">PT-BR: </font>Configure seu chat para traduzir suas mensagens automaticamente! Escolha seu idioma (in) e o idioma de destino (out) para comunicacao sem barreiras.<br>
+					<font color="LEVEL">EN: </font>Set up your chat to translate messages automatically! Choose your language (in) and the target language (out) for seamless communication.
+				</td>
+			</tr>
+		</table>
+		<center><img src=L2UI_CH3.herotower_deco width=256 height=32></center>
+		<center>
+			<table bgcolor="000000">
+				<tr>
+					<td width=5>
+					</td>
+					<td width=110>
+						IN:
+					</td>
+					<td width=60>
+						<combobox width=50 height=27 var="val1" list=%lang1%;PT-BR;EN;ES>
+					</td>
+					<td width=50>
+						<button width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal" action="bypass -h mod_translate_lang1 $val1" value="Set">
+						
+					</td>
+				</tr>
+				<tr>
+					<td width=5>
+					</td>
+					<td width=110>
+						OUT:
+					</td>
+					<td width=60>
+						<combobox width=50 height=27 var="val2" list=%lang2%;PT-BR;EN;ES>
+					</td>
+					<td width=50>
+						<button width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal" action="bypass -h mod_translate_lang2 $val2" value="Set">
+						
+					</td>
+				</tr>
+				<tr>
+					<td width=5>
+					</td>
+					<td width=50>
+						Active
+					</td>
+					<td width=60>
+						<font color="LEVEL">%enable%</font>
+					</td>
+					<td width=50>
+					<button width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal" action="bypass -h mod_translate_enable" value="Alter">
+
+					</td>
+				</tr>
+			</table>
+		</center>
+		<center>
+			<img src="L2UI.SquareGray" width=230 height=1>
+		</center>
+		<center>
+			<img src="L2UI.SquareGray" width=230 height=1><br>
+		</center>
+		<br>
+		<center>
+			<a action="bypass -h voiced_menu">Menu</a>
+		</center>
+	</body>
+</html>

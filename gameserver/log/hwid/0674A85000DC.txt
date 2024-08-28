@@ -1,0 +1,6 @@
+11/07/2024 11:13:30 >>> HWID: [0674A85000DC] >>> Player: [Morgana]
+11/07/2024 11:19:46 >>> HWID: [0674A85000DC] >>> Player: [XxBaloXx]
+11/07/2024 11:25:17 >>> HWID: [0674A85000DC] >>> Player: [llMiniUzell]
+11/07/2024 11:26:04 >>> HWID: [0674A85000DC] >>> Player: [llMiniUzell]
+11/07/2024 12:12:47 >>> HWID: [0674A85000DC] >>> Player: [XxBaloXx]
+11/07/2024 14:40:35 >>> HWID: [0674A85000DC] >>> Player: [220SemRadar]

@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Soulshot: S-grade -->
+	<item id="1">
+		<ingredient id="57" count="60"/>
+		<production id="1467" count="1"/>
+	</item>
+	<!-- Soulshot: A-grade -->
+	<item id="2">
+		<ingredient id="57" count="50"/>
+		<production id="1466" count="1"/>
+	</item>
+	<!-- Soulshot: B-grade -->
+	<item id="3">
+		<ingredient id="57" count="30"/>
+		<production id="1465" count="1"/>
+	</item>
+	<!-- Soulshot: C-grade -->
+	<item id="4">
+		<ingredient id="57" count="10"/>
+		<production id="1464" count="1"/>
+	</item>
+	<!-- Soulshot: D-grade -->
+	<item id="5">
+		<ingredient id="57" count="7"/>
+		<production id="1463" count="1"/>
+	</item>
+	<!-- Soulshot: No Grade -->
+	<item id="6">
+		<ingredient id="57" count="5"/>
+		<production id="1835" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: S Grade -->
+	<item id="7">
+		<ingredient id="57" count="200"/>
+		<production id="3952" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: A-Grade -->
+	<item id="8">
+		<ingredient id="57" count="160"/>
+		<production id="3951" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: B-Grade -->
+	<item id="9">
+		<ingredient id="57" count="130"/>
+		<production id="3950" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: C-Grade -->
+	<item id="10">
+		<ingredient id="57" count="55"/>
+		<production id="3949" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: D-Grade -->
+	<item id="11">
+		<ingredient id="57" count="35"/>
+		<production id="3948" count="1"/>
+	</item>
+	<!-- Blessed Spiritshot: No Grade -->
+	<item id="12">
+		<ingredient id="57" count="25"/>
+		<production id="3947" count="1"/>
+	</item>
+	<!-- Spiritshot: S-grade -->
+	<item id="13">
+		<ingredient id="57" count="85"/>
+		<production id="2514" count="1"/>
+	</item>
+	<!-- Spiritshot: A-grade -->
+	<item id="14">
+		<ingredient id="57" count="70"/>
+		<production id="2513" count="1"/>
+	</item>
+	<!-- Spiritshot: B-grade -->
+	<item id="15">
+		<ingredient id="57" count="60"/>
+		<production id="2512" count="1"/>
+	</item>
+	<!-- Spiritshot: C-grade -->
+	<item id="16">
+		<ingredient id="57" count="20"/>
+		<production id="2511" count="1"/>
+	</item>
+	<!-- Spiritshot: D-grade -->
+	<item id="17">
+		<ingredient id="57" count="15"/>
+		<production id="2510" count="1"/>
+	</item>
+	<!-- Spiritshot: No Grade -->
+	<item id="18">
+		<ingredient id="57" count="10"/>
+		<production id="2509" count="1"/>
+	</item>
+	<!-- Beast Soulshot -->
+	<item id="19">
+		<ingredient id="57" count="20"/>
+		<production id="6645" count="1"/>
+	</item>
+	<!-- Blessed Beast Spiritshot -->
+	<item id="20">
+		<ingredient id="57" count="60"/>
+		<production id="6647" count="1"/>
+	</item>
+	<!-- Greater Swift Attack Potion -->
+	<item id="21">
+		<ingredient id="57" count="20000"/>
+		<production id="1375" count="1"/>
+	</item>
+	<!-- Greater Haste Potion -->
+	<item id="22">
+		<ingredient id="57" count="20000"/>
+		<production id="1374" count="1"/>
+	</item>
+	<!-- Greater Magic Haste Potion -->
+	<item id="23">
+		<ingredient id="57" count="20000"/>
+		<production id="6036" count="1"/>
+	</item>
+	<!-- Greater Healing Potion -->
+	<item id="24">
+		<ingredient id="57" count="600"/>
+		<production id="1539" count="1"/>
+	</item>
+	<!-- Mana potion -->
+	<item id="25">
+		<ingredient id="57" count="1100"/>
+		<production id="728" count="1"/>
+	</item>
+	<!-- Spirit Ore -->
+	<item id="45">
+		<ingredient id="57" count="220"/>
+		<production id="3031" count="1"/>
+	</item>
+	<!-- Soul Ore -->
+	<item id="46">
+		<ingredient id="57" count="150"/>
+		<production id="1785" count="1"/>
+	</item>
+	<!-- Energy Stone -->
+	<item id="47">
+		<ingredient id="57" count="200"/>
+		<production id="5589" count="1"/>
+	</item>
+	<!-- Battle Symbol -->
+	<item id="48">
+		<ingredient id="57" count="2000"/>
+		<production id="8875" count="1"/>
+	</item>
+	<!-- Magic Symbol -->
+	<item id="49">
+		<ingredient id="57" count="2000"/>
+		<production id="8876" count="1"/>
+	</item>
+	<!-- Phoenix Blood -->
+	<item id="50">
+		<ingredient id="57" count="2000"/>
+		<production id="8873" count="1"/>
+	</item>
+	<!-- Einhasad's Holy Water -->
+	<item id="51">
+		<ingredient id="57" count="20000"/>
+		<production id="8874" count="1"/>
+	</item>
+	<!-- Cursed Bone -->
+	<item id="52">
+		<ingredient id="57" count="160"/>
+		<production id="2508" count="1"/>
+	</item>
+	<!-- Summon crystal -->
+	<item id="53">
+		<ingredient id="57" count="30000"/>
+		<production id="8615" count="1"/>
+	</item>
+	<!-- Bone Arrow -->
+	<item id="54">
+		<ingredient id="57" count="2"/>
+		<production id="1341" count="1"/>
+	</item>
+	<!-- Iron Arrow -->
+	<item id="55">
+		<ingredient id="57" count="3"/>
+		<production id="1342" count="1"/>
+	</item>
+	<!-- Silver Arrow -->
+	<item id="56">
+		<ingredient id="57" count="4"/>
+		<production id="1343" count="1"/>
+	</item>
+	<!-- Mithril Arrow -->
+	<item id="57">
+		<ingredient id="57" count="5"/>
+		<production id="1344" count="1"/>
+	</item>
+	<!-- Shining Arrow -->
+	<item id="58">
+		<ingredient id="57" count="10"/>
+		<production id="1345" count="1"/>
+	</item>
+	<!-- Scroll: Recovery (Grade S) -->
+	<item id="59">
+		<ingredient id="57" count="200000"/>
+		<production id="8599" count="1"/>
+	</item>
+	<!-- Crystal: S Grade -->
+	<item id="61">
+		<ingredient id="57" count="20000"/>
+		<production id="1462" count="1"/>
+	</item>
+	<!-- Crystal: A-Grade -->
+	<item id="62">
+		<ingredient id="57" count="10000"/>
+		<production id="1461" count="1"/>
+	</item>
+	<!-- Crystal: B-Grade -->
+	<item id="63">
+		<ingredient id="57" count="6000"/>
+		<production id="1460" count="1"/>
+	</item>
+	<!-- Crystal: C-Grade -->
+	<item id="64">
+		<ingredient id="57" count="2000"/>
+		<production id="1459" count="1"/>
+	</item>
+	<!-- Crystal: D-Grade -->
+	<item id="65">
+		<ingredient id="57" count="500"/>
+		<production id="1458" count="1"/>
+	</item>
+	<!-- Gemstone: D-Grade -->
+	<item id="66">
+		<ingredient id="57" count="600"/>
+		<production id="2130" count="1"/>
+	</item>
+	<!-- Gemstone: C-Grade -->
+	<item id="67">
+		<ingredient id="57" count="2000"/>
+		<production id="2131" count="1"/>
+	</item>
+
+	<!-- Gemstone: B-Grade -->
+	<item id="68">
+		<ingredient id="57" count="6000"/>
+		<production id="2132" count="1"/>
+	</item>
+	<!-- Gemstone: A-Grade -->
+	<item id="69">
+		<ingredient id="57" count="20000"/>
+		<production id="2133" count="1"/>
+	</item>
+	<!-- Gemstone: S-Grade -->
+	<item id="70">
+		<ingredient id="57" count="60000"/>
+		<production id="2134" count="1"/>
+	</item>
+	<!-- Greater CP Potion -->
+	<item id="71">
+		<ingredient id="13004" count="1"/>
+		<production id="5592" count="20"/>
+		<production id="5591" count="20"/>
+	</item>
+		<!-- Elixir hp/cp -->
+	<item id="72">
+	<ingredient id="13004" count="1"/>
+    <production id="8627" count="2"/>
+    <production id="8639" count="2"/>
+	</item>
+</list>

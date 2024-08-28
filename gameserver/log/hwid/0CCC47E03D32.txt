@@ -1,0 +1,5 @@
+05/07/2024 19:04:06 >>> HWID: [0CCC47E03D32] >>> Player: [Petter]
+05/07/2024 23:52:41 >>> HWID: [0CCC47E03D32] >>> Player: [Petter]
+06/07/2024 0:11:01 >>> HWID: [0CCC47E03D32] >>> Player: [Safada]
+06/07/2024 9:31:18 >>> HWID: [0CCC47E03D32] >>> Player: [Petter]
+06/07/2024 9:38:31 >>> HWID: [0CCC47E03D32] >>> Player: [Safada]

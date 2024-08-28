@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="globalgatekeeper_1692977584714" minZ="-3640" maxZ="-3624">
+		<node x="11913" y="-23766" />
+		<node x="11813" y="-23766" />
+		<node x="11813" y="-23866" />
+		<node x="11913" y="-23866" />
+	</territory>
+	<npcmaker name="globalgatekeeper_411663701947730" territory="globalgatekeeper_1692977584714" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="11863;-23816;-3640;36636" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1692977772029" minZ="-3688" maxZ="-3672">
+		<node x="9962" y="-22214" />
+		<node x="9862" y="-22214" />
+		<node x="9862" y="-22314" />
+		<node x="9962" y="-22314" />
+	</territory>
+	<npcmaker name="globalgatekeeper_411851015208075" territory="globalgatekeeper_1692977772029" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="9912;-22264;-3688;16384" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696953163703" minZ="-3576" maxZ="-3560">
+		<node x="11183" y="-22540" />
+		<node x="11083" y="-22540" />
+		<node x="11083" y="-22640" />
+		<node x="11183" y="-22640" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2312544805792004" territory="globalgatekeeper_1696953163703" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="11133;-22590;-3576;42035" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696953752168" minZ="-3336" maxZ="-3320">
+		<node x="7160" y="-22085" />
+		<node x="7060" y="-22085" />
+		<node x="7060" y="-22185" />
+		<node x="7160" y="-22185" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2313133272057816" territory="globalgatekeeper_1696953752168" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="7110;-22135;-3336;17288" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696971113510" minZ="-3712" maxZ="-3696">
+		<node x="8162" y="-22627" />
+		<node x="8062" y="-22627" />
+		<node x="8062" y="-22727" />
+		<node x="8162" y="-22727" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2330494614166621" territory="globalgatekeeper_1696971113510" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="8112;-22677;-3712;50874" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696971139828" minZ="-3736" maxZ="-3720">
+		<node x="10001" y="-24712" />
+		<node x="9901" y="-24712" />
+		<node x="9901" y="-24812" />
+		<node x="10001" y="-24812" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2330520930538616" territory="globalgatekeeper_1696971139828" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="9951;-24762;-3736;3291" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696971173553" minZ="-3728" maxZ="-3712">
+		<node x="9064" y="-22915" />
+		<node x="8964" y="-22915" />
+		<node x="8964" y="-23015" />
+		<node x="9064" y="-23015" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2330554655165255" territory="globalgatekeeper_1696971173553" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="9014;-22965;-3728;43831" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+	<territory name="globalgatekeeper_1696971210308" minZ="-3640" maxZ="-3624">
+		<node x="11956" y="-24455" />
+		<node x="11856" y="-24455" />
+		<node x="11856" y="-24555" />
+		<node x="11956" y="-24555" />
+	</territory>
+	<npcmaker name="globalgatekeeper_2330591410898812" territory="globalgatekeeper_1696971210308" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="11906;-24505;-3640;28859" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+</list>

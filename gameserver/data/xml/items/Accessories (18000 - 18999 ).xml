@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="18000" type="Armor" name="Anonymous Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18001" type="Armor" name="Macaw Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18002" type="Armor" name="Blue Daemon">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18003" type="Armor" name="Killer Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18004" type="Armor" name="Angry Bird">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18005" type="Armor" name="Warm Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18006" type="Armor" name="Warm Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18007" type="Armor" name="Not cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18008" type="Armor" name="FBI Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18009" type="Armor" name="Pirate King">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18010" type="Armor" name="Baseball Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18011" type="Armor" name="Headphones">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18012" type="Armor" name="Seraph Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18013" type="Armor" name="Vorpal Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18014" type="Armor" name="White Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18015" type="Armor" name="Black Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18016" type="Armor" name="Summer White Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18017" type="Armor" name="Summer Black Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18018" type="Armor" name="Paper Bag">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18019" type="Armor" name="Witcher Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18020" type="Armor" name="Beret of Marines">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18021" type="Armor" name="Beret of Russia">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18022" type="Armor" name="Beret of Special Forces">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18023" type="Armor" name="Beret of USSR">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18024" type="Armor" name="Fashion Shoes">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18025" type="Armor" name="Big Glasses">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18026" type="Armor" name="Military Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18027" type="Armor" name="Headgear of Leader">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18028" type="Armor" name="Good Ghost">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18029" type="Armor" name="Voodoo Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18030" type="Armor" name="Cap of The 80th">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18031" type="Armor" name="Cap Rus">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18032" type="Armor" name="Alien Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18033" type="Armor" name="Doccabi Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18034" type="Armor" name="Frank Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18035" type="Armor" name="Mumpkin Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18036" type="Armor" name="Mummy Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18037" type="Armor" name="Panic Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18038" type="Armor" name="Cap Adiddas">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18039" type="Armor" name="Helloween Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18040" type="Armor" name="Top Hat Magic">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18041" type="Armor" name="Fire Demon">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18042" type="Armor" name="Water Angel">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18043" type="Armor" name="Cowboy Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18044" type="Armor" name="Steel Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18045" type="Armor" name="Eye Visor">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18046" type="Armor" name="Golden Skeleton Circlet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18047" type="Armor" name="Zaken Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18048" type="Armor" name="Valkyrie Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18049" type="Armor" name="Beach Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18050" type="Armor" name="Circlet of Eva">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18051" type="Armor" name="Goggle's">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18052" type="Armor" name="Advance Mine Search Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18053" type="Armor" name="Knight Circlet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18054" type="Armor" name="Ketra Karm">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18055" type="Armor" name="Mine Search Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18056" type="Armor" name="Ruthless Mask">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18057" type="Armor" name="Animal Skeleton Circlet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18058" type="Armor" name="Samurai Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18059" type="Armor" name="Nifty Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18060" type="Armor" name="Highlander Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18061" type="Armor" name="Hat-Flare - Fireworks Volley">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18062" type="Armor" name="National Taiwan headdress">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18063" type="Armor" name="Cap Flower">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18064" type="Armor" name="Chinese Empire Helmet">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18065" type="Armor" name="Hat Forest Tinkerbell">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18066" type="Armor" name="Hat Cricket">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18067" type="Armor" name="Hat Paiwan">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18068" type="Armor" name="Comfortsprit Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18069" type="Armor" name="Eye Beetle">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18070" type="Armor" name="Straw Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18071" type="Armor" name="Topper Magic">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18072" type="Armor" name="Topper Voodoo">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18073" type="Armor" name="Valakas Daemon">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18074" type="Armor" name="Elegia Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18075" type="Armor" name="Carnival Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18076" type="Armor" name="Assassin's Bamboo Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	
+	
+	<item id="18077" type="Armor" name="Redefined Feathered Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>	
+	<item id="18078" type="Armor" name="Redefined Jester Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>	
+	<item id="18079" type="Armor" name="Redefined Wizard Hat">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>	
+	<item id="18080" type="Armor" name="Redefined Dapper Cap">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="18081" type="Armor" name="Ignis Lord's Mark">
+		<set name="icon" val="icon.etc_statue_of_einhasad_bronze_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="price" val="500000" />
+		<set name="item_skill" val="3633-1" />
+		<cond msgId="1518">
+			<and>
+				<player castle="3" />
+				<player pledgeClass="2" />
+			</and>
+		</cond>
+		<for>
+			<add stat="pDef" val="100"/>
+			<add stat="mDef" val="100"/>
+		</for>
+	</item>
+</list>

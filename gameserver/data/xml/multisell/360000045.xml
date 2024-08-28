@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Crystal 13 -->
+    <item id="9">
+	<ingredient id="13000" count="25"/>
+	<production id="5914" count="1"/>
+	</item>
+	<!-- Crystal 13 -->
+    <item id="10">
+	<ingredient id="13000" count="25"/>
+	<production id="5911" count="1"/>
+	</item>
+	<!-- Crystal 13 -->
+    <item id="11">
+	<ingredient id="13000" count="25"/>
+	<production id="5908" count="1"/>
+	</item>
+</list>

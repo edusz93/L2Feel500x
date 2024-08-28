@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="15000" type="Armor" name="Titanium Helm">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="570" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15001" type="Armor" name="Titanium Plate Armor">
+		<set name="icon" val="icon.armor_t1004_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="9780" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="333" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15002" type="Armor" name="Titanium Gauntlet - Heavy Armor">
+		<set name="icon" val="icon.armor_t1004_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15003" type="Armor" name="Titanium Solleret - Heavy Armor">
+		<set name="icon" val="icon.armor_t1004_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15004" type="Armor" name="Titanium Brigandine">
+		<set name="icon" val="icon.armor_t1005_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="5400" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="249" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15005" type="Armor" name="Titanium Leather Gloves - Light Armor">
+		<set name="icon" val="icon.armor_t1005_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15006" type="Armor" name="Titanium Boots - Light Armor">
+		<set name="icon" val="icon.armor_t1005_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15007" type="Armor" name="Titanium Doublet">
+		<set name="icon" val="icon.armor_t1006_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="2450" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15008" type="Armor" name="Titanium Silk Gloves - Robe">
+		<set name="icon" val="icon.armor_t1006_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15009" type="Armor" name="Titanium Sandals - Robe">
+		<set name="icon" val="icon.armor_t1006_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15010" type="Armor" name="Sealed Titanium Helm">
+		<set name="icon" val="icon.armor_helmet_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="570" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15011" type="Armor" name="Sealed Titanium Plate Armor">
+		<set name="icon" val="icon.armor_t1004_ul_i02" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="9780" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="333" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15012" type="Armor" name="Sealed Titanium Gauntlet">
+		<set name="icon" val="icon.armor_t1004_g_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15013" type="Armor" name="Sealed Titanium Solleret">
+		<set name="icon" val="icon.armor_t1004_b_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15014" type="Armor" name="Sealed Titanium Brigandine">
+		<set name="icon" val="icon.armor_t1005_ul_i02" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="5400" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="249" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15015" type="Armor" name="Sealed Titanium Leather Gloves">
+		<set name="icon" val="icon.armor_t1005_g_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15016" type="Armor" name="Sealed Titanium Boots">
+		<set name="icon" val="icon.armor_t1005_b_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15017" type="Armor" name="Sealed Titanium Doublet">
+		<set name="icon" val="icon.armor_t1006_ul_i02" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="2450" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15018" type="Armor" name="Sealed Titanium Silk Gloves">
+		<set name="icon" val="icon.armor_t1006_g_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="15019" type="Armor" name="Sealed Titanium Sandals">
+		<set name="icon" val="icon.armor_t1006_b_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+</list>

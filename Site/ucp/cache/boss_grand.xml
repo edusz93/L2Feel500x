@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1691408028</updated>
+</configs>
+<line>
+<name>Antharas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Frintezza</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Scarlet van Halisha</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Scarlet van Halisha</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Valakas</name>
+<level>85</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Andreas Van Halter</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sailren</name>
+<level>80</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Baium</name>
+<level>75</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gigantic Chaos Golem</name>
+<level>52</level>
+<status>Vivo</status>
+<respawn>-</respawn>
+</line>
+</boss>

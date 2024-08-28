@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true" applyTaxes="true">
+  <!-- Clan Full -->
+  <item id="1">
+    <production id="11001" count="1"/>
+  </item>
+   <!-- 7 days Premium Status -->
+  <item id="3">
+    <ingredient id="13000" count="10"/>
+    <production id="11003" count="1"/>
+  </item>
+   <!-- 15 days Premium Status -->
+  <item id="3">
+    <ingredient id="13000" count="20"/>
+    <production id="11004" count="1"/>
+  </item>
+   <!-- 1 Month Premium Status -->
+  <item id="3">
+    <ingredient id="13000" count="30"/>
+    <production id="11005" count="1"/>
+  </item>
+  <!-- Change Name -->
+  <item id="4">
+    <ingredient id="13000" count="20"/>
+    <production id="11010" count="1"/>
+  </item>
+  <!-- Change Sexy -->
+  <item id="5">
+    <ingredient id="13000" count="10"/>
+    <production id="11011" count="1"/>
+  </item>
+  <!-- Remove PK -->
+  <item id="6">
+    <ingredient id="13000" count="10"/>
+    <production id="11012" count="1"/>
+  </item>
+  <!-- Level 80 -->
+  <item id="7">
+    <ingredient id="13000" count="10"/>
+    <production id="11013" count="1"/>
+  </item>
+  <!-- Change Class -->
+  <item id="8">
+    <ingredient id="13000" count="30"/>
+    <production id="11014" count="1"/>
+  </item>
+  <!-- Nobles -->
+  <item id="9">
+    <ingredient id="13000" count="30"/>
+    <production id="11000" count="1"/>
+  </item>
+
+</list>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="triolspriest_1716851295149" minZ="-10848" maxZ="-10832">
+		<node x="-17659" y="-56802" />
+		<node x="-17759" y="-56802" />
+		<node x="-17759" y="-56902" />
+		<node x="-17659" y="-56902" />
+	</territory>
+	<npcmaker name="triolspriest_1510004076900" territory="triolspriest_1716851295149" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17709;-56852;-10848;23095" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851312939" minZ="-10848" maxZ="-10832">
+		<node x="-16836" y="-56725" />
+		<node x="-16936" y="-56725" />
+		<node x="-16936" y="-56825" />
+		<node x="-16836" y="-56825" />
+	</territory>
+	<npcmaker name="triolspriest_1527792920100" territory="triolspriest_1716851312939" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16886;-56775;-10848;36924" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851319009" minZ="-10848" maxZ="-10832">
+		<node x="-16541" y="-56626" />
+		<node x="-16641" y="-56626" />
+		<node x="-16641" y="-56726" />
+		<node x="-16541" y="-56726" />
+	</territory>
+	<npcmaker name="triolspriest_1533863512200" territory="triolspriest_1716851319009" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16591;-56676;-10848;55522" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851328731" minZ="-10848" maxZ="-10832">
+		<node x="-15297" y="-56525" />
+		<node x="-15397" y="-56525" />
+		<node x="-15397" y="-56625" />
+		<node x="-15297" y="-56625" />
+	</territory>
+	<npcmaker name="triolspriest_1543585846300" territory="triolspriest_1716851328731" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15347;-56575;-10848;18164" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851333058" minZ="-10848" maxZ="-10832">
+		<node x="-14972" y="-56868" />
+		<node x="-15072" y="-56868" />
+		<node x="-15072" y="-56968" />
+		<node x="-14972" y="-56968" />
+	</territory>
+	<npcmaker name="triolspriest_1547912478900" territory="triolspriest_1716851333058" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15022;-56918;-10848;20842" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851337883" minZ="-10848" maxZ="-10832">
+		<node x="-14701" y="-56871" />
+		<node x="-14801" y="-56871" />
+		<node x="-14801" y="-56971" />
+		<node x="-14701" y="-56971" />
+	</territory>
+	<npcmaker name="triolspriest_1552737204800" territory="triolspriest_1716851337883" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14751;-56921;-10848;22732" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851398169" minZ="-10848" maxZ="-10832">
+		<node x="-16045" y="-56519" />
+		<node x="-16145" y="-56519" />
+		<node x="-16145" y="-56619" />
+		<node x="-16045" y="-56619" />
+	</territory>
+	<npcmaker name="triolspriest_1613023572100" territory="triolspriest_1716851398169" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16095;-56569;-10848;33221" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851406978" minZ="-10848" maxZ="-10832">
+		<node x="-15791" y="-56979" />
+		<node x="-15891" y="-56979" />
+		<node x="-15891" y="-57079" />
+		<node x="-15791" y="-57079" />
+	</territory>
+	<npcmaker name="triolspriest_1621832188400" territory="triolspriest_1716851406978" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15841;-57029;-10848;64263" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851422074" minZ="-10848" maxZ="-10832">
+		<node x="-17164" y="-56381" />
+		<node x="-17264" y="-56381" />
+		<node x="-17264" y="-56481" />
+		<node x="-17164" y="-56481" />
+	</territory>
+	<npcmaker name="triolspriest_1636928033800" territory="triolspriest_1716851422074" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17214;-56431;-10848;34401" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851453455" minZ="-11560" maxZ="-11544">
+		<node x="-16876" y="-54298" />
+		<node x="-16976" y="-54298" />
+		<node x="-16976" y="-54398" />
+		<node x="-16876" y="-54398" />
+	</territory>
+	<npcmaker name="triolspriest_1668309281000" territory="triolspriest_1716851453455" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16926;-54348;-11560;24576" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851466648" minZ="-11560" maxZ="-11544">
+		<node x="-16089" y="-53506" />
+		<node x="-16189" y="-53506" />
+		<node x="-16189" y="-53606" />
+		<node x="-16089" y="-53606" />
+	</territory>
+	<npcmaker name="triolspriest_1681502007700" territory="triolspriest_1716851466648" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16139;-53556;-11560;51143" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851475136" minZ="-11560" maxZ="-11544">
+		<node x="-15503" y="-53430" />
+		<node x="-15603" y="-53430" />
+		<node x="-15603" y="-53530" />
+		<node x="-15503" y="-53530" />
+	</territory>
+	<npcmaker name="triolspriest_1689990403700" territory="triolspriest_1716851475136" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15553;-53480;-11560;15086" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851481673" minZ="-11560" maxZ="-11544">
+		<node x="-15152" y="-53002" />
+		<node x="-15252" y="-53002" />
+		<node x="-15252" y="-53102" />
+		<node x="-15152" y="-53102" />
+	</territory>
+	<npcmaker name="triolspriest_1696527222300" territory="triolspriest_1716851481673" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15202;-53052;-11560;38012" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851504721" minZ="-11560" maxZ="-11544">
+		<node x="-15909" y="-53873" />
+		<node x="-16009" y="-53873" />
+		<node x="-16009" y="-53973" />
+		<node x="-15909" y="-53973" />
+	</territory>
+	<npcmaker name="triolspriest_1719574512100" territory="triolspriest_1716851504721" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15959;-53923;-11560;29990" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851512665" minZ="-11560" maxZ="-11544">
+		<node x="-15380" y="-53960" />
+		<node x="-15480" y="-53960" />
+		<node x="-15480" y="-54060" />
+		<node x="-15380" y="-54060" />
+	</territory>
+	<npcmaker name="triolspriest_1727518519500" territory="triolspriest_1716851512665" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15430;-54010;-11560;13055" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851520095" minZ="-11560" maxZ="-11544">
+		<node x="-15651" y="-54502" />
+		<node x="-15751" y="-54502" />
+		<node x="-15751" y="-54602" />
+		<node x="-15651" y="-54602" />
+	</territory>
+	<npcmaker name="triolspriest_1734949671100" territory="triolspriest_1716851520095" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15701;-54552;-11560;11405" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851533105" minZ="-11560" maxZ="-11544">
+		<node x="-16512" y="-53872" />
+		<node x="-16612" y="-53872" />
+		<node x="-16612" y="-53972" />
+		<node x="-16512" y="-53972" />
+	</territory>
+	<npcmaker name="triolspriest_1747959364600" territory="triolspriest_1716851533105" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16562;-53922;-11560;46845" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851541899" minZ="-11560" maxZ="-11544">
+		<node x="-16171" y="-54119" />
+		<node x="-16271" y="-54119" />
+		<node x="-16271" y="-54219" />
+		<node x="-16171" y="-54219" />
+	</territory>
+	<npcmaker name="triolspriest_1756752520200" territory="triolspriest_1716851541899" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-16221;-54169;-11560;17662" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851555581" minZ="-11560" maxZ="-11544">
+		<node x="-17300" y="-53836" />
+		<node x="-17400" y="-53836" />
+		<node x="-17400" y="-53936" />
+		<node x="-17300" y="-53936" />
+	</territory>
+	<npcmaker name="triolspriest_1770434863500" territory="triolspriest_1716851555581" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17350;-53886;-11560;55942" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851564405" minZ="-11560" maxZ="-11544">
+		<node x="-16999" y="-53455" />
+		<node x="-17099" y="-53455" />
+		<node x="-17099" y="-53555" />
+		<node x="-16999" y="-53555" />
+	</territory>
+	<npcmaker name="triolspriest_1779260138300" territory="triolspriest_1716851564405" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17049;-53505;-11560;52746" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851571442" minZ="-11560" maxZ="-11544">
+		<node x="-17453" y="-53042" />
+		<node x="-17553" y="-53042" />
+		<node x="-17553" y="-53142" />
+		<node x="-17453" y="-53142" />
+	</territory>
+	<npcmaker name="triolspriest_1786295369500" territory="triolspriest_1716851571442" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17503;-53092;-11560;24194" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851575927" minZ="-11560" maxZ="-11544">
+		<node x="-17883" y="-52878" />
+		<node x="-17983" y="-52878" />
+		<node x="-17983" y="-52978" />
+		<node x="-17883" y="-52978" />
+	</territory>
+	<npcmaker name="triolspriest_1790781618800" territory="triolspriest_1716851575927" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17933;-52928;-11560;5365" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851609168" minZ="-11560" maxZ="-11544">
+		<node x="-14780" y="-53585" />
+		<node x="-14880" y="-53585" />
+		<node x="-14880" y="-53685" />
+		<node x="-14780" y="-53685" />
+	</territory>
+	<npcmaker name="triolspriest_1824021998000" territory="triolspriest_1716851609168" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14830;-53635;-11560;6984" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851639322" minZ="-11112" maxZ="-11096">
+		<node x="-20471" y="-54394" />
+		<node x="-20571" y="-54394" />
+		<node x="-20571" y="-54494" />
+		<node x="-20471" y="-54494" />
+	</territory>
+	<npcmaker name="triolspriest_1854176808600" territory="triolspriest_1716851639322" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20521;-54444;-11112;28544" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851648987" minZ="-11112" maxZ="-11096">
+		<node x="-19762" y="-54070" />
+		<node x="-19862" y="-54070" />
+		<node x="-19862" y="-54170" />
+		<node x="-19762" y="-54170" />
+	</territory>
+	<npcmaker name="triolspriest_1863841179200" territory="triolspriest_1716851648987" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19812;-54120;-11112;20540" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851669217" minZ="-10936" maxZ="-10920">
+		<node x="-19986" y="-52680" />
+		<node x="-20086" y="-52680" />
+		<node x="-20086" y="-52780" />
+		<node x="-19986" y="-52780" />
+	</territory>
+	<npcmaker name="triolspriest_1884071618300" territory="triolspriest_1716851669217" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20036;-52730;-10936;47093" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851673519" minZ="-10936" maxZ="-10920">
+		<node x="-19663" y="-52726" />
+		<node x="-19763" y="-52726" />
+		<node x="-19763" y="-52826" />
+		<node x="-19663" y="-52826" />
+	</territory>
+	<npcmaker name="triolspriest_1888373028100" territory="triolspriest_1716851673519" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19713;-52776;-10936;9965" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851680067" minZ="-10936" maxZ="-10920">
+		<node x="-20448" y="-52377" />
+		<node x="-20548" y="-52377" />
+		<node x="-20548" y="-52477" />
+		<node x="-20448" y="-52477" />
+	</territory>
+	<npcmaker name="triolspriest_1894921767400" territory="triolspriest_1716851680067" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20498;-52427;-10936;42219" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851691477" minZ="-10936" maxZ="-10920">
+		<node x="-20342" y="-52852" />
+		<node x="-20442" y="-52852" />
+		<node x="-20442" y="-52952" />
+		<node x="-20342" y="-52952" />
+	</territory>
+	<npcmaker name="triolspriest_1906331124700" territory="triolspriest_1716851691477" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20392;-52902;-10936;4410" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851727950" minZ="-10936" maxZ="-10920">
+		<node x="-12944" y="-52899" />
+		<node x="-13044" y="-52899" />
+		<node x="-13044" y="-52999" />
+		<node x="-12944" y="-52999" />
+	</territory>
+	<npcmaker name="triolspriest_1942804057700" territory="triolspriest_1716851727950" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12994;-52949;-10936;62180" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851734393" minZ="-10936" maxZ="-10920">
+		<node x="-12353" y="-52756" />
+		<node x="-12453" y="-52756" />
+		<node x="-12453" y="-52856" />
+		<node x="-12353" y="-52856" />
+	</territory>
+	<npcmaker name="triolspriest_1949247766900" territory="triolspriest_1716851734393" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12403;-52806;-10936;6265" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851749807" minZ="-11112" maxZ="-11096">
+		<node x="-12377" y="-54085" />
+		<node x="-12477" y="-54085" />
+		<node x="-12477" y="-54185" />
+		<node x="-12377" y="-54185" />
+	</territory>
+	<npcmaker name="triolspriest_1964661120600" territory="triolspriest_1716851749807" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12427;-54135;-11112;57524" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851759134" minZ="-11112" maxZ="-11096">
+		<node x="-12952" y="-54219" />
+		<node x="-13052" y="-54219" />
+		<node x="-13052" y="-54319" />
+		<node x="-12952" y="-54319" />
+	</territory>
+	<npcmaker name="triolspriest_1973988115000" territory="triolspriest_1716851759134" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13002;-54269;-11112;52956" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851816275" minZ="-11008" maxZ="-10992">
+		<node x="-13159" y="-51079" />
+		<node x="-13259" y="-51079" />
+		<node x="-13259" y="-51179" />
+		<node x="-13159" y="-51179" />
+	</territory>
+	<npcmaker name="triolspriest_2031128813700" territory="triolspriest_1716851816275" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13209;-51129;-11008;11805" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851824201" minZ="-11008" maxZ="-10992">
+		<node x="-13990" y="-51681" />
+		<node x="-14090" y="-51681" />
+		<node x="-14090" y="-51781" />
+		<node x="-13990" y="-51781" />
+	</territory>
+	<npcmaker name="triolspriest_2039055631500" territory="triolspriest_1716851824201" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14040;-51731;-11008;354" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851973749" minZ="-11008" maxZ="-10992">
+		<node x="-11820" y="-50637" />
+		<node x="-11920" y="-50637" />
+		<node x="-11920" y="-50737" />
+		<node x="-11820" y="-50737" />
+	</territory>
+	<npcmaker name="triolspriest_2188603175600" territory="triolspriest_1716851973749" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11870;-50687;-11008;26927" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851982833" minZ="-11008" maxZ="-10992">
+		<node x="-12485" y="-50716" />
+		<node x="-12585" y="-50716" />
+		<node x="-12585" y="-50816" />
+		<node x="-12485" y="-50816" />
+	</territory>
+	<npcmaker name="triolspriest_2197687709400" territory="triolspriest_1716851982833" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12535;-50766;-11008;41433" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716851996050" minZ="-11008" maxZ="-10992">
+		<node x="-12241" y="-51015" />
+		<node x="-12341" y="-51015" />
+		<node x="-12341" y="-51115" />
+		<node x="-12241" y="-51115" />
+	</territory>
+	<npcmaker name="triolspriest_2210903790800" territory="triolspriest_1716851996050" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12291;-51065;-11008;15732" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852031084" minZ="-11008" maxZ="-10992">
+		<node x="-19377" y="-50612" />
+		<node x="-19477" y="-50612" />
+		<node x="-19477" y="-50712" />
+		<node x="-19377" y="-50712" />
+	</territory>
+	<npcmaker name="triolspriest_2245938597000" territory="triolspriest_1716852031084" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19427;-50662;-11008;2343" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852038535" minZ="-11008" maxZ="-10992">
+		<node x="-19225" y="-51056" />
+		<node x="-19325" y="-51056" />
+		<node x="-19325" y="-51156" />
+		<node x="-19225" y="-51156" />
+	</territory>
+	<npcmaker name="triolspriest_2253389024600" territory="triolspriest_1716852038535" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19275;-51106;-11008;39880" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852046579" minZ="-11008" maxZ="-10992">
+		<node x="-18632" y="-51595" />
+		<node x="-18732" y="-51595" />
+		<node x="-18732" y="-51695" />
+		<node x="-18632" y="-51695" />
+	</territory>
+	<npcmaker name="triolspriest_2261432703800" territory="triolspriest_1716852046579" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-18682;-51645;-11008;16088" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852057013" minZ="-11008" maxZ="-10992">
+		<node x="-19405" y="-51686" />
+		<node x="-19505" y="-51686" />
+		<node x="-19505" y="-51786" />
+		<node x="-19405" y="-51786" />
+	</territory>
+	<npcmaker name="triolspriest_2271866474500" territory="triolspriest_1716852057013" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19455;-51736;-11008;49009" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852093846" minZ="-11008" maxZ="-10992">
+		<node x="-20132" y="-51078" />
+		<node x="-20232" y="-51078" />
+		<node x="-20232" y="-51178" />
+		<node x="-20132" y="-51178" />
+	</territory>
+	<npcmaker name="triolspriest_2308699518700" territory="triolspriest_1716852093846" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20182;-51128;-11008;19497" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852134878" minZ="-10912" maxZ="-10896">
+		<node x="-15368" y="-49450" />
+		<node x="-15468" y="-49450" />
+		<node x="-15468" y="-49550" />
+		<node x="-15368" y="-49550" />
+	</territory>
+	<npcmaker name="triolspriest_2349732238300" territory="triolspriest_1716852134878" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15418;-49500;-10912;50286" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852148508" minZ="-10912" maxZ="-10896">
+		<node x="-14651" y="-48650" />
+		<node x="-14751" y="-48650" />
+		<node x="-14751" y="-48750" />
+		<node x="-14651" y="-48750" />
+	</territory>
+	<npcmaker name="triolspriest_2363362704500" territory="triolspriest_1716852148508" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14701;-48700;-10912;51264" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852159095" minZ="-10912" maxZ="-10896">
+		<node x="-14683" y="-49677" />
+		<node x="-14783" y="-49677" />
+		<node x="-14783" y="-49777" />
+		<node x="-14683" y="-49777" />
+	</territory>
+	<npcmaker name="triolspriest_2373949439300" territory="triolspriest_1716852159095" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14733;-49727;-10912;12259" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852193282" minZ="-10912" maxZ="-10896">
+		<node x="-14024" y="-49620" />
+		<node x="-14124" y="-49620" />
+		<node x="-14124" y="-49720" />
+		<node x="-14024" y="-49720" />
+	</territory>
+	<npcmaker name="triolspriest_2408135944400" territory="triolspriest_1716852193282" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14074;-49670;-10912;56738" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852204829" minZ="-10912" maxZ="-10896">
+		<node x="-13333" y="-48666" />
+		<node x="-13433" y="-48666" />
+		<node x="-13433" y="-48766" />
+		<node x="-13333" y="-48766" />
+	</territory>
+	<npcmaker name="triolspriest_2419683159000" territory="triolspriest_1716852204829" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13383;-48716;-10912;33561" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852211289" minZ="-10912" maxZ="-10896">
+		<node x="-14207" y="-48754" />
+		<node x="-14307" y="-48754" />
+		<node x="-14307" y="-48854" />
+		<node x="-14207" y="-48854" />
+	</territory>
+	<npcmaker name="triolspriest_2426143137000" territory="triolspriest_1716852211289" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14257;-48804;-10912;41135" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852255974" minZ="-10912" maxZ="-10896">
+		<node x="-13338" y="-49249" />
+		<node x="-13438" y="-49249" />
+		<node x="-13438" y="-49349" />
+		<node x="-13338" y="-49349" />
+	</territory>
+	<npcmaker name="triolspriest_2470828138000" territory="triolspriest_1716852255974" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13388;-49299;-10912;20288" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852272289" minZ="-10912" maxZ="-10896">
+		<node x="-11901" y="-48659" />
+		<node x="-12001" y="-48659" />
+		<node x="-12001" y="-48759" />
+		<node x="-11901" y="-48759" />
+	</territory>
+	<npcmaker name="triolspriest_2487143278500" territory="triolspriest_1716852272289" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11951;-48709;-10912;24855" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852279797" minZ="-10912" maxZ="-10896">
+		<node x="-12507" y="-49159" />
+		<node x="-12607" y="-49159" />
+		<node x="-12607" y="-49259" />
+		<node x="-12507" y="-49259" />
+	</territory>
+	<npcmaker name="triolspriest_2494650956300" territory="triolspriest_1716852279797" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12557;-49209;-10912;49876" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852287315" minZ="-10912" maxZ="-10896">
+		<node x="-11757" y="-49430" />
+		<node x="-11857" y="-49430" />
+		<node x="-11857" y="-49530" />
+		<node x="-11757" y="-49530" />
+	</territory>
+	<npcmaker name="triolspriest_2502169560200" territory="triolspriest_1716852287315" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11807;-49480;-10912;13112" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852311504" minZ="-10912" maxZ="-10896">
+		<node x="-12242" y="-49598" />
+		<node x="-12342" y="-49598" />
+		<node x="-12342" y="-49698" />
+		<node x="-12242" y="-49698" />
+	</territory>
+	<npcmaker name="triolspriest_2526357392900" territory="triolspriest_1716852311504" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12292;-49648;-10912;1909" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852347939" minZ="-10912" maxZ="-10896">
+		<node x="-17110" y="-49386" />
+		<node x="-17210" y="-49386" />
+		<node x="-17210" y="-49486" />
+		<node x="-17110" y="-49486" />
+	</territory>
+	<npcmaker name="triolspriest_2562792971000" territory="triolspriest_1716852347939" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17160;-49436;-10912;19016" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852356969" minZ="-10912" maxZ="-10896">
+		<node x="-17678" y="-48540" />
+		<node x="-17778" y="-48540" />
+		<node x="-17778" y="-48640" />
+		<node x="-17678" y="-48640" />
+	</territory>
+	<npcmaker name="triolspriest_2571823770100" territory="triolspriest_1716852356969" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17728;-48590;-10912;36499" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852364429" minZ="-10912" maxZ="-10896">
+		<node x="-17061" y="-48783" />
+		<node x="-17161" y="-48783" />
+		<node x="-17161" y="-48883" />
+		<node x="-17061" y="-48883" />
+	</territory>
+	<npcmaker name="triolspriest_2579282523900" territory="triolspriest_1716852364429" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17111;-48833;-10912;48121" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852386514" minZ="-10912" maxZ="-10896">
+		<node x="-18637" y="-49127" />
+		<node x="-18737" y="-49127" />
+		<node x="-18737" y="-49227" />
+		<node x="-18637" y="-49227" />
+	</territory>
+	<npcmaker name="triolspriest_2601367893600" territory="triolspriest_1716852386514" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-18687;-49177;-10912;23955" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852393866" minZ="-10912" maxZ="-10896">
+		<node x="-18713" y="-49642" />
+		<node x="-18813" y="-49642" />
+		<node x="-18813" y="-49742" />
+		<node x="-18713" y="-49742" />
+	</territory>
+	<npcmaker name="triolspriest_2608720557400" territory="triolspriest_1716852393866" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-18763;-49692;-10912;9587" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852441201" minZ="-10912" maxZ="-10896">
+		<node x="-20882" y="-49231" />
+		<node x="-20982" y="-49231" />
+		<node x="-20982" y="-49331" />
+		<node x="-20882" y="-49331" />
+	</territory>
+	<npcmaker name="triolspriest_2656054663300" territory="triolspriest_1716852441201" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20932;-49281;-10912;24772" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852449455" minZ="-10912" maxZ="-10896">
+		<node x="-20166" y="-48969" />
+		<node x="-20266" y="-48969" />
+		<node x="-20266" y="-49069" />
+		<node x="-20166" y="-49069" />
+	</territory>
+	<npcmaker name="triolspriest_2664309102200" territory="triolspriest_1716852449455" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20216;-49019;-10912;46079" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852458339" minZ="-10912" maxZ="-10896">
+		<node x="-20219" y="-49552" />
+		<node x="-20319" y="-49552" />
+		<node x="-20319" y="-49652" />
+		<node x="-20219" y="-49652" />
+	</territory>
+	<npcmaker name="triolspriest_2673193342300" territory="triolspriest_1716852458339" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20269;-49602;-10912;9413" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852507888" minZ="-10816" maxZ="-10800">
+		<node x="-14821" y="-47625" />
+		<node x="-14921" y="-47625" />
+		<node x="-14921" y="-47725" />
+		<node x="-14821" y="-47725" />
+	</territory>
+	<npcmaker name="triolspriest_2722741861800" territory="triolspriest_1716852507888" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14871;-47675;-10816;28568" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852518458" minZ="-10816" maxZ="-10800">
+		<node x="-15293" y="-46907" />
+		<node x="-15393" y="-46907" />
+		<node x="-15393" y="-47007" />
+		<node x="-15293" y="-47007" />
+	</territory>
+	<npcmaker name="triolspriest_2733312553600" territory="triolspriest_1716852518458" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15343;-46957;-10816;49152" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852536103" minZ="-10816" maxZ="-10800">
+		<node x="-13837" y="-46667" />
+		<node x="-13937" y="-46667" />
+		<node x="-13937" y="-46767" />
+		<node x="-13837" y="-46767" />
+	</territory>
+	<npcmaker name="triolspriest_2750957334100" territory="triolspriest_1716852536103" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13887;-46717;-10816;56847" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852542170" minZ="-10816" maxZ="-10800">
+		<node x="-13835" y="-47231" />
+		<node x="-13935" y="-47231" />
+		<node x="-13935" y="-47331" />
+		<node x="-13835" y="-47331" />
+	</territory>
+	<npcmaker name="triolspriest_2757024159500" territory="triolspriest_1716852542170" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13885;-47281;-10816;15221" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852549116" minZ="-10816" maxZ="-10800">
+		<node x="-13183" y="-47384" />
+		<node x="-13283" y="-47384" />
+		<node x="-13283" y="-47484" />
+		<node x="-13183" y="-47484" />
+	</territory>
+	<npcmaker name="triolspriest_2763970281200" territory="triolspriest_1716852549116" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13233;-47434;-10816;26352" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852562335" minZ="-10816" maxZ="-10800">
+		<node x="-12288" y="-47289" />
+		<node x="-12388" y="-47289" />
+		<node x="-12388" y="-47389" />
+		<node x="-12288" y="-47389" />
+	</territory>
+	<npcmaker name="triolspriest_2777189330700" territory="triolspriest_1716852562335" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12338;-47339;-10816;61183" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852567626" minZ="-10816" maxZ="-10800">
+		<node x="-12133" y="-46800" />
+		<node x="-12233" y="-46800" />
+		<node x="-12233" y="-46900" />
+		<node x="-12133" y="-46900" />
+	</territory>
+	<npcmaker name="triolspriest_2782479428700" territory="triolspriest_1716852567626" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12183;-46850;-10816;21967" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852572485" minZ="-10816" maxZ="-10800">
+		<node x="-12082" y="-46460" />
+		<node x="-12182" y="-46460" />
+		<node x="-12182" y="-46560" />
+		<node x="-12082" y="-46560" />
+	</territory>
+	<npcmaker name="triolspriest_2787339367200" territory="triolspriest_1716852572485" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12132;-46510;-10816;48277" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852576908" minZ="-10816" maxZ="-10800">
+		<node x="-11673" y="-46730" />
+		<node x="-11773" y="-46730" />
+		<node x="-11773" y="-46830" />
+		<node x="-11673" y="-46830" />
+	</territory>
+	<npcmaker name="triolspriest_2791762379300" territory="triolspriest_1716852576908" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11723;-46780;-10816;54360" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852626304" minZ="-10720" maxZ="-10704">
+		<node x="-15354" y="-45283" />
+		<node x="-15454" y="-45283" />
+		<node x="-15454" y="-45383" />
+		<node x="-15354" y="-45383" />
+	</territory>
+	<npcmaker name="triolspriest_2841158666400" territory="triolspriest_1716852626304" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15404;-45333;-10720;45579" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852629541" minZ="-10720" maxZ="-10704">
+		<node x="-15389" y="-44671" />
+		<node x="-15489" y="-44671" />
+		<node x="-15489" y="-44771" />
+		<node x="-15389" y="-44771" />
+	</territory>
+	<npcmaker name="triolspriest_2844394837100" territory="triolspriest_1716852629541" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-15439;-44721;-10720;19663" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852641946" minZ="-10720" maxZ="-10704">
+		<node x="-14752" y="-45465" />
+		<node x="-14852" y="-45465" />
+		<node x="-14852" y="-45565" />
+		<node x="-14752" y="-45565" />
+	</territory>
+	<npcmaker name="triolspriest_2856800005700" territory="triolspriest_1716852641946" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14802;-45515;-10720;8192" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852656495" minZ="-10720" maxZ="-10704">
+		<node x="-13580" y="-44660" />
+		<node x="-13680" y="-44660" />
+		<node x="-13680" y="-44760" />
+		<node x="-13580" y="-44760" />
+	</territory>
+	<npcmaker name="triolspriest_2871349225900" territory="triolspriest_1716852656495" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13630;-44710;-10720;58780" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852663762" minZ="-10720" maxZ="-10704">
+		<node x="-13557" y="-45238" />
+		<node x="-13657" y="-45238" />
+		<node x="-13657" y="-45338" />
+		<node x="-13557" y="-45338" />
+	</territory>
+	<npcmaker name="triolspriest_2878616153700" territory="triolspriest_1716852663762" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-13607;-45288;-10720;60699" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852718827" minZ="-10720" maxZ="-10704">
+		<node x="-11900" y="-44664" />
+		<node x="-12000" y="-44664" />
+		<node x="-12000" y="-44764" />
+		<node x="-11900" y="-44764" />
+	</territory>
+	<npcmaker name="triolspriest_2933681322200" territory="triolspriest_1716852718827" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11950;-44714;-10720;53326" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852735002" minZ="-10720" maxZ="-10704">
+		<node x="-11754" y="-45227" />
+		<node x="-11854" y="-45227" />
+		<node x="-11854" y="-45327" />
+		<node x="-11754" y="-45327" />
+	</territory>
+	<npcmaker name="triolspriest_2949856657600" territory="triolspriest_1716852735002" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-11804;-45277;-10720;35281" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852743122" minZ="-10720" maxZ="-10704">
+		<node x="-12659" y="-44425" />
+		<node x="-12759" y="-44425" />
+		<node x="-12759" y="-44525" />
+		<node x="-12659" y="-44525" />
+	</territory>
+	<npcmaker name="triolspriest_2957975800600" territory="triolspriest_1716852743122" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-12709;-44475;-10720;41803" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852768359" minZ="-10720" maxZ="-10704">
+		<node x="-14769" y="-44612" />
+		<node x="-14869" y="-44612" />
+		<node x="-14869" y="-44712" />
+		<node x="-14769" y="-44712" />
+	</territory>
+	<npcmaker name="triolspriest_2983212579200" territory="triolspriest_1716852768359" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-14819;-44662;-10720;36942" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852790881" minZ="-10720" maxZ="-10704">
+		<node x="-17353" y="-45543" />
+		<node x="-17453" y="-45543" />
+		<node x="-17453" y="-45643" />
+		<node x="-17353" y="-45643" />
+	</territory>
+	<npcmaker name="triolspriest_3005734555900" territory="triolspriest_1716852790881" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17403;-45593;-10720;58302" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852798190" minZ="-10720" maxZ="-10704">
+		<node x="-17631" y="-44881" />
+		<node x="-17731" y="-44881" />
+		<node x="-17731" y="-44981" />
+		<node x="-17631" y="-44981" />
+	</territory>
+	<npcmaker name="triolspriest_3013043424700" territory="triolspriest_1716852798190" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17681;-44931;-10720;53794" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852803952" minZ="-10720" maxZ="-10704">
+		<node x="-17061" y="-44545" />
+		<node x="-17161" y="-44545" />
+		<node x="-17161" y="-44645" />
+		<node x="-17061" y="-44645" />
+	</territory>
+	<npcmaker name="triolspriest_3018806261900" territory="triolspriest_1716852803952" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17111;-44595;-10720;24648" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852824560" minZ="-10720" maxZ="-10704">
+		<node x="-19478" y="-45188" />
+		<node x="-19578" y="-45188" />
+		<node x="-19578" y="-45288" />
+		<node x="-19478" y="-45288" />
+	</territory>
+	<npcmaker name="triolspriest_3039413999700" territory="triolspriest_1716852824560" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-19528;-45238;-10720;50591" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852831537" minZ="-10720" maxZ="-10704">
+		<node x="-18660" y="-45480" />
+		<node x="-18760" y="-45480" />
+		<node x="-18760" y="-45580" />
+		<node x="-18660" y="-45580" />
+	</territory>
+	<npcmaker name="triolspriest_3046391010100" territory="triolspriest_1716852831537" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-18710;-45530;-10720;8626" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852880504" minZ="-10720" maxZ="-10704">
+		<node x="-20575" y="-45564" />
+		<node x="-20675" y="-45564" />
+		<node x="-20675" y="-45664" />
+		<node x="-20575" y="-45664" />
+	</territory>
+	<npcmaker name="triolspriest_3095357069800" territory="triolspriest_1716852880504" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20625;-45614;-10720;49923" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852888392" minZ="-10720" maxZ="-10704">
+		<node x="-20161" y="-44423" />
+		<node x="-20261" y="-44423" />
+		<node x="-20261" y="-44523" />
+		<node x="-20161" y="-44523" />
+	</territory>
+	<npcmaker name="triolspriest_3103245608200" territory="triolspriest_1716852888392" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20211;-44473;-10720;29173" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716852897410" minZ="-10720" maxZ="-10704">
+		<node x="-20850" y="-44816" />
+		<node x="-20950" y="-44816" />
+		<node x="-20950" y="-44916" />
+		<node x="-20850" y="-44916" />
+	</territory>
+	<npcmaker name="triolspriest_3112264291800" territory="triolspriest_1716852897410" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20900;-44866;-10720;63960" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716853041643" minZ="-10816" maxZ="-10800">
+		<node x="-17111" y="-46611" />
+		<node x="-17211" y="-46611" />
+		<node x="-17211" y="-46711" />
+		<node x="-17111" y="-46711" />
+	</territory>
+	<npcmaker name="triolspriest_3256497118500" territory="triolspriest_1716853041643" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17161;-46661;-10816;48033" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716853048721" minZ="-10816" maxZ="-10800">
+		<node x="-17877" y="-46643" />
+		<node x="-17977" y="-46643" />
+		<node x="-17977" y="-46743" />
+		<node x="-17877" y="-46743" />
+	</territory>
+	<npcmaker name="triolspriest_3263575548100" territory="triolspriest_1716853048721" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-17927;-46693;-10816;3677" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716853107782" minZ="-10816" maxZ="-10800">
+		<node x="-20291" y="-47008" />
+		<node x="-20391" y="-47008" />
+		<node x="-20391" y="-47108" />
+		<node x="-20291" y="-47108" />
+	</territory>
+	<npcmaker name="triolspriest_3322636701000" territory="triolspriest_1716853107782" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20341;-47058;-10816;14127" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716853115100" minZ="-10816" maxZ="-10800">
+		<node x="-20958" y="-46785" />
+		<node x="-21058" y="-46785" />
+		<node x="-21058" y="-46885" />
+		<node x="-20958" y="-46885" />
+	</territory>
+	<npcmaker name="triolspriest_3329954354200" territory="triolspriest_1716853115100" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-21008;-46835;-10816;10597" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+	<territory name="triolspriest_1716853500561" minZ="-10912" maxZ="-10896">
+		<node x="-20884" y="-48732" />
+		<node x="-20984" y="-48732" />
+		<node x="-20984" y="-48832" />
+		<node x="-20884" y="-48832" />
+	</territory>
+	<npcmaker name="triolspriest_3715414794300" territory="triolspriest_1716853500561" spawn="ALL" maximumNpcs="1">
+		<npc id="22156" pos="-20934;-48782;-10912;41312" total="1" respawnDelay="30s" /> <!-- Triol's Priest -->
+	</npcmaker>
+</list>

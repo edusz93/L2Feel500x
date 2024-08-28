@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="7300" levels="1" name="Blessed Necklace of Valakas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="maxHp" val="445" />
+			<mul stat="pAtk" val="1.04" />
+			<mul stat="mAtk" val="1.08" />
+			<mul stat="mCritRate" val="2" />
+			<addMul stat="fireRes" val="15" />
+			<addMul stat="sleepVuln" val="80" />
+			<mul stat="pReuse" val="0.87" />
+			<mul stat="mReuse" val="0.9" />
+			<add stat="reflectDam" val="5" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+		</for>
+	</skill>
+	<skill id="7301" levels="1" name="Blessed Earring of Antharas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="earthRes" val="15" />
+			<addMul stat="bleedVuln" val="80" />
+			<addMul stat="stunVuln" val="60" />
+			<addMul stat="derangementVuln" val="60" />
+			<mul stat="gainHp" val="1.1" />
+			<mul stat="MagicalMpConsumeRate" val="0.95" />
+			<mul stat="PhysicalMpConsumeRate" val="0.95" />	
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<mul stat="rShld" val="1.50"/>
+			<addMul stat="cancelVuln" val="30" />
+		</for>
+	</skill>
+	<skill id="7302" levels="1" name="Blessed Earring of Zaken">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="60" />
+			<addMul stat="stunVuln" val="40" />
+			<addMul stat="derangementVuln" val="40" />
+			<mul stat="gainHp" val="1.1" />
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<mul stat="sDef" val="1.25" />
+			<addMul stat="debuffVuln" val="30" />
+		</for>
+	</skill>
+	<skill id="7303" levels="1" name="Blessed Ring of Baium">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="80" />
+			<addMul stat="rootVuln" val="60" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<mul stat="pAtkSpd" val="1.04" />
+			<mul stat="mAtkSpd" val="1.04" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<add stat="runSpd" val="15"/>
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7304" levels="1" name="Blessed Ring of Ant Queen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="60" />
+			<addMul stat="rootVuln" val="40" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<add stat="INT" val="1"/>
+			<mul stat="gainHp" val="1.10" />
+		</for>
+	</skill>
+	<skill id="7305" levels="1" name="Blessed Earring of Orfen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="40" />
+			<mul stat="gainHp" val="1.06" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<mul stat="mCritRate" val="1.10" />
+			<sub stat="cancel" val="50"/>
+		</for>
+	</skill>
+	<skill id="7306" levels="1" name="Blessed Frintezza's Necklace">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="sleepVuln" val="30" />
+			<addMul stat="poisonVuln" val="50" />
+			<addMul stat="bleedVuln" val="50" />
+			<addMul stat="paralyzeVuln" val="30" />
+			<addMul stat="stunVuln" val="30" />
+			<addMul stat="darkRes" val="15" />
+			<add stat="reflectDam" val="5" />
+			<mul stat="mReuse" val="0.87" />
+			<mul stat="pReuse" val="0.9" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+		</for>
+	</skill>
+	<skill id="7307" levels="1" name="Blessed Ring of Core">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="40" />
+			<add stat="accCombat" val="1" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<add stat="STR" val="1"/>
+			<add stat="rEvas" val="4"/>
+		</for>
+	</skill>
+	<skill id="7308" levels="1" name="Master Necklace of Valakas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="maxHp" val="445" />
+			<mul stat="pAtk" val="1.04" />
+			<mul stat="mAtk" val="1.08" />
+			<mul stat="mCritRate" val="2" />
+			<addMul stat="fireRes" val="15" />
+			<addMul stat="sleepVuln" val="80" />
+			<mul stat="pReuse" val="0.87" />
+			<mul stat="mReuse" val="0.9" />
+			<add stat="reflectDam" val="5" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7309" levels="1" name="Master Earring of Antharas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="earthRes" val="15" />
+			<addMul stat="bleedVuln" val="80" />
+			<addMul stat="stunVuln" val="60" />
+			<addMul stat="derangementVuln" val="60" />
+			<mul stat="gainHp" val="1.1" />
+			<mul stat="MagicalMpConsumeRate" val="0.95" />
+			<mul stat="PhysicalMpConsumeRate" val="0.95" />	
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<mul stat="rShld" val="1.50"/>
+			<addMul stat="cancelVuln" val="30" />
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7310" levels="1" name="Master Earring of Zaken">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="60" />
+			<addMul stat="stunVuln" val="40" />
+			<addMul stat="derangementVuln" val="40" />
+			<mul stat="gainHp" val="1.1" />
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<mul stat="sDef" val="1.05" />
+			<addMul stat="debuffVuln" val="30" />
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7311" levels="1" name="Master Ring of Baium">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="80" />
+			<addMul stat="rootVuln" val="60" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<mul stat="pAtkSpd" val="1.04" />
+			<mul stat="mAtkSpd" val="1.04" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<add stat="runSpd" val="15"/>
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7312" levels="1" name="Master Ring of Ant Queen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="60" />
+			<addMul stat="rootVuln" val="40" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<add stat="INT" val="1"/>
+			<mul stat="gainHp" val="1.10" />
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7313" levels="1" name="Master Earring of Orfen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="40" />
+			<mul stat="gainHp" val="1.06" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<mul stat="mCritRate" val="1.10" />
+			<sub stat="cancel" val="50"/>
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7314" levels="1" name="Master Frintezza's Necklace">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="sleepVuln" val="30" />
+			<addMul stat="poisonVuln" val="50" />
+			<addMul stat="bleedVuln" val="50" />
+			<addMul stat="paralyzeVuln" val="30" />
+			<addMul stat="stunVuln" val="30" />
+			<addMul stat="darkRes" val="15" />
+			<add stat="reflectDam" val="5" />
+			<mul stat="mReuse" val="0.87" />
+			<mul stat="pReuse" val="0.9" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7315" levels="1" name="Master Ring of Core">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="40" />
+			<add stat="accCombat" val="1" />
+			<add stat="CON" val="2"/>
+			<add stat="MEN" val="2"/>
+			<add stat="STR" val="1"/>
+			<add stat="rEvas" val="4"/>
+			<div stat="critVuln" val="1.02" />
+		</for>
+	</skill>
+	<skill id="7316" levels="1" name="Epic Necklace of Valakas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="maxHp" val="445" />
+			<mul stat="pAtk" val="1.04" />
+			<mul stat="mAtk" val="1.08" />
+			<mul stat="mCritRate" val="2" />
+			<addMul stat="fireRes" val="15" />
+			<addMul stat="sleepVuln" val="80" />
+			<mul stat="pReuse" val="0.87" />
+			<mul stat="mReuse" val="0.9" />
+			<add stat="reflectDam" val="5" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7317" levels="1" name="Epic Earring of Antharas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="earthRes" val="15" />
+			<addMul stat="bleedVuln" val="80" />
+			<addMul stat="stunVuln" val="60" />
+			<addMul stat="derangementVuln" val="60" />
+			<mul stat="gainHp" val="1.1" />
+			<mul stat="MagicalMpConsumeRate" val="0.95" />
+			<mul stat="PhysicalMpConsumeRate" val="0.95" />	
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<mul stat="rShld" val="1.50"/>
+			<addMul stat="cancelVuln" val="30" />
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7318" levels="1" name="Epic Earring of Zaken">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="60" />
+			<addMul stat="stunVuln" val="40" />
+			<addMul stat="derangementVuln" val="40" />
+			<mul stat="gainHp" val="1.1" />
+			<add stat="absorbDam" val="4" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<mul stat="sDef" val="1.05" />
+			<addMul stat="debuffVuln" val="30" />
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7319" levels="1" name="Epic Ring of Baium">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="80" />
+			<addMul stat="rootVuln" val="60" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<mul stat="pAtkSpd" val="1.04" />
+			<mul stat="mAtkSpd" val="1.04" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<add stat="runSpd" val="15"/>
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7320" levels="1" name="Epic Ring of Ant Queen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="60" />
+			<addMul stat="rootVuln" val="40" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<add stat="INT" val="1"/>
+			<mul stat="gainHp" val="1.10" />
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7321" levels="1" name="Epic Earring of Orfen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="40" />
+			<mul stat="gainHp" val="1.06" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<mul stat="mCritRate" val="1.10" />
+			<sub stat="cancel" val="50"/>
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7322" levels="1" name="Epic Frintezza's Necklace">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="sleepVuln" val="30" />
+			<addMul stat="poisonVuln" val="50" />
+			<addMul stat="bleedVuln" val="50" />
+			<addMul stat="paralyzeVuln" val="30" />
+			<addMul stat="stunVuln" val="30" />
+			<addMul stat="darkRes" val="15" />
+			<add stat="reflectDam" val="5" />
+			<mul stat="mReuse" val="0.87" />
+			<mul stat="pReuse" val="0.9" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<mul stat="MagicalMpConsumeRate" val="0.97" />
+			<mul stat="PhysicalMpConsumeRate" val="0.97" />
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7323" levels="1" name="Epic Ring of Core">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="40" />
+			<add stat="accCombat" val="1" />
+			<add stat="CON" val="3"/>
+			<add stat="MEN" val="3"/>
+			<add stat="STR" val="1"/>
+			<add stat="rEvas" val="4"/>
+			<div stat="critVuln" val="1.05" />
+		</for>
+	</skill>
+	<skill id="7324" levels="1" name="Olympiad Necklace of Valakas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7325" levels="1" name="Olympiad Earring of Antharas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7326" levels="1" name="Olympiad Earring of Zaken">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7327" levels="1" name="Olympiad Ring of Baium">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7328" levels="1" name="Olympiad Ring of Ant Queen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7329" levels="1" name="Olympiad Earring of Orfen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="40" />
+			<mul stat="gainHp" val="1.06" />
+		</for>
+	</skill>
+	<skill id="7330" levels="1" name="Olympiad Frintezza's Necklace">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7331" levels="1" name="Olympiad Ring of Core">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<!-- no status outside the olympiad -->
+		</for>
+	</skill>
+	<skill id="7332" levels="1" name="PvP Necklace of Valakas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<add stat="maxHp" val="445" />
+			<mul stat="pAtk" val="1.04" />
+			<mul stat="mAtk" val="1.08" />
+			<mul stat="mCritRate" val="2" />
+			<addMul stat="fireRes" val="15" />
+			<addMul stat="sleepVuln" val="80" />
+			<mul stat="pReuse" val="0.87" />
+			<mul stat="mReuse" val="0.9" />
+			<add stat="reflectDam" val="5" />
+		</for>
+	</skill>
+	<skill id="7333" levels="1" name="PvP Earring of Antharas">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="earthRes" val="15" />
+			<addMul stat="bleedVuln" val="80" />
+			<addMul stat="stunVuln" val="60" />
+			<addMul stat="derangementVuln" val="60" />
+			<mul stat="gainHp" val="1.1" />
+			<mul stat="MagicalMpConsumeRate" val="0.95" />
+			<mul stat="PhysicalMpConsumeRate" val="0.95" />	
+			<add stat="absorbDam" val="4" />
+		</for>
+	</skill>
+	<skill id="7334" levels="1" name="PvP Earring of Zaken">
+		<set name="magicLvl" val="75" />
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="60" />
+			<addMul stat="stunVuln" val="40" />
+			<addMul stat="derangementVuln" val="40" />
+			<mul stat="gainHp" val="1.1" />
+			<add stat="absorbDam" val="4" />
+		</for>
+	</skill>
+	<skill id="7335" levels="1" name="PvP Ring of Baium">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="80" />
+			<addMul stat="rootVuln" val="60" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+			<mul stat="pAtkSpd" val="1.04" />
+			<mul stat="mAtkSpd" val="1.04" />
+		</for>
+	</skill>
+	<skill id="7336" levels="1" name="PvP Ring of Ant Queen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="60" />
+			<addMul stat="rootVuln" val="40" />
+			<add stat="accCombat" val="2" />
+			<mul stat="cAtk" val="1.15" />
+		</for>
+	</skill>
+	<skill id="7337" levels="1" name="PvP Earring of Orfen">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="bleedVuln" val="40" />
+			<mul stat="gainHp" val="1.06" />
+		</for>
+	</skill>
+	<skill id="7338" levels="1" name="PvP Frintezza's Necklace">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="sleepVuln" val="30" />
+			<addMul stat="poisonVuln" val="50" />
+			<addMul stat="bleedVuln" val="50" />
+			<addMul stat="paralyzeVuln" val="30" />
+			<addMul stat="stunVuln" val="30" />
+			<addMul stat="darkRes" val="15" />
+			<add stat="reflectDam" val="5" />
+			<mul stat="mReuse" val="0.87" />
+			<mul stat="pReuse" val="0.9" />
+		</for>
+	</skill>
+	<skill id="7339" levels="1" name="PvP Ring of Core">
+		<set name="target" val="SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="PASSIVE"/>
+		<for>
+			<addMul stat="poisonVuln" val="40" />
+			<add stat="accCombat" val="1" />
+			<add stat="CON" val="1"/>
+			<add stat="MEN" val="1"/>
+			<add stat="STR" val="1"/>
+			<add stat="rEvas" val="4"/>
+		</for>
+	</skill>
+</list>

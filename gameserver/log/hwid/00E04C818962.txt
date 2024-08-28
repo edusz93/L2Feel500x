@@ -1,0 +1,5 @@
+12/08/2024 23:26:33 >>> HWID: [00E04C818962] >>> Player: [Morgana]
+12/08/2024 23:35:14 >>> HWID: [00E04C818962] >>> Player: [Princesinha]
+12/08/2024 23:57:55 >>> HWID: [00E04C818962] >>> Player: [Morgana]
+12/08/2024 23:58:57 >>> HWID: [00E04C818962] >>> Player: [Princesinha]
+13/08/2024 0:09:09 >>> HWID: [00E04C818962] >>> Player: [Princesinha]

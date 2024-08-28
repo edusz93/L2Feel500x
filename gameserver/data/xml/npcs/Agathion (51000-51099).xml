@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="51000" name="Mini Baium" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51001" name="Mini Zaken" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51002" name="Mini Valakas" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51003" name="Mini Antharas" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51004" name="Mini Angel" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51005" name="Mini Demon" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51006" name="Mini Bird" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51007" name="Mini Pork" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51008" name="Mini Sheep" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51009" name="Mini Tree" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+	<npc id="51010" name="Mini Undefined" title="Agathion">
+		<set name="level" val="80"/>
+		<set name="radius" val="0"/>
+		<set name="height" val="24"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Agathion"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="0"/>
+		<set name="hp" val="424.2"/>
+		<set name="mp" val="149.2"/>
+		<set name="hpRegen" val="7.2513"/>
+		<set name="mpRegen" val="1.2"/>
+		<set name="pAtk" val="29.61691"/>
+		<set name="pDef" val="73.55216"/>
+		<set name="mAtk" val="20.22451"/>
+		<set name="mDef" val="53.82228"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="70"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="2"/>
+		<set name="men" val="25"/>
+		<set name="corpseTime" val="1200"/>
+		<set name="walkSpd" val="60"/>
+		<set name="runSpd" val="125"/>
+		<set name="dropHerbGroup" val="0"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+	</npc>
+</list>

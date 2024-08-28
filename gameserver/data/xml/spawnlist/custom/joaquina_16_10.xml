@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="joaquina_1720456465821" minZ="-2992" maxZ="-2976">
+		<node x="-115909" y="-250983" />
+		<node x="-116009" y="-250983" />
+		<node x="-116009" y="-251083" />
+		<node x="-115909" y="-251083" />
+	</territory>
+	<npcmaker name="joaquina_397263821822366" territory="joaquina_1720456465821" spawn="ALL" maximumNpcs="1">
+		<npc id="50003" pos="-115959;-251033;-2992;39172" total="1" respawnDelay="60s" /> <!-- Joaquina -->
+	</npcmaker>
+</list>

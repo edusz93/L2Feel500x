@@ -1,0 +1,5 @@
+27/07/2024 21:34:45 >>> HWID: [60C72707D50C] >>> Player: [Savitar]
+28/07/2024 15:03:25 >>> HWID: [60C72707D50C] >>> Player: [Savitar]
+28/07/2024 15:33:05 >>> HWID: [60C72707D50C] >>> Player: [Savitar]
+28/07/2024 21:05:19 >>> HWID: [60C72707D50C] >>> Player: [Savitar]
+31/07/2024 22:27:02 >>> HWID: [60C72707D50C] >>> Player: [Savitar]

@@ -1,0 +1,5 @@
+26/07/2024 17:47:46 >>> HWID: [E0D55EF647A8] >>> Player: [Azmodeus]
+26/07/2024 19:00:42 >>> HWID: [E0D55EF647A8] >>> Player: [Azmodeus]
+26/07/2024 19:07:50 >>> HWID: [E0D55EF647A8] >>> Player: [SHUSHO]
+26/07/2024 22:01:05 >>> HWID: [E0D55EF647A8] >>> Player: [Azmodeus]
+26/07/2024 22:02:39 >>> HWID: [E0D55EF647A8] >>> Player: [SHUSHO]

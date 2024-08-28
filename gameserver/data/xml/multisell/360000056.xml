@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+ 	<!-- Sealed Titanium Helm -->
+  <item id="15">
+    <ingredient id="13000" count="100"/>
+    <production id="15010" count="1"/>
+  </item>
+	<!-- Sealed Titanium Plate Armor -->
+  <item id="16">
+    <ingredient id="13000" count="200"/>
+    <production id="15011" count="1"/>
+  </item> 
+	<!--  Sealed Titanium Gauntlet   -->
+  <item id="17">
+    <ingredient id="13000" count="100"/>
+    <production id="15012" count="1"/>
+  </item>  
+	<!--  Sealed Titanium Solleret  -->
+  <item id="18">
+    <ingredient id="13000" count="100"/>
+    <production id="15013" count="1"/>
+  </item>
+ 	<!-- Sealed Titanium Helm -->
+  <item id="15">
+    <ingredient id="13000" count="100"/>
+    <production id="15010" count="1"/>
+  </item>
+	<!-- Sealed Titanium Brigandine -->
+  <item id="19">
+    <ingredient id="13000" count="200"/>
+    <production id="15014" count="1"/>
+  </item>
+  	<!-- Sealed Titanium Leather Gloves-->
+  <item id="20">
+    <ingredient id="13000" count="100"/>
+    <production id="15015" count="1"/>
+  </item>  
+	<!-- Sealed Titanium Boots -->
+  <item id="21">
+    <ingredient id="13000" count="100"/>
+    <production id="15016" count="1"/>
+  </item>
+  <!-- healmt -->
+  <item id="15">
+    <ingredient id="13000" count="100"/>
+    <production id="15010" count="1"/>
+  </item>
+	<!--  Sealed Titanium Doublet  -->
+  <item id="22">
+    <ingredient id="13000" count="200"/>
+    <production id="15017" count="1"/>
+  </item>
+	<!--  Sealed Titanium Silk Gloves -->
+  <item id="23">
+    <ingredient id="13000" count="100"/>
+    <production id="15018" count="1"/>
+  </item> 
+	<!-- Sealed Titanium Saldals -->
+  <item id="24">
+    <ingredient id="13000" count="100"/>
+    <production id="15019" count="1"/>
+  </item>
+</list>

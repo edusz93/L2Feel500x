@@ -1,0 +1,5 @@
+06/07/2024 23:47:49 >>> HWID: [00933726B72B] >>> Player: [Safadinho]
+07/07/2024 0:10:16 >>> HWID: [00933726B72B] >>> Player: [Safadinho]
+07/07/2024 12:53:48 >>> HWID: [00933726B72B] >>> Player: [Safadinho]
+07/07/2024 12:59:37 >>> HWID: [00933726B72B] >>> Player: [Safadinho]
+07/07/2024 17:53:28 >>> HWID: [00933726B72B] >>> Player: [Safadinho]

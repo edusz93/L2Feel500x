@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="pepper_1704296629185" minZ="-3464" maxZ="-3448">
+		<node x="82346" y="148777" />
+		<node x="82246" y="148777" />
+		<node x="82246" y="148677" />
+		<node x="82346" y="148677" />
+	</territory>
+	<npcmaker name="pepper_3562774535200" territory="pepper_1704296629185" spawn="ALL" maximumNpcs="1">
+		<npc id="31049" pos="82296;148727;-3464;63660" total="1" respawnDelay="60s" /> <!-- Pepper -->
+	</npcmaker>
+</list>

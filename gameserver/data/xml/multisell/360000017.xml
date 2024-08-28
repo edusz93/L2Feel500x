@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Tattoo of Fighter -->
+	<item id="1">
+		<ingredient id="13001" count="100"/>
+		<ingredient id="13007" count="5"/>
+		<production id="14000" count="1"/>
+	</item>
+	<!-- Tattoo of Mage -->
+	<item id="2">
+		<ingredient id="13001" count="100"/>
+		<ingredient id="13007" count="5"/>
+		<production id="14001" count="1"/>
+	</item>
+	<!-- Tattoo of Runner -->
+	<item id="3">
+		<ingredient id="13001" count="100"/>
+		<ingredient id="13007" count="5"/>
+		<production id="14002" count="1"/>
+	</item>
+	<!-- Tattoo of fighter lvl 2-->
+	<item id="4">
+		<ingredient id="13010" count="200000"/>
+		<ingredient id="13001" count="200"/>
+		<ingredient id="13007" count="25"/>
+		<ingredient id="13005" count="100"/>
+		<production id="14029" count="1"/>
+	</item>
+	<!-- Tattoo of Mage lvl 2-->
+	<item id="5">
+		<ingredient id="13010" count="200000"/>
+		<ingredient id="13001" count="200"/>
+		<ingredient id="13007" count="25"/>
+		<ingredient id="13005" count="100"/>
+		<production id="14030" count="1"/>
+	</item>
+</list>

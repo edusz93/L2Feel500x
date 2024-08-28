@@ -1,0 +1,4 @@
+29/07/2024 11:39:17 >>> HWID: [00E04C8189CD] >>> Player: [Morgana]
+29/07/2024 11:42:13 >>> HWID: [00E04C8189CD] >>> Player: [Camisa10]
+29/07/2024 13:08:54 >>> HWID: [00E04C8189CD] >>> Player: [Morgana]
+29/07/2024 13:10:09 >>> HWID: [00E04C8189CD] >>> Player: [Camisa10]

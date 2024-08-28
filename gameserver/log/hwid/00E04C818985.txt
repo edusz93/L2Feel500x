@@ -1,0 +1,6 @@
+13/08/2024 20:53:12 >>> HWID: [00E04C818985] >>> Player: [Morgana]
+13/08/2024 21:22:31 >>> HWID: [00E04C818985] >>> Player: [Morgana]
+13/08/2024 21:44:27 >>> HWID: [00E04C818985] >>> Player: [Camisa10]
+13/08/2024 21:48:18 >>> HWID: [00E04C818985] >>> Player: [Princesinha]
+13/08/2024 21:53:02 >>> HWID: [00E04C818985] >>> Player: [Camisa10]
+13/08/2024 22:31:12 >>> HWID: [00E04C818985] >>> Player: [Princesinha]

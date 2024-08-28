@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="7500" levels="1" name="Seal of Ruler" >
+		<set name="magicLvl" val="30"/>
+		<set name="mpInitialConsume" val="50"/>
+		<set name="target" val="ONE"/>
+		<set name="hitTime" val="30000"/> <!-- 30 seconds -->
+		<set name="reuseDelay" val="5000"/>
+		<set name="skillType" val="TAKE_TERRITORY"/>
+		<set name="isMagic" val="false"/>
+		<set name="operateType" val="ACTIVE"/>
+		<set name="castRange" val="85"/>
+		<set name="effectRange" val="400"/>
+	</skill>
+</list>

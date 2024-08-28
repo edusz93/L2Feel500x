@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Top-Grade Life Stone: Level 76 -->
+	<item id="1">
+		<ingredient id="13004" count="1"/>
+		<production id="8762" count="1"/>
+	</item>
+	<!-- Giant's Codex -->
+	<item id="2">
+		<ingredient id="13004" count="50"/>
+		<ingredient id="13001" count="2"/>
+		<production id="6622" count="1"/>
+	</item>
+	<!-- Dragon Bugle Of Star -->
+	<item id="3">
+		<ingredient id="13004" count="200"/>
+		<production id="4423" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - A -->
+	<item id="4">
+		<ingredient id="13004" count="20"/>
+		<production id="5242" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - B -->
+	<item id="5">
+		<ingredient id="13004" count="20"/>
+		<production id="5243" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - C -->
+	<item id="6">
+		<ingredient id="13004" count="20"/>
+		<production id="5244" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - D -->
+	<item id="7">
+		<ingredient id="13004" count="20"/>
+		<production id="5245" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - E -->
+	<item id="8">
+		<ingredient id="13004" count="20"/>
+		<production id="5246" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - F -->
+	<item id="9">
+		<ingredient id="13004" count="20"/>
+		<production id="5247" count="1"/>
+	</item>
+	<!--  Hair Style Change Potion - G -->
+	<item id="10">
+		<ingredient id="13004" count="20"/>
+		<production id="5248" count="1"/>
+	</item>
+	<!-- Facelifting Potion - A -->
+	<item id="11">
+		<ingredient id="13004" count="20"/>
+		<production id="5235" count="1"/>
+	</item>
+	<!-- Facelifting Potion - B -->
+	<item id="12">
+		<ingredient id="13004" count="20"/>
+		<production id="5236" count="1"/>
+	</item>
+	<!-- Facelifting Potion - C -->
+	<item id="13">
+		<ingredient id="13004" count="20"/>
+		<production id="5237" count="1"/>
+	</item>
+	<!-- Change Sex -->
+	<item id="14">
+		<ingredient id="13004" count="20"/>
+		<production id="11011" count="1"/>
+	</item>
+</list>

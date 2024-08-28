@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="13000" type="EtcItem" name="Tickt of Donate">
+		<set name="icon" val="L2JBrazuca.icons.tkt" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13001" type="EtcItem" name="Event Coin">
+		<set name="icon" val="icon.etc_pig_adena_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13002" type="EtcItem" name="Vote Coin">
+		<set name="icon" val="L2JBrazuca.icons.vote_coin" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13003" type="EtcItem" name="Tournament Coin">
+		<set name="icon" val="L2JBrazuca.icons.tour_icon" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13004" type="EtcItem" name="PvP Coin">
+		<set name="icon" val="L2JBrazuca.icons.pvp_zone" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13005" type="EtcItem" name="Armor Seed">
+		<set name="icon" val="icon.etc_magic_coin_blood_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13006" type="EtcItem" name="Weapon Seed">
+		<set name="icon" val="icon.etc_magic_coin_gold_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13007" type="EtcItem" name="Gold Bar">
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />		
+	</item>
+	<item id="13008" type="EtcItem" name="Legendary Armor Seed">
+		<set name="icon" val="icon.etc_magic_coin_silver_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13009" type="EtcItem" name="Legendary Weapon Seed">
+		<set name="icon" val="icon.etc_magic_coin_silver_i01" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13010" type="EtcItem" name="Ignis Seed">
+		<set name="icon" val="icon.etc_torch_on_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13011" type="EtcItem" name="Premium Hat's Coin">
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="etcitem_type" val="QUEST" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13012" type="EtcItem" name="Hat's Coin">
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="etcitem_type" val="QUEST" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13013" type="EtcItem" name="Premium Agathions Coin">
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="etcitem_type" val="QUEST" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+	<item id="13014" type="EtcItem" name="Agathions Coin">
+		<set name="icon" val="icon.etc_coins_gold_i00" />
+		<set name="etcitem_type" val="QUEST" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+	</item>
+</list>

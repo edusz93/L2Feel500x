@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Soul Crystal -->
+	<!-- Red Soul Crystal: Stage 13 -->
+	<item id="1">
+		<ingredient id="13001" count="50"/>
+		<ingredient id="13007" count="10"/>
+		<production id="5908" count="1"/>
+	</item>
+	<!-- Green Soul Crystal: Stage 13 -->
+	<item id="2">
+		<ingredient id="13001" count="50"/>
+		<ingredient id="13007" count="10"/>
+		<production id="5911" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal: Stage 13 -->
+	<item id="3">
+		<ingredient id="13001" count="50"/>
+		<ingredient id="13007" count="10"/>
+		<production id="5914" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,5 @@
+10/07/2024 12:56:19 >>> HWID: [924E3AF4B327] >>> Player: [Morgana]
+10/07/2024 13:38:21 >>> HWID: [924E3AF4B327] >>> Player: [Morgana]
+10/07/2024 13:51:30 >>> HWID: [924E3AF4B327] >>> Player: [Morgana]
+10/07/2024 13:57:37 >>> HWID: [924E3AF4B327] >>> Player: [Morgana]
+10/07/2024 14:01:11 >>> HWID: [924E3AF4B327] >>> Player: [Morgana]

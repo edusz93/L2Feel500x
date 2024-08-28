@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="gkglobal_1720228326021" minZ="-1976" maxZ="-1960">
+		<node x="27854" y="-5608" />
+		<node x="27754" y="-5608" />
+		<node x="27754" y="-5708" />
+		<node x="27854" y="-5708" />
+	</territory>
+	<npcmaker name="gkglobal_174190340643242" territory="gkglobal_1720228326021" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="27804;-5658;-1976;46168" total="1" respawnDelay="60s" /> <!-- GK Global -->
+	</npcmaker>
+	<territory name="gkglobal_1720228342943" minZ="-1968" maxZ="-1952">
+		<node x="26334" y="-7026" />
+		<node x="26234" y="-7026" />
+		<node x="26234" y="-7126" />
+		<node x="26334" y="-7126" />
+	</territory>
+	<npcmaker name="gkglobal_174207263228232" territory="gkglobal_1720228342943" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="26284;-7076;-1968;2386" total="1" respawnDelay="60s" /> <!-- GK Global -->
+	</npcmaker>
+	<territory name="gkglobal_1720228354810" minZ="-1968" maxZ="-1952">
+		<node x="28405" y="-7756" />
+		<node x="28305" y="-7756" />
+		<node x="28305" y="-7856" />
+		<node x="28405" y="-7856" />
+	</territory>
+	<npcmaker name="gkglobal_174219128487311" territory="gkglobal_1720228354810" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="28355;-7806;-1968;24648" total="1" respawnDelay="60s" /> <!-- GK Global -->
+	</npcmaker>
+	<territory name="gkglobal_1720228364659" minZ="-1952" maxZ="-1936">
+		<node x="28917" y="-6524" />
+		<node x="28817" y="-6524" />
+		<node x="28817" y="-6624" />
+		<node x="28917" y="-6624" />
+	</territory>
+	<npcmaker name="gkglobal_174228978791135" territory="gkglobal_1720228364659" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="28867;-6574;-1952;39920" total="1" respawnDelay="60s" /> <!-- GK Global -->
+	</npcmaker>
+</list>

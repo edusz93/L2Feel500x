@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> 
+<!-- 
+@param String message - the message to be announced 
+@param Boolean critical - type of announcement (true = critical,false = normal) 
+@param Boolean auto - when the announcement will be displayed (true = auto,false = on player login) 
+@param Integer initial_delay - time delay for the first announce (used only if auto=true;value in seconds) 
+@param Integer delay - time delay for the announces following the first announce (used only if auto=true;value in seconds) 
+@param Integer limit - limit of announces (used only if auto=true, 0 = unlimited)  
+--> 
+<list> 
+<announcement message="Thanks for playing L2Ignis, our Brazilian server!" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
+<announcement message="Respect the rules and have fun!" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
+<announcement message="Visit www.l2ignis.com" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
+<announcement message="Item de clan lvl 8 full skill gratis na Lady!" critical="false" auto="false" initial_delay="32" delay="1800" limit="0" /> 
+<announcement message=".menu | .raid | .info | .translate | .color | .premium" critical="false" auto="false" initial_delay="0" delay="1800" limit="0" />
+<announcement message="RATES EM DOBRO NO FIM DE SEMANA!!  APROVEITE!" critical="false" auto="false" initial_delay="0" delay="1800" limit="0" />
+<announcement message="Ajude votando (links no site) e use os comandos para receber recompensa: .hopzone .l2jbrasil .l2votes .top4teambr" critical="false" auto="false" initial_delay="0" delay="1800" limit="0" />
+<announcement message="Use .mission para acessar as missoes diarias!" critical="false" auto="false" initial_delay="31" delay="1800" limit="0" />
+<announcement message="A instancia agora so tem 1 spawn e tambem esta area PvP!" critical="false" auto="false" initial_delay="31" delay="1800" limit="0" />
+<announcement message="Baixe o Patch V8 em nosso site para ver as Weapons PvP e Tatoo level 2!" critical="true" auto="true" initial_delay="30" delay="1800" limit="0" />
+</list>

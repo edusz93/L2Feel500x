@@ -1,0 +1,6 @@
+13/08/2024 12:29:29 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]
+13/08/2024 13:01:36 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]
+13/08/2024 13:05:25 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]
+13/08/2024 13:07:11 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]
+13/08/2024 13:10:43 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]
+13/08/2024 13:14:34 >>> HWID: [00E04C8189F3] >>> Player: [Morgana]

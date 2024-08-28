@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="monumentofheroes_1722363701928" minZ="-10536" maxZ="-10520">
+		<node x="82532" y="252634" />
+		<node x="82432" y="252634" />
+		<node x="82432" y="252534" />
+		<node x="82532" y="252534" />
+	</territory>
+	<npcmaker name="monumentofheroes_18578770683900" territory="monumentofheroes_1722363701928" spawn="ALL" maximumNpcs="1">
+		<npc id="31690" pos="82482;252584;-10536;52507" total="1" respawnDelay="60s" /> <!-- Monument of Heroes -->
+	</npcmaker>
+	<territory name="monumentofheroes_1722363741566" minZ="-10536" maxZ="-10520">
+		<node x="82490" y="252735" />
+		<node x="82390" y="252735" />
+		<node x="82390" y="252635" />
+		<node x="82490" y="252635" />
+	</territory>
+	<npcmaker name="monumentofheroes_18618408508400" territory="monumentofheroes_1722363741566" spawn="ALL" maximumNpcs="1">
+		<npc id="31690" pos="82440;252685;-10536;47671" total="1" respawnDelay="60s" /> <!-- Monument of Heroes -->
+	</npcmaker>
+	<territory name="monumentofheroes_1722363749398" minZ="-10536" maxZ="-10520">
+		<node x="82509" y="252683" />
+		<node x="82409" y="252683" />
+		<node x="82409" y="252583" />
+		<node x="82509" y="252583" />
+	</territory>
+	<npcmaker name="monumentofheroes_18626240240300" territory="monumentofheroes_1722363749398" spawn="ALL" maximumNpcs="1">
+		<npc id="31690" pos="82459;252633;-10536;24576" total="1" respawnDelay="60s" /> <!-- Monument of Heroes -->
+	</npcmaker>
+</list>

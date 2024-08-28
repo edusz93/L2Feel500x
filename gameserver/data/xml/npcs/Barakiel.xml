@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="39999" idTemplate="25325" name="Flame Splendor Barakiel" title="Raid Boss">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="30"/>
+		<set name="rHand" val="6717"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="GrandBoss"/>
+		<set name="exp" val="4135551"/>
+		<set name="sp" val="777993"/>
+		<set name="hp" val="373386.071242416"/>
+		<set name="mp" val="1345.8"/>
+		<set name="hpRegen" val="117.68436242886"/>
+		<set name="mpRegen" val="2.7"/>
+		<set name="pAtk" val="2154.88111713047"/>
+		<set name="pDef" val="887.74791"/>
+		<set name="mAtk" val="717.403871261232"/>
+		<set name="mDef" val="433.08"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="50"/>
+		<set name="runSpd" val="190"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4188" level="7"/>
+			<skill id="4190" level="7"/>
+			<skill id="4192" level="7"/>
+			<skill id="4416" level="8"/>
+			<skill id="4494" level="1"/>
+			<skill id="4913" level="1"/>
+		</skills>
+		<drops>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="730" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="730" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="730" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6570" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6570" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6570" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6569" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6569" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(A) -->
+				<drop itemid="6569" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="960" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="960" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="960" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="959" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="959" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Scroll: Enchant(S) -->
+				<drop itemid="959" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6578" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6578" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6578" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6577" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6577" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Blessed Scroll(S) -->
+				<drop itemid="6577" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="732" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="732" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="732" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="731" min="1" max="1" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(S) -->
+				<drop itemid="962" min="1" max="1" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(S) -->
+				<drop itemid="962" min="1" max="1" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(S) -->
+				<drop itemid="961" min="1" max="1" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal Scroll(S) -->
+				<drop itemid="961" min="1" max="1" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal 13 -->
+				<drop itemid="5914" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal 13 -->
+				<drop itemid="5911" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Crystal 13 -->
+				<drop itemid="5908" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Divine inspiration lvl 1 -->	
+				<drop itemid="8618" min="1" max="1" chance="10.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Divine inspiration lvl 2 -->	
+				<drop itemid="8619" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->	
+				<drop itemid="13005" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->	
+				<drop itemid="13005" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->	
+				<drop itemid="13005" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->	
+				<drop itemid="13005" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->	
+				<drop itemid="13005" min="1" max="1" chance="70.0"/>
+			</category>
+		</drops>
+		<minions>
+			<minion id="25326" min="1" max="1"/>
+			<minion id="25327" min="4" max="4"/>
+		</minions>
+	</npc>
+</list>

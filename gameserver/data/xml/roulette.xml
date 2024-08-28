@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Weapons S Grade -->
+	<reward id="0" itemId="7577" enchant="0" count="1" chance="4"/>	<!-- Draconic Bow [Focus] -->
+	<reward id="1" itemId="6580" enchant="0" count="1" chance="10"/>	<!-- Tallum Blade*Dark Legion's Edge -->
+	<reward id="2" itemId="6604" enchant="0" count="1" chance="10"/>	<!-- Demon Splinter [Crt. Stun] -->
+	<reward id="3" itemId="6601" enchant="0" count="1" chance="10"/>	<!-- Saint Spear [Haste] -->
+	<reward id="4" itemId="6594" enchant="0" count="1" chance="4"/>	<!-- Shining Bow [Focus] -->
+	<reward id="5" itemId="6590" enchant="0" count="1" chance="10"/>	<!-- Angel Slayer [Crt. Damage] -->
+	<reward id="6" itemId="6587" enchant="0" count="1" chance="10"/>	<!-- Imperial Staff [Empower] -->
+	<reward id="7" itemId="6585" enchant="0" count="1" chance="15"/>	<!-- Basalt Battlehammer [Health] -->
+	<reward id="8" itemId="6608" enchant="0" count="1" chance="4"/>	<!-- Arcana Mace [Acumen] -->
+	<reward id="9" itemId="6583" enchant="0" count="1" chance="10"/>	<!-- Forgotten Blade [Focus] -->
+	<reward id="10" itemId="6607" enchant="0" count="1" chance="10"/>	<!-- Heaven's Divider [Focus] -->
+	<!-- Jewels S Grade -->
+	<reward id="11" itemId="858" enchant="0" count="1" chance="15"/>	<!--  Tateossian Earring   -->
+	<reward id="12" itemId="889" enchant="0" count="1" chance="15"/>	<!--  Tateossian Ring  -->
+	<reward id="13" itemId="920" enchant="0" count="1" chance="15"/>	<!--  Tateossian Necklace   -->
+	<!-- Consumables -->
+	<reward id="14" itemId="5591" enchant="0" count="1000" chance="85"/>	<!--  CP Potion  -->
+	<reward id="15" itemId="5592" enchant="0" count="1000" chance="85"/>	<!--  Greater CP Potion  -->
+	<!-- Speciais -->
+	<reward id="16" itemId="13001" enchant="0" count="20" chance="85"/>	<!--  Event Coin  -->
+	<!-- Agathions -->
+	<reward id="17" itemId="10000" enchant="0" count="1" chance="10"/>	<!--  Mini Baium  -->
+	<reward id="18" itemId="10001" enchant="0" count="1" chance="10"/>	<!--  Mini Zaken  -->
+	<reward id="19" itemId="10002" enchant="0" count="1" chance="10"/>	<!--  Mini Valakas  -->
+	<reward id="20" itemId="10003" enchant="0" count="1" chance="10"/>	<!--  Mini Antaras  -->	
+	<!-- Farms -->
+	<reward id="21" itemId="13007" enchant="0" count="2" chance="85"/>	<!--  Gold Bar  -->
+	<reward id="22" itemId="13010" enchant="0" count="5000" chance="60"/>	<!--  Ignis Farm  -->
+
+</list>

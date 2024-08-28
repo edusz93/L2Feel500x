@@ -1,0 +1,6 @@
+07/07/2024 15:28:16 >>> HWID: [B42E99F25F0C] >>> Player: [Tanso]
+07/07/2024 15:54:00 >>> HWID: [B42E99F25F0C] >>> Player: [Capu]
+07/07/2024 16:54:00 >>> HWID: [B42E99F25F0C] >>> Player: [Capu]
+07/07/2024 17:32:20 >>> HWID: [B42E99F25F0C] >>> Player: [Capu]
+07/07/2024 17:32:26 >>> HWID: [B42E99F25F0C] >>> Player: [Tanso]
+07/07/2024 19:08:13 >>> HWID: [B42E99F25F0C] >>> Player: [Tanso]

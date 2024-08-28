@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Valakas Boss -->
+	<zone type="FlagZone" shape="NPoly" minZ="-2572" maxZ="5428">
+		<node x="196866" y="-130845" />
+		<node x="229289" y="-130860" />
+		<node x="229176" y="-98508" />
+		<node x="196880" y="-98498" />
+	</zone>
+	<!-- Antharas Boss -->
+	<zone type="FlagZone" shape="NPoly" minZ="-8380" maxZ="-4880">
+		<node x="173469" y="110431" />
+		<node x="188081" y="110284" />
+		<node x="188132" y="119249" />
+		<node x="173386" y="119391" />
+	</zone>
+	<!-- Zaken Boss -->
+	<zone type="FlagZone" shape="NPoly" minZ="-4815" maxZ="-315">
+		<node x="50797" y="213515" />
+		<node x="57617" y="213510" />
+		<node x="57669" y="221683" />
+		<node x="50773" y="221632" />
+	</zone>
+	<!-- Baium Boss -->
+	<zone type="FlagZone" shape="NPoly" minZ="10040" maxZ="11161">
+		<stat name="id" val="99"/>
+		<node x="111022" y="16177" />
+		<node x="114510" y="12623" />
+		<node x="118142" y="15790" />
+		<node x="114773" y="19589" />
+	</zone>
+	<!-- Frintezza Boss -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-9205" maxZ="-8065">
+		<node x="-89840" y="-139384" />
+		<node x="-85732" y="-155311" />
+	</zone>
+	<!-- Orfen Boss -->
+	<zone type="FlagZone" shape="NPoly" minZ="-5796" maxZ="-3796">
+		<node x="43976" y="24664" />
+		<node x="43284" y="18952" />
+		<node x="42476" y="18164" />
+		<node x="42480" y="16448" />
+		<node x="43084" y="15944" />
+		<node x="45140" y="15816" />
+		<node x="48800" y="15112" />
+		<node x="56556" y="12040" />
+		<node x="59068" y="14288" />
+		<node x="61064" y="18492" />
+		<node x="60380" y="23672" />
+		<node x="58724" y="27412" />
+		<node x="55696" y="28496" />
+		<node x="43976" y="24664" />
+	</zone>
+	<!-- Chaotic Zone TOI 13 -->
+	<zone type="FlagZone" shape="NPoly" minZ="7993" maxZ="16301">
+		<node x="124353" y="6936" />
+		<node x="102469" y="6481" />
+		<node x="101093" y="29467" />
+		<node x="124591" y="30447" />
+	</zone>
+	<!-- Queen Ant -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-6000" maxZ="-4240">
+		<node x="-41698" y="163488" />
+		<node x="-7727" y="201061" />
+	</zone>
+	<!-- Core -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-6891" maxZ="-5000">
+		<node x="10001" y="101254" />
+		<node x="28931" y="125996" />
+	</zone>
+	<!-- Heart Antharas -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-4000" maxZ="-3500">
+		<node x="147790" y="110550" />
+		<node x="157695" y="123539" />
+	</zone>
+	<!-- Imperial Tomb -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-4758" maxZ="-1609">
+		<node x="178362" y="-84067" />
+		<node x="194112" y="-66878" />
+	</zone>
+	<!-- Forge of The Gods -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-3365" maxZ="-750">
+		<node x="173975" y="-119459" />
+		<node x="208175" y="-98515" />
+	</zone>
+	<!-- Ketra Hekaton 100% -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='2000'>
+		<node x="148008" y="-74232" />
+	</zone>	
+	<!-- Varka Shadit 100% -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="115400" y="-39256" />
+	</zone>	
+	<!-- Brakki && Tayr 80% -->		
+	<zone type="FlagZone" shape="Cuboid" minZ="-10000" maxZ="-2000">
+		<node x="147699" y="-79147" />
+		<node x="143351" y="-86860" />
+	</zone>	
+	<!-- Varka Moss 100% -->			
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='2300'>
+		<node x="109112" y="-35960" />
+	</zone>	
+	<!-- Varka Horus 100% -->			
+	<zone type='FlagZone' shape='Cylinder' minZ='-10000' maxZ='-100' rad='3000'>
+		<node x="105608" y="-42808" />
+	</zone>	
+	<!-- Centro de 4s -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-7300' maxZ='-7000' rad='3100'>
+		<stat name="id" val="99"/>
+		<node x="178277" y="-85567" />
+	</zone>
+	<!-- Altar of Sacrifice -->
+	<zone type="FlagZone" shape="Cuboid" minZ="-10730" maxZ="-10290">
+		<node x="-18176" y="-54972" />
+		<node x="-14614" y="-51620" />
+	</zone>
+		<!-- Hot (Party zone) -->
+	<zone type="FlagZone" shape="NPoly" minZ="-4290" maxZ="-1290">
+		<node x="159995" y="-119969"/>
+		<node x="159546" y="-125914"/>
+		<node x="150174" y="-128153"/>
+		<node x="147055" y="-116105"/>
+	</zone>
+		<!-- CTF -->
+	<zone type="FlagZone" shape="NPoly" minZ="-4290" maxZ="-1290">
+		<node x="79006" y="87512"/>
+		<node x="82137" y="89111"/>
+		<node x="79056" y="94502"/>
+		<node x="75998" y="93098"/>
+	</zone>
+	<!-- Hestia -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="134972" y="-116004" />
+	</zone>
+	<!-- boss giran 1 -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="102638" y="157579" />
+	</zone>
+	<!-- boss giran 2 -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="108027" y="157696" />
+	</zone>
+	<!-- boss giran 3 -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="119741" y="157844" />
+	</zone>
+	<!-- boss giran 4 -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="124093" y="153952" />
+	</zone>
+	<!-- cabrio -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-100' rad='3000'>
+		<node x="180617" y="11443" />
+	</zone>
+	<!-- golkonda e shuriel TOI 11 -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='6800' maxZ='7100' rad='3000'>
+		<node x="114642" y="16084" />
+	</zone>
+	<!-- toi 3 hallate  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-2220' maxZ='-2000' rad='3000'>
+		<node x="114674" y="16017" />
+	</zone>
+	<!-- decarbia  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-2900' maxZ='-2600' rad='3000'>
+		<node x="188300" y="13028" />
+	</zone>
+	<!-- flamestone  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-4900' maxZ='-4500' rad='3000'>
+		<node x="144231" y="-5736" />
+	</zone>
+	<!-- kernon  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='3860' maxZ='4060' rad='2000'>
+		<node x="113239" y="15980" />
+	</zone>
+	<!-- shyeed  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-6200' maxZ='-6000' rad='3000'>
+		<node x="79624" y="-55424" />
+	</zone>
+	<!-- Glaki  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-6000' maxZ='-4500' rad='3000'>
+		<node x="172098" y="55441" />
+	</zone>
+	<!-- Olkuth  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-6000' maxZ='-4500' rad='3000'>
+		<node x="187338" y="46164" />
+	</zone>
+	<!-- naga  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-2500' rad='3000'>
+		<node x="137874" y="-18997" />
+	</zone>
+	<!-- ipos  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-4500' maxZ='-3000' rad='3000'>
+		<node x="154148" y="-14304" />
+	</zone>
+	<!-- shax  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-5000' maxZ='-4500' rad='1500'>
+		<node x="179311" y="-7632" />
+	</zone>
+	<!-- palatanos  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-4000' maxZ='-3000' rad='3000'>
+		<node x="147475" y="-20646" />
+	</zone>
+	<!-- ember  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-6500' maxZ='-6000' rad='2000'>
+		<node x="185648" y="-106156" />
+	</zone>
+	<!-- uruka  -->		
+	<zone type='FlagZone' shape='Cylinder' minZ='-4500' maxZ='-2900' rad='3000'>
+		<node x="3621" y="-7672" />
+	</zone>
+</list>

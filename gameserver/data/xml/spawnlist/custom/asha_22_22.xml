@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="asha_1722797206729" minZ="-3464" maxZ="-3448">
+		<node x="82314" y="148596" />
+		<node x="82214" y="148596" />
+		<node x="82214" y="148496" />
+		<node x="82314" y="148496" />
+	</territory>
+	<npcmaker name="asha_2737932272154675" territory="asha_1722797206729" spawn="ALL" maximumNpcs="1">
+		<npc id="50019" pos="82264;148546;-3464;64981" total="1" respawnDelay="60s" /> <!-- Asha -->
+	</npcmaker>
+</list>

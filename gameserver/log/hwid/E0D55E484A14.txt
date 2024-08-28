@@ -1,0 +1,4 @@
+31/07/2024 19:49:47 >>> HWID: [E0D55E484A14] >>> Player: [Soyeon]
+03/08/2024 10:59:08 >>> HWID: [E0D55E484A14] >>> Player: [Soyeon]
+05/08/2024 10:44:28 >>> HWID: [E0D55E484A14] >>> Player: [Soyeon]
+05/08/2024 11:03:08 >>> HWID: [E0D55E484A14] >>> Player: [Soyeon]

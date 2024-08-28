@@ -1,0 +1,7 @@
+07/07/2024 21:19:45 >>> HWID: [18C04DF01AF4] >>> Player: [CuTemPelo]
+07/07/2024 21:20:23 >>> HWID: [18C04DF01AF4] >>> Player: [MamicaDeCabela]
+08/07/2024 1:43:52 >>> HWID: [18C04DF01AF4] >>> Player: [MamicaDeCabela]
+08/07/2024 8:15:28 >>> HWID: [18C04DF01AF4] >>> Player: [MamicaDeCabela]
+08/07/2024 8:33:25 >>> HWID: [18C04DF01AF4] >>> Player: [Xereka]
+08/07/2024 9:45:31 >>> HWID: [18C04DF01AF4] >>> Player: [MamicadeCadela]
+08/07/2024 9:46:24 >>> HWID: [18C04DF01AF4] >>> Player: [MamicadeCadela]

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Festive Sweeper -->
+	<skill skillId="444" desc="Use Sweeper in area." ItemId="13000" ItemCount="30" NonListforClass="-1,-1"/>
+	<!-- Gate Chant -->
+	<skill skillId="1429" desc="Summons a party member. Consumes 4 Summon Crystals." ItemId="13000" ItemCount="30" NonListforClass="-1,-1"/>
+	<!-- Festive Sweeper -->
+	<skill skillId="444" desc="Use Sweeper in area." ItemId="13010" ItemCount="25000" NonListforClass="-1,-1"/>
+</list>

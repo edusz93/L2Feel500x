@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="andromeda_1704296224649" minZ="-3400" maxZ="-3384">
+		<node x="83738" y="148910" />
+		<node x="83638" y="148910" />
+		<node x="83638" y="148810" />
+		<node x="83738" y="148810" />
+	</territory>
+	<npcmaker name="andromeda_3158239106900" territory="andromeda_1704296224649" spawn="ALL" maximumNpcs="1">
+		<npc id="50001" pos="83688;148860;-3400;30106" total="1" respawnDelay="60s" /> <!-- Andromeda -->
+	</npcmaker>
+</list>

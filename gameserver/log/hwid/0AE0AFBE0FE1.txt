@@ -1,0 +1,7 @@
+02/08/2024 16:08:46 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 16:24:40 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 16:26:26 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 16:48:58 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 16:52:14 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 16:56:09 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]
+02/08/2024 17:01:11 >>> HWID: [0AE0AFBE0FE1] >>> Player: [Epocas]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="lady_1704296553923" minZ="-3464" maxZ="-3448">
+		<node x="82346" y="148536" />
+		<node x="82246" y="148536" />
+		<node x="82246" y="148436" />
+		<node x="82346" y="148436" />
+	</territory>
+	<npcmaker name="lady_3487513026000" territory="lady_1704296553923" spawn="ALL" maximumNpcs="1">
+		<npc id="50012" pos="82296;148486;-3464;62509" total="1" respawnDelay="60s" /> <!-- Lady -->
+	</npcmaker>
+</list>

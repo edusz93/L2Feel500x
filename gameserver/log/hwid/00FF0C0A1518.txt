@@ -1,0 +1,6 @@
+17/07/2024 19:31:49 >>> HWID: [00FF0C0A1518] >>> Player: [Kirito]
+19/07/2024 19:32:59 >>> HWID: [00FF0C0A1518] >>> Player: [Kirito]
+20/07/2024 19:52:30 >>> HWID: [00FF0C0A1518] >>> Player: [Kirito]
+29/07/2024 22:12:48 >>> HWID: [00FF0C0A1518] >>> Player: [Rene]
+05/08/2024 21:48:12 >>> HWID: [00FF0C0A1518] >>> Player: [Carla]
+07/08/2024 19:38:55 >>> HWID: [00FF0C0A1518] >>> Player: [Carla]

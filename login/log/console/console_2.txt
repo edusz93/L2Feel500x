@@ -1,0 +1,19 @@
+[18-08-2024 19:04:33]	INFO	-----------------------------------------------=[ Config ]
+[18-08-2024 19:04:34]	INFO	Loading loginserver configuration files.
+[18-08-2024 19:04:34]	INFO	----------------------------------------------=[ Poolers ]
+[18-08-2024 19:04:34]	INFO	Initializing ConnectionPool.
+[18-08-2024 19:04:34]	INFO	--------------------------------------=[ LoginController ]
+[18-08-2024 19:04:36]	INFO	Cached 10 KeyPairs for RSA communication.
+[18-08-2024 19:04:36]	INFO	Stored 20 keys for Blowfish communication.
+[18-08-2024 19:04:36]	INFO	------------------------------------=[ GameServerManager ]
+[18-08-2024 19:04:36]	INFO	Loaded 127 server names.
+[18-08-2024 19:04:37]	INFO	Loaded 1 registered gameserver(s).
+[18-08-2024 19:04:37]	INFO	Cached 10 RSA keys for gameserver communication.
+[18-08-2024 19:04:37]	INFO	---------------------------------------------=[ Ban List ]
+[18-08-2024 19:04:37]	INFO	Loaded 1 banned IP(s).
+[18-08-2024 19:04:37]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
+[18-08-2024 19:04:37]	INFO	Listening for gameservers on *:9014.
+[18-08-2024 19:04:37]	INFO	Loginserver ready on *:2106.
+[18-08-2024 19:04:37]	INFO	------------------------=[ Waiting for gameserver answer ]
+[18-08-2024 19:05:04]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 19:45:59]	INFO	GameServer [1] Ignis is now set as disconnected.

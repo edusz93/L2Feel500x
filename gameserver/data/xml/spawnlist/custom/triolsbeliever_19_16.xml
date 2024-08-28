@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="triolsbeliever_1716851289340" minZ="-10848" maxZ="-10832">
+		<node x="-17709" y="-56687" />
+		<node x="-17809" y="-56687" />
+		<node x="-17809" y="-56787" />
+		<node x="-17709" y="-56787" />
+	</territory>
+	<npcmaker name="triolsbeliever_1504193808600" territory="triolsbeliever_1716851289340" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17759;-56737;-10848;34248" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851307767" minZ="-10848" maxZ="-10832">
+		<node x="-16719" y="-56693" />
+		<node x="-16819" y="-56693" />
+		<node x="-16819" y="-56793" />
+		<node x="-16719" y="-56793" />
+	</territory>
+	<npcmaker name="triolsbeliever_1522621561400" territory="triolsbeliever_1716851307767" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16769;-56743;-10848;39652" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851315956" minZ="-10848" maxZ="-10832">
+		<node x="-16532" y="-56760" />
+		<node x="-16632" y="-56760" />
+		<node x="-16632" y="-56860" />
+		<node x="-16532" y="-56860" />
+	</territory>
+	<npcmaker name="triolsbeliever_1530809237800" territory="triolsbeliever_1716851315956" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16582;-56810;-10848;1735" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851325898" minZ="-10848" maxZ="-10832">
+		<node x="-15301" y="-56655" />
+		<node x="-15401" y="-56655" />
+		<node x="-15401" y="-56755" />
+		<node x="-15301" y="-56755" />
+	</territory>
+	<npcmaker name="triolsbeliever_1540752311200" territory="triolsbeliever_1716851325898" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15351;-56705;-10848;40506" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851331282" minZ="-10848" maxZ="-10832">
+		<node x="-14931" y="-56958" />
+		<node x="-15031" y="-56958" />
+		<node x="-15031" y="-57058" />
+		<node x="-14931" y="-57058" />
+	</territory>
+	<npcmaker name="triolsbeliever_1546135974100" territory="triolsbeliever_1716851331282" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14981;-57008;-10848;55735" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851335857" minZ="-10848" maxZ="-10832">
+		<node x="-14729" y="-56764" />
+		<node x="-14829" y="-56764" />
+		<node x="-14829" y="-56864" />
+		<node x="-14729" y="-56864" />
+	</territory>
+	<npcmaker name="triolsbeliever_1550711431500" territory="triolsbeliever_1716851335857" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14779;-56814;-10848;33548" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851394322" minZ="-10848" maxZ="-10832">
+		<node x="-15907" y="-56513" />
+		<node x="-16007" y="-56513" />
+		<node x="-16007" y="-56613" />
+		<node x="-15907" y="-56613" />
+	</territory>
+	<npcmaker name="triolsbeliever_1609176601000" territory="triolsbeliever_1716851394322" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15957;-56563;-10848;7775" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851405299" minZ="-10848" maxZ="-10832">
+		<node x="-15955" y="-56952" />
+		<node x="-16055" y="-56952" />
+		<node x="-16055" y="-57052" />
+		<node x="-15955" y="-57052" />
+	</territory>
+	<npcmaker name="triolsbeliever_1620153136900" territory="triolsbeliever_1716851405299" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16005;-57002;-10848;26856" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851419888" minZ="-10848" maxZ="-10832">
+		<node x="-17042" y="-56368" />
+		<node x="-17142" y="-56368" />
+		<node x="-17142" y="-56468" />
+		<node x="-17042" y="-56468" />
+	</territory>
+	<npcmaker name="triolsbeliever_1634741971200" territory="triolsbeliever_1716851419888" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17092;-56418;-10848;60350" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851451518" minZ="-11560" maxZ="-11544">
+		<node x="-16829" y="-54395" />
+		<node x="-16929" y="-54395" />
+		<node x="-16929" y="-54495" />
+		<node x="-16829" y="-54495" />
+	</territory>
+	<npcmaker name="triolsbeliever_1666371501200" territory="triolsbeliever_1716851451518" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16879;-54445;-11560;9346" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851464274" minZ="-11560" maxZ="-11544">
+		<node x="-16112" y="-53387" />
+		<node x="-16212" y="-53387" />
+		<node x="-16212" y="-53487" />
+		<node x="-16112" y="-53487" />
+	</territory>
+	<npcmaker name="triolsbeliever_1679128140600" territory="triolsbeliever_1716851464274" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16162;-53437;-11560;24576" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851471842" minZ="-11560" maxZ="-11544">
+		<node x="-15506" y="-53324" />
+		<node x="-15606" y="-53324" />
+		<node x="-15606" y="-53424" />
+		<node x="-15506" y="-53424" />
+	</territory>
+	<npcmaker name="triolsbeliever_1686696426500" territory="triolsbeliever_1716851471842" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15556;-53374;-11560;19739" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851479961" minZ="-11560" maxZ="-11544">
+		<node x="-15032" y="-52936" />
+		<node x="-15132" y="-52936" />
+		<node x="-15132" y="-53036" />
+		<node x="-15032" y="-53036" />
+	</territory>
+	<npcmaker name="triolsbeliever_1694814161800" territory="triolsbeliever_1716851479961" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15082;-52986;-11560;10013" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851502635" minZ="-11560" maxZ="-11544">
+		<node x="-15880" y="-53958" />
+		<node x="-15980" y="-53958" />
+		<node x="-15980" y="-54058" />
+		<node x="-15880" y="-54058" />
+	</territory>
+	<npcmaker name="triolsbeliever_1717489188800" territory="triolsbeliever_1716851502635" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15930;-54008;-11560;18585" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851508488" minZ="-11560" maxZ="-11544">
+		<node x="-15354" y="-54114" />
+		<node x="-15454" y="-54114" />
+		<node x="-15454" y="-54214" />
+		<node x="-15354" y="-54214" />
+	</territory>
+	<npcmaker name="triolsbeliever_1723342798600" territory="triolsbeliever_1716851508488" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15404;-54164;-11560;62928" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851517695" minZ="-11560" maxZ="-11544">
+		<node x="-15794" y="-54516" />
+		<node x="-15894" y="-54516" />
+		<node x="-15894" y="-54616" />
+		<node x="-15794" y="-54616" />
+	</territory>
+	<npcmaker name="triolsbeliever_1732549639500" territory="triolsbeliever_1716851517695" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15844;-54566;-11560;22800" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851531548" minZ="-11560" maxZ="-11544">
+		<node x="-16483" y="-53743" />
+		<node x="-16583" y="-53743" />
+		<node x="-16583" y="-53843" />
+		<node x="-16483" y="-53843" />
+	</territory>
+	<npcmaker name="triolsbeliever_1746402645900" territory="triolsbeliever_1716851531548" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16533;-53793;-11560;945" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851540560" minZ="-11560" maxZ="-11544">
+		<node x="-16154" y="-54257" />
+		<node x="-16254" y="-54257" />
+		<node x="-16254" y="-54357" />
+		<node x="-16154" y="-54357" />
+	</territory>
+	<npcmaker name="triolsbeliever_1755413863900" territory="triolsbeliever_1716851540560" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16204;-54307;-11560;38608" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851553957" minZ="-11560" maxZ="-11544">
+		<node x="-17289" y="-53715" />
+		<node x="-17389" y="-53715" />
+		<node x="-17389" y="-53815" />
+		<node x="-17289" y="-53815" />
+	</territory>
+	<npcmaker name="triolsbeliever_1768811550500" territory="triolsbeliever_1716851553957" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17339;-53765;-11560;62180" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851562358" minZ="-11560" maxZ="-11544">
+		<node x="-16876" y="-53422" />
+		<node x="-16976" y="-53422" />
+		<node x="-16976" y="-53522" />
+		<node x="-16876" y="-53522" />
+	</territory>
+	<npcmaker name="triolsbeliever_1777211903200" territory="triolsbeliever_1716851562358" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-16926;-53472;-11560;61567" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851570351" minZ="-11560" maxZ="-11544">
+		<node x="-17374" y="-53127" />
+		<node x="-17474" y="-53127" />
+		<node x="-17474" y="-53227" />
+		<node x="-17374" y="-53227" />
+	</territory>
+	<npcmaker name="triolsbeliever_1785204207800" territory="triolsbeliever_1716851570351" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17424;-53177;-11560;52676" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851574558" minZ="-11560" maxZ="-11544">
+		<node x="-17964" y="-52989" />
+		<node x="-18064" y="-52989" />
+		<node x="-18064" y="-53089" />
+		<node x="-17964" y="-53089" />
+	</territory>
+	<npcmaker name="triolsbeliever_1789412383900" territory="triolsbeliever_1716851574558" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18014;-53039;-11560;30963" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851607828" minZ="-11560" maxZ="-11544">
+		<node x="-14876" y="-53661" />
+		<node x="-14976" y="-53661" />
+		<node x="-14976" y="-53761" />
+		<node x="-14876" y="-53761" />
+	</territory>
+	<npcmaker name="triolsbeliever_1822682070900" territory="triolsbeliever_1716851607828" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14926;-53711;-11560;29478" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851637195" minZ="-11112" maxZ="-11096">
+		<node x="-20455" y="-54272" />
+		<node x="-20555" y="-54272" />
+		<node x="-20555" y="-54372" />
+		<node x="-20455" y="-54372" />
+	</territory>
+	<npcmaker name="triolsbeliever_1852048797000" territory="triolsbeliever_1716851637195" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20505;-54322;-11112;7300" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851646863" minZ="-11112" maxZ="-11096">
+		<node x="-19714" y="-54184" />
+		<node x="-19814" y="-54184" />
+		<node x="-19814" y="-54284" />
+		<node x="-19714" y="-54284" />
+	</territory>
+	<npcmaker name="triolsbeliever_1861717353800" territory="triolsbeliever_1716851646863" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19764;-54234;-11112;42993" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851667159" minZ="-10936" maxZ="-10920">
+		<node x="-19925" y="-52581" />
+		<node x="-20025" y="-52581" />
+		<node x="-20025" y="-52681" />
+		<node x="-19925" y="-52681" />
+	</territory>
+	<npcmaker name="triolsbeliever_1882012382600" territory="triolsbeliever_1716851667159" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19975;-52631;-10936;16384" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851672115" minZ="-10936" maxZ="-10920">
+		<node x="-19745" y="-52842" />
+		<node x="-19845" y="-52842" />
+		<node x="-19845" y="-52942" />
+		<node x="-19745" y="-52942" />
+	</territory>
+	<npcmaker name="triolsbeliever_1886968672000" territory="triolsbeliever_1716851672115" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19795;-52892;-10936;60550" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851678627" minZ="-10936" maxZ="-10920">
+		<node x="-20381" y="-52253" />
+		<node x="-20481" y="-52253" />
+		<node x="-20481" y="-52353" />
+		<node x="-20381" y="-52353" />
+	</territory>
+	<npcmaker name="triolsbeliever_1893480884700" territory="triolsbeliever_1716851678627" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20431;-52303;-10936;2691" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851686401" minZ="-10936" maxZ="-10920">
+		<node x="-20409" y="-52909" />
+		<node x="-20509" y="-52909" />
+		<node x="-20509" y="-53009" />
+		<node x="-20409" y="-53009" />
+	</territory>
+	<npcmaker name="triolsbeliever_1901254730500" territory="triolsbeliever_1716851686401" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20459;-52959;-10936;46992" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851723651" minZ="-10936" maxZ="-10920">
+		<node x="-13047" y="-52925" />
+		<node x="-13147" y="-52925" />
+		<node x="-13147" y="-53025" />
+		<node x="-13047" y="-53025" />
+	</territory>
+	<npcmaker name="triolsbeliever_1938504432800" territory="triolsbeliever_1716851723651" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-13097;-52975;-10936;8069" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851733087" minZ="-10936" maxZ="-10920">
+		<node x="-12461" y="-52830" />
+		<node x="-12561" y="-52830" />
+		<node x="-12561" y="-52930" />
+		<node x="-12461" y="-52930" />
+	</territory>
+	<npcmaker name="triolsbeliever_1947941851900" territory="triolsbeliever_1716851733087" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12511;-52880;-10936;30723" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851749027" minZ="-11112" maxZ="-11096">
+		<node x="-12432" y="-54019" />
+		<node x="-12532" y="-54019" />
+		<node x="-12532" y="-54119" />
+		<node x="-12432" y="-54119" />
+	</territory>
+	<npcmaker name="triolsbeliever_1963880752500" territory="triolsbeliever_1716851749027" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12482;-54069;-11112;46942" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851757794" minZ="-11112" maxZ="-11096">
+		<node x="-12994" y="-54109" />
+		<node x="-13094" y="-54109" />
+		<node x="-13094" y="-54209" />
+		<node x="-12994" y="-54209" />
+	</territory>
+	<npcmaker name="triolsbeliever_1972647997900" territory="triolsbeliever_1716851757794" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-13044;-54159;-11112;12415" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851822297" minZ="-11008" maxZ="-10992">
+		<node x="-14137" y="-51686" />
+		<node x="-14237" y="-51686" />
+		<node x="-14237" y="-51786" />
+		<node x="-14137" y="-51786" />
+	</territory>
+	<npcmaker name="triolsbeliever_2037151550500" territory="triolsbeliever_1716851822297" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14187;-51736;-11008;18908" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851964150" minZ="-11008" maxZ="-10992">
+		<node x="-12225" y="-51835" />
+		<node x="-12325" y="-51835" />
+		<node x="-12325" y="-51935" />
+		<node x="-12225" y="-51935" />
+	</territory>
+	<npcmaker name="triolsbeliever_2179004051999" territory="triolsbeliever_1716851964150" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12275;-51885;-11008;14574" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851972341" minZ="-11008" maxZ="-10992">
+		<node x="-11753" y="-50679" />
+		<node x="-11853" y="-50679" />
+		<node x="-11853" y="-50779" />
+		<node x="-11753" y="-50779" />
+	</territory>
+	<npcmaker name="triolsbeliever_2187195401699" territory="triolsbeliever_1716851972341" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-11803;-50729;-11008;47776" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851981403" minZ="-11008" maxZ="-10992">
+		<node x="-12422" y="-50647" />
+		<node x="-12522" y="-50647" />
+		<node x="-12522" y="-50747" />
+		<node x="-12422" y="-50747" />
+	</territory>
+	<npcmaker name="triolsbeliever_2196257129400" territory="triolsbeliever_1716851981403" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12472;-50697;-11008;64798" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716851993559" minZ="-11008" maxZ="-10992">
+		<node x="-12278" y="-51115" />
+		<node x="-12378" y="-51115" />
+		<node x="-12378" y="-51215" />
+		<node x="-12278" y="-51215" />
+	</territory>
+	<npcmaker name="triolsbeliever_2208413058500" territory="triolsbeliever_1716851993559" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12328;-51165;-11008;31222" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852044990" minZ="-11008" maxZ="-10992">
+		<node x="-18635" y="-51701" />
+		<node x="-18735" y="-51701" />
+		<node x="-18735" y="-51801" />
+		<node x="-18635" y="-51801" />
+	</territory>
+	<npcmaker name="triolsbeliever_2259843444600" territory="triolsbeliever_1716852044990" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18685;-51751;-11008;34360" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852055111" minZ="-11008" maxZ="-10992">
+		<node x="-19403" y="-51540" />
+		<node x="-19503" y="-51540" />
+		<node x="-19503" y="-51640" />
+		<node x="-19403" y="-51640" />
+	</territory>
+	<npcmaker name="triolsbeliever_2269964973300" territory="triolsbeliever_1716852055111" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19453;-51590;-11008;23246" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852079561" minZ="-11008" maxZ="-10992">
+		<node x="-20610" y="-51566" />
+		<node x="-20710" y="-51566" />
+		<node x="-20710" y="-51666" />
+		<node x="-20610" y="-51666" />
+	</territory>
+	<npcmaker name="triolsbeliever_2294415240100" territory="triolsbeliever_1716852079561" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20660;-51616;-11008;13092" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852084821" minZ="-11008" maxZ="-10992">
+		<node x="-20491" y="-50607" />
+		<node x="-20591" y="-50607" />
+		<node x="-20591" y="-50707" />
+		<node x="-20491" y="-50707" />
+	</territory>
+	<npcmaker name="triolsbeliever_2299675520800" territory="triolsbeliever_1716852084821" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20541;-50657;-11008;15455" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852092325" minZ="-11008" maxZ="-10992">
+		<node x="-20092" y="-51208" />
+		<node x="-20192" y="-51208" />
+		<node x="-20192" y="-51308" />
+		<node x="-20092" y="-51308" />
+	</territory>
+	<npcmaker name="triolsbeliever_2307179171200" territory="triolsbeliever_1716852092325" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20142;-51258;-11008;39065" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852157103" minZ="-10912" maxZ="-10896">
+		<node x="-14731" y="-49792" />
+		<node x="-14831" y="-49792" />
+		<node x="-14831" y="-49892" />
+		<node x="-14731" y="-49892" />
+	</territory>
+	<npcmaker name="triolsbeliever_2371956727600" territory="triolsbeliever_1716852157103" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14781;-49842;-10912;32061" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852191568" minZ="-10912" maxZ="-10896">
+		<node x="-14105" y="-49529" />
+		<node x="-14205" y="-49529" />
+		<node x="-14205" y="-49629" />
+		<node x="-14105" y="-49629" />
+	</territory>
+	<npcmaker name="triolsbeliever_2406422051700" territory="triolsbeliever_1716852191568" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14155;-49579;-10912;16557" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852203149" minZ="-10912" maxZ="-10896">
+		<node x="-13228" y="-48658" />
+		<node x="-13328" y="-48658" />
+		<node x="-13328" y="-48758" />
+		<node x="-13228" y="-48758" />
+	</territory>
+	<npcmaker name="triolsbeliever_2418003625300" territory="triolsbeliever_1716852203149" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-13278;-48708;-10912;51574" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852209797" minZ="-10912" maxZ="-10896">
+		<node x="-14061" y="-48603" />
+		<node x="-14161" y="-48603" />
+		<node x="-14161" y="-48703" />
+		<node x="-14061" y="-48703" />
+	</territory>
+	<npcmaker name="triolsbeliever_2424651683100" territory="triolsbeliever_1716852209797" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14111;-48653;-10912;16792" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852253577" minZ="-10912" maxZ="-10896">
+		<node x="-13362" y="-49396" />
+		<node x="-13462" y="-49396" />
+		<node x="-13462" y="-49496" />
+		<node x="-13362" y="-49496" />
+	</territory>
+	<npcmaker name="triolsbeliever_2468430720300" territory="triolsbeliever_1716852253577" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-13412;-49446;-10912;37698" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852270549" minZ="-10912" maxZ="-10896">
+		<node x="-11786" y="-48768" />
+		<node x="-11886" y="-48768" />
+		<node x="-11886" y="-48868" />
+		<node x="-11786" y="-48868" />
+	</territory>
+	<npcmaker name="triolsbeliever_2485402706200" territory="triolsbeliever_1716852270549" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-11836;-48818;-10912;47705" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852278088" minZ="-10912" maxZ="-10896">
+		<node x="-12518" y="-49001" />
+		<node x="-12618" y="-49001" />
+		<node x="-12618" y="-49101" />
+		<node x="-12518" y="-49101" />
+	</territory>
+	<npcmaker name="triolsbeliever_2492942655700" territory="triolsbeliever_1716852278088" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12568;-49051;-10912;5414" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852285569" minZ="-10912" maxZ="-10896">
+		<node x="-11793" y="-49541" />
+		<node x="-11893" y="-49541" />
+		<node x="-11893" y="-49641" />
+		<node x="-11793" y="-49641" />
+	</territory>
+	<npcmaker name="triolsbeliever_2500423786800" territory="triolsbeliever_1716852285569" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-11843;-49591;-10912;31340" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852310037" minZ="-10912" maxZ="-10896">
+		<node x="-12377" y="-49623" />
+		<node x="-12477" y="-49623" />
+		<node x="-12477" y="-49723" />
+		<node x="-12377" y="-49723" />
+	</territory>
+	<npcmaker name="triolsbeliever_2524890966200" territory="triolsbeliever_1716852310037" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12427;-49673;-10912;20042" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852346349" minZ="-10912" maxZ="-10896">
+		<node x="-17069" y="-49545" />
+		<node x="-17169" y="-49545" />
+		<node x="-17169" y="-49645" />
+		<node x="-17069" y="-49645" />
+	</territory>
+	<npcmaker name="triolsbeliever_2561202750500" territory="triolsbeliever_1716852346349" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17119;-49595;-10912;61399" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852355219" minZ="-10912" maxZ="-10896">
+		<node x="-17571" y="-48500" />
+		<node x="-17671" y="-48500" />
+		<node x="-17671" y="-48600" />
+		<node x="-17571" y="-48600" />
+	</territory>
+	<npcmaker name="triolsbeliever_2570073025900" territory="triolsbeliever_1716852355219" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17621;-48550;-10912;20667" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852363181" minZ="-10912" maxZ="-10896">
+		<node x="-17050" y="-48672" />
+		<node x="-17150" y="-48672" />
+		<node x="-17150" y="-48772" />
+		<node x="-17050" y="-48772" />
+	</territory>
+	<npcmaker name="triolsbeliever_2578035252300" territory="triolsbeliever_1716852363181" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17100;-48722;-10912;28949" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852385008" minZ="-10912" maxZ="-10896">
+		<node x="-18558" y="-49216" />
+		<node x="-18658" y="-49216" />
+		<node x="-18658" y="-49316" />
+		<node x="-18558" y="-49316" />
+	</territory>
+	<npcmaker name="triolsbeliever_2599862001900" territory="triolsbeliever_1716852385008" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18608;-49266;-10912;41736" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852400474" minZ="-10912" maxZ="-10896">
+		<node x="-19060" y="-48867" />
+		<node x="-19160" y="-48867" />
+		<node x="-19160" y="-48967" />
+		<node x="-19060" y="-48967" />
+	</territory>
+	<npcmaker name="triolsbeliever_2615328248500" territory="triolsbeliever_1716852400474" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19110;-48917;-10912;52711" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852442729" minZ="-10912" maxZ="-10896">
+		<node x="-20836" y="-49343" />
+		<node x="-20936" y="-49343" />
+		<node x="-20936" y="-49443" />
+		<node x="-20836" y="-49443" />
+	</territory>
+	<npcmaker name="triolsbeliever_2657583267000" territory="triolsbeliever_1716852442729" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20886;-49393;-10912;53216" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852456938" minZ="-10912" maxZ="-10896">
+		<node x="-20309" y="-49666" />
+		<node x="-20409" y="-49666" />
+		<node x="-20409" y="-49766" />
+		<node x="-20309" y="-49766" />
+	</territory>
+	<npcmaker name="triolsbeliever_2671792377200" territory="triolsbeliever_1716852456938" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20359;-49716;-10912;26277" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852512724" minZ="-10816" maxZ="-10800">
+		<node x="-15005" y="-47286" />
+		<node x="-15105" y="-47286" />
+		<node x="-15105" y="-47386" />
+		<node x="-15005" y="-47386" />
+	</territory>
+	<npcmaker name="triolsbeliever_2727578820600" territory="triolsbeliever_1716852512724" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-15055;-47336;-10816;35017" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852583453" minZ="-10816" maxZ="-10800">
+		<node x="-11729" y="-47290" />
+		<node x="-11829" y="-47290" />
+		<node x="-11829" y="-47390" />
+		<node x="-11729" y="-47390" />
+	</territory>
+	<npcmaker name="triolsbeliever_2798306785100" territory="triolsbeliever_1716852583453" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-11779;-47340;-10816;16756" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852640359" minZ="-10720" maxZ="-10704">
+		<node x="-14860" y="-45573" />
+		<node x="-14960" y="-45573" />
+		<node x="-14960" y="-45673" />
+		<node x="-14860" y="-45673" />
+	</territory>
+	<npcmaker name="triolsbeliever_2855213550200" territory="triolsbeliever_1716852640359" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14910;-45623;-10720;28153" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852659263" minZ="-10720" maxZ="-10704">
+		<node x="-13925" y="-44950" />
+		<node x="-14025" y="-44950" />
+		<node x="-14025" y="-45050" />
+		<node x="-13925" y="-45050" />
+	</territory>
+	<npcmaker name="triolsbeliever_2874117278300" territory="triolsbeliever_1716852659263" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-13975;-45000;-10720;38901" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852741900" minZ="-10720" maxZ="-10704">
+		<node x="-12591" y="-44345" />
+		<node x="-12691" y="-44345" />
+		<node x="-12691" y="-44445" />
+		<node x="-12591" y="-44445" />
+	</territory>
+	<npcmaker name="triolsbeliever_2956754317600" territory="triolsbeliever_1716852741900" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-12641;-44395;-10720;64069" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852766891" minZ="-10720" maxZ="-10704">
+		<node x="-14691" y="-44579" />
+		<node x="-14791" y="-44579" />
+		<node x="-14791" y="-44679" />
+		<node x="-14691" y="-44679" />
+	</territory>
+	<npcmaker name="triolsbeliever_2981744908800" territory="triolsbeliever_1716852766891" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-14741;-44629;-10720;57697" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852786759" minZ="-10720" maxZ="-10704">
+		<node x="-17480" y="-45933" />
+		<node x="-17580" y="-45933" />
+		<node x="-17580" y="-46033" />
+		<node x="-17480" y="-46033" />
+	</territory>
+	<npcmaker name="triolsbeliever_3001612712400" territory="triolsbeliever_1716852786759" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17530;-45983;-10720;65095" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852802640" minZ="-10720" maxZ="-10704">
+		<node x="-16989" y="-44616" />
+		<node x="-17089" y="-44616" />
+		<node x="-17089" y="-44716" />
+		<node x="-16989" y="-44716" />
+	</territory>
+	<npcmaker name="triolsbeliever_3017494062900" territory="triolsbeliever_1716852802640" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17039;-44666;-10720;48573" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852816830" minZ="-10720" maxZ="-10704">
+		<node x="-18798" y="-44675" />
+		<node x="-18898" y="-44675" />
+		<node x="-18898" y="-44775" />
+		<node x="-18798" y="-44775" />
+	</territory>
+	<npcmaker name="triolsbeliever_3031683653500" territory="triolsbeliever_1716852816830" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18848;-44725;-10720;16086" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852823222" minZ="-10720" maxZ="-10704">
+		<node x="-19493" y="-45080" />
+		<node x="-19593" y="-45080" />
+		<node x="-19593" y="-45180" />
+		<node x="-19493" y="-45180" />
+	</territory>
+	<npcmaker name="triolsbeliever_3038076162200" territory="triolsbeliever_1716852823222" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19543;-45130;-10720;6553" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852830224" minZ="-10720" maxZ="-10704">
+		<node x="-18729" y="-45555" />
+		<node x="-18829" y="-45555" />
+		<node x="-18829" y="-45655" />
+		<node x="-18729" y="-45655" />
+	</territory>
+	<npcmaker name="triolsbeliever_3045078921600" territory="triolsbeliever_1716852830224" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18779;-45605;-10720;30402" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852876830" minZ="-10720" maxZ="-10704">
+		<node x="-20183" y="-45781" />
+		<node x="-20283" y="-45781" />
+		<node x="-20283" y="-45881" />
+		<node x="-20183" y="-45881" />
+	</territory>
+	<npcmaker name="triolsbeliever_3091683835400" territory="triolsbeliever_1716852876830" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20233;-45831;-10720;57822" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852889699" minZ="-10720" maxZ="-10704">
+		<node x="-20181" y="-44559" />
+		<node x="-20281" y="-44559" />
+		<node x="-20281" y="-44659" />
+		<node x="-20181" y="-44659" />
+	</territory>
+	<npcmaker name="triolsbeliever_3104552437900" territory="triolsbeliever_1716852889699" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20231;-44609;-10720;47629" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716852895914" minZ="-10720" maxZ="-10704">
+		<node x="-20988" y="-44795" />
+		<node x="-21088" y="-44795" />
+		<node x="-21088" y="-44895" />
+		<node x="-20988" y="-44895" />
+	</territory>
+	<npcmaker name="triolsbeliever_3110768125400" territory="triolsbeliever_1716852895914" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-21038;-44845;-10720;16720" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853035586" minZ="-10816" maxZ="-10800">
+		<node x="-17485" y="-47214" />
+		<node x="-17585" y="-47214" />
+		<node x="-17585" y="-47314" />
+		<node x="-17485" y="-47314" />
+	</territory>
+	<npcmaker name="triolsbeliever_3250439645100" territory="triolsbeliever_1716853035586" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17535;-47264;-10816;18075" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853043110" minZ="-10816" maxZ="-10800">
+		<node x="-17193" y="-46577" />
+		<node x="-17293" y="-46577" />
+		<node x="-17293" y="-46677" />
+		<node x="-17193" y="-46677" />
+	</territory>
+	<npcmaker name="triolsbeliever_3257964617700" territory="triolsbeliever_1716853043110" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17243;-46627;-10816;28668" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853050035" minZ="-10816" maxZ="-10800">
+		<node x="-17878" y="-46737" />
+		<node x="-17978" y="-46737" />
+		<node x="-17978" y="-46837" />
+		<node x="-17878" y="-46837" />
+	</territory>
+	<npcmaker name="triolsbeliever_3264888564200" territory="triolsbeliever_1716853050035" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17928;-46787;-10816;49041" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853069084" minZ="-10816" maxZ="-10800">
+		<node x="-18798" y="-46726" />
+		<node x="-18898" y="-46726" />
+		<node x="-18898" y="-46826" />
+		<node x="-18798" y="-46826" />
+	</territory>
+	<npcmaker name="triolsbeliever_3283937521100" territory="triolsbeliever_1716853069084" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-18848;-46776;-10816;7369" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853084298" minZ="-10816" maxZ="-10800">
+		<node x="-19623" y="-47334" />
+		<node x="-19723" y="-47334" />
+		<node x="-19723" y="-47434" />
+		<node x="-19623" y="-47434" />
+	</territory>
+	<npcmaker name="triolsbeliever_3299152509700" territory="triolsbeliever_1716853084298" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-19673;-47384;-10816;20698" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853103819" minZ="-10816" maxZ="-10800">
+		<node x="-20213" y="-47599" />
+		<node x="-20313" y="-47599" />
+		<node x="-20313" y="-47699" />
+		<node x="-20213" y="-47699" />
+	</territory>
+	<npcmaker name="triolsbeliever_3318673178000" territory="triolsbeliever_1716853103819" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20263;-47649;-10816;832" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853116687" minZ="-10816" maxZ="-10800">
+		<node x="-20904" y="-46911" />
+		<node x="-21004" y="-46911" />
+		<node x="-21004" y="-47011" />
+		<node x="-20904" y="-47011" />
+	</territory>
+	<npcmaker name="triolsbeliever_3331540287300" territory="triolsbeliever_1716853116687" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20954;-46961;-10816;53375" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853351672" minZ="-10816" maxZ="-10800">
+		<node x="-17085" y="-47615" />
+		<node x="-17185" y="-47615" />
+		<node x="-17185" y="-47715" />
+		<node x="-17085" y="-47715" />
+	</territory>
+	<npcmaker name="triolsbeliever_3566526230200" territory="triolsbeliever_1716853351672" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-17135;-47665;-10816;60215" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+	<territory name="triolsbeliever_1716853502956" minZ="-10912" maxZ="-10896">
+		<node x="-20806" y="-48590" />
+		<node x="-20906" y="-48590" />
+		<node x="-20906" y="-48690" />
+		<node x="-20806" y="-48690" />
+	</territory>
+	<npcmaker name="triolsbeliever_3717809895100" territory="triolsbeliever_1716853502956" spawn="ALL" maximumNpcs="1">
+		<npc id="22150" pos="-20856;-48640;-10912;11144" total="1" respawnDelay="30s" /> <!-- Triol's Believer -->
+	</npcmaker>
+</list>

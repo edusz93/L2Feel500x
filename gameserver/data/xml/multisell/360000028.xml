@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Queen Ant -->
+	<item id="1">
+		<ingredient id="6662" count="4"/>
+		<ingredient id="13005" count="5000"/>
+		<production id="6660" count="1"/>
+	</item>
+	<!-- Zaken -->
+	<item id="2">
+		<ingredient id="6661" count="4"/>
+		<ingredient id="13005" count="5000"/>
+		<production id="6659" count="1"/>
+	</item>
+</list>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="11000" type="EtcItem" name="Noblesse Status">
+		<set name="icon" val="icon.accessory_noblesse_tiara_i00" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11001" type="EtcItem" name="Clan Full">
+		<set name="icon" val="icon.skill0391" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11002" type="EtcItem" name="1 Day Premium Status">
+		<set name="icon" val="L2JBrazuca.icons.vip1" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11003" type="EtcItem" name="7 Days Premium Status">
+		<set name="icon" val="L2JBrazuca.icons.vip2" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11004" type="EtcItem" name="15 Days Premium Status">
+		<set name="icon" val="L2JBrazuca.icons.vip3" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11005" type="EtcItem" name="1 Month Premium Status">
+		<set name="icon" val="L2JBrazuca.icons.vip4" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11006" type="EtcItem" name="1 Day Hero Status">
+		<set name="icon" val="L2JBrazuca.icons.hero1" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11007" type="EtcItem" name="7 Days Hero Status">
+		<set name="icon" val="L2JBrazuca.icons.hero2" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11008" type="EtcItem" name="15 Days Hero Status">
+		<set name="icon" val="L2JBrazuca.icons.hero3" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11009" type="EtcItem" name="30 Days Hero Status">
+		<set name="icon" val="L2JBrazuca.icons.hero4" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11010" type="EtcItem" name="Change Name">
+		<set name="icon" val="L2JBrazuca.icons.name_change" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11011" type="EtcItem" name="Change Sex">
+		<set name="icon" val="L2JBrazuca.icons.sex_change" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11012" type="EtcItem" name="Remove PK">
+		<set name="icon" val="L2JBrazuca.icons.remove_pk" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11013" type="EtcItem" name="Level 80">
+		<set name="icon" val="L2JBrazuca.icons.xp" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11014" type="EtcItem" name="Change Class">
+		<set name="icon" val="L2JBrazuca.icons.class_change" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11015" type="EtcItem" name="Lucky Box">
+		<set name="icon" val="L2JBrazuca.icons.gif02" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11016" type="EtcItem" name="Augumentation">
+		<set name="icon" val="icon.skill3238" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11017" type="EtcItem" name="Roulette">
+		<set name="icon" val="icon.etc_dice_a_i00" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+			<!--Pacotes pré-venda-->
+	<item id="11018" type="EtcItem" name="Pacote Bronze">
+		<set name="icon" val="icon.etc_treasure_box_i03" />
+		<set name="default_action" val="capsule" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="2217-6" />
+	</item>
+	<item id="11019" type="EtcItem" name="Pacote Prata">
+		<set name="icon" val="icon.etc_treasure_box_i00" />
+		<set name="default_action" val="capsule" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="2217-7" />
+	</item>
+	<item id="11020" type="EtcItem" name="Pacote Ouro">
+		<set name="icon" val="icon.etc_treasure_box_i08" />
+		<set name="default_action" val="capsule" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="2217-8" />
+	</item>
+	<item id="11021" type="EtcItem" name="Premium Hat's">
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11022" type="EtcItem" name="Hat's">
+		<set name="icon" val="icon.etc_treasure_box_i01" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11023" type="EtcItem" name="Premium Aghations">
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11024" type="EtcItem" name="Aghations">
+		<set name="icon" val="icon.etc_treasure_box_i06" />
+		<set name="default_action" val="skill_reduce" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1" />
+		<set name="handler" val="L2JBrazuca" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="11025" type="EtcItem" name="Newbie Help">
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="default_action" val="capsule" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="2217-9" />
+	</item>
+	<item id="11026" type="EtcItem" name="Newbie Help">
+		<set name="icon" val="icon.etc_letter_envelope_i00" />
+		<set name="default_action" val="capsule" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="1" />
+		<set name="is_stackable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="2217-10" />
+	</item>
+</list>

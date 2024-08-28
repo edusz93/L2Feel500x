@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="holmes_1721081091214" minZ="-3464" maxZ="-3448">
+		<node x="82657" y="147603" />
+		<node x="82557" y="147603" />
+		<node x="82557" y="147503" />
+		<node x="82657" y="147503" />
+	</territory>
+	<npcmaker name="holmes_1021823641485767" territory="holmes_1721081091214" spawn="ALL" maximumNpcs="1">
+		<npc id="35188" pos="82607;147553;-3464;13828" total="1" respawnDelay="60s" /> <!-- Holmes -->
+	</npcmaker>
+</list>

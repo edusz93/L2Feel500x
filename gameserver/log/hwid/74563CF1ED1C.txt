@@ -1,0 +1,4 @@
+15/07/2024 12:59:05 >>> HWID: [74563CF1ED1C] >>> Player: [Professor]
+16/07/2024 18:34:36 >>> HWID: [74563CF1ED1C] >>> Player: [Professor]
+16/07/2024 18:36:40 >>> HWID: [74563CF1ED1C] >>> Player: [COMEDOR]
+17/07/2024 21:12:24 >>> HWID: [74563CF1ED1C] >>> Player: [COMEDOR]

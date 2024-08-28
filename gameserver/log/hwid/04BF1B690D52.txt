@@ -1,0 +1,7 @@
+12/06/2024 18:09:46 >>> HWID: [04BF1B690D52] >>> Player: [bilu]
+20/06/2024 16:19:22 >>> HWID: [04BF1B690D52] >>> Player: [bilu]
+23/06/2024 12:41:04 >>> HWID: [04BF1B690D52] >>> Player: [bilu]
+24/06/2024 20:00:32 >>> HWID: [04BF1B690D52] >>> Player: [bilu]
+13/07/2024 18:42:55 >>> HWID: [04BF1B690D52] >>> Player: [BOTdoMACC]
+13/07/2024 19:25:18 >>> HWID: [04BF1B690D52] >>> Player: [Pipizinho]
+13/07/2024 22:57:55 >>> HWID: [04BF1B690D52] >>> Player: [Pipizinho]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="valkiria_1710706743524" minZ="-3464" maxZ="-3448">
+		<node x="82809" y="149491" />
+		<node x="82709" y="149491" />
+		<node x="82709" y="149391" />
+		<node x="82809" y="149391" />
+	</territory>
+	<npcmaker name="valkiria_7749751068800" territory="valkiria_1710706743524" spawn="ALL" maximumNpcs="1">
+		<npc id="50014" pos="82759;149441;-3464;49477" total="1" respawnDelay="60s" /> <!-- Valkiria -->
+	</npcmaker>
+</list>

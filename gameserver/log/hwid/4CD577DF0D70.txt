@@ -1,0 +1,4 @@
+10/08/2024 12:47:10 >>> HWID: [4CD577DF0D70] >>> Player: [Kross]
+10/08/2024 14:09:11 >>> HWID: [4CD577DF0D70] >>> Player: [Kross]
+11/08/2024 7:55:09 >>> HWID: [4CD577DF0D70] >>> Player: [Kross]
+12/08/2024 12:31:22 >>> HWID: [4CD577DF0D70] >>> Player: [Kross]

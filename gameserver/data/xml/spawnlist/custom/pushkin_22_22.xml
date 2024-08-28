@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="pushkin_1720382719524" minZ="-3464" maxZ="-3448">
+		<node x="82306" y="149747" />
+		<node x="82206" y="149747" />
+		<node x="82206" y="149647" />
+		<node x="82306" y="149647" />
+	</territory>
+	<npcmaker name="pushkin_323517525899750" territory="pushkin_1720382719524" spawn="ALL" maximumNpcs="1">
+		<npc id="30300" pos="82256;149697;-3464;49895" total="1" respawnDelay="60s" /> <!-- Pushkin -->
+	</npcmaker>
+</list>

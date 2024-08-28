@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="merchantofmammon_1721081961661" minZ="-3464" maxZ="-3448">
+		<node x="82399" y="147608" />
+		<node x="82299" y="147608" />
+		<node x="82299" y="147508" />
+		<node x="82399" y="147508" />
+	</territory>
+	<npcmaker name="merchantofmammon_1022694088466925" territory="merchantofmammon_1721081961661" spawn="ALL" maximumNpcs="1">
+		<npc id="31113" pos="82349;147558;-3464;18442" total="1" respawnDelay="60s" /> <!-- Merchant of Mammon -->
+	</npcmaker>
+</list>

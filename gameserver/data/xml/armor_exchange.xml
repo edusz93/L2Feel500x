@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Major -->
+		<exchange itemId="6386,6383,6384,6385" itemRequired="2407,1;5767,1;5779,1;512,1;13008,1000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Dark Crystal -->
+	<!-- Major -->
+	<!-- Draconic -->
+		<exchange itemId="6379,6382,6380,6381" itemRequired="2409,1;2419,1;5776,1;5788,1;13008,1000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Majestic -->
+	<!-- Draconic -->
+	<!-- Imperial -->
+		<exchange itemId="6373,6374,6378,6375,6376" itemRequired="2382,1;547,1;5768,1;5780,1;13008,1000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Tallum -->
+	<!-- Imperial -->
+	<!-- Blessed Boss -->
+		<exchange itemId="12000" itemRequired="6656,1;12024,5;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Antharas -->
+		<exchange itemId="12001" itemRequired="6657,1;12025,5;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Valakas -->
+		<exchange itemId="12002" itemRequired="6658,1;12026,5;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Baium -->
+		<exchange itemId="12003" itemRequired="6659,1;12027,5;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Zaken -->
+		<exchange itemId="12004" itemRequired="6660,1;12028,10;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Queen Ant -->
+		<exchange itemId="12005" itemRequired="6661,1;12029,10;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Orfen -->
+		<exchange itemId="12006" itemRequired="8191,1;12030,5;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Frintezza -->
+		<exchange itemId="12007" itemRequired="6662,1;12031,10;13008,10000" enchant="16,12;15,11;14,10;13,9;12,8"/> <!-- Core -->
+	<!-- Blessed Boss -->
+</list>

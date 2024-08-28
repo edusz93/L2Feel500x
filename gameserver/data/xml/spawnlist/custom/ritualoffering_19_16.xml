@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="ritualoffering_1716853052902" minZ="-10816" maxZ="-10800">
+		<node x="-17442" y="-46754" />
+		<node x="-17542" y="-46754" />
+		<node x="-17542" y="-46854" />
+		<node x="-17442" y="-46854" />
+	</territory>
+	<npcmaker name="ritualoffering_3267755399200" territory="ritualoffering_1716853052902" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17492;-46804;-10816;7686" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853087856" minZ="-10816" maxZ="-10800">
+		<node x="-19169" y="-47487" />
+		<node x="-19269" y="-47487" />
+		<node x="-19269" y="-47587" />
+		<node x="-19169" y="-47587" />
+	</territory>
+	<npcmaker name="ritualoffering_3302710361900" territory="ritualoffering_1716853087856" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19219;-47537;-10816;15086" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853126360" minZ="-10816" maxZ="-10800">
+		<node x="-20567" y="-47101" />
+		<node x="-20667" y="-47101" />
+		<node x="-20667" y="-47201" />
+		<node x="-20567" y="-47201" />
+	</territory>
+	<npcmaker name="ritualoffering_3341213419800" territory="ritualoffering_1716853126360" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20617;-47151;-10816;43716" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853192404" minZ="-10720" maxZ="-10704">
+		<node x="-19518" y="-44498" />
+		<node x="-19618" y="-44498" />
+		<node x="-19618" y="-44598" />
+		<node x="-19518" y="-44598" />
+	</territory>
+	<npcmaker name="ritualoffering_3407258513200" territory="ritualoffering_1716853192404" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19568;-44548;-10720;20473" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853203934" minZ="-10720" maxZ="-10704">
+		<node x="-20299" y="-44987" />
+		<node x="-20399" y="-44987" />
+		<node x="-20399" y="-45087" />
+		<node x="-20299" y="-45087" />
+	</territory>
+	<npcmaker name="ritualoffering_3418788030200" territory="ritualoffering_1716853203934" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20349;-45037;-10720;20427" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853209947" minZ="-10720" maxZ="-10704">
+		<node x="-20890" y="-45312" />
+		<node x="-20990" y="-45312" />
+		<node x="-20990" y="-45412" />
+		<node x="-20890" y="-45412" />
+	</territory>
+	<npcmaker name="ritualoffering_3424801434400" territory="ritualoffering_1716853209947" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20940;-45362;-10720;34671" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853216274" minZ="-10720" maxZ="-10704">
+		<node x="-20781" y="-44409" />
+		<node x="-20881" y="-44409" />
+		<node x="-20881" y="-44509" />
+		<node x="-20781" y="-44509" />
+	</territory>
+	<npcmaker name="ritualoffering_3431128587600" territory="ritualoffering_1716853216274" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20831;-44459;-10720;19774" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853227107" minZ="-10720" maxZ="-10704">
+		<node x="-18520" y="-45014" />
+		<node x="-18620" y="-45014" />
+		<node x="-18620" y="-45114" />
+		<node x="-18520" y="-45114" />
+	</territory>
+	<npcmaker name="ritualoffering_3441961102300" territory="ritualoffering_1716853227107" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-18570;-45064;-10720;63952" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853234221" minZ="-10720" maxZ="-10704">
+		<node x="-17408" y="-44671" />
+		<node x="-17508" y="-44671" />
+		<node x="-17508" y="-44771" />
+		<node x="-17408" y="-44771" />
+	</territory>
+	<npcmaker name="ritualoffering_3449074157600" territory="ritualoffering_1716853234221" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17458;-44721;-10720;12627" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853254779" minZ="-10720" maxZ="-10704">
+		<node x="-15657" y="-44440" />
+		<node x="-15757" y="-44440" />
+		<node x="-15757" y="-44540" />
+		<node x="-15657" y="-44540" />
+	</territory>
+	<npcmaker name="ritualoffering_3469633024400" territory="ritualoffering_1716853254779" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15707;-44490;-10720;19739" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853267256" minZ="-10720" maxZ="-10704">
+		<node x="-13131" y="-44366" />
+		<node x="-13231" y="-44366" />
+		<node x="-13231" y="-44466" />
+		<node x="-13131" y="-44466" />
+	</territory>
+	<npcmaker name="ritualoffering_3482109755600" territory="ritualoffering_1716853267256" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13181;-44416;-10720;62495" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853289388" minZ="-10720" maxZ="-10704">
+		<node x="-12477" y="-45703" />
+		<node x="-12577" y="-45703" />
+		<node x="-12577" y="-45803" />
+		<node x="-12477" y="-45803" />
+	</territory>
+	<npcmaker name="ritualoffering_3504241439000" territory="ritualoffering_1716853289388" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12527;-45753;-10720;31305" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853294317" minZ="-10720" maxZ="-10704">
+		<node x="-12482" y="-45048" />
+		<node x="-12582" y="-45048" />
+		<node x="-12582" y="-45148" />
+		<node x="-12482" y="-45148" />
+	</territory>
+	<npcmaker name="ritualoffering_3509170678000" territory="ritualoffering_1716853294317" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12532;-45098;-10720;25474" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853298876" minZ="-10720" maxZ="-10704">
+		<node x="-12104" y="-44480" />
+		<node x="-12204" y="-44480" />
+		<node x="-12204" y="-44580" />
+		<node x="-12104" y="-44580" />
+	</territory>
+	<npcmaker name="ritualoffering_3513730089400" territory="ritualoffering_1716853298876" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12154;-44530;-10720;16425" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853313264" minZ="-10720" maxZ="-10704">
+		<node x="-14011" y="-44529" />
+		<node x="-14111" y="-44529" />
+		<node x="-14111" y="-44629" />
+		<node x="-14011" y="-44629" />
+	</territory>
+	<npcmaker name="ritualoffering_3528118649500" territory="ritualoffering_1716853313264" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14061;-44579;-10720;24091" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853321281" minZ="-10720" maxZ="-10704">
+		<node x="-15181" y="-45486" />
+		<node x="-15281" y="-45486" />
+		<node x="-15281" y="-45586" />
+		<node x="-15181" y="-45586" />
+	</territory>
+	<npcmaker name="ritualoffering_3536134798100" territory="ritualoffering_1716853321281" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15231;-45536;-10720;48764" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853357192" minZ="-10816" maxZ="-10800">
+		<node x="-17651" y="-47664" />
+		<node x="-17751" y="-47664" />
+		<node x="-17751" y="-47764" />
+		<node x="-17651" y="-47764" />
+	</territory>
+	<npcmaker name="ritualoffering_3572045826200" territory="ritualoffering_1716853357192" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17701;-47714;-10816;44492" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853378556" minZ="-10816" maxZ="-10800">
+		<node x="-14751" y="-46620" />
+		<node x="-14851" y="-46620" />
+		<node x="-14851" y="-46720" />
+		<node x="-14751" y="-46720" />
+	</territory>
+	<npcmaker name="ritualoffering_3593409419000" territory="ritualoffering_1716853378556" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14801;-46670;-10816;12709" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853382531" minZ="-10816" maxZ="-10800">
+		<node x="-15570" y="-46427" />
+		<node x="-15670" y="-46427" />
+		<node x="-15670" y="-46527" />
+		<node x="-15570" y="-46527" />
+	</territory>
+	<npcmaker name="ritualoffering_3597384894100" territory="ritualoffering_1716853382531" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15620;-46477;-10816;32987" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853395566" minZ="-10816" maxZ="-10800">
+		<node x="-13208" y="-46617" />
+		<node x="-13308" y="-46617" />
+		<node x="-13308" y="-46717" />
+		<node x="-13208" y="-46717" />
+	</territory>
+	<npcmaker name="ritualoffering_3610419468600" territory="ritualoffering_1716853395566" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13258;-46667;-10816;8985" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853398191" minZ="-10816" maxZ="-10800">
+		<node x="-13461" y="-47221" />
+		<node x="-13561" y="-47221" />
+		<node x="-13561" y="-47321" />
+		<node x="-13461" y="-47321" />
+	</territory>
+	<npcmaker name="ritualoffering_3613045032600" territory="ritualoffering_1716853398191" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13511;-47271;-10816;44661" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853413411" minZ="-10816" maxZ="-10800">
+		<node x="-12425" y="-47737" />
+		<node x="-12525" y="-47737" />
+		<node x="-12525" y="-47837" />
+		<node x="-12425" y="-47837" />
+	</territory>
+	<npcmaker name="ritualoffering_3628265524700" territory="ritualoffering_1716853413411" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12475;-47787;-10816;57625" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853421559" minZ="-10816" maxZ="-10800">
+		<node x="-12084" y="-47196" />
+		<node x="-12184" y="-47196" />
+		<node x="-12184" y="-47296" />
+		<node x="-12084" y="-47296" />
+	</territory>
+	<npcmaker name="ritualoffering_3636413601700" territory="ritualoffering_1716853421559" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12134;-47246;-10816;2628" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853437076" minZ="-10816" maxZ="-10800">
+		<node x="-15658" y="-47354" />
+		<node x="-15758" y="-47354" />
+		<node x="-15758" y="-47454" />
+		<node x="-15658" y="-47454" />
+	</territory>
+	<npcmaker name="ritualoffering_3651929779800" territory="ritualoffering_1716853437076" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15708;-47404;-10816;36694" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853461468" minZ="-10912" maxZ="-10896">
+		<node x="-17343" y="-48939" />
+		<node x="-17443" y="-48939" />
+		<node x="-17443" y="-49039" />
+		<node x="-17343" y="-49039" />
+	</territory>
+	<npcmaker name="ritualoffering_3676321968600" territory="ritualoffering_1716853461468" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17393;-48989;-10912;19312" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853474966" minZ="-10912" maxZ="-10896">
+		<node x="-19493" y="-49032" />
+		<node x="-19593" y="-49032" />
+		<node x="-19593" y="-49132" />
+		<node x="-19493" y="-49132" />
+	</territory>
+	<npcmaker name="ritualoffering_3689819921800" territory="ritualoffering_1716853474966" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19543;-49082;-10912;46761" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853489120" minZ="-10912" maxZ="-10896">
+		<node x="-20493" y="-48852" />
+		<node x="-20593" y="-48852" />
+		<node x="-20593" y="-48952" />
+		<node x="-20493" y="-48952" />
+	</territory>
+	<npcmaker name="ritualoffering_3703974483700" territory="ritualoffering_1716853489120" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20543;-48902;-10912;15190" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853532088" minZ="-10912" maxZ="-10896">
+		<node x="-15385" y="-48883" />
+		<node x="-15485" y="-48883" />
+		<node x="-15485" y="-48983" />
+		<node x="-15385" y="-48983" />
+	</territory>
+	<npcmaker name="ritualoffering_3746941069900" territory="ritualoffering_1716853532088" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15435;-48933;-10912;13658" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853533953" minZ="-10912" maxZ="-10896">
+		<node x="-15305" y="-48367" />
+		<node x="-15405" y="-48367" />
+		<node x="-15405" y="-48467" />
+		<node x="-15305" y="-48467" />
+	</territory>
+	<npcmaker name="ritualoffering_3748807683200" territory="ritualoffering_1716853533953" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15355;-48417;-10912;16304" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853541262" minZ="-10912" maxZ="-10896">
+		<node x="-13839" y="-48651" />
+		<node x="-13939" y="-48651" />
+		<node x="-13939" y="-48751" />
+		<node x="-13839" y="-48751" />
+	</territory>
+	<npcmaker name="ritualoffering_3756116468100" territory="ritualoffering_1716853541262" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13889;-48701;-10912;61558" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853543378" minZ="-10912" maxZ="-10896">
+		<node x="-13849" y="-49175" />
+		<node x="-13949" y="-49175" />
+		<node x="-13949" y="-49275" />
+		<node x="-13849" y="-49275" />
+	</territory>
+	<npcmaker name="ritualoffering_3758231860200" territory="ritualoffering_1716853543378" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13899;-49225;-10912;44508" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853560384" minZ="-10912" maxZ="-10896">
+		<node x="-12501" y="-49838" />
+		<node x="-12601" y="-49838" />
+		<node x="-12601" y="-49938" />
+		<node x="-12501" y="-49938" />
+	</territory>
+	<npcmaker name="ritualoffering_3775237932300" territory="ritualoffering_1716853560384" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12551;-49888;-10912;42246" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853566175" minZ="-10912" maxZ="-10896">
+		<node x="-12408" y="-48691" />
+		<node x="-12508" y="-48691" />
+		<node x="-12508" y="-48791" />
+		<node x="-12408" y="-48791" />
+	</territory>
+	<npcmaker name="ritualoffering_3781029398000" territory="ritualoffering_1716853566175" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12458;-48741;-10912;22525" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853608504" minZ="-11008" maxZ="-10992">
+		<node x="-13397" y="-50495" />
+		<node x="-13497" y="-50495" />
+		<node x="-13497" y="-50595" />
+		<node x="-13397" y="-50595" />
+	</territory>
+	<npcmaker name="ritualoffering_3823357414300" territory="ritualoffering_1716853608504" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13447;-50545;-11008;2071" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853613553" minZ="-11008" maxZ="-10992">
+		<node x="-13433" y="-51688" />
+		<node x="-13533" y="-51688" />
+		<node x="-13533" y="-51788" />
+		<node x="-13433" y="-51788" />
+	</territory>
+	<npcmaker name="ritualoffering_3828406877400" territory="ritualoffering_1716853613553" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13483;-51738;-11008;45737" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853624468" minZ="-11008" maxZ="-10992">
+		<node x="-11849" y="-51560" />
+		<node x="-11949" y="-51560" />
+		<node x="-11949" y="-51660" />
+		<node x="-11849" y="-51660" />
+	</territory>
+	<npcmaker name="ritualoffering_3839321934500" territory="ritualoffering_1716853624468" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-11899;-51610;-11008;3591" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853657699" minZ="-11008" maxZ="-10992">
+		<node x="-18771" y="-51046" />
+		<node x="-18871" y="-51046" />
+		<node x="-18871" y="-51146" />
+		<node x="-18771" y="-51146" />
+	</territory>
+	<npcmaker name="ritualoffering_3872553271500" territory="ritualoffering_1716853657699" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-18821;-51096;-11008;57462" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853667610" minZ="-11008" maxZ="-10992">
+		<node x="-20244" y="-51715" />
+		<node x="-20344" y="-51715" />
+		<node x="-20344" y="-51815" />
+		<node x="-20244" y="-51815" />
+	</territory>
+	<npcmaker name="ritualoffering_3882464602200" territory="ritualoffering_1716853667610" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20294;-51765;-11008;38041" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853677804" minZ="-11008" maxZ="-10992">
+		<node x="-20532" y="-51243" />
+		<node x="-20632" y="-51243" />
+		<node x="-20632" y="-51343" />
+		<node x="-20532" y="-51343" />
+	</territory>
+	<npcmaker name="ritualoffering_3892658404200" territory="ritualoffering_1716853677804" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20582;-51293;-11008;23796" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853713653" minZ="-10936" maxZ="-10920">
+		<node x="-12953" y="-52401" />
+		<node x="-13053" y="-52401" />
+		<node x="-13053" y="-52501" />
+		<node x="-12953" y="-52501" />
+	</territory>
+	<npcmaker name="ritualoffering_3928507015700" territory="ritualoffering_1716853713653" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13003;-52451;-10936;1604" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853735811" minZ="-11560" maxZ="-11544">
+		<node x="-14865" y="-53464" />
+		<node x="-14965" y="-53464" />
+		<node x="-14965" y="-53564" />
+		<node x="-14865" y="-53564" />
+	</territory>
+	<npcmaker name="ritualoffering_3950664196200" territory="ritualoffering_1716853735811" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14915;-53514;-11560;18332" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853739531" minZ="-11560" maxZ="-11544">
+		<node x="-15758" y="-53066" />
+		<node x="-15858" y="-53066" />
+		<node x="-15858" y="-53166" />
+		<node x="-15758" y="-53166" />
+	</territory>
+	<npcmaker name="ritualoffering_3954385036900" territory="ritualoffering_1716853739531" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15808;-53116;-11560;31996" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853748677" minZ="-11560" maxZ="-11544">
+		<node x="-16306" y="-54556" />
+		<node x="-16406" y="-54556" />
+		<node x="-16406" y="-54656" />
+		<node x="-16306" y="-54656" />
+	</territory>
+	<npcmaker name="ritualoffering_3963531141400" territory="ritualoffering_1716853748677" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16356;-54606;-11560;20055" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853754173" minZ="-11560" maxZ="-11544">
+		<node x="-16347" y="-53022" />
+		<node x="-16447" y="-53022" />
+		<node x="-16447" y="-53122" />
+		<node x="-16347" y="-53122" />
+	</territory>
+	<npcmaker name="ritualoffering_3969026594900" territory="ritualoffering_1716853754173" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16397;-53072;-11560;4663" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853777652" minZ="-10848" maxZ="-10832">
+		<node x="-17868" y="-57017" />
+		<node x="-17968" y="-57017" />
+		<node x="-17968" y="-57117" />
+		<node x="-17868" y="-57117" />
+	</territory>
+	<npcmaker name="ritualoffering_3992506406700" territory="ritualoffering_1716853777652" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17918;-57067;-10848;635" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853783079" minZ="-10848" maxZ="-10832">
+		<node x="-16562" y="-56919" />
+		<node x="-16662" y="-56919" />
+		<node x="-16662" y="-57019" />
+		<node x="-16562" y="-57019" />
+	</territory>
+	<npcmaker name="ritualoffering_3997932674000" territory="ritualoffering_1716853783079" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16612;-56969;-10848;59734" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853786940" minZ="-10848" maxZ="-10832">
+		<node x="-15616" y="-56422" />
+		<node x="-15716" y="-56422" />
+		<node x="-15716" y="-56522" />
+		<node x="-15616" y="-56522" />
+	</territory>
+	<npcmaker name="ritualoffering_4001793547800" territory="ritualoffering_1716853786940" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15666;-56472;-10848;6116" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716853806071" minZ="-11560" maxZ="-11544">
+		<node x="-15412" y="-54252" />
+		<node x="-15512" y="-54252" />
+		<node x="-15512" y="-54352" />
+		<node x="-15412" y="-54352" />
+	</territory>
+	<npcmaker name="ritualoffering_4020925636700" territory="ritualoffering_1716853806071" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15462;-54302;-11560;22071" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716901985149" minZ="-10600" maxZ="-10584">
+		<node x="-15582" y="-52516" />
+		<node x="-15682" y="-52516" />
+		<node x="-15682" y="-52616" />
+		<node x="-15582" y="-52616" />
+	</territory>
+	<npcmaker name="ritualoffering_5736949430000" territory="ritualoffering_1716901985149" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15632;-52566;-10600;22495" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902248361" minZ="-10600" maxZ="-10584">
+		<node x="-15696" y="-52508" />
+		<node x="-15796" y="-52508" />
+		<node x="-15796" y="-52608" />
+		<node x="-15696" y="-52608" />
+	</territory>
+	<npcmaker name="ritualoffering_6000160432600" territory="ritualoffering_1716902248361" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15746;-52558;-10600;46359" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902254439" minZ="-10600" maxZ="-10584">
+		<node x="-15692" y="-52443" />
+		<node x="-15792" y="-52443" />
+		<node x="-15792" y="-52543" />
+		<node x="-15692" y="-52543" />
+	</territory>
+	<npcmaker name="ritualoffering_6006238655000" territory="ritualoffering_1716902254439" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15742;-52493;-10600;21220" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902255505" minZ="-10600" maxZ="-10584">
+		<node x="-15692" y="-52443" />
+		<node x="-15792" y="-52443" />
+		<node x="-15792" y="-52543" />
+		<node x="-15692" y="-52543" />
+	</territory>
+	<npcmaker name="ritualoffering_6007304935800" territory="ritualoffering_1716902255505" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15742;-52493;-10600;37643" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902258343" minZ="-10600" maxZ="-10584">
+		<node x="-15192" y="-52443" />
+		<node x="-15292" y="-52443" />
+		<node x="-15292" y="-52543" />
+		<node x="-15192" y="-52543" />
+	</territory>
+	<npcmaker name="ritualoffering_6010142922600" territory="ritualoffering_1716902258343" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15242;-52493;-10600;8192" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902259126" minZ="-10600" maxZ="-10584">
+		<node x="-15200" y="-52460" />
+		<node x="-15300" y="-52460" />
+		<node x="-15300" y="-52560" />
+		<node x="-15200" y="-52560" />
+	</territory>
+	<npcmaker name="ritualoffering_6010925953800" territory="ritualoffering_1716902259126" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15250;-52510;-10600;44814" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902259752" minZ="-10600" maxZ="-10584">
+		<node x="-15207" y="-52521" />
+		<node x="-15307" y="-52521" />
+		<node x="-15307" y="-52621" />
+		<node x="-15207" y="-52621" />
+	</territory>
+	<npcmaker name="ritualoffering_6011551590800" territory="ritualoffering_1716902259752" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15257;-52571;-10600;65170" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902260532" minZ="-10600" maxZ="-10584">
+		<node x="-15142" y="-52541" />
+		<node x="-15242" y="-52541" />
+		<node x="-15242" y="-52641" />
+		<node x="-15142" y="-52641" />
+	</territory>
+	<npcmaker name="ritualoffering_6012331921400" territory="ritualoffering_1716902260532" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15192;-52591;-10600;38238" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902262190" minZ="-10600" maxZ="-10584">
+		<node x="-15364" y="-52873" />
+		<node x="-15464" y="-52873" />
+		<node x="-15464" y="-52973" />
+		<node x="-15364" y="-52973" />
+	</territory>
+	<npcmaker name="ritualoffering_6013990350500" territory="ritualoffering_1716902262190" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15414;-52923;-10600;34932" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902262814" minZ="-10600" maxZ="-10584">
+		<node x="-15341" y="-52847" />
+		<node x="-15441" y="-52847" />
+		<node x="-15441" y="-52947" />
+		<node x="-15341" y="-52947" />
+	</territory>
+	<npcmaker name="ritualoffering_6014614232400" territory="ritualoffering_1716902262814" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15391;-52897;-10600;8770" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902263347" minZ="-10600" maxZ="-10584">
+		<node x="-15313" y="-52844" />
+		<node x="-15413" y="-52844" />
+		<node x="-15413" y="-52944" />
+		<node x="-15313" y="-52944" />
+	</territory>
+	<npcmaker name="ritualoffering_6015147102100" territory="ritualoffering_1716902263347" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15363;-52894;-10600;60191" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902263939" minZ="-10600" maxZ="-10584">
+		<node x="-15296" y="-52962" />
+		<node x="-15396" y="-52962" />
+		<node x="-15396" y="-53062" />
+		<node x="-15296" y="-53062" />
+	</territory>
+	<npcmaker name="ritualoffering_6015738831000" territory="ritualoffering_1716902263939" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15346;-53012;-10600;46204" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902266001" minZ="-10600" maxZ="-10584">
+		<node x="-14922" y="-52886" />
+		<node x="-15022" y="-52886" />
+		<node x="-15022" y="-52986" />
+		<node x="-14922" y="-52986" />
+	</territory>
+	<npcmaker name="ritualoffering_6017800355900" territory="ritualoffering_1716902266001" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14972;-52936;-10600;20757" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902266849" minZ="-10600" maxZ="-10584">
+		<node x="-14934" y="-52833" />
+		<node x="-15034" y="-52833" />
+		<node x="-15034" y="-52933" />
+		<node x="-14934" y="-52933" />
+	</territory>
+	<npcmaker name="ritualoffering_6018648936000" territory="ritualoffering_1716902266849" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14984;-52883;-10600;14791" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902267732" minZ="-10600" maxZ="-10584">
+		<node x="-14884" y="-52839" />
+		<node x="-14984" y="-52839" />
+		<node x="-14984" y="-52939" />
+		<node x="-14884" y="-52939" />
+	</territory>
+	<npcmaker name="ritualoffering_6019531158500" territory="ritualoffering_1716902267732" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14934;-52889;-10600;60291" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902268233" minZ="-10600" maxZ="-10584">
+		<node x="-14865" y="-52864" />
+		<node x="-14965" y="-52864" />
+		<node x="-14965" y="-52964" />
+		<node x="-14865" y="-52964" />
+	</territory>
+	<npcmaker name="ritualoffering_6020032437100" territory="ritualoffering_1716902268233" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14915;-52914;-10600;52441" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902269892" minZ="-10600" maxZ="-10584">
+		<node x="-14991" y="-53166" />
+		<node x="-15091" y="-53166" />
+		<node x="-15091" y="-53266" />
+		<node x="-14991" y="-53266" />
+	</territory>
+	<npcmaker name="ritualoffering_6021691367300" territory="ritualoffering_1716902269892" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15041;-53216;-10600;42114" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902270454" minZ="-10600" maxZ="-10584">
+		<node x="-14983" y="-53167" />
+		<node x="-15083" y="-53167" />
+		<node x="-15083" y="-53267" />
+		<node x="-14983" y="-53267" />
+	</territory>
+	<npcmaker name="ritualoffering_6022253508500" territory="ritualoffering_1716902270454" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15033;-53217;-10600;5414" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902270953" minZ="-10600" maxZ="-10584">
+		<node x="-14960" y="-53136" />
+		<node x="-15060" y="-53136" />
+		<node x="-15060" y="-53236" />
+		<node x="-14960" y="-53236" />
+	</territory>
+	<npcmaker name="ritualoffering_6022752207100" territory="ritualoffering_1716902270953" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15010;-53186;-10600;28100" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902271642" minZ="-10600" maxZ="-10584">
+		<node x="-14927" y="-53126" />
+		<node x="-15027" y="-53126" />
+		<node x="-15027" y="-53226" />
+		<node x="-14927" y="-53226" />
+	</territory>
+	<npcmaker name="ritualoffering_6023441392700" territory="ritualoffering_1716902271642" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14977;-53176;-10600;63217" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902273643" minZ="-10600" maxZ="-10584">
+		<node x="-15111" y="-53407" />
+		<node x="-15211" y="-53407" />
+		<node x="-15211" y="-53507" />
+		<node x="-15111" y="-53507" />
+	</territory>
+	<npcmaker name="ritualoffering_6025442996200" territory="ritualoffering_1716902273643" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15161;-53457;-10600;39729" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902274547" minZ="-10600" maxZ="-10584">
+		<node x="-15092" y="-53381" />
+		<node x="-15192" y="-53381" />
+		<node x="-15192" y="-53481" />
+		<node x="-15092" y="-53481" />
+	</territory>
+	<npcmaker name="ritualoffering_6026347194900" territory="ritualoffering_1716902274547" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15142;-53431;-10600;8015" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902276859" minZ="-10600" maxZ="-10584">
+		<node x="-15145" y="-53323" />
+		<node x="-15245" y="-53323" />
+		<node x="-15245" y="-53423" />
+		<node x="-15145" y="-53423" />
+	</territory>
+	<npcmaker name="ritualoffering_6028658523000" territory="ritualoffering_1716902276859" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15195;-53373;-10600;24106" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902277549" minZ="-10600" maxZ="-10584">
+		<node x="-15161" y="-53374" />
+		<node x="-15261" y="-53374" />
+		<node x="-15261" y="-53474" />
+		<node x="-15161" y="-53474" />
+	</territory>
+	<npcmaker name="ritualoffering_6029348550600" territory="ritualoffering_1716902277549" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15211;-53424;-10600;45891" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902279204" minZ="-10600" maxZ="-10584">
+		<node x="-15017" y="-53878" />
+		<node x="-15117" y="-53878" />
+		<node x="-15117" y="-53978" />
+		<node x="-15017" y="-53978" />
+	</territory>
+	<npcmaker name="ritualoffering_6031003434200" territory="ritualoffering_1716902279204" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15067;-53928;-10600;49708" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902279860" minZ="-10600" maxZ="-10584">
+		<node x="-15033" y="-53938" />
+		<node x="-15133" y="-53938" />
+		<node x="-15133" y="-54038" />
+		<node x="-15033" y="-54038" />
+	</territory>
+	<npcmaker name="ritualoffering_6031659437600" territory="ritualoffering_1716902279860" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15083;-53988;-10600;33553" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902280358" minZ="-10600" maxZ="-10584">
+		<node x="-15070" y="-53869" />
+		<node x="-15170" y="-53869" />
+		<node x="-15170" y="-53969" />
+		<node x="-15070" y="-53969" />
+	</territory>
+	<npcmaker name="ritualoffering_6032158248700" territory="ritualoffering_1716902280358" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15120;-53919;-10600;14535" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902281455" minZ="-10600" maxZ="-10584">
+		<node x="-15101" y="-53897" />
+		<node x="-15201" y="-53897" />
+		<node x="-15201" y="-53997" />
+		<node x="-15101" y="-53997" />
+	</territory>
+	<npcmaker name="ritualoffering_6033254777200" territory="ritualoffering_1716902281455" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15151;-53947;-10600;50862" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902284175" minZ="-10600" maxZ="-10584">
+		<node x="-14672" y="-54106" />
+		<node x="-14772" y="-54106" />
+		<node x="-14772" y="-54206" />
+		<node x="-14672" y="-54206" />
+	</territory>
+	<npcmaker name="ritualoffering_6035974653500" territory="ritualoffering_1716902284175" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14722;-54156;-10600;877" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902284737" minZ="-10600" maxZ="-10584">
+		<node x="-14692" y="-54078" />
+		<node x="-14792" y="-54078" />
+		<node x="-14792" y="-54178" />
+		<node x="-14692" y="-54178" />
+	</territory>
+	<npcmaker name="ritualoffering_6036537007600" territory="ritualoffering_1716902284737" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14742;-54128;-10600;22853" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902285237" minZ="-10600" maxZ="-10584">
+		<node x="-14731" y="-54080" />
+		<node x="-14831" y="-54080" />
+		<node x="-14831" y="-54180" />
+		<node x="-14731" y="-54180" />
+	</territory>
+	<npcmaker name="ritualoffering_6037036697200" territory="ritualoffering_1716902285237" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14781;-54130;-10600;48368" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902285924" minZ="-10600" maxZ="-10584">
+		<node x="-14743" y="-54088" />
+		<node x="-14843" y="-54088" />
+		<node x="-14843" y="-54188" />
+		<node x="-14743" y="-54188" />
+	</territory>
+	<npcmaker name="ritualoffering_6037723931300" territory="ritualoffering_1716902285924" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14793;-54138;-10600;18979" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902288174" minZ="-10600" maxZ="-10584">
+		<node x="-14776" y="-53513" />
+		<node x="-14876" y="-53513" />
+		<node x="-14876" y="-53613" />
+		<node x="-14776" y="-53613" />
+	</territory>
+	<npcmaker name="ritualoffering_6039973586300" territory="ritualoffering_1716902288174" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14826;-53563;-10600;21142" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902288643" minZ="-10600" maxZ="-10584">
+		<node x="-14783" y="-53531" />
+		<node x="-14883" y="-53531" />
+		<node x="-14883" y="-53631" />
+		<node x="-14783" y="-53631" />
+	</territory>
+	<npcmaker name="ritualoffering_6040443025700" territory="ritualoffering_1716902288643" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14833;-53581;-10600;45296" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902289143" minZ="-10600" maxZ="-10584">
+		<node x="-14732" y="-53599" />
+		<node x="-14832" y="-53599" />
+		<node x="-14832" y="-53699" />
+		<node x="-14732" y="-53699" />
+	</territory>
+	<npcmaker name="ritualoffering_6040942844400" territory="ritualoffering_1716902289143" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14782;-53649;-10600;62454" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902289890" minZ="-10600" maxZ="-10584">
+		<node x="-14727" y="-53546" />
+		<node x="-14827" y="-53546" />
+		<node x="-14827" y="-53646" />
+		<node x="-14727" y="-53646" />
+	</territory>
+	<npcmaker name="ritualoffering_6041689346400" territory="ritualoffering_1716902289890" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14777;-53596;-10600;15416" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902295767" minZ="-10600" maxZ="-10584">
+		<node x="-16240" y="-52439" />
+		<node x="-16340" y="-52439" />
+		<node x="-16340" y="-52539" />
+		<node x="-16240" y="-52539" />
+	</territory>
+	<npcmaker name="ritualoffering_6047566777300" territory="ritualoffering_1716902295767" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16290;-52489;-10600;27681" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902296922" minZ="-10600" maxZ="-10584">
+		<node x="-16273" y="-52343" />
+		<node x="-16373" y="-52343" />
+		<node x="-16373" y="-52443" />
+		<node x="-16273" y="-52443" />
+	</territory>
+	<npcmaker name="ritualoffering_6048721319200" territory="ritualoffering_1716902296922" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16323;-52393;-10600;57884" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902297516" minZ="-10600" maxZ="-10584">
+		<node x="-16167" y="-52453" />
+		<node x="-16267" y="-52453" />
+		<node x="-16267" y="-52553" />
+		<node x="-16167" y="-52553" />
+	</territory>
+	<npcmaker name="ritualoffering_6049315766800" territory="ritualoffering_1716902297516" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16217;-52503;-10600;56617" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902298264" minZ="-10600" maxZ="-10584">
+		<node x="-16199" y="-52464" />
+		<node x="-16299" y="-52464" />
+		<node x="-16299" y="-52564" />
+		<node x="-16199" y="-52564" />
+	</territory>
+	<npcmaker name="ritualoffering_6050063281900" territory="ritualoffering_1716902298264" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16249;-52514;-10600;30345" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902300048" minZ="-10600" maxZ="-10584">
+		<node x="-16761" y="-52256" />
+		<node x="-16861" y="-52256" />
+		<node x="-16861" y="-52356" />
+		<node x="-16761" y="-52356" />
+	</territory>
+	<npcmaker name="ritualoffering_6051847675800" territory="ritualoffering_1716902300048" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16811;-52306;-10600;30563" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902300486" minZ="-10600" maxZ="-10584">
+		<node x="-16789" y="-52276" />
+		<node x="-16889" y="-52276" />
+		<node x="-16889" y="-52376" />
+		<node x="-16789" y="-52376" />
+	</territory>
+	<npcmaker name="ritualoffering_6052285392200" territory="ritualoffering_1716902300486" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16839;-52326;-10600;39237" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902301078" minZ="-10600" maxZ="-10584">
+		<node x="-16812" y="-52309" />
+		<node x="-16912" y="-52309" />
+		<node x="-16912" y="-52409" />
+		<node x="-16812" y="-52409" />
+	</territory>
+	<npcmaker name="ritualoffering_6052877428100" territory="ritualoffering_1716902301078" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16862;-52359;-10600;63770" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902301546" minZ="-10600" maxZ="-10584">
+		<node x="-16711" y="-52276" />
+		<node x="-16811" y="-52276" />
+		<node x="-16811" y="-52376" />
+		<node x="-16711" y="-52376" />
+	</territory>
+	<npcmaker name="ritualoffering_6053345932500" territory="ritualoffering_1716902301546" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16761;-52326;-10600;7760" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902305705" minZ="-10600" maxZ="-10584">
+		<node x="-16348" y="-51861" />
+		<node x="-16448" y="-51861" />
+		<node x="-16448" y="-51961" />
+		<node x="-16348" y="-51961" />
+	</territory>
+	<npcmaker name="ritualoffering_6057504397100" territory="ritualoffering_1716902305705" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16398;-51911;-10600;12340" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902306079" minZ="-10600" maxZ="-10584">
+		<node x="-16358" y="-51800" />
+		<node x="-16458" y="-51800" />
+		<node x="-16458" y="-51900" />
+		<node x="-16358" y="-51900" />
+	</territory>
+	<npcmaker name="ritualoffering_6057878393000" territory="ritualoffering_1716902306079" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16408;-51850;-10600;34548" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902306586" minZ="-10600" maxZ="-10584">
+		<node x="-16424" y="-51846" />
+		<node x="-16524" y="-51846" />
+		<node x="-16524" y="-51946" />
+		<node x="-16424" y="-51946" />
+	</territory>
+	<npcmaker name="ritualoffering_6058385335200" territory="ritualoffering_1716902306586" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16474;-51896;-10600;52807" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902307187" minZ="-10600" maxZ="-10584">
+		<node x="-16300" y="-51869" />
+		<node x="-16400" y="-51869" />
+		<node x="-16400" y="-51969" />
+		<node x="-16300" y="-51969" />
+	</territory>
+	<npcmaker name="ritualoffering_6058986885400" territory="ritualoffering_1716902307187" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16350;-51919;-10600;2667" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902311758" minZ="-10600" maxZ="-10584">
+		<node x="-17421" y="-52521" />
+		<node x="-17521" y="-52521" />
+		<node x="-17521" y="-52621" />
+		<node x="-17421" y="-52621" />
+	</territory>
+	<npcmaker name="ritualoffering_6063558097000" territory="ritualoffering_1716902311758" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17471;-52571;-10600;38240" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902312169" minZ="-10600" maxZ="-10584">
+		<node x="-17500" y="-52587" />
+		<node x="-17600" y="-52587" />
+		<node x="-17600" y="-52687" />
+		<node x="-17500" y="-52687" />
+	</territory>
+	<npcmaker name="ritualoffering_6063968945200" territory="ritualoffering_1716902312169" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17550;-52637;-10600;59187" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902312642" minZ="-10600" maxZ="-10584">
+		<node x="-17413" y="-52571" />
+		<node x="-17513" y="-52571" />
+		<node x="-17513" y="-52671" />
+		<node x="-17413" y="-52671" />
+	</territory>
+	<npcmaker name="ritualoffering_6064441599600" territory="ritualoffering_1716902312642" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17463;-52621;-10600;8963" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902313205" minZ="-10600" maxZ="-10584">
+		<node x="-17433" y="-52471" />
+		<node x="-17533" y="-52471" />
+		<node x="-17533" y="-52571" />
+		<node x="-17433" y="-52571" />
+	</territory>
+	<npcmaker name="ritualoffering_6065004433200" territory="ritualoffering_1716902313205" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17483;-52521;-10600;28740" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902315453" minZ="-10600" maxZ="-10584">
+		<node x="-17118" y="-52784" />
+		<node x="-17218" y="-52784" />
+		<node x="-17218" y="-52884" />
+		<node x="-17118" y="-52884" />
+	</territory>
+	<npcmaker name="ritualoffering_6067252775600" territory="ritualoffering_1716902315453" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17168;-52834;-10600;63707" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902315830" minZ="-10600" maxZ="-10584">
+		<node x="-17121" y="-52803" />
+		<node x="-17221" y="-52803" />
+		<node x="-17221" y="-52903" />
+		<node x="-17121" y="-52903" />
+	</territory>
+	<npcmaker name="ritualoffering_6067629315500" territory="ritualoffering_1716902315830" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17171;-52853;-10600;47523" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902316268" minZ="-10600" maxZ="-10584">
+		<node x="-17071" y="-52806" />
+		<node x="-17171" y="-52806" />
+		<node x="-17171" y="-52906" />
+		<node x="-17071" y="-52906" />
+	</territory>
+	<npcmaker name="ritualoffering_6068067955600" territory="ritualoffering_1716902316268" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17121;-52856;-10600;7037" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902316643" minZ="-10600" maxZ="-10584">
+		<node x="-17060" y="-52774" />
+		<node x="-17160" y="-52774" />
+		<node x="-17160" y="-52874" />
+		<node x="-17060" y="-52874" />
+	</territory>
+	<npcmaker name="ritualoffering_6068442411300" territory="ritualoffering_1716902316643" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17110;-52824;-10600;26320" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902318532" minZ="-10600" maxZ="-10584">
+		<node x="-17555" y="-53068" />
+		<node x="-17655" y="-53068" />
+		<node x="-17655" y="-53168" />
+		<node x="-17555" y="-53168" />
+	</territory>
+	<npcmaker name="ritualoffering_6070331341800" territory="ritualoffering_1716902318532" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17605;-53118;-10600;40702" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902318907" minZ="-10600" maxZ="-10584">
+		<node x="-17582" y="-53112" />
+		<node x="-17682" y="-53112" />
+		<node x="-17682" y="-53212" />
+		<node x="-17582" y="-53212" />
+	</territory>
+	<npcmaker name="ritualoffering_6070706241900" territory="ritualoffering_1716902318907" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17632;-53162;-10600;65261" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902319531" minZ="-10600" maxZ="-10584">
+		<node x="-17516" y="-53037" />
+		<node x="-17616" y="-53037" />
+		<node x="-17616" y="-53137" />
+		<node x="-17516" y="-53137" />
+	</territory>
+	<npcmaker name="ritualoffering_6071330456600" territory="ritualoffering_1716902319531" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17566;-53087;-10600;13606" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902320002" minZ="-10600" maxZ="-10584">
+		<node x="-17516" y="-53037" />
+		<node x="-17616" y="-53037" />
+		<node x="-17616" y="-53137" />
+		<node x="-17516" y="-53137" />
+	</territory>
+	<npcmaker name="ritualoffering_6071801203100" territory="ritualoffering_1716902320002" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17566;-53087;-10600;31145" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902322499" minZ="-10600" maxZ="-10584">
+		<node x="-17824" y="-52918" />
+		<node x="-17924" y="-52918" />
+		<node x="-17924" y="-53018" />
+		<node x="-17824" y="-53018" />
+	</territory>
+	<npcmaker name="ritualoffering_6074298305000" territory="ritualoffering_1716902322499" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17874;-52968;-10600;32768" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902323037" minZ="-10600" maxZ="-10584">
+		<node x="-17840" y="-52950" />
+		<node x="-17940" y="-52950" />
+		<node x="-17940" y="-53050" />
+		<node x="-17840" y="-53050" />
+	</territory>
+	<npcmaker name="ritualoffering_6074837136300" territory="ritualoffering_1716902323037" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17890;-53000;-10600;44176" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902323640" minZ="-10600" maxZ="-10584">
+		<node x="-17956" y="-52959" />
+		<node x="-18056" y="-52959" />
+		<node x="-18056" y="-53059" />
+		<node x="-17956" y="-53059" />
+	</territory>
+	<npcmaker name="ritualoffering_6075439607300" territory="ritualoffering_1716902323640" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-18006;-53009;-10600;27759" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902324270" minZ="-10600" maxZ="-10584">
+		<node x="-17928" y="-52916" />
+		<node x="-18028" y="-52916" />
+		<node x="-18028" y="-53016" />
+		<node x="-17928" y="-53016" />
+	</territory>
+	<npcmaker name="ritualoffering_6076069297000" territory="ritualoffering_1716902324270" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17978;-52966;-10600;8393" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902326875" minZ="-10600" maxZ="-10584">
+		<node x="-17650" y="-53673" />
+		<node x="-17750" y="-53673" />
+		<node x="-17750" y="-53773" />
+		<node x="-17650" y="-53773" />
+	</territory>
+	<npcmaker name="ritualoffering_6078674762200" territory="ritualoffering_1716902326875" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17700;-53723;-10600;51291" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902327343" minZ="-10600" maxZ="-10584">
+		<node x="-17645" y="-53696" />
+		<node x="-17745" y="-53696" />
+		<node x="-17745" y="-53796" />
+		<node x="-17645" y="-53796" />
+	</territory>
+	<npcmaker name="ritualoffering_6079142651100" territory="ritualoffering_1716902327343" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17695;-53746;-10600;18465" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902327845" minZ="-10600" maxZ="-10584">
+		<node x="-17708" y="-53643" />
+		<node x="-17808" y="-53643" />
+		<node x="-17808" y="-53743" />
+		<node x="-17708" y="-53743" />
+	</territory>
+	<npcmaker name="ritualoffering_6079645017200" territory="ritualoffering_1716902327845" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17758;-53693;-10600;34422" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902328438" minZ="-10600" maxZ="-10584">
+		<node x="-17731" y="-53637" />
+		<node x="-17831" y="-53637" />
+		<node x="-17831" y="-53737" />
+		<node x="-17731" y="-53737" />
+	</territory>
+	<npcmaker name="ritualoffering_6080237410000" territory="ritualoffering_1716902328438" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17781;-53687;-10600;3469" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902354216" minZ="-10600" maxZ="-10584">
+		<node x="-15934" y="-52053" />
+		<node x="-16034" y="-52053" />
+		<node x="-16034" y="-52153" />
+		<node x="-15934" y="-52153" />
+	</territory>
+	<npcmaker name="ritualoffering_6106015885400" territory="ritualoffering_1716902354216" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15984;-52103;-10600;13637" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902354816" minZ="-10600" maxZ="-10584">
+		<node x="-15913" y="-52067" />
+		<node x="-16013" y="-52067" />
+		<node x="-16013" y="-52167" />
+		<node x="-15913" y="-52167" />
+	</territory>
+	<npcmaker name="ritualoffering_6106615358500" territory="ritualoffering_1716902354816" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15963;-52117;-10600;53893" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902355343" minZ="-10600" maxZ="-10584">
+		<node x="-15962" y="-52109" />
+		<node x="-16062" y="-52109" />
+		<node x="-16062" y="-52209" />
+		<node x="-15962" y="-52209" />
+	</territory>
+	<npcmaker name="ritualoffering_6107142887000" territory="ritualoffering_1716902355343" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16012;-52159;-10600;30058" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902355876" minZ="-10600" maxZ="-10584">
+		<node x="-15933" y="-52128" />
+		<node x="-16033" y="-52128" />
+		<node x="-16033" y="-52228" />
+		<node x="-15933" y="-52228" />
+	</territory>
+	<npcmaker name="ritualoffering_6107675263900" territory="ritualoffering_1716902355876" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15983;-52178;-10600;59597" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902363221" minZ="-10600" maxZ="-10584">
+		<node x="-17961" y="-53381" />
+		<node x="-18061" y="-53381" />
+		<node x="-18061" y="-53481" />
+		<node x="-17961" y="-53481" />
+	</territory>
+	<npcmaker name="ritualoffering_6115020706400" territory="ritualoffering_1716902363221" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-18011;-53431;-10600;41752" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902363689" minZ="-10600" maxZ="-10584">
+		<node x="-17989" y="-53408" />
+		<node x="-18089" y="-53408" />
+		<node x="-18089" y="-53508" />
+		<node x="-17989" y="-53508" />
+	</territory>
+	<npcmaker name="ritualoffering_6115488492700" territory="ritualoffering_1716902363689" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-18039;-53458;-10600;10099" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902364194" minZ="-10600" maxZ="-10584">
+		<node x="-17918" y="-53305" />
+		<node x="-18018" y="-53305" />
+		<node x="-18018" y="-53405" />
+		<node x="-17918" y="-53405" />
+	</territory>
+	<npcmaker name="ritualoffering_6115994131700" territory="ritualoffering_1716902364194" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17968;-53355;-10600;10106" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902364702" minZ="-10600" maxZ="-10584">
+		<node x="-17887" y="-53282" />
+		<node x="-17987" y="-53282" />
+		<node x="-17987" y="-53382" />
+		<node x="-17887" y="-53382" />
+	</territory>
+	<npcmaker name="ritualoffering_6116502141900" territory="ritualoffering_1716902364702" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17937;-53332;-10600;46703" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902376177" minZ="-10448" maxZ="-10432">
+		<node x="-17134" y="-53573" />
+		<node x="-17234" y="-53573" />
+		<node x="-17234" y="-53673" />
+		<node x="-17134" y="-53673" />
+	</territory>
+	<npcmaker name="ritualoffering_6127976741200" territory="ritualoffering_1716902376177" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17184;-53623;-10448;2015" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902376673" minZ="-10448" maxZ="-10432">
+		<node x="-17096" y="-53536" />
+		<node x="-17196" y="-53536" />
+		<node x="-17196" y="-53636" />
+		<node x="-17096" y="-53636" />
+	</territory>
+	<npcmaker name="ritualoffering_6128472535400" territory="ritualoffering_1716902376673" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17146;-53586;-10448;8009" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902377174" minZ="-10448" maxZ="-10432">
+		<node x="-17030" y="-53497" />
+		<node x="-17130" y="-53497" />
+		<node x="-17130" y="-53597" />
+		<node x="-17030" y="-53597" />
+	</territory>
+	<npcmaker name="ritualoffering_6128973181800" territory="ritualoffering_1716902377174" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17080;-53547;-10448;60743" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902377642" minZ="-10448" maxZ="-10432">
+		<node x="-17009" y="-53590" />
+		<node x="-17109" y="-53590" />
+		<node x="-17109" y="-53690" />
+		<node x="-17009" y="-53690" />
+	</territory>
+	<npcmaker name="ritualoffering_6129442004300" territory="ritualoffering_1716902377642" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17059;-53640;-10448;45587" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902380368" minZ="-10448" maxZ="-10432">
+		<node x="-16477" y="-53145" />
+		<node x="-16577" y="-53145" />
+		<node x="-16577" y="-53245" />
+		<node x="-16477" y="-53245" />
+	</territory>
+	<npcmaker name="ritualoffering_6132167351500" territory="ritualoffering_1716902380368" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16527;-53195;-10448;10416" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902380998" minZ="-10448" maxZ="-10432">
+		<node x="-16371" y="-53014" />
+		<node x="-16471" y="-53014" />
+		<node x="-16471" y="-53114" />
+		<node x="-16371" y="-53114" />
+	</territory>
+	<npcmaker name="ritualoffering_6132798023000" territory="ritualoffering_1716902380998" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16421;-53064;-10448;60177" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902381470" minZ="-10448" maxZ="-10432">
+		<node x="-16358" y="-53116" />
+		<node x="-16458" y="-53116" />
+		<node x="-16458" y="-53216" />
+		<node x="-16358" y="-53216" />
+	</territory>
+	<npcmaker name="ritualoffering_6133269518100" territory="ritualoffering_1716902381470" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16408;-53166;-10448;46355" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902382154" minZ="-10448" maxZ="-10432">
+		<node x="-16478" y="-53217" />
+		<node x="-16578" y="-53217" />
+		<node x="-16578" y="-53317" />
+		<node x="-16478" y="-53317" />
+	</territory>
+	<npcmaker name="ritualoffering_6133954024800" territory="ritualoffering_1716902382154" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-16528;-53267;-10448;28139" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902386861" minZ="-10448" maxZ="-10432">
+		<node x="-15536" y="-53398" />
+		<node x="-15636" y="-53398" />
+		<node x="-15636" y="-53498" />
+		<node x="-15536" y="-53498" />
+	</territory>
+	<npcmaker name="ritualoffering_6138660954100" territory="ritualoffering_1716902386861" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15586;-53448;-10448;63115" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902387299" minZ="-10448" maxZ="-10432">
+		<node x="-15545" y="-53381" />
+		<node x="-15645" y="-53381" />
+		<node x="-15645" y="-53481" />
+		<node x="-15545" y="-53481" />
+	</territory>
+	<npcmaker name="ritualoffering_6139098969100" territory="ritualoffering_1716902387299" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15595;-53431;-10448;21638" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902387829" minZ="-10448" maxZ="-10432">
+		<node x="-15668" y="-53346" />
+		<node x="-15768" y="-53346" />
+		<node x="-15768" y="-53446" />
+		<node x="-15668" y="-53446" />
+	</territory>
+	<npcmaker name="ritualoffering_6139628216800" territory="ritualoffering_1716902387829" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15718;-53396;-10448;34248" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902388547" minZ="-10448" maxZ="-10432">
+		<node x="-15640" y="-53390" />
+		<node x="-15740" y="-53390" />
+		<node x="-15740" y="-53490" />
+		<node x="-15640" y="-53490" />
+	</territory>
+	<npcmaker name="ritualoffering_6140346217300" territory="ritualoffering_1716902388547" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15690;-53440;-10448;55404" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902477734" minZ="-10600" maxZ="-10584">
+		<node x="-17981" y="-53845" />
+		<node x="-18081" y="-53845" />
+		<node x="-18081" y="-53945" />
+		<node x="-17981" y="-53945" />
+	</territory>
+	<npcmaker name="ritualoffering_6229534080500" territory="ritualoffering_1716902477734" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-18031;-53895;-10600;38057" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902478298" minZ="-10600" maxZ="-10584">
+		<node x="-18000" y="-53877" />
+		<node x="-18100" y="-53877" />
+		<node x="-18100" y="-53977" />
+		<node x="-18000" y="-53977" />
+	</territory>
+	<npcmaker name="ritualoffering_6230097316300" territory="ritualoffering_1716902478298" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-18050;-53927;-10600;55230" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902478829" minZ="-10600" maxZ="-10584">
+		<node x="-17899" y="-53870" />
+		<node x="-17999" y="-53870" />
+		<node x="-17999" y="-53970" />
+		<node x="-17899" y="-53970" />
+	</territory>
+	<npcmaker name="ritualoffering_6230628594000" territory="ritualoffering_1716902478829" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17949;-53920;-10600;6759" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902479332" minZ="-10600" maxZ="-10584">
+		<node x="-17915" y="-53901" />
+		<node x="-18015" y="-53901" />
+		<node x="-18015" y="-54001" />
+		<node x="-17915" y="-54001" />
+	</territory>
+	<npcmaker name="ritualoffering_6231131313800" territory="ritualoffering_1716902479332" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17965;-53951;-10600;44287" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902482656" minZ="-10600" maxZ="-10584">
+		<node x="-17430" y="-53179" />
+		<node x="-17530" y="-53179" />
+		<node x="-17530" y="-53279" />
+		<node x="-17430" y="-53279" />
+	</territory>
+	<npcmaker name="ritualoffering_6234455320400" territory="ritualoffering_1716902482656" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17480;-53229;-10600;12751" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902485033" minZ="-10600" maxZ="-10584">
+		<node x="-17216" y="-52451" />
+		<node x="-17316" y="-52451" />
+		<node x="-17316" y="-52551" />
+		<node x="-17216" y="-52551" />
+	</territory>
+	<npcmaker name="ritualoffering_6236833052500" territory="ritualoffering_1716902485033" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17266;-52501;-10600;14260" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902486814" minZ="-10600" maxZ="-10584">
+		<node x="-16691" y="-52628" />
+		<node x="-16791" y="-52628" />
+		<node x="-16791" y="-52728" />
+		<node x="-16691" y="-52728" />
+	</territory>
+	<npcmaker name="ritualoffering_6238613191300" territory="ritualoffering_1716902486814" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16741;-52678;-10600;58223" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+	<territory name="ritualoffering_1716902491391" minZ="-10600" maxZ="-10584">
+		<node x="-15835" y="-52783" />
+		<node x="-15935" y="-52783" />
+		<node x="-15935" y="-52883" />
+		<node x="-15835" y="-52883" />
+	</territory>
+	<npcmaker name="ritualoffering_6243190517000" territory="ritualoffering_1716902491391" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15885;-52833;-10600;56201" total="1" respawnDelay="30s" /> <!-- Ritual Offering -->
+	</npcmaker>
+</list>

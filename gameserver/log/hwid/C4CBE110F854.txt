@@ -1,0 +1,4 @@
+07/07/2024 14:41:29 >>> HWID: [C4CBE110F854] >>> Player: [Arcanjo]
+07/07/2024 14:48:11 >>> HWID: [C4CBE110F854] >>> Player: [Arcanjo]
+07/07/2024 14:56:48 >>> HWID: [C4CBE110F854] >>> Player: [Arcanjo]
+07/07/2024 21:49:17 >>> HWID: [C4CBE110F854] >>> Player: [Arcanjo]

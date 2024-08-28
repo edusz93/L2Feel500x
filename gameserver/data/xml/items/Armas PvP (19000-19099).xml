@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="19000" type="Weapon" name="Arcana Mace - Acumen (PvP)">
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3047-2" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19001" type="Weapon" name="Arcana Mace - MP Regeneration (PvP)">
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3576-1" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19002" type="Weapon" name="Arcana Mace - Mana Up (PvP)">
+		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3014-2" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19003" type="Weapon" name="Draconic Bow - Cheap Shot (PvP)">
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="mp_consume_reduce" val="26,1" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19004" type="Weapon" name="Draconic Bow - Focus (PvP)">
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3567-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19005" type="Weapon" name="Draconic Bow - Critical Slow (PvP)">
+		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19006" type="Weapon" name="Shining Bow - Cheap Shot (PvP)">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="mp_consume_reduce" val="26,1" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19007" type="Weapon" name="Shining Bow - Focus (PvP)">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3567-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19008" type="Weapon" name="Shining Bow - Crt. Slow (PvP)">
+		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19009" type="Weapon" name="Heavens Divider - Haste (PvP)">
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19010" type="Weapon" name="Heavens Divider - Health (PvP)">
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19011" type="Weapon" name="Heavens Divider - Focus (PvP)">
+		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3566-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19012" type="Weapon" name="Angel Slayer - Crt. Damage (PvP)">
+		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3572-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19013" type="Weapon" name="Angel Slayer - HP Drain (PvP)">
+		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19014" type="Weapon" name="Angel Slayer - Haste (PvP)">
+		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19015" type="Weapon" name="Forgotten Blade - Haste (PvP)">
+		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19016" type="Weapon" name="Forgotten Blade - Health (PvP)">
+		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19017" type="Weapon" name="Forgotten Blade - Focus (PvP)">
+		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3566-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19018" type="Weapon" name="Basalt Battlehammer - HP Drain (PvP)">
+		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19019" type="Weapon" name="Basalt Battlehammer - Health (PvP)">
+		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19020" type="Weapon" name="Basalt Battlehammer - HP Regeneration (PvP)">
+		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3569-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19021" type="Weapon" name="Imperial Staff - Empower (PvP)">
+		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3575-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19022" type="Weapon" name="Imperial Staff - MP Regeneration (PvP)">
+		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3576-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19023" type="Weapon" name="Imperial Staff - Magic Hold (PvP)">
+		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="20" />
+		<set name="oncast_skill" val="3577-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19024" type="Weapon" name="Dragon Hunter Axe - HP Regeneration (PvP)">
+		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3569-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19025" type="Weapon" name="Dragon Hunter Axe - Health (PvP)">
+		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19026" type="Weapon" name="Dragon Hunter Axe - HP Drain (PvP)">
+		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19027" type="Weapon" name="Saint Spear - Health (PvP)">
+		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-4" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19028" type="Weapon" name="Saint Spear - Guidance (PvP)">
+		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3602-9" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19029" type="Weapon" name="Saint Spear - Haste (PvP)">
+		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3601-9" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19030" type="Weapon" name="Demon Splinter - Focus (PvP)">
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3565-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19031" type="Weapon" name="Demon Splinter - Health (PvP)">
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19032" type="Weapon" name="Demon Splinter - Crt. Stun (PvP)">
+		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncrit_chance" val="27" />
+		<set name="oncrit_skill" val="3571-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="19033" type="Weapon" name="Tallum Blade*Dark Legion's Edge (PvP)">
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2080" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant4_skill" val="3570-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.10" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.05" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="tryskell_1698793490109" minZ="-2992" maxZ="-2976">
+		<node x="-115834" y="-251018" />
+		<node x="-115934" y="-251018" />
+		<node x="-115934" y="-251118" />
+		<node x="-115834" y="-251118" />
+	</territory>
+	<npcmaker name="tryskell_4152864559013858" territory="tryskell_1698793490109" spawn="ALL" maximumNpcs="1">
+		<npc id="50002" pos="-115884;-251068;-2992;32896" total="1" respawnDelay="60s" /> <!-- Tryskell -->
+	</npcmaker>
+</list>

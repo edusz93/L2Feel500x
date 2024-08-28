@@ -1,0 +1,32 @@
+[18-08-2024 10:16:49]	INFO	-----------------------------------------------=[ Config ]
+[18-08-2024 10:16:49]	INFO	Loading loginserver configuration files.
+[18-08-2024 10:16:49]	INFO	----------------------------------------------=[ Poolers ]
+[18-08-2024 10:16:49]	INFO	Initializing ConnectionPool.
+[18-08-2024 10:16:49]	INFO	--------------------------------------=[ LoginController ]
+[18-08-2024 10:16:52]	INFO	Cached 10 KeyPairs for RSA communication.
+[18-08-2024 10:16:52]	INFO	Stored 20 keys for Blowfish communication.
+[18-08-2024 10:16:52]	INFO	------------------------------------=[ GameServerManager ]
+[18-08-2024 10:16:52]	INFO	Loaded 127 server names.
+[18-08-2024 10:16:52]	INFO	Loaded 1 registered gameserver(s).
+[18-08-2024 10:16:53]	INFO	Cached 10 RSA keys for gameserver communication.
+[18-08-2024 10:16:53]	INFO	---------------------------------------------=[ Ban List ]
+[18-08-2024 10:16:53]	INFO	Loaded 1 banned IP(s).
+[18-08-2024 10:16:53]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
+[18-08-2024 10:16:53]	INFO	Listening for gameservers on *:9014.
+[18-08-2024 10:16:53]	INFO	Loginserver ready on *:2106.
+[18-08-2024 10:16:53]	INFO	------------------------=[ Waiting for gameserver answer ]
+[18-08-2024 10:30:00]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 10:32:26]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 10:33:33]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 10:36:33]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 10:44:30]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 11:02:53]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 11:04:12]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 11:14:13]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 11:16:09]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 11:51:50]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 11:55:10]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 12:14:29]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 12:16:10]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[18-08-2024 12:35:42]	INFO	GameServer [1] Ignis is now set as disconnected.
+[18-08-2024 12:39:05]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.

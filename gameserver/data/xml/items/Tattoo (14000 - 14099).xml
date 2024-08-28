@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="14000" type="Armor" name="Tattoo of Fighter">
+		<set name="icon" val="icon.etc_str_symbol_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.03" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.03" />
+		</for>
+	</item>
+	<item id="14001" type="Armor" name="Tattoo of Mage">
+		<set name="icon" val="icon.etc_wit_symbol_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.03" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.01" />
+		</for>
+	</item>
+	<item id="14002" type="Armor" name="Tattoo of Runner">
+		<set name="icon" val="icon.etc_dex_symbol_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="runSpd" val="1.15" />
+		</for>
+	</item>
+
+
+
+					<!-- Tattoo Left -->
+	<item id="14020" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.etc_int_symbol_i01" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add stat="INT" val="2" />
+		</for>
+	</item>
+	<item id="14021" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.etc_dex_symbol_i01" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add stat="DEX" val="2" />
+		</for>
+	</item>
+	<item id="14022" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.etc_str_symbol_i01" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add stat="STR" val="2" />
+		</for>
+	</item>
+	<item id="14023" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.etc_con_symbol_i01" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add stat="CON" val="2" />
+		</for>
+	</item>
+			<!-- Tattoo de classe AINDA NAO EDITEI AQUI PRA BAIXO-->
+	<item id="14024" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.skill1328" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<add stat="giveHp" val="79" /> <!-- heal empower lvl 10 -->
+			<mul stat="MagicalMpConsumeRate" val="0.90"/> <!-- -10% gasto de mana -->
+			<mul stat="runSpd" val="1.05" /> <!-- run speed +5% -->
+		</for>
+	</item>
+	<item id="14025" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.skill0434" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul stat="mAtk" val="1.05" /> <!-- 5% mattack -->
+			<mul stat="mAtkSpd" val="1.05" /> <!-- 5% casting speed -->
+			<mul stat="runSpd" val="1.05" /> <!-- run speed +5% -->
+		</for>
+	</item>
+	<item id="14026" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.skill0430" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul stat="pAtk" val="1.05"/> <!-- 5% patk -->
+			<mul stat="pAtkSpd" val="1.05"/> <!-- 5% atk speed -->
+		</for>
+	</item>
+	<item id="14027" type="Armor" name="Tattoo Left">
+		<set name="icon" val="icon.skill0432" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul stat="cAtk" val="1.05" /> <!-- 5% critical power -->
+			<add stat="rEvas" val="2"/> <!-- 2 de evasion -->
+			<mul stat="mDef" val="1.05"/> <!-- 5% de Mdef -->
+		</for>
+	</item>
+	<item id="14028" type="Armor" name="Tattoo Left"> <!-- por attack a mais e tirar defesa -->
+		<set name="icon" val="icon.skill0094" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="face" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="36900" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul stat="mAtk" val="1.10"/> <!-- 10% matk -->
+			<mul stat="pAtk" val="1.10"/> <!-- 10% patk -->
+			<mul stat="mDef" val="0.85"/> <!-- -15% mdef -->
+			<mul stat="pDef" val="0.85"/> <!-- -15% pdef -->
+			<mul stat="mAtkSpd" val="1.05"/> <!-- 5% casting speed -->
+			<mul stat="pAtkSpd" val="1.05"/> <!-- 5% atk speed -->
+		</for>
+	</item>
+	<item id="14029" type="Armor" name="Tattoo of Fighter lvl 2">
+		<set name="icon" val="icon.skill5085" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.10" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.06" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.06" />
+		</for>
+	</item>
+	<item id="14030" type="Armor" name="Tattoo of Mage lvl 2">
+		<set name="icon" val="icon.skill5086" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.06" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+		</for>
+	</item>
+</list>

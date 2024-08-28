@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<item id="12000" type="Armor" name="Blessed Earring of Antharas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_antaras_i02" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7301-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12001" type="Armor" name="Blessed Necklace of Valakas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_valakas_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7300-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12002" type="Armor" name="Blessed Ring of Baium">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_baium_i03" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7303-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12003" type="Armor" name="Blessed Zaken's Earring">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_zaken_i03" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7302-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12004" type="Armor" name="Blessed Ring of Queen Ant">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_queen_ant_i03" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7304-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12005" type="Armor" name="Blessed Earring of Orfen">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_orfen_i03" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="104" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="item_skill" val="7305-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<add stat="STR" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12006" type="Armor" name="Blessed Frintezza's Necklace">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_frintessa_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="item_skill" val="7306-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<add stat="mDef" val="100" />
+			<add stat="pDef" val="100" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12007" type="Armor" name="Blessed Ring of Core">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_core_i03" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="69" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="item_skill" val="7307-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<add stat="INT" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12008" type="Armor" name="Master Earring of Antharas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_antaras_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7309-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12009" type="Armor" name="Master Necklace of Valakas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_valakas_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7308-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12010" type="Armor" name="Master Ring of Baium">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_baium_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7311-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12011" type="Armor" name="Master Zaken's Earring">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_zaken_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7310-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12012" type="Armor" name="Master Ring of Queen Ant">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_queen_ant_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7312-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12013" type="Armor" name="Master Earring of Orfen">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_orfen_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="104" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="item_skill" val="7313-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<add stat="STR" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12014" type="Armor" name="Master Frintezza's Necklace">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_frintessa_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="item_skill" val="7314-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<add stat="mDef" val="100" />
+			<add stat="pDef" val="100" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12015" type="Armor" name="Master Ring of Core">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_core_i04" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="69" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="item_skill" val="7315-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<add stat="INT" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12016" type="Armor" name="Epic Earring of Antharas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_antaras_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7317-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12017" type="Armor" name="Epic Necklace of Valakas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_valakas_i06" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7316-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12018" type="Armor" name="Epic Ring of Baium">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_baium_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7319-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12019" type="Armor" name="Epic Zaken's Earring">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_zaken_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7318-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12020" type="Armor" name="Epic Ring of Queen Ant">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_queen_ant_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7320-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12021" type="Armor" name="Epic Earring of Orfen">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_orfen_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="104" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="item_skill" val="7321-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<add stat="STR" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12022" type="Armor" name="Epic Frintezza's Necklace">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_frintessa_i06" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="item_skill" val="7322-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<add stat="mDef" val="100" />
+			<add stat="pDef" val="100" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12023" type="Armor" name="Epic Ring of Core">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_core_i05" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="69" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="item_skill" val="7323-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<add stat="INT" val="2" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12024" type="EtcItem" name="Blessed Antharas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_AntharasBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12025" type="EtcItem" name="Blessed Valakas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ValakasBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12026" type="EtcItem" name="Blessed Baium Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_BaiumBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12027" type="EtcItem" name="Blessed Zaken Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ZakenBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12028" type="EtcItem" name="Blessed Queen Ant Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_QueenAntBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12029" type="EtcItem" name="Blessed Orfen Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_OrfenBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12030" type="EtcItem" name="Blessed Frintezza Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_FrintezzaBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12031" type="EtcItem" name="Blessed Core Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_CoreBlessed" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="False" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12032" type="EtcItem" name="Master Antharas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_AntharasMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12033" type="EtcItem" name="Master Valakas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ValakasMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12034" type="EtcItem" name="Master Baium Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_BaiumMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12035" type="EtcItem" name="Master Zaken Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ZakenMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12036" type="EtcItem" name="Master Queen Ant Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_QueenAntMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12037" type="EtcItem" name="Master Orfen Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_OrfenMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12038" type="EtcItem" name="Master Frintezza Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_FrintezzaMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12039" type="EtcItem" name="Master Core Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_CoreMaster" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12040" type="EtcItem" name="Epic Antharas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_AntharasEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12041" type="EtcItem" name="Epic Valakas Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ValakasEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12042" type="EtcItem" name="Epic Baium Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_BaiumEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12043" type="EtcItem" name="Epic Zaken Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_ZakenEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12044" type="EtcItem" name="Epic Queen Ant Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_QueenAntEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12045" type="EtcItem" name="Epic Orfen Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_OrfenEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12046" type="EtcItem" name="Epic Frintezza Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_FrintezzaEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12047" type="EtcItem" name="Epic Core Fragment">
+		<set name="icon" val="L2JBrazuca.icons.Black_CoreEpic" />
+		<set name="material" val="PAPER" />
+		<set name="weight" val="10" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="price" val="500000" />
+	</item>
+	<item id="12048" type="Armor" name="Olympiad Earring of Antharas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_antaras_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7325-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12049" type="Armor" name="Olympiad Necklace of Valakas">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_valakas_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7324-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12050" type="Armor" name="Olympiad Ring of Baium">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_baium_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7327-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12051" type="Armor" name="Olympiad Zaken's Earring">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_zaken_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7326-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12052" type="Armor" name="Olympiad Ring of Queen Ant">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_queen_ant_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7328-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12053" type="Armor" name="Olympiad Earring of Orfen">
+		<set name="icon" val="L2JBrazuca.icons.accessory_earring_of_orfen_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="104" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="item_skill" val="7329-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12054" type="Armor" name="Olympiad Frintezza's Necklace">
+		<set name="icon" val="L2JBrazuca.icons.accessory_necklace_of_frintessa_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="item_skill" val="7330-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12055" type="Armor" name="Olympiad Ring of Core">
+		<set name="icon" val="L2JBrazuca.icons.accessory_ring_of_core_i00Olympic" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="69" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="item_skill" val="7331-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12056" type="Armor" name="PvP Earring of Antharas">
+		<set name="icon" val="L2JBrazuca.icons.Antharas_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7333-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12057" type="Armor" name="PvP Necklace of Valakas">
+		<set name="icon" val="L2JBrazuca.icons.Valakas_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7332-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12058" type="Armor" name="PvP Ring of Baium">
+		<set name="icon" val="L2JBrazuca.icons.Baium_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7335-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12059" type="Armor" name="PvP Zaken's Earring">
+		<set name="icon" val="L2JBrazuca.icons.Zaken_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7334-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12060" type="Armor" name="PvP Ring of Queen Ant">
+		<set name="icon" val="L2JBrazuca.icons.QueenAnt_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="7336-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12061" type="Armor" name="PvP Earring of Orfen">
+		<set name="icon" val="L2JBrazuca.icons.Orfen_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="104" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1300000" />
+		<set name="item_skill" val="7337-1" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12062" type="Armor" name="PvP Frintezza's Necklace">
+		<set name="icon" val="L2JBrazuca.icons.Frintezza_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="item_skill" val="7338-1" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="12063" type="Armor" name="PvP Ring of Core">
+		<set name="icon" val="L2JBrazuca.icons.Core_PvP" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="69" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="870000" />
+		<set name="item_skill" val="7339-1" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+</list>

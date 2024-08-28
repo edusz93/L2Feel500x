@@ -1,0 +1,4 @@
+06/08/2024 19:22:14 >>> HWID: [00E04F29D411] >>> Player: [Iguinzera]
+06/08/2024 19:46:23 >>> HWID: [00E04F29D411] >>> Player: [TXC]
+06/08/2024 19:55:24 >>> HWID: [00E04F29D411] >>> Player: [Iguinzera]
+06/08/2024 19:56:05 >>> HWID: [00E04F29D411] >>> Player: [TXC]

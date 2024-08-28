@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Blacksmith of Mammon - Unseal S-Grade Armor. -->
+<list maintainEnchantment="true">
+	<npcs>
+		<npc>31126</npc> <!-- Blacksmith of Mammon -->
+		<npc>50010</npc> <!-- Blacksmith of Mammon -->
+	</npcs>
+	<item>
+		<production id="6373" count="1"/>
+		<ingredient id="6674" count="1"/>
+		<ingredient id="5575" count="1072500"/>
+	</item>
+	<item>
+		<production id="6374" count="1"/>
+		<ingredient id="6675" count="1"/>
+		<ingredient id="5575" count="672000"/>
+	</item>
+	<item>
+		<production id="6375" count="1"/>
+		<ingredient id="6676" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6376" count="1"/>
+		<ingredient id="6677" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6377" count="1"/>
+		<ingredient id="6678" count="1"/>
+		<ingredient id="5575" count="282000"/>
+	</item>
+	<item>
+		<production id="6378" count="1"/>
+		<ingredient id="6679" count="1"/>
+		<ingredient id="5575" count="402750"/>
+	</item>
+	<item>
+		<production id="6379" count="1"/>
+		<ingredient id="6680" count="1"/>
+		<ingredient id="5575" count="1305000"/>
+	</item>
+	<item>
+		<production id="6380" count="1"/>
+		<ingredient id="6681" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6381" count="1"/>
+		<ingredient id="6682" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6382" count="1"/>
+		<ingredient id="6683" count="1"/>
+		<ingredient id="5575" count="402750"/>
+	</item>
+	<item>
+		<production id="6383" count="1"/>
+		<ingredient id="6684" count="1"/>
+		<ingredient id="5575" count="1305000"/>
+	</item>
+	<item>
+		<production id="6384" count="1"/>
+		<ingredient id="6685" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6385" count="1"/>
+		<ingredient id="6686" count="1"/>
+		<ingredient id="5575" count="268500"/>
+	</item>
+	<item>
+		<production id="6386" count="1"/>
+		<ingredient id="6687" count="1"/>
+		<ingredient id="5575" count="402750"/>
+	</item>
+	<item>
+		<production id="858" count="1"/>
+		<ingredient id="6724" count="1"/>
+		<ingredient id="5575" count="731441"/>
+	</item>
+	<item>
+		<production id="889" count="1"/>
+		<ingredient id="6725" count="1"/>
+		<ingredient id="5575" count="487627"/>
+	</item>
+	<item>
+		<production id="920" count="1"/>
+		<ingredient id="6726" count="1"/>
+		<ingredient id="5575" count="975255"/>
+	</item>
+	
+	<!-- Set titanium -->
+	<item>
+		<production id="15000" count="1"/>
+		<ingredient id="15010" count="1"/>
+		<ingredient id="5575" count="40275000"/>
+	</item>
+	<item>
+		<production id="15001" count="1"/>
+		<ingredient id="15011" count="1"/>
+		<ingredient id="5575" count="130500000"/>
+	</item>
+	<item>
+		<production id="15002" count="1"/>
+		<ingredient id="15012" count="1"/>
+		<ingredient id="5575" count="26850000"/>
+	</item>
+	<item>
+		<production id="15003" count="1"/>
+		<ingredient id="15013" count="1"/>
+		<ingredient id="5575" count="26850000"/>
+	</item>
+	<item>
+		<production id="15004" count="1"/>
+		<ingredient id="15014" count="1"/>
+		<ingredient id="5575" count="40275000"/>
+	</item>
+	<item>
+		<production id="15005" count="1"/>
+		<ingredient id="15015" count="1"/>
+		<ingredient id="5575" count="40275000"/>
+	</item>
+	<item>
+		<production id="15006" count="1"/>
+		<ingredient id="15016" count="1"/>
+		<ingredient id="5575" count="130500000"/>
+	</item>
+	<item>
+		<production id="15007" count="1"/>
+		<ingredient id="15017" count="1"/>
+		<ingredient id="5575" count="26850000"/>
+	</item>
+	<item>
+		<production id="15008" count="1"/>
+		<ingredient id="15018" count="1"/>
+		<ingredient id="5575" count="26850000"/>
+	</item>
+	<item>
+		<production id="15009" count="1"/>
+		<ingredient id="15019" count="1"/>
+		<ingredient id="5575" count="40275000"/>
+	</item>
+</list>

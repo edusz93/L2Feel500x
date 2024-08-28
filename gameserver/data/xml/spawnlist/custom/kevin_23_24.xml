@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="kevin_1722553330339" minZ="-3544" maxZ="-3528">
+		<node x="111471" y="219464" />
+		<node x="111371" y="219464" />
+		<node x="111371" y="219364" />
+		<node x="111471" y="219364" />
+	</territory>
+	<npcmaker name="kevin_2494055883229946" territory="kevin_1722553330339" spawn="ALL" maximumNpcs="1">
+		<npc id="50010" pos="111421;219414;-3544;36736" total="1" respawnDelay="60s" /> <!-- Kevin -->
+	</npcmaker>
+</list>

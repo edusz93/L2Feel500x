@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="ritualsacrifice_1716853055896" minZ="-10816" maxZ="-10800">
+		<node x="-16997" y="-47126" />
+		<node x="-17097" y="-47126" />
+		<node x="-17097" y="-47226" />
+		<node x="-16997" y="-47226" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3270749918700" territory="ritualsacrifice_1716853055896" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17047;-47176;-10816;58273" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853090408" minZ="-10816" maxZ="-10800">
+		<node x="-18760" y="-47581" />
+		<node x="-18860" y="-47581" />
+		<node x="-18860" y="-47681" />
+		<node x="-18760" y="-47681" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3305262759800" territory="ritualsacrifice_1716853090408" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-18810;-47631;-10816;1435" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853122300" minZ="-10816" maxZ="-10800">
+		<node x="-20182" y="-46542" />
+		<node x="-20282" y="-46542" />
+		<node x="-20282" y="-46642" />
+		<node x="-20182" y="-46642" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3337153684800" territory="ritualsacrifice_1716853122300" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20232;-46592;-10816;7525" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853135406" minZ="-10816" maxZ="-10800">
+		<node x="-19519" y="-47027" />
+		<node x="-19619" y="-47027" />
+		<node x="-19619" y="-47127" />
+		<node x="-19519" y="-47127" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3350259969400" territory="ritualsacrifice_1716853135406" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-19569;-47077;-10816;18822" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853172610" minZ="-10720" maxZ="-10704">
+		<node x="-17887" y="-45145" />
+		<node x="-17987" y="-45145" />
+		<node x="-17987" y="-45245" />
+		<node x="-17887" y="-45245" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3387463340500" territory="ritualsacrifice_1716853172610" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17937;-45195;-10720;51326" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853186177" minZ="-10720" maxZ="-10704">
+		<node x="-19235" y="-45647" />
+		<node x="-19335" y="-45647" />
+		<node x="-19335" y="-45747" />
+		<node x="-19235" y="-45747" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3401030967600" territory="ritualsacrifice_1716853186177" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-19285;-45697;-10720;42169" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853206020" minZ="-10720" maxZ="-10704">
+		<node x="-20353" y="-45152" />
+		<node x="-20453" y="-45152" />
+		<node x="-20453" y="-45252" />
+		<node x="-20353" y="-45252" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3420874236300" territory="ritualsacrifice_1716853206020" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20403;-45202;-10720;45853" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853248730" minZ="-10720" maxZ="-10704">
+		<node x="-15588" y="-45852" />
+		<node x="-15688" y="-45852" />
+		<node x="-15688" y="-45952" />
+		<node x="-15588" y="-45952" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3463583619500" territory="ritualsacrifice_1716853248730" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15638;-45902;-10720;62283" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853278542" minZ="-10720" maxZ="-10704">
+		<node x="-13214" y="-45532" />
+		<node x="-13314" y="-45532" />
+		<node x="-13314" y="-45632" />
+		<node x="-13214" y="-45632" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3493395164600" territory="ritualsacrifice_1716853278542" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-13264;-45582;-10720;56140" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853291385" minZ="-10720" maxZ="-10704">
+		<node x="-12179" y="-45511" />
+		<node x="-12279" y="-45511" />
+		<node x="-12279" y="-45611" />
+		<node x="-12179" y="-45611" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3506238336700" territory="ritualsacrifice_1716853291385" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12229;-45561;-10720;6711" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853301312" minZ="-10720" maxZ="-10704">
+		<node x="-11764" y="-44496" />
+		<node x="-11864" y="-44496" />
+		<node x="-11864" y="-44596" />
+		<node x="-11764" y="-44596" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3516166575800" territory="ritualsacrifice_1716853301312" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-11814;-44546;-10720;5911" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853359182" minZ="-10816" maxZ="-10800">
+		<node x="-17598" y="-47451" />
+		<node x="-17698" y="-47451" />
+		<node x="-17698" y="-47551" />
+		<node x="-17598" y="-47551" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3574036572100" territory="ritualsacrifice_1716853359182" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17648;-47501;-10816;9970" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853372723" minZ="-10816" maxZ="-10800">
+		<node x="-15288" y="-47798" />
+		<node x="-15388" y="-47798" />
+		<node x="-15388" y="-47898" />
+		<node x="-15288" y="-47898" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3587577229800" territory="ritualsacrifice_1716853372723" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15338;-47848;-10816;57647" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853400652" minZ="-10816" maxZ="-10800">
+		<node x="-13980" y="-47638" />
+		<node x="-14080" y="-47638" />
+		<node x="-14080" y="-47738" />
+		<node x="-13980" y="-47738" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3615505103800" territory="ritualsacrifice_1716853400652" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-14030;-47688;-10816;35649" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853415474" minZ="-10816" maxZ="-10800">
+		<node x="-12091" y="-47532" />
+		<node x="-12191" y="-47532" />
+		<node x="-12191" y="-47632" />
+		<node x="-12091" y="-47632" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3630328642900" territory="ritualsacrifice_1716853415474" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12141;-47582;-10816;13173" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853473102" minZ="-10912" maxZ="-10896">
+		<node x="-19459" y="-48594" />
+		<node x="-19559" y="-48594" />
+		<node x="-19559" y="-48694" />
+		<node x="-19459" y="-48694" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3687956507000" territory="ritualsacrifice_1716853473102" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-19509;-48644;-10912;35026" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853479428" minZ="-10912" maxZ="-10896">
+		<node x="-18966" y="-49375" />
+		<node x="-19066" y="-49375" />
+		<node x="-19066" y="-49475" />
+		<node x="-18966" y="-49475" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3694281141200" territory="ritualsacrifice_1716853479428" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-19016;-49425;-10912;64645" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853545032" minZ="-10912" maxZ="-10896">
+		<node x="-13676" y="-49617" />
+		<node x="-13776" y="-49617" />
+		<node x="-13776" y="-49717" />
+		<node x="-13676" y="-49717" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3759885297900" territory="ritualsacrifice_1716853545032" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-13726;-49667;-10912;54261" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853565117" minZ="-10912" maxZ="-10896">
+		<node x="-12246" y="-48932" />
+		<node x="-12346" y="-48932" />
+		<node x="-12346" y="-49032" />
+		<node x="-12246" y="-49032" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3779970725900" territory="ritualsacrifice_1716853565117" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12296;-48982;-10912;22552" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853609815" minZ="-11008" maxZ="-10992">
+		<node x="-13161" y="-50753" />
+		<node x="-13261" y="-50753" />
+		<node x="-13261" y="-50853" />
+		<node x="-13161" y="-50853" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3824669849200" territory="ritualsacrifice_1716853609815" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-13211;-50803;-11008;53586" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853628421" minZ="-11008" maxZ="-10992">
+		<node x="-11972" y="-50805" />
+		<node x="-12072" y="-50805" />
+		<node x="-12072" y="-50905" />
+		<node x="-11972" y="-50905" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3843274398700" territory="ritualsacrifice_1716853628421" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12022;-50855;-11008;22695" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853658729" minZ="-11008" maxZ="-10992">
+		<node x="-18573" y="-51218" />
+		<node x="-18673" y="-51218" />
+		<node x="-18673" y="-51318" />
+		<node x="-18573" y="-51318" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3873582817800" territory="ritualsacrifice_1716853658729" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-18623;-51268;-11008;54978" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853672228" minZ="-11008" maxZ="-10992">
+		<node x="-20150" y="-50691" />
+		<node x="-20250" y="-50691" />
+		<node x="-20250" y="-50791" />
+		<node x="-20150" y="-50791" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3887082119600" territory="ritualsacrifice_1716853672228" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20200;-50741;-11008;11811" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853718144" minZ="-10936" maxZ="-10920">
+		<node x="-12578" y="-52415" />
+		<node x="-12678" y="-52415" />
+		<node x="-12678" y="-52515" />
+		<node x="-12578" y="-52515" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3932998472800" territory="ritualsacrifice_1716853718144" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12628;-52465;-10936;19424" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853726648" minZ="-11112" maxZ="-11096">
+		<node x="-12803" y="-54557" />
+		<node x="-12903" y="-54557" />
+		<node x="-12903" y="-54657" />
+		<node x="-12803" y="-54657" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3941501695500" territory="ritualsacrifice_1716853726648" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12853;-54607;-11112;42317" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853744873" minZ="-11560" maxZ="-11544">
+		<node x="-15470" y="-54528" />
+		<node x="-15570" y="-54528" />
+		<node x="-15570" y="-54628" />
+		<node x="-15470" y="-54628" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3959726677900" territory="ritualsacrifice_1716853744873" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15520;-54578;-11560;53819" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853751487" minZ="-11560" maxZ="-11544">
+		<node x="-16349" y="-53747" />
+		<node x="-16449" y="-53747" />
+		<node x="-16449" y="-53847" />
+		<node x="-16349" y="-53847" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3966340800500" territory="ritualsacrifice_1716853751487" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-16399;-53797;-11560;15631" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853761565" minZ="-11560" maxZ="-11544">
+		<node x="-17256" y="-54063" />
+		<node x="-17356" y="-54063" />
+		<node x="-17356" y="-54163" />
+		<node x="-17256" y="-54163" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3976419618500" territory="ritualsacrifice_1716853761565" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17306;-54113;-11560;46072" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853780270" minZ="-10848" maxZ="-10832">
+		<node x="-17258" y="-56612" />
+		<node x="-17358" y="-56612" />
+		<node x="-17358" y="-56712" />
+		<node x="-17258" y="-56712" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3995124458700" territory="ritualsacrifice_1716853780270" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17308;-56662;-10848;5157" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853784575" minZ="-10848" maxZ="-10832">
+		<node x="-16164" y="-56796" />
+		<node x="-16264" y="-56796" />
+		<node x="-16264" y="-56896" />
+		<node x="-16164" y="-56896" />
+	</territory>
+	<npcmaker name="ritualsacrifice_3999429084900" territory="ritualsacrifice_1716853784575" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-16214;-56846;-10848;5627" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853788872" minZ="-10848" maxZ="-10832">
+		<node x="-15055" y="-56463" />
+		<node x="-15155" y="-56463" />
+		<node x="-15155" y="-56563" />
+		<node x="-15055" y="-56563" />
+	</territory>
+	<npcmaker name="ritualsacrifice_4003726114400" territory="ritualsacrifice_1716853788872" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15105;-56513;-10848;61422" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+	<territory name="ritualsacrifice_1716853808319" minZ="-11560" maxZ="-11544">
+		<node x="-15658" y="-53746" />
+		<node x="-15758" y="-53746" />
+		<node x="-15758" y="-53846" />
+		<node x="-15658" y="-53846" />
+	</territory>
+	<npcmaker name="ritualsacrifice_4023173448400" territory="ritualsacrifice_1716853808319" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15708;-53796;-11560;19035" total="1" respawnDelay="30s" /> <!-- Ritual Sacrifice -->
+	</npcmaker>
+</list>

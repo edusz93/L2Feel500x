@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true" applyTaxes="true">
+	<!-- GOLD BAR -->
+	<item id="1">
+	<ingredient id="13000" count="10"/>
+    <production id="13007" count="1"/>
+	</item>
+	<!-- Elixir hp/cp -->
+	<item id="3">
+	<ingredient id="13000" count="5"/>
+    <production id="8627" count="20"/>
+	<production id="8639" count="20"/>
+	</item>
+	<!-- CP/cp Potion -->
+	<item id="5">
+	<ingredient id="13000" count="5"/>
+	<production id="5592" count="1000"/>
+	<production id="5591" count="1000"/>
+	</item>
+	<!-- Top-Grade Life Stone: Level 76 -->
+	<item id="6">
+	<ingredient id="13000" count="2"/>
+	<production id="8762" count="1"/>
+	</item>
+	<!-- Giant's Codex -->
+	<item id="7">
+	<ingredient id="13000" count="5"/>
+	<production id="6622" count="1"/>
+	</item>
+	<!-- Roulette -->
+	<item id="8">
+	<ingredient id="13000" count="25"/>
+	<production id="11017" count="1"/>
+	</item>
+</list>

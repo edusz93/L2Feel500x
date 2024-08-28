@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ranking>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1722376195</updated>
+<delay>5</delay>
+</configs>
+<line>
+<name>Artemis</name>
+<class>Dreadnought</class>
+<pts>NDA=</pts>
+<clan>Hu3</clan>
+<class_id>89</class_id>
+</line>
+<line>
+<name>qUARtER8ACk1</name>
+<class>Grand Khauatari</class>
+<pts>MzQ=</pts>
+<clan>Hu3</clan>
+<class_id>114</class_id>
+</line>
+<line>
+<name>XerecA</name>
+<class>Soultaker</class>
+<pts>MjY=</pts>
+<clan>OnlyFanS</clan>
+<class_id>95</class_id>
+</line>
+<line>
+<name>BLINDADA</name>
+<class>Eva Templar</class>
+<pts>MjM=</pts>
+<clan>OnlyFanS</clan>
+<class_id>99</class_id>
+</line>
+<line>
+<name>Limao</name>
+<class>Titan</class>
+<pts>MjI=</pts>
+<clan>Hu3</clan>
+<class_id>113</class_id>
+</line>
+<line>
+<name>GiftOfSeraphim</name>
+<class>Elemental Master</class>
+<pts>MTY=</pts>
+<clan>OnlyFanS</clan>
+<class_id>104</class_id>
+</line>
+<line>
+<name>aQuidisgraca</name>
+<class>Sagittarius</class>
+<pts>MTQ=</pts>
+<clan>OnlyFanS</clan>
+<class_id>92</class_id>
+</line>
+<line>
+<name>mcmxcvi</name>
+<class>Hierophant</class>
+<pts>MTA=</pts>
+<clan>OnlyFanS</clan>
+<class_id>98</class_id>
+</line>
+</ranking>

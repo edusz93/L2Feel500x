@@ -1,0 +1,6 @@
+07/08/2024 17:11:58 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]
+07/08/2024 18:50:29 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]
+07/08/2024 19:37:07 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]
+07/08/2024 19:43:26 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]
+08/08/2024 15:50:59 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]
+08/08/2024 16:15:40 >>> HWID: [04BF1B65E3CC] >>> Player: [Barignis]

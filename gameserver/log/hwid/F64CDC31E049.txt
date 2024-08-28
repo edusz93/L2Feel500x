@@ -1,0 +1,2 @@
+10/07/2024 8:52:25 >>> HWID: [F64CDC31E049] >>> Player: [220SemRadar]
+10/07/2024 9:19:15 >>> HWID: [F64CDC31E049] >>> Player: [AR10]

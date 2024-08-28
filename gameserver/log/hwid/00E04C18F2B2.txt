@@ -1,0 +1,6 @@
+19/07/2024 10:46:55 >>> HWID: [00E04C18F2B2] >>> Player: [BibliaSagrada]
+19/07/2024 10:50:45 >>> HWID: [00E04C18F2B2] >>> Player: [BibliaSagrada]
+23/07/2024 13:49:19 >>> HWID: [00E04C18F2B2] >>> Player: [BibliaSagrada]
+23/07/2024 13:51:47 >>> HWID: [00E04C18F2B2] >>> Player: [MariaJoaquina]
+23/07/2024 13:59:25 >>> HWID: [00E04C18F2B2] >>> Player: [MariaJoaquina]
+23/07/2024 15:48:12 >>> HWID: [00E04C18F2B2] >>> Player: [BibliaSagrada]

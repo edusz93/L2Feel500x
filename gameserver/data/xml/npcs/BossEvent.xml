@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="49999" idTemplate="29065" name="Sailren" title="King of Primavel">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="81"/>
+		<set name="radius" val="132"/>
+		<set name="height" val="85"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="GrandBoss"/>
+		<set name="exp" val="5879"/>
+		<set name="sp" val="590"/>
+		<set name="hp" val="568382.4"/>
+		<set name="mp" val="4071.06"/>
+		<set name="hpRegen" val="357"/>
+		<set name="mpRegen" val="8.1"/>
+		<set name="pAtk" val="3510"/>
+		<set name="pDef" val="2554"/>
+		<set name="mAtk" val="3279"/>
+		<set name="mDef" val="467.22"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="79"/>
+		<set name="runSpd" val="220"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4170" level="6"/>
+			<skill id="4171" level="6"/>
+			<skill id="4176" level="6"/>
+			<skill id="4177" level="6"/>
+			<skill id="4416" level="3"/>
+			<skill id="4494" level="1"/>
+			<skill id="4836" level="1"/>
+		</skills>
+		<drops>
+			<category type="DROP" chance="35.0"> <!-- Crystal Scroll(A) -->
+				<drop itemid="732" min="1" max="5" chance="50.0"/>
+				<drop itemid="731" min="1" max="3" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Crystal Scroll(S) -->
+				<drop itemid="962" min="1" max="3" chance="50.0"/>
+				<drop itemid="961" min="1" max="2" chance="50.0"/>
+			</category>
+			<category type="DROP" chance="70.0"> <!-- Top Life Stone 76 -->
+				<drop itemid="8762" min="1" max="5" chance="100.0"/>			
+			</category>
+			<category type="DROP" chance="70.0"> <!-- Top Life Stone 76 -->
+				<drop itemid="8762" min="1" max="5" chance="100.0"/>			
+			</category>
+			<category type="DROP" chance="70.0"> <!-- Top Life Stone 76 -->
+				<drop itemid="8762" min="1" max="5" chance="100.0"/>			
+			</category>
+			<category type="DROP" chance="70.0"> <!-- Top Life Stone 76 -->
+				<drop itemid="8762" min="1" max="5" chance="100.0"/>			
+			</category>
+			<category type="DROP" chance="70.0"> <!-- Top Life Stone 76 -->
+				<drop itemid="8762" min="1" max="5" chance="100.0"/>			
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll (S) -->
+				<drop itemid="6578" min="1" max="1" chance="100.0"/>
+				<drop itemid="6577" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (A) -->
+				<drop itemid="729" min="1" max="3" chance="100.0"/>
+				<drop itemid="730" min="1" max="3" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (A) -->
+				<drop itemid="729" min="1" max="3" chance="100.0"/>
+				<drop itemid="730" min="1" max="3" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (A) -->
+				<drop itemid="729" min="1" max="3" chance="100.0"/>
+				<drop itemid="730" min="1" max="3" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Blessed Scroll: Enchant (A) -->
+				<drop itemid="6570" min="1" max="1" chance="100.0"/>
+				<drop itemid="6569" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (S) -->
+				<drop itemid="959" min="1" max="3" chance="100.0"/>
+				<drop itemid="960" min="1" max="3" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (S) -->
+				<drop itemid="959" min="1" max="1" chance="100.0"/>
+				<drop itemid="960" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (S) -->
+				<drop itemid="959" min="1" max="1" chance="100.0"/>
+				<drop itemid="960" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Scroll: Enchant (S) -->
+				<drop itemid="959" min="1" max="1" chance="100.0"/>
+				<drop itemid="960" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="1" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Mid-Grade Life Stone: Level 76 -->
+				<drop itemid="8742" min="1" max="3" chance="30.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Crystal 13 -->
+				<drop itemid="5914" min="1" max="1" chance="100.0"/>
+			</category>	
+			<category type="DROP" chance="5.0"> <!-- Crystal 13 -->	
+				<drop itemid="5911" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Crystal 13 -->	
+				<drop itemid="5908" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6366" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6369" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6372" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6579" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6365" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="7575" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6368" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6367" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6580" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6371" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6370" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Weapon S -->
+				<drop itemid="6364" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Draconic Armor -->
+				<drop itemid="6379" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Draconic Armor -->
+				<drop itemid="6381" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Draconic Armor -->
+				<drop itemid="6380" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Draconic Armor -->
+				<drop itemid="6382" min="1" max="1" chance="100.0"/>
+			</category>	
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6376" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6375" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6374" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6373" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6378" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Imperial Crusader -->
+				<drop itemid="6377" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Major -->
+				<drop itemid="6383" min="1" max="1" chance="100.0"/>
+			</category>	
+			<category type="DROP" chance="10.0"> <!-- Major -->
+				<drop itemid="6384" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Major -->
+				<drop itemid="6386" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Major -->
+				<drop itemid="6385" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="100.0"/>
+			</category>	
+			<category type="DROP" chance="10.0"> <!-- Tateossian -->	
+				<drop itemid="889" min="1" max="1" chance="100.0"/>
+			</category>	
+			<category type="DROP" chance="10.0"> <!-- Tateossian -->	
+				<drop itemid="858" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="30.0"> <!-- Roulette -->	
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="30.0"> <!-- Roulette -->	
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="30.0"> <!-- Roulette -->	
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Divine inspiration lvl 1 -->	
+				<drop itemid="8618" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="15.0"> <!-- Divine inspiration lvl 2 -->	
+				<drop itemid="8619" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="10.0"> <!-- Divine inspiration lvl 3 -->	
+				<drop itemid="8620" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="5.0"> <!-- Divine inspiration lvl 4 -->	
+				<drop itemid="8621" min="1" max="1" chance="70.0"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="49998" idTemplate="22215" name="TREX" title="Raid Fighter">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="78"/>
+		<set name="radius" val="60"/>
+		<set name="height" val="89.7"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="3172"/>
+		<set name="hp" val="44016.3788038294"/>
+		<set name="mp" val="1607.4"/>
+		<set name="hpRegen" val="126.536105676163"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="6913.74413569681"/>
+		<set name="pDef" val="499.050915"/>
+		<set name="mAtk" val="6610.34801227218"/>
+		<set name="mDef" val="486.92"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="41"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="20"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="190"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4194" level="8"/>
+			<skill id="4202" level="8"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+		</skills>
+		<drops>
+			<category type="DROP" chance="38.1">
+				<drop itemid="1344" min="60" max="180" chance="100.0"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="49997" idTemplate="22215" name="TREX" title="Raid Fighter">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="79"/>
+		<set name="radius" val="60"/>
+		<set name="height" val="89.7"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="0"/>
+		<set name="sp" val="3172"/>
+		<set name="hp" val="66384.5426616496"/>
+		<set name="mp" val="1641"/>
+		<set name="hpRegen" val="127.691727959173"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="5267.04651101713"/>
+		<set name="pDef" val="505.60512"/>
+		<set name="mAtk" val="3790.2949006429"/>
+		<set name="mDef" val="493.3"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="41"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="30"/>
+		<set name="runSpd" val="190"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<skills>
+			<skill id="4045" level="1"/>
+			<skill id="4210" level="8"/>
+			<skill id="4212" level="8"/>
+			<skill id="4414" level="3"/>
+			<skill id="4416" level="8"/>
+		</skills>
+		<drops>
+			<category type="DROP" chance="38.1">
+				<drop itemid="1344" min="60" max="180" chance="100.0"/>
+			</category>
+		</drops>
+	</npc>
+</list>

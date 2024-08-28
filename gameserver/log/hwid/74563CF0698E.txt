@@ -1,0 +1,5 @@
+05/07/2024 21:18:42 >>> HWID: [74563CF0698E] >>> Player: [ManSL]
+05/07/2024 22:22:25 >>> HWID: [74563CF0698E] >>> Player: [Beserker]
+05/07/2024 22:24:48 >>> HWID: [74563CF0698E] >>> Player: [ManSL]
+05/07/2024 22:25:32 >>> HWID: [74563CF0698E] >>> Player: [Beserker]
+06/07/2024 0:40:40 >>> HWID: [74563CF0698E] >>> Player: [Beserker]

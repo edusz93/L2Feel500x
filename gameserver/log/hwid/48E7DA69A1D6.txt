@@ -1,0 +1,6 @@
+19/07/2024 19:32:53 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]
+19/07/2024 21:10:02 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]
+20/07/2024 8:04:42 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]
+20/07/2024 8:11:27 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]
+20/07/2024 8:43:00 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]
+22/07/2024 15:28:32 >>> HWID: [48E7DA69A1D6] >>> Player: [ZecaPagodinho]

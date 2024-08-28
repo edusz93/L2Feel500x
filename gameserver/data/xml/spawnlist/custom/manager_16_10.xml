@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="manager_1723641650569" minZ="-2992" maxZ="-2976">
+		<node x="-116053" y="-251134" />
+		<node x="-116153" y="-251134" />
+		<node x="-116153" y="-251234" />
+		<node x="-116053" y="-251234" />
+	</territory>
+	<npcmaker name="manager_3582369029643165" territory="manager_1723641650569" spawn="ALL" maximumNpcs="1">
+		<npc id="50020" pos="-116103;-251184;-2992;6782" total="1" respawnDelay="60s" /> <!-- Manager -->
+	</npcmaker>
+</list>

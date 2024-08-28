@@ -1,0 +1,28 @@
+[17-08-2024 12:27:01]	INFO	-----------------------------------------------=[ Config ]
+[17-08-2024 12:27:02]	INFO	Loading loginserver configuration files.
+[17-08-2024 12:27:02]	INFO	----------------------------------------------=[ Poolers ]
+[17-08-2024 12:27:02]	INFO	Initializing ConnectionPool.
+[17-08-2024 12:27:02]	INFO	--------------------------------------=[ LoginController ]
+[17-08-2024 12:27:04]	INFO	Cached 10 KeyPairs for RSA communication.
+[17-08-2024 12:27:04]	INFO	Stored 20 keys for Blowfish communication.
+[17-08-2024 12:27:04]	INFO	------------------------------------=[ GameServerManager ]
+[17-08-2024 12:27:04]	INFO	Loaded 127 server names.
+[17-08-2024 12:27:05]	INFO	Loaded 1 registered gameserver(s).
+[17-08-2024 12:27:05]	INFO	Cached 10 RSA keys for gameserver communication.
+[17-08-2024 12:27:05]	INFO	---------------------------------------------=[ Ban List ]
+[17-08-2024 12:27:05]	INFO	Loaded 1 banned IP(s).
+[17-08-2024 12:27:05]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
+[17-08-2024 12:27:05]	INFO	Listening for gameservers on *:9014.
+[17-08-2024 12:27:05]	INFO	Loginserver ready on *:2106.
+[17-08-2024 12:27:05]	INFO	------------------------=[ Waiting for gameserver answer ]
+[17-08-2024 12:27:35]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[17-08-2024 12:33:29]	INFO	GameServer [1] Ignis is now set as disconnected.
+[17-08-2024 12:34:35]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[17-08-2024 12:39:22]	INFO	GameServer [1] Ignis is now set as disconnected.
+[17-08-2024 12:41:00]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[17-08-2024 12:53:08]	INFO	GameServer [1] Ignis is now set as disconnected.
+[17-08-2024 12:54:06]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[17-08-2024 12:59:43]	INFO	GameServer [1] Ignis is now set as disconnected.
+[17-08-2024 13:01:54]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.
+[17-08-2024 13:17:08]	INFO	GameServer [1] Ignis is now set as disconnected.
+[17-08-2024 13:18:29]	INFO	Hooked [1] Ignis gameserver on: 127.0.0.1.

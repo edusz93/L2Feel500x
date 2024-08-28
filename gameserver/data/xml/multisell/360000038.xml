@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+	<!-- Seal stone -->
+	<item id="1">
+		<ingredient id="6360" count="1000"/>
+		<production id="5575" count="1000" enchant="0"/>
+	</item>
+	<item id="2">
+		<ingredient id="6361" count="1000"/>
+		<production id="5575" count="5000" enchant="0"/>
+	</item>
+	<item id="3">
+		<ingredient id="6362" count="1000"/>
+		<production id="5575" count="10000" enchant="0"/>
+	</item>
+	<item id="4">
+		<ingredient id="6360" count="100000"/>
+		<production id="5575" count="100000" enchant="0"/>
+	</item>
+	<item id="5">
+		<ingredient id="6361" count="100000"/>
+		<production id="5575" count="500000" enchant="0"/>
+	</item>
+	<item id="6">
+		<ingredient id="6362" count="100000"/>
+		<production id="5575" count="1000000" enchant="0"/>
+	</item>
+	<item id="7">
+		<ingredient id="6360" count="1000000"/>
+		<production id="5575" count="1000000" enchant="0"/>
+	</item>
+	<item id="8">
+		<ingredient id="6361" count="1000000"/>
+		<production id="5575" count="5000000" enchant="0"/>
+	</item>
+	<item id="9">
+		<ingredient id="6362" count="1000000"/>
+		<production id="5575" count="10000000" enchant="0"/>
+	</item>
+</list>

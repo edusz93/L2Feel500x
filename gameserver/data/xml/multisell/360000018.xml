@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list maintainEnchantment="true" applyTaxes="true">
+  <!-- Heaven's Divider -->
+  <item id="1">
+    <ingredient id="13010" count="100000"/>
+    <production id="6372" count="1" enchant="0"/>
+  </item>
+
+  <!-- Forgotten Blade -->
+  <item id="2">
+    <ingredient id="13010" count="100000"/>
+    <production id="6364" count="1" enchant="0"/>
+  </item>
+
+  <!-- Arcana Mace -->
+  <item id="3">
+    <ingredient id="13010" count="100000"/>
+    <production id="6579" count="1" enchant="0"/>
+  </item>
+
+  <!-- Basalt Battlehammer -->
+  <item id="4">
+    <ingredient id="13010" count="100000"/>
+    <production id="6365" count="1" enchant="0"/>
+  </item>
+
+  <!-- Imperial Staff -->
+  <item id="5">
+    <ingredient id="13010" count="100000"/>
+    <production id="6366" count="1" enchant="0"/>
+  </item>
+
+  <!-- Angel Slayer -->
+  <item id="6">
+    <ingredient id="13010" count="100000"/>
+    <production id="6367" count="1" enchant="0"/>
+  </item>
+
+  <!-- Shining Bow -->
+  <item id="7">
+    <ingredient id="13010" count="100000"/>
+    <production id="6368" count="1" enchant="0"/>
+  </item>
+
+  <!-- Dragon Hunter Axe -->
+  <item id="8">
+    <ingredient id="13010" count="100000"/>
+    <production id="6369" count="1" enchant="0"/>
+  </item>
+
+  <!-- Saint Spear -->
+  <item id="9">
+    <ingredient id="13010" count="100000"/>
+    <production id="6370" count="1" enchant="0"/>
+  </item>
+
+  <!-- Demon Splinter -->
+  <item id="10">
+    <ingredient id="13010" count="100000"/>
+    <production id="6371" count="1" enchant="0"/>
+  </item>
+
+  <!-- Tallum Blade*Dark Legion's Edge -->
+  <item id="11">
+    <ingredient id="13010" count="100000"/>
+    <production id="6580" count="1" enchant="0"/>
+  </item>
+
+  <!-- Draconic Bow -->
+  <item id="12">
+    <ingredient id="13010" count="100000"/>
+    <production id="7575" count="1" enchant="0"/>
+  </item>
+</list>

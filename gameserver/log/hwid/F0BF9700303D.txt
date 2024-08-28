@@ -1,0 +1,7 @@
+07/08/2024 10:25:34 >>> HWID: [F0BF9700303D] >>> Player: [DsT]
+07/08/2024 10:27:34 >>> HWID: [F0BF9700303D] >>> Player: [DsT]
+07/08/2024 10:44:46 >>> HWID: [F0BF9700303D] >>> Player: [OaprendiZ]
+07/08/2024 11:01:42 >>> HWID: [F0BF9700303D] >>> Player: [OaprendiZ]
+07/08/2024 11:05:58 >>> HWID: [F0BF9700303D] >>> Player: [OaprendiZ]
+07/08/2024 11:26:53 >>> HWID: [F0BF9700303D] >>> Player: [OaprendiZ]
+07/08/2024 11:32:44 >>> HWID: [F0BF9700303D] >>> Player: [OaprendiZ]

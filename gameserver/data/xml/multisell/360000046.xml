@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="false">
+	<!-- Todos os farms por 1 de adena -->
+    <item id="1">
+	<ingredient id="57" count="1"/>
+	<production id="13010" count="9999999"/>
+	<production id="13000" count="9999"/>
+	<production id="13001" count="9999"/>
+	<production id="13002" count="9999"/>
+	<production id="13003" count="9999"/>
+	<production id="13004" count="9999"/>
+	<production id="13007" count="999"/>
+	<production id="5575" count="999999999"/>
+	</item>
+	<!-- todos os boss por 1 de adena-->
+	<item id="1">
+		<ingredient id="57" count="1"/>
+		<production id="6657" count="1" enchant="0"/> <!-- Valakas -->
+		<production id="6656" count="1" enchant="0"/> <!-- Antharas -->
+		<production id="6659" count="1" enchant="0"/> <!-- Zaken -->
+		<production id="6658" count="1" enchant="0"/> <!-- Baium -->
+		<production id="6660" count="1" enchant="0"/> <!-- Queen Ant -->
+		<production id="6662" count="1" enchant="0"/>
+		<production id="6661" count="1" enchant="0"/>
+		<production id="8191" count="1" enchant="0"/>
+	</item>
+</list>

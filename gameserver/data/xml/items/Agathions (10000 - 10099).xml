@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+     <item id="10000" type="EtcItem" name="Mini Baium">
+		<set name="icon" val="LineageNPCs_l2Sudamerica03.viRUS_Icon.viRUS_aga_bai_i00" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+     <item id="10001" type="EtcItem" name="Mini Zaken">
+	 	<set name="icon" val="LineageNPCs_l2Sudamerica03.viRUS_Icon.viRUS_aga_zak_i00" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+     <item id="10002" type="EtcItem" name="Mini Valakas">
+	 	<set name="icon" val="LineageNPCs_l2Sudamerica03.viRUS_Icon.viRUS_aga_val_i00" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+    <item id="10003" type="EtcItem" name="Mini Antharas">
+		<set name="icon" val="LineageNPCs_l2Sudamerica03.viRUS_Icon.viRUS_aga_ant_i00" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10004" type="EtcItem" name="Agathion Mini Angel">
+		<set name="icon" val="L2JBrazuca.icons.mini_angel" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10005" type="EtcItem" name="Mini Demon">
+		<set name="icon" val="L2JBrazuca.icons.mini_demon" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10006" type="EtcItem" name="Mini Bird">
+		<set name="icon" val="L2JBrazuca.icons.mini_bird" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10007" type="EtcItem" name="Mini Pork">
+		<set name="icon" val="L2JBrazuca.icons.mini_pork" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10008" type="EtcItem" name="Mini Sheep">
+		<set name="icon" val="L2JBrazuca.icons.mini_sheep" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10009" type="EtcItem" name="Mini Tree">
+		<set name="icon" val="L2JBrazuca.icons.mini_tree" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10010" type="EtcItem" name="Mini Undefined">
+		<set name="icon" val="L2JBrazuca.icons.mini_undefined" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+</list>

@@ -1,0 +1,6 @@
+14/07/2024 12:17:41 >>> HWID: [AC220BBD52F5] >>> Player: [Parrudo]
+14/07/2024 20:35:52 >>> HWID: [AC220BBD52F5] >>> Player: [Parrudo]
+14/07/2024 20:46:35 >>> HWID: [AC220BBD52F5] >>> Player: [thor]
+14/07/2024 23:07:56 >>> HWID: [AC220BBD52F5] >>> Player: [thor]
+15/07/2024 8:19:20 >>> HWID: [AC220BBD52F5] >>> Player: [thor]
+15/07/2024 8:19:45 >>> HWID: [AC220BBD52F5] >>> Player: [Parrudo]

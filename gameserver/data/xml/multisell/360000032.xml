@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Blessed Valakas -->
+	<item id="1">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6657" count="1"/>
+		<production id="12001" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Antharas -->
+	<item id="2">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6656" count="1"/>
+		<production id="12000" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Zaken -->
+	<item id="3">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6659" count="1"/>
+		<production id="12003" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Baium -->
+	<item id="4">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6658" count="1"/>
+		<production id="12002" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Queen Ant -->
+	<item id="5">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6660" count="1"/>
+		<production id="12004" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Frintezza -->
+	<item id="6">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="8191" count="1"/>
+		<production id="12006" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Orfen -->
+	<item id="7">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6661" count="1"/>
+		<production id="12005" count="1" enchant="0"/>
+	</item>
+	<!-- Blessed Core -->
+	<item id="8">
+		<ingredient id="13000" count="50"/>
+		<ingredient id="6662" count="1"/>
+		<production id="12007" count="1" enchant="0"/>
+	</item>
+</list>

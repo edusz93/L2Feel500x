@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="globalgatekeeper_1692980046510" minZ="-3544" maxZ="-3528">
+		<node x="111391" y="219461" />
+		<node x="111291" y="219461" />
+		<node x="111291" y="219361" />
+		<node x="111391" y="219361" />
+	</territory>
+	<npcmaker name="globalgatekeeper_414125496423823" territory="globalgatekeeper_1692980046510" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="111341;219411;-3544;49018" total="1" respawnDelay="60s" /> <!-- Global Gatekeeper -->
+	</npcmaker>
+</list>

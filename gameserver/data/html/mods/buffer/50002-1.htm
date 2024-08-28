@@ -1,0 +1,24 @@
+<html>
+<body>
+	<table width="230px">
+		<tr>
+			<td><button value="" action="" width=64 height=64 back="BotoesNpc.RankingWnd_FaceIcon_Elf_magician_W" fore="BotoesNpc.RankingWnd_FaceIcon_Elf_magician_W"></td>
+			<td>
+				<font color="LEVEL">PT-BR: </font><font color="LEVEL">PT-BR: </font>Schemes funcionam como atalhos para buffs. Voce pode criar ate %max_schemes% deles. Quer criar um agora?<br>
+				<font color="LEVEL">EN: </font>Schemes work as shortcuts for buffs. You can create up to %max_schemes% of them. Ready to create one now?
+			</td>
+		</tr>
+	</table>
+	<br>
+	<center>
+		<table width="220">
+			<tr>
+				<td width="140"><edit var="name" width="140" height="15" /></td>
+				<td width="60"><button value="Create" action="bypass npc_%objectId%_createscheme $name" width="75" height="21" back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal" /></td>
+			</tr>
+		</table>
+	</center>
+	<br> Here are listed your schemes and their fee.
+	<br> %schemes%
+</body>
+</html>

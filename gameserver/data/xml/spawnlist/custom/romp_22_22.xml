@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="romp_1704296870903" minZ="-3464" maxZ="-3448">
+		<node x="82619" y="149747" />
+		<node x="82519" y="149747" />
+		<node x="82519" y="149647" />
+		<node x="82619" y="149647" />
+	</territory>
+	<npcmaker name="romp_3804493088100" territory="romp_1704296870903" spawn="ALL" maximumNpcs="1">
+		<npc id="30843" pos="82569;149697;-3464;49952" total="1" respawnDelay="60s" /> <!-- Romp -->
+	</npcmaker>
+</list>

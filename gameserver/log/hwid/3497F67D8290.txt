@@ -1,0 +1,3 @@
+08/08/2024 12:17:59 >>> HWID: [3497F67D8290] >>> Player: [JohnZera]
+08/08/2024 12:36:15 >>> HWID: [3497F67D8290] >>> Player: [JohnZera]
+08/08/2024 13:01:11 >>> HWID: [3497F67D8290] >>> Player: [JohnZera]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="bryan_1718291063142" minZ="-3464" maxZ="-3448">
+		<node x="82815" y="147829" />
+		<node x="82715" y="147829" />
+		<node x="82715" y="147729" />
+		<node x="82815" y="147729" />
+	</territory>
+	<npcmaker name="bryan_2116943436400" territory="bryan_1718291063142" spawn="ALL" maximumNpcs="1">
+		<npc id="50017" pos="82765;147768;-3464;18106" total="1" respawnDelay="60s" /> <!-- Bryan -->
+	</npcmaker>
+</list>

@@ -1,0 +1,4 @@
+13/07/2024 21:39:03 >>> HWID: [B8CA3AFBD097] >>> Player: [Malboro]
+16/07/2024 17:17:28 >>> HWID: [B8CA3AFBD097] >>> Player: [Clandestino]
+16/07/2024 18:04:16 >>> HWID: [B8CA3AFBD097] >>> Player: [Malboro]
+16/07/2024 20:36:58 >>> HWID: [B8CA3AFBD097] >>> Player: [Clandestino]
