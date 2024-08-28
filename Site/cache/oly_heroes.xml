@@ -2,17 +2,17 @@
 <ranking>
 <configs>
 <atualstudio>Cache script by Atualstudio.com</atualstudio>
-<updated>1723832589</updated>
+<updated>1724805481</updated>
 <delay>5</delay>
 </configs>
 <line>
-<name>ljiljijlji</name>
+<name>iDavi</name>
 <class>Duelist</class>
-<clan>SoulOlym</clan>
-<ally>-</ally>
+<clan>Hu3</clan>
+<ally>BlackHawk</ally>
 </line>
 <line>
-<name>Artemis</name>
+<name>Pak</name>
 <class>Dreadnought</class>
 <clan>Hu3</clan>
 <ally>BlackHawk</ally>
@@ -30,7 +30,7 @@
 <ally>NorthTeaM</ally>
 </line>
 <line>
-<name>Pipizinho</name>
+<name>HD</name>
 <class>Sagittarius</class>
 <clan>Hu3</clan>
 <ally>BlackHawk</ally>
@@ -42,16 +42,16 @@
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>Rene</name>
+<name>MaGrelinH0</name>
 <class>Archmage</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
+<clan>Hu3</clan>
+<ally>BlackHawk</ally>
 </line>
 <line>
-<name>High</name>
+<name>Hermiosvania</name>
 <class>Soultaker</class>
-<clan>NewTropp</clan>
-<ally>-</ally>
+<clan>Hu3</clan>
+<ally>BlackHawk</ally>
 </line>
 <line>
 <name>NightWolF</name>
@@ -66,33 +66,15 @@
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>mcmxcvi</name>
-<class>Hierophant</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
-</line>
-<line>
-<name>BLINDADA</name>
-<class>Eva Templar</class>
-<clan>NewTropp</clan>
-<ally>-</ally>
-</line>
-<line>
 <name>iDudinhaBR</name>
 <class>Sword Muse</class>
 <clan>Hu3</clan>
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>WhatsApp</name>
-<class>Wind Rider</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
-</line>
-<line>
-<name>Run</name>
+<name>Vini</name>
 <class>Moonlight Sentinel</class>
-<clan>NewTropp</clan>
+<clan>-</clan>
 <ally>-</ally>
 </line>
 <line>
@@ -102,28 +84,16 @@
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>pepeg4s</name>
+<name>GiftOfSeraphim</name>
 <class>Elemental Master</class>
-<clan>-</clan>
-<ally>-</ally>
+<clan>OnlyFanS</clan>
+<ally>NorthTeaM</ally>
 </line>
 <line>
-<name>D</name>
+<name>RugaL</name>
 <class>Eva Saint</class>
-<clan>xXx</clan>
-<ally>xXx</ally>
-</line>
-<line>
-<name>1Davi</name>
-<class>Shillien Templar</class>
-<clan>NewTropp</clan>
-<ally>-</ally>
-</line>
-<line>
-<name>Ishida</name>
-<class>Spectral Dancer</class>
-<clan>Hu3</clan>
-<ally>BlackHawk</ally>
+<clan>OnlyFanS</clan>
+<ally>NorthTeaM</ally>
 </line>
 <line>
 <name>Airex</name>
@@ -132,10 +102,10 @@
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>Buiu</name>
+<name>Noturno</name>
 <class>Storm Screamer</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
+<clan>-</clan>
+<ally>-</ally>
 </line>
 <line>
 <name>RennaLa</name>
@@ -146,14 +116,14 @@
 <line>
 <name>Khromum</name>
 <class>Shillien Saint</class>
-<clan>-</clan>
-<ally>-</ally>
-</line>
-<line>
-<name>Limao</name>
-<class>Titan</class>
 <clan>Hu3</clan>
 <ally>BlackHawk</ally>
+</line>
+<line>
+<name>pepegass</name>
+<class>Titan</class>
+<clan>-</clan>
+<ally>-</ally>
 </line>
 <line>
 <name>qUARtER8ACk1</name>
@@ -162,10 +132,10 @@
 <ally>-</ally>
 </line>
 <line>
-<name>OverBLINDADO</name>
+<name>Dry</name>
 <class>Dominator</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
+<clan>Hu3</clan>
+<ally>BlackHawk</ally>
 </line>
 <line>
 <name>Behemoth</name>
@@ -174,10 +144,10 @@
 <ally>BlackHawk</ally>
 </line>
 <line>
-<name>BabyMonster</name>
+<name>DonaHelenna</name>
 <class>Fortune Seeker</class>
-<clan>OnlyFanS</clan>
-<ally>NorthTeaM</ally>
+<clan>Hu3</clan>
+<ally>BlackHawk</ally>
 </line>
 <line>
 <name>Ranni</name>

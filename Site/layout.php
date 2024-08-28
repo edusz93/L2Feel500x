@@ -33,7 +33,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="imagetoolbar" content="no">
-    <meta name="keywords" content="<?php echo strtolower($server_name.', '.$server_chronicle); ?>, l2, l2ignis, l2 ignis, ignis, Lineage 2 ignis, lineage, lineage2, lineage 2, lainiege, laineage, lainiage, lineage dois, lineage ii, internacional, international, portuguese, english, espanish, espanol, espanhol, portugues, ingles, gringo, br, 1x, 5x, 10x, 30x, 50x, 70x, 100x, 150x, 200x, 300x, 1000x, free fun, diversao gratis, gratuito, gratuitamente, free fun, new server, novo servidor, o melhor servidor de lineage 2, o melhor servidor">
+    <meta name="keywords" content="<?php echo strtolower($server_name.', '.$server_chronicle); ?>, l2, l2feel, l2 feel, feel, Lineage 2 feel, lineage, lineage2, lineage 2, lainiege, laineage, lainiage, lineage dois, lineage ii, internacional, international, portuguese, english, espanish, espanol, espanhol, portugues, ingles, gringo, br, 1x, 5x, 10x, 30x, 50x, 70x, 100x, 150x, 200x, 300x, 1000x, free fun, diversao gratis, gratuito, gratuitamente, free fun, new server, novo servidor, o melhor servidor de lineage 2, o melhor servidor">
     <meta name="description" content="<?php echo htmlspecialchars($SEO['description'], ENT_QUOTES, 'UTF-8'); ?>">
     
     <!-- Links -->
@@ -839,8 +839,8 @@
 					<h1>Vote</h1>
 				    <center>
 				        <!-- Begin L2jBrasil -->
-                        <a href="//top.l2jbrasil.com/index.php?a=in&u=l2ignis" target="_blank">
-                            <img src="//top.l2jbrasil.com/button.php?u=l2ignis" alt="Top L2JBrasil  de Servidores de   Lineage2 " border="0" width="32%" height="120px"/>
+                        <a href="//top.l2jbrasil.com/index.php?a=in&u=l2feel" target="_blank">
+                            <img src="//top.l2jbrasil.com/button.php?u=l2feel" alt="Top L2JBrasil  de Servidores de   Lineage2 " border="0" width="32%" height="120px"/>
                         </a>
                         <!-- End L2jBrasil -->				    
 						<!-- Begin HopZone.Eu code -->
@@ -854,7 +854,7 @@
                         </a>
                         <!-- End hotservers -->                    
                         <!-- Begin 4teambr -->
-                        <a href="https://top.4teambr.com/index.php?a=in&u=l2ignis" target="_blank">
+                        <a href="https://top.4teambr.com/index.php?a=in&u=l2feel" target="_blank">
                             <img src="./images/4teambr.png" alt="4TOP Servers" width="32%" height="120px"/>
                         </a>
                         <!-- End 4teambr -->
@@ -864,7 +864,7 @@
                         </a>
                         <!-- End l2votes -->
                         <!-- Begin hotservers -->
-                        <a href="https://l2rankzone.com/lineage2-servers/l2ignis/219/vote" target="_blank" title="l2rankzone lineage 2 private l2servers">
+                        <a href="https://l2rankzone.com/lineage2-servers/l2feel/219/vote" target="_blank" title="l2rankzone lineage 2 private l2servers">
                             <img src="https://files.l2rankzone.com/banners/l2rankzone-l2servers-l2top-v2.png" alt="l2rankzone lineage 2 private l2servers" width="32%" height="120px"/>
                         </a>
                         <!-- End hotservers -->
@@ -966,7 +966,7 @@
 		<footer class="footer">
 			<div class="footerInfo">
 				<div class="footerInfo-title">
-					© 2024 <a href="./">L2IGNIS.COM</a>
+					© 2024 <a href="./">L2FEEL.COM</a>
 				</div>
 				<div class="footerInfo-text">
 				    <!-- BEGIN: Powered by Supercounters.com -->

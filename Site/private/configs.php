@@ -3,9 +3,9 @@
 ###########################################################
 ##                   Configurações                       ##
 ###########################################################
-$server_name = 'L2Ignis'; // Nome do servidor
+$server_name = 'L2Feel'; // Nome do servidor
 $server_chronicle = 'Interlude'; // Crônica do servidor
-$server_url = 'www.l2ignis.com'; // Digite exatamente o URL onde se encontra este site (exemplo: www.l2server.com)
+$server_url = 'www.L2Feel.com'; // Digite exatamente o URL onde se encontra este site (exemplo: www.l2server.com)
 
 
 ###########################################################
@@ -15,17 +15,17 @@ $server_url = 'www.l2ignis.com'; // Digite exatamente o URL onde se encontra est
 # Qual método de conexão você irá utilizar? (recomendamos MySQLi ou PDO-MySQL)
 $conMethod = 2; // 1 = MySQL, 2 = MySQLi, 3 = PDO-MySQL
 
-$host = '149.18.97.40'; // Endereço do host
+$host = '127.0.0.1'; // Endereço do host
 $dbnm = 'L2JBrazuca'; // Nome do banco
 $user = 'root'; // Usuário
-$pass = 'D%b!W5@XD3n%m7!'; // Senha
+$pass = '12345678'; // Senha
 
 // $pass = 'tcd$5%)A,@-3'; // Senha
 
 ###########################################################
 ##                    Server Status                      ##
 ###########################################################
-$serverIp = '149.18.97.40'; // IP do DB (para buscar o status do servidor)
+$serverIp = '127.0.0.1'; // IP do DB (para buscar o status do servidor)
 $loginPort = '2106'; // porta do login/auth
 $gamePort = '7777'; // porta do game
 
@@ -35,7 +35,7 @@ $forceServerStatus = 'auto'; // Auth Status (Padrão: auto)
 ###########################################################
 ##              Atualstudio Web Admin 3.0                ##
 ###########################################################
-$admpass = 'D%b!W5@XD3n%m7!'; // Senha do painel admin
+$admpass = '12345678'; // Senha do painel admin
 
 
 ###########################################################
@@ -50,10 +50,10 @@ $chaemail_confirm = 0; // Para alterar o endereço de e-mail é necessário conf
 
 # SMTP:
 $useSMTP = 0; // Enviar e-mails via SMTP? (1 = Sim | 0 = Não)
-$SMTP_host = 'mail.l2ignis.com'; // Endereço do Host do SMTP
+$SMTP_host = 'mail.l2Feel.com'; // Endereço do Host do SMTP
 $SMTP_port = 465; // Porta de conexão para a saída de e-mails (consulte seu host, mas geralmente é 587 ou 465)
 $SMTP_secu = 'ssl'; // Qual protocolo de segurança? ssl ou tls?
-$SMTP_user = 'admin@l2ignis.com'; // Usuário de autenticação do SMTP (geralmente o e-mail remetente)
+$SMTP_user = 'admin@l2Feel.com'; // Usuário de autenticação do SMTP (geralmente o e-mail remetente)
 $SMTP_pass = 'xunda@623555'; // Senha de autenticação do SMTP (geralmente a senha do e-mail remetente)
 
 
@@ -78,8 +78,8 @@ $dir_newsimg = 'imgs/news/'; // Diretório das imagens das notícias
 ##                 Contagem regressiva                   ##
 ###########################################################
 $counterActived = 1; // Ativar contagem regressiva na página inicial? (1 = Sim | 0 = Não)
-$cDia = '05'; // Dia
-$cMes = '07'; // Mês
+$cDia = '20'; // Dia
+$cMes = '09'; // Mês
 $cAno = '2024'; // Ano
 $cHor = '19'; // Hora
 $cMin = '00'; // Minuto
@@ -96,9 +96,9 @@ $downRegfile = 1; // Download de arquivo TXT após cadastro bem sucedido? (1 = S
 $passRegfile = 1; // Exibir senha no arquivo TXT gerado após cadastro bem sucedido? (1 = Sim | 0 = Não)
 
 # Data de liberação do cadastro (antes dessa data não será possível criar contas) - Caso queira desabilitar, basta inserir uma data que já passou.
-$reg['dia'] = '01'; // Dia
-$reg['mes'] = '01'; // Mês
-$reg['ano'] = '2023'; // Ano
+$reg['dia'] = '20'; // Dia
+$reg['mes'] = '09'; // Mês
+$reg['ano'] = '2024'; // Ano
 $reg['hr'] = '12'; // Hora
 $reg['min'] = '00'; // Minuto
 
@@ -138,7 +138,7 @@ $galleryMax = 30; // Quantidade de imagens/vídeos exibidos em cada página da g
 $galleCount = 6; // Quantidade de imagens/videos exibidos na galeria na lateral do site
 $inewsCount = 3; // Quantidade de notícias na página inicial do site
 $showPlayersOn = 1; // Exibir quantidade de jogadores online? (1 = Sim | 0 = Não)
-$fakePlayers =  1.5; // Multiplicação da quantidade de jogadores online. A quantidade de jogadores online será multiplicada pelo valor inserido aqui. (1.0 = Quantidade real / 1.5 = multiplicado por 1,5 / 2.0 = multiplicado por 2...) - IMPORTANTE: INSIRA PONTO AO INVÉS DE VÍRGULA
+$fakePlayers =  1.0; // Multiplicação da quantidade de jogadores online. A quantidade de jogadores online será multiplicada pelo valor inserido aqui. (1.0 = Quantidade real / 1.5 = multiplicado por 1,5 / 2.0 = multiplicado por 2...) - IMPORTANTE: INSIRA PONTO AO INVÉS DE VÍRGULA
 $srvOffZeroPl = 1; // Caso o server status esteje off, forçar exibição de 0 players online mesmo que hajam jogadores online? (1 = Sim | 0 = Não)
 $olyExibPoint = 1; // Ranking da Grand Olympiad deve exibir os pontos dos jogadores? (1 = Sim | 0 = Não)
 $showRankReg = 1; // Exibir rankings antes da data de liberação do cadastro? (1 = Sim | 0 = Não)
@@ -153,7 +153,7 @@ $showChatOn = 1; // Exibir suporte chat on? (1 = Sim | 0 = Não)
 $facePopupOn = 0; // Exibir popup do Facebook? (1 = Sim | 0 = Não)
 $fbPopupDelay = 1; // De quantos em quantos dias o popup deve aparecer novamente? Ex: Se setar 1 ele aparecerá todo dia
 $faceBoxOn = 1; // Exibir box do Facebook na página inicial? (1 = Sim | 0 = Não)
-$facePage = 'https://www.facebook.com//l2ignis'; // Página no Facebook
+$facePage = 'https://www.facebook.com//l2Feel'; // Página no Facebook
 
 
 ###########################################################
