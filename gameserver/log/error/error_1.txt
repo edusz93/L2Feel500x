@@ -1,0 +1,63 @@
+ago. 28, 2024 7:53:44 PM net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket run
+SEVERE: Failed reading [C] EnterWorld for [Character: Eduardo - Account: admin - IP: 127.0.0.1]. 
+java.lang.NullPointerException: Cannot invoke "String.replaceAll(String, String)" because "value" is null
+	at net.sf.l2j.gameserver.network.serverpackets.NpcHtmlMessage.replace(NpcHtmlMessage.java:104)
+	at net.sf.l2j.gameserver.handler.voicedcommandhandlers.info.showInfo(info.java:55)
+	at net.sf.l2j.gameserver.handler.voicedcommandhandlers.info.useVoicedCommand(info.java:31)
+	at net.sf.l2j.gameserver.network.clientpackets.EnterWorld.runImpl(EnterWorld.java:311)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:45)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+ago. 28, 2024 7:53:57 PM net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket run
+SEVERE: Failed reading [C] EnterWorld for [Character: Eduardo - Account: admin - IP: 127.0.0.1]. 
+java.lang.NullPointerException: Cannot invoke "String.replaceAll(String, String)" because "value" is null
+	at net.sf.l2j.gameserver.network.serverpackets.NpcHtmlMessage.replace(NpcHtmlMessage.java:104)
+	at net.sf.l2j.gameserver.handler.voicedcommandhandlers.info.showInfo(info.java:55)
+	at net.sf.l2j.gameserver.handler.voicedcommandhandlers.info.useVoicedCommand(info.java:31)
+	at net.sf.l2j.gameserver.network.clientpackets.EnterWorld.runImpl(EnterWorld.java:311)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:45)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:219)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+ago. 28, 2024 7:54:04 PM net.sf.l2j.util.LocalizationStorage readFromFile
+SEVERE: Fail loading en vocabulary
+java.nio.channels.ClosedByInterruptException
+	at java.base/java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:199)
+	at java.base/sun.nio.ch.FileChannelImpl.endBlocking(FileChannelImpl.java:168)
+	at java.base/sun.nio.ch.FileChannelImpl.size(FileChannelImpl.java:392)
+	at java.base/java.nio.file.Files.createFileChannelLinesStream(Files.java:4120)
+	at java.base/java.nio.file.Files.lines(Files.java:4106)
+	at java.base/java.nio.file.Files.lines(Files.java:4196)
+	at net.sf.l2j.util.LocalizationStorage.readFromFile(LocalizationStorage.java:56)
+	at java.base/java.util.stream.Collectors.lambda$toMap$68(Collectors.java:1659)
+	at java.base/java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+	at java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at net.sf.l2j.util.LocalizationStorage.reload(LocalizationStorage.java:36)
+	at net.sf.l2j.util.LocalizationStorage.<init>(LocalizationStorage.java:23)
+	at net.sf.l2j.util.LocalizationStorage$SingletonHolder.<clinit>(LocalizationStorage.java:72)
+	at net.sf.l2j.util.LocalizationStorage.getInstance(LocalizationStorage.java:67)
+	at net.sf.l2j.util.CustomMessage.toString(CustomMessage.java:41)
+	at net.sf.l2j.gameserver.model.actor.Creature.sendMessage(Creature.java:332)
+	at net.sf.l2j.gameserver.model.actor.Player.lambda$setSpawnProtection$2(Player.java:2345)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:219)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
