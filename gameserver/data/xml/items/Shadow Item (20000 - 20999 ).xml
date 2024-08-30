@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<!-- Shadow Weapon A Grade -->
+	<item id="20000" type="EtcItem" name="Shadow Item Exchange Coupon: A Grade">
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="20001" type="Weapon" name="Shadow Item: Sirra's Blade - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sirr_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3068-3" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20002" type="Weapon" name="Shadow Item: Sirra's Blade - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sirr_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-5" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20003" type="Weapon" name="Shadow Item: Sirra's Blade - Critical Poison">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sirr_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1300" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncrit_chance" val="10" />
+		<set name="oncrit_skill" val="3061-3" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20004" type="Weapon" name="Shadow Item: Sword of Ipos - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sword_of_ipos_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3050-2" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20005" type="Weapon" name="Shadow Item: Sword of Ipos - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sword_of_ipos_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3068-3" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20006" type="Weapon" name="Shadow Item: Sword of Ipos - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sword_of_ipos_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-5" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20007" type="Weapon" name="Shadow Item: Barakiel's Axe - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_barakiel_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1550" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-5" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20008" type="Weapon" name="Shadow Item: Barakiel's Axe - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_barakiel_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1550" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3068-3" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20009" type="Weapon" name="Shadow Item: Barakiel's Axe - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_barakiel_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1550" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3050-2" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20010" type="Weapon" name="Shadow Item: Behemoth's Tuning Fork - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tuning_fork_of_behemoth_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1890" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3050-2" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20011" type="Weapon" name="Shadow Item: Behemoth's Tuning Fork - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tuning_fork_of_behemoth_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1890" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-5" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20012" type="Weapon" name="Shadow Item: Behemoth's Tuning Fork - Anger">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tuning_fork_of_behemoth_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1890" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3057-3" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20013" type="Weapon" name="Shadow Item: Naga Storm - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_naga_storm_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="930" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3051-2" />
+		<for>
+			<set stat="pAtk" val="220" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20014" type="Weapon" name="Shadow Item: Naga Storm - Critical Damage">
+		<set name="icon" val="L2JBrazuca.icons.weapon_naga_storm_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="930" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3066-2" />
+		<for>
+			<set stat="pAtk" val="220" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20015" type="Weapon" name="Shadow Item: Naga Storm - Back Blow">
+		<set name="icon" val="L2JBrazuca.icons.weapon_naga_storm_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="930" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3063-1" />
+		<for>
+			<set stat="pAtk" val="220" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20016" type="Weapon" name="Shadow Item: Tiphon's Spear - Critical Stun">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tiphon_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CHRYSOLITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncrit_chance" val="25" />
+		<set name="oncrit_skill" val="3070-3" />
+		<set name="item_skill" val="3552-2" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20017" type="Weapon" name="Shadow Item: Tiphon's Spear - Towering Blow">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tiphon_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;80;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CHRYSOLITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3552-2" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<set val="80" stat="pAtkRange" />
+		</for>
+	</item>
+	<item id="20018" type="Weapon" name="Shadow Item: Tiphon's Spear - Wild Blow">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tiphon_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;180" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="CHRYSOLITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3552-2" />
+		<for>
+			<set stat="pAtk" val="251" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+			<set val="180" stat="pAtkAngle" />
+		</for>
+	</item>
+	<item id="20019" type="Weapon" name="Shadow Item: Shyeed's Bow - Cheap Shot">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shyid_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1640" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="10" />
+		<set name="mp_consume_reduce" val="30,1" />
+		<set name="reuse_delay" val="820" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="570" />
+			<set stat="mAtk" val="133" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="227" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20020" type="Weapon" name="Shadow Item: Shyeed's Bow - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shyid_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1640" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="10" />
+		<set name="reuse_delay" val="820" />
+		<set name="item_skill" val="3050-2" />
+		<for>
+			<set stat="pAtk" val="570" />
+			<set stat="mAtk" val="133" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="227" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20021" type="Weapon" name="Shadow Item: Shyeed's Bow - Quick Recovery">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shyid_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ORIHARUKON" />
+		<set name="weight" val="1640" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="2" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="10" />
+		<set name="reuse_delay" val="639" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="570" />
+			<set stat="mAtk" val="133" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="227" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20022" type="Weapon" name="Shadow Item: Sobekk's Hurricane - Rsk. Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sobekk_hurricane_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1330" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3056-3" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20023" type="Weapon" name="Shadow Item: Sobekk's Hurricane - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sobekk_hurricane_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1330" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3068-3" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20024" type="Weapon" name="Shadow Item: Sobekk's Hurricane - Critical Drain">
+		<set name="icon" val="L2JBrazuca.icons.weapon_sobekk_hurricane_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1330" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncrit_chance" val="10" />
+		<set name="oncrit_skill" val="3039-6" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="305" />
+			<set stat="mAtk" val="121" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20025" type="Weapon" name="Shadow Item: Themis' Tongue - Mana Up">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tongue_of_themis_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3014-3" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20026" type="Weapon" name="Shadow Item: Themis' Tongue - Magic Mental Shield">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tongue_of_themis_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="50" />
+		<set name="oncast_skill" val="1035-4" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20027" type="Weapon" name="Shadow Item: Themis' Tongue - Magic Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_tongue_of_themis_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="820" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="20" />
+		<set name="oncast_skill" val="1077-3" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20028" type="Weapon" name="Shadow Item: Cabrio's Hand - Conversion">
+		<set name="icon" val="L2JBrazuca.icons.weapon_hand_of_cabrio_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1510" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3048-3" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20029" type="Weapon" name="Shadow Item: Cabrio's Hand - Mana Up">
+		<set name="icon" val="L2JBrazuca.icons.weapon_hand_of_cabrio_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1510" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3014-3" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20030" type="Weapon" name="Shadow Item: Cabrio's Hand - Magic Silence">
+		<set name="icon" val="L2JBrazuca.icons.weapon_hand_of_cabrio_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1510" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="10" />
+		<set name="oncast_skill" val="3074-2" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="202" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20031" type="Weapon" name="Shadow Item: Daimon Crystal - Mana Up">
+		<set name="icon" val="L2JBrazuca.icons.weapon_crystal_of_deamon_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3014-3" />
+		<for>
+			<set stat="pAtk" val="245" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20032" type="Weapon" name="Shadow Item: Daimon Crystal - Acumen">
+		<set name="icon" val="L2JBrazuca.icons.weapon_crystal_of_deamon_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3047-3" />
+		<for>
+			<set stat="pAtk" val="245" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20033" type="Weapon" name="Shadow Item: Daimon Crystal - Magic Mental Shield">
+		<set name="icon" val="L2JBrazuca.icons.weapon_crystal_of_deamon_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2824" />
+		<set name="crystal_type" val="A" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="880" />
+		<set name="price" val="35300000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="50" />
+		<set name="oncast_skill" val="1035-4" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="245" />
+			<set stat="mAtk" val="161" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	
+	<!-- Shadow Weapon S Grade -->
+	<item id="20034" type="EtcItem" name="Shadow Item Exchange Coupon: S Grade">
+		<set name="icon" val="icon.etc_lottery_card_i00" />
+		<set name="material" val="PAPER" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="20035" type="Weapon" name="Shadow Item: Shadow Item: Arcana Mace - Acumen">
+		<set name="icon" val="L2JBrazuca.icons.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3047-2" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20036" type="Weapon" name="Shadow Item: Shadow Item: Arcana Mace - MP Regeneration">
+		<set name="icon" val="L2JBrazuca.icons.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3576-1" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20037" type="Weapon" name="Shadow Item: Shadow Item: Arcana Mace - Mana Up">
+		<set name="icon" val="L2JBrazuca.icons.weapon_arcana_mace_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3014-2" />
+		<for>
+			<set stat="pAtk" val="225" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20038" type="Weapon" name="Shadow Item: Shadow Item: Draconic Bow - Cheap Shot">
+		<set name="icon" val="L2JBrazuca.icons.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="mp_consume_reduce" val="26,1" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20039" type="Weapon" name="Shadow Item: Shadow Item: Draconic Bow - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3567-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20040" type="Weapon" name="Shadow Item: Shadow Item: Draconic Bow - Critical Slow">
+		<set name="icon" val="L2JBrazuca.icons.weapon_draconic_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20041" type="Weapon" name="Shadow Item: Shadow Item: Shining Bow - Cheap Shot">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="mp_consume_reduce" val="26,1" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20042" type="Weapon" name="Shadow Item: Shadow Item: Shining Bow - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="item_skill" val="3567-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20043" type="Weapon" name="Shadow Item: Shadow Item: Shining Bow - Crt. Slow">
+		<set name="icon" val="L2JBrazuca.icons.weapon_shining_bow_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BOW" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="500" />
+		<set name="damage_range" val="0;0;10;0" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1650" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="mp_consume" val="11" />
+		<set name="reuse_delay" val="1500" />
+		<set name="oncrit_chance" val="16" />
+		<set name="oncrit_skill" val="3574-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="581" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="293" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20044" type="Weapon" name="Shadow Item: Shadow Item: Heavens Divider - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20045" type="Weapon" name="Shadow Item: Shadow Item: Heavens Divider - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20046" type="Weapon" name="Shadow Item: Shadow Item: Heavens Divider - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_heavens_divider_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGSWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1380" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3566-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20047" type="Weapon" name="Shadow Item: Shadow Item: Angel Slayer - Crt. Damage">
+		<set name="icon" val="L2JBrazuca.icons.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3572-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20048" type="Weapon" name="Shadow Item: Shadow Item: Angel Slayer - HP Drain">
+		<set name="icon" val="L2JBrazuca.icons.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20049" type="Weapon" name="Shadow Item: Shadow Item: Angel Slayer - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_angel_slayer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DAGGER" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="950" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="246" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="12" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="433" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20050" type="Weapon" name="Shadow Item: Shadow Item: Forgotten Blade - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3564-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20051" type="Weapon" name="Shadow Item: Shadow Item: Forgotten Blade - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20052" type="Weapon" name="Shadow Item: Shadow Item: Forgotten Blade - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_forgotten_blade_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3566-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20053" type="Weapon" name="Shadow Item: Shadow Item: Basalt Battlehammer - HP Drain">
+		<set name="icon" val="L2JBrazuca.icons.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20054" type="Weapon" name="Shadow Item: Shadow Item: Basalt Battlehammer - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20055" type="Weapon" name="Shadow Item: Shadow Item: Basalt Battlehammer - HP Regeneration">
+		<set name="icon" val="L2JBrazuca.icons.weapon_basalt_battlehammer_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="rhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;40;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1570" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3569-1" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="379" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20056" type="Weapon" name="Shadow Item: Shadow Item: Imperial Staff - Empower">
+		<set name="icon" val="L2JBrazuca.icons.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3575-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20057" type="Weapon" name="Shadow Item: Shadow Item: Imperial Staff - MP Regeneration">
+		<set name="icon" val="L2JBrazuca.icons.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3576-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20058" type="Weapon" name="Shadow Item: Shadow Item: Imperial Staff - Magic Hold">
+		<set name="icon" val="L2JBrazuca.icons.weapon_imperial_staff_i01" />
+		<set name="is_magical" val="true" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;46;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="910" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncast_chance" val="20" />
+		<set name="oncast_skill" val="3577-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="274" />
+			<set stat="mAtk" val="175" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20059" type="Weapon" name="Shadow Item: Shadow Item: Dragon Hunter Axe - HP Regeneration">
+		<set name="icon" val="L2JBrazuca.icons.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3569-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20060" type="Weapon" name="Shadow Item: Shadow Item: Dragon Hunter Axe - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20061" type="Weapon" name="Shadow Item: Shadow Item: Dragon Hunter Axe - HP Drain">
+		<set name="icon" val="L2JBrazuca.icons.weapon_dragon_hunter_axe_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="BIGBLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="20" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1820" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3568-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20062" type="Weapon" name="Shadow Item: Shadow Item: Saint Spear - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-4" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20063" type="Weapon" name="Shadow Item: Shadow Item: Saint Spear - Guidance">
+		<set name="icon" val="L2JBrazuca.icons.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3602-9" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20064" type="Weapon" name="Shadow Item: Shadow Item: Saint Spear - Haste">
+		<set name="icon" val="L2JBrazuca.icons.weapon_saint_spear_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="POLE" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="80" />
+		<set name="damage_range" val="0;0;66;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1800" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3601-9" />
+		<for>
+			<set stat="pAtk" val="281" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<sub stat="accCombat" val="3" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20065" type="Weapon" name="Shadow Item: Shadow Item: Demon Splinter - Focus">
+		<set name="icon" val="L2JBrazuca.icons.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3565-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20066" type="Weapon" name="Shadow Item: Shadow Item: Demon Splinter - Health">
+		<set name="icon" val="L2JBrazuca.icons.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="item_skill" val="3013-3" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20067" type="Weapon" name="Shadow Item: Shadow Item: Demon Splinter - Crt. Stun">
+		<set name="icon" val="L2JBrazuca.icons.weapon_demon_splinter_i01" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUALFIST" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="5" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;32;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1350" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="oncrit_chance" val="27" />
+		<set name="oncrit_skill" val="3571-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="4" />
+			<add stat="accCombat" val="4" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<item id="20068" type="Weapon" name="Shadow Item: Shadow Item: Tallum Blade*Dark Legion's Edge">
+		<set name="icon" val="L2JBrazuca.icons.weapon_dual_sword_i00" />
+		<set name="default_action" val="equip" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="crystal_count" val="2440" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="2080" />
+		<set name="price" val="48800000" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="enchant4_skill" val="3570-1" />
+		<set name="item_skill" val="3552-1" />
+		<for>
+			<set stat="pAtk" val="342" />
+			<set stat="mAtk" val="132" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
+		</for>
+	</item>
+	<!-- Shadow Armor Grade A -->
+	<item id="20069" type="Armor" name="Tallum Helm">
+		<set name="icon" val="L2JBrazuca.icons.armor_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="139" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="570" />
+		<set name="price" val="1740000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="69" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20070" type="Armor" name="Tallum Plate Armor">
+		<set name="icon" val="L2JBrazuca.icons.armor_t77_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="541" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="9780" />
+		<set name="price" val="6770000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="278" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20071" type="Armor" name="Tallum Gloves - Heavy Armor">
+		<set name="icon" val="L2JBrazuca.icons.armor_t77_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="92" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="price" val="1160000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20072" type="Armor" name="Tallum Boots - Heavy Armor">
+		<set name="icon" val="L2JBrazuca.icons.armor_t77_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="92" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1130" />
+		<set name="price" val="1160000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<!-- Shadow Armor Grade S -->
+	<item id="20073" type="Armor" name="Imperial Crusader Breastplate">
+		<set name="icon" val="L2JBrazuca.icons.armor_t88_u_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="chest" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="715" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="7620" />
+		<set name="price" val="14300000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20074" type="Armor" name="Imperial Crusader Gaiters">
+		<set name="icon" val="L2JBrazuca.icons.armor_t88_l_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="legs" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="448" />
+		<set name="material" val="SCALE_OF_DRAGON" />
+		<set name="weight" val="3260" />
+		<set name="price" val="8960000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20075" type="Armor" name="Imperial Crusader Gauntlets">
+		<set name="icon" val="L2JBrazuca.icons.armor_t88_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20076" type="Armor" name="Imperial Crusader Boots">
+		<set name="icon" val="L2JBrazuca.icons.armor_t88_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20077" type="Armor" name="Imperial Crusader Shield">
+		<set name="icon" val="L2JBrazuca.icons.shield_imperial_crusader_shield_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="3760000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="290" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="20078" type="Armor" name="Imperial Crusader Helmet">
+		<set name="icon" val="L2JBrazuca.icons.armor_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20079" type="Armor" name="Draconic Leather Armor">
+		<set name="icon" val="L2JBrazuca.icons.armor_t89_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="870" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="4950" />
+		<set name="price" val="17400000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="249" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20080" type="Armor" name="Draconic Leather Gloves">
+		<set name="icon" val="L2JBrazuca.icons.armor_t89_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20081" type="Armor" name="Draconic Leather Boots">
+		<set name="icon" val="L2JBrazuca.icons.armor_t89_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20082" type="Armor" name="Draconic Leather Helmet">
+		<set name="icon" val="L2JBrazuca.icons.armor_leather_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20083" type="Armor" name="Major Arcana Robe">
+		<set name="icon" val="L2JBrazuca.icons.armor_t90_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="870" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="2300" />
+		<set name="price" val="17400000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="166" />
+			<add stat="maxMp" val="866" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20084" type="Armor" name="Major Arcana Gloves">
+		<set name="icon" val="L2JBrazuca.icons.armor_t90_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20085" type="Armor" name="Major Arcana Boots">
+		<set name="icon" val="L2JBrazuca.icons.armor_t90_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="179" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="1110" />
+		<set name="price" val="3580000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="55" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="20086" type="Armor" name="Major Arcana Circlet">
+		<set name="icon" val="L2JBrazuca.icons.armor_circlet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="268" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="550" />
+		<set name="price" val="5370000" />
+		<for>
+			<set name="is_tradable" val="false" />
+			<set name="is_dropable" val="false" />
+			<set name="is_sellable" val="false" />
+			<set name="duration" val="90" />
+			<baseadd stat="pDef" val="205" />
+			<enchant stat="pDef" val="0" />
+			<baseadd stat="pDef" val="83" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+</list>
