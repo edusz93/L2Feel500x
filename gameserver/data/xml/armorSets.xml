@@ -55,7 +55,7 @@
 	<armorset name="Titanium Light Set" chest="15004" legs="0" head="15000" gloves="15005" feet="15006" skillId="7401" shield="0" shieldSkillId="0" enchant6Skill="3621"/>
 	<armorset name="Titanium Robe Set" chest="15007" legs="0" head="15000" gloves="15008" feet="15009" skillId="7402" shield="0" shieldSkillId="0" enchant6Skill="3622"/>
 	<armorset name="Shadow Tallum Heavy Set" chest="9370" legs="0" head="9369" gloves="9371" feet="9372" skillId="3531" shield="0" shieldSkillId="0" enchant6Skill="3620"/>
-	<armorset name="Shadow Imperial Crusader Set" chest="9373" legs="9374" head="9378" gloves="9375" feet="9376" skillId="3553" shield="6377" shieldSkillId="3554" enchant6Skill="3623"/>
+	<armorset name="Shadow Imperial Crusader Set" chest="9373" legs="9374" head="9378" gloves="9375" feet="9376" skillId="3553" shield="9377" shieldSkillId="3554" enchant6Skill="3623"/>
 	<armorset name="Shadow Draconic Leather Set" chest="9379" legs="0" head="9382" gloves="9380" feet="9381" skillId="3555" shield="0" shieldSkillId="0" enchant6Skill="3624"/>
 	<armorset name="Shadow Major Arcana Set" chest="9383" legs="0" head="9386" gloves="9384" feet="9385" skillId="3556" shield="0" shieldSkillId="0" enchant6Skill="3625"/>
 </list>
