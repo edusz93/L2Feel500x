@@ -2075,7 +2075,7 @@
 		</for>
 	</item>
 	<!-- Shadow Armor Grade A -->
-	<item id="9369" type="Armor" name="Tallum Helm">
+	<item id="9369" type="Armor" name="Shadow Item: Tallum Helm">
 		<set name="icon" val="L2JBrazuca.icons.armor_helmet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
@@ -2093,7 +2093,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9370" type="Armor" name="Tallum Plate Armor">
+	<item id="9370" type="Armor" name="Shadow Item: Tallum Plate Armor">
 		<set name="icon" val="L2JBrazuca.icons.armor_t77_ul_i00" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
@@ -2112,7 +2112,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9371" type="Armor" name="Tallum Gloves - Heavy Armor">
+	<item id="9371" type="Armor" name="Shadow Item: Tallum Gloves - Heavy Armor">
 		<set name="icon" val="L2JBrazuca.icons.armor_t77_g_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
@@ -2130,7 +2130,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9372" type="Armor" name="Tallum Boots - Heavy Armor">
+	<item id="9372" type="Armor" name="Shadow Item: Tallum Boots - Heavy Armor">
 		<set name="icon" val="L2JBrazuca.icons.armor_t77_b_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
@@ -2149,7 +2149,7 @@
 		</for>
 	</item>
 	<!-- Shadow Armor Grade S -->
-	<item id="9373" type="Armor" name="Imperial Crusader Breastplate">
+	<item id="9373" type="Armor" name="Shadow Item: Imperial Crusader Breastplate">
 		<set name="icon" val="L2JBrazuca.icons.armor_t88_u_i00" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
@@ -2168,7 +2168,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9374" type="Armor" name="Imperial Crusader Gaiters">
+	<item id="9374" type="Armor" name="Shadow Item: Imperial Crusader Gaiters">
 		<set name="icon" val="L2JBrazuca.icons.armor_t88_l_i00" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="HEAVY" />
@@ -2189,7 +2189,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9375" type="Armor" name="Imperial Crusader Gauntlets">
+	<item id="9375" type="Armor" name="Shadow Item: Imperial Crusader Gauntlets">
 		<set name="icon" val="L2JBrazuca.icons.armor_t88_g_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
@@ -2209,7 +2209,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9376" type="Armor" name="Imperial Crusader Boots">
+	<item id="9376" type="Armor" name="Shadow Item: Imperial Crusader Boots">
 		<set name="icon" val="L2JBrazuca.icons.armor_t88_b_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
@@ -2229,7 +2229,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9377" type="Armor" name="Imperial Crusader Shield">
+	<item id="9377" type="Armor" name="Shadow Item: Imperial Crusader Shield">
 		<set name="icon" val="L2JBrazuca.icons.shield_imperial_crusader_shield_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
@@ -2251,7 +2251,7 @@
 			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
-	<item id="9378" type="Armor" name="Imperial Crusader Helmet">
+	<item id="9378" type="Armor" name="Shadow Item: Imperial Crusader Helmet">
 		<set name="icon" val="L2JBrazuca.icons.armor_helmet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
@@ -2271,7 +2271,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9379" type="Armor" name="Draconic Leather Armor">
+	<item id="9379" type="Armor" name="Shadow Item: Draconic Leather Armor">
 		<set name="icon" val="L2JBrazuca.icons.armor_t89_ul_i00" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="LIGHT" />
@@ -2292,7 +2292,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9380" type="Armor" name="Draconic Leather Gloves">
+	<item id="9380" type="Armor" name="Shadow Item: Draconic Leather Gloves">
 		<set name="icon" val="L2JBrazuca.icons.armor_t89_g_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
@@ -2312,7 +2312,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9381" type="Armor" name="Draconic Leather Boots">
+	<item id="9381" type="Armor" name="Shadow Item: Draconic Leather Boots">
 		<set name="icon" val="L2JBrazuca.icons.armor_t89_b_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
@@ -2332,7 +2332,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9382" type="Armor" name="Draconic Leather Helmet">
+	<item id="9382" type="Armor" name="Shadow Item: Draconic Leather Helmet">
 		<set name="icon" val="L2JBrazuca.icons.armor_leather_helmet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
@@ -2352,7 +2352,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9383" type="Armor" name="Major Arcana Robe">
+	<item id="9383" type="Armor" name="Shadow Item: Major Arcana Robe">
 		<set name="icon" val="L2JBrazuca.icons.armor_t90_ul_i00" />
 		<set name="default_action" val="equip" />
 		<set name="armor_type" val="MAGIC" />
@@ -2374,7 +2374,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9384" type="Armor" name="Major Arcana Gloves">
+	<item id="9384" type="Armor" name="Shadow Item: Major Arcana Gloves">
 		<set name="icon" val="L2JBrazuca.icons.armor_t90_g_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="gloves" />
@@ -2394,7 +2394,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9385" type="Armor" name="Major Arcana Boots">
+	<item id="9385" type="Armor" name="Shadow Item: Major Arcana Boots">
 		<set name="icon" val="L2JBrazuca.icons.armor_t90_b_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="feet" />
@@ -2414,7 +2414,7 @@
 			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
-	<item id="9386" type="Armor" name="Major Arcana Circlet">
+	<item id="9386" type="Armor" name="Shadow Item: Major Arcana Circlet">
 		<set name="icon" val="L2JBrazuca.icons.armor_circlet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="head" />
@@ -2432,6 +2432,259 @@
 			<enchant stat="pDef" val="0" />
 			<baseadd stat="pDef" val="83" />
 			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<!-- Shadow Armor Grade A -->
+	<item id="9387" type="Armor" name="Shadow Item: Dark Crystal Robe">
+		<set name="icon" val="icon.armor_t76_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="MAGIC" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="406" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="2450" />
+		<set name="price" val="5080000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9388" type="Armor" name="Shadow Item: Dark Crystal Helmet">
+		<set name="icon" val="icon.armor_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="139" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="570" />
+		<set name="price" val="1740000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="69" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9389" type="Armor" name="Shadow Item: Dark Crystal Gloves - Robe">
+		<set name="icon" val="icon.armor_t76_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="92" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="580" />
+		<set name="price" val="1160000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9390" type="Armor" name="Shadow Item: Dark Crystal Boots - Robe">
+		<set name="icon" val="icon.armor_t76_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="92" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1110" />
+		<set name="price" val="1160000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9391" type="Armor" name="Shadow Item: Majestic Leather Armor">
+		<set name="icon" val="icon.armor_t84_ul_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="LIGHT" />
+		<set name="bodypart" val="fullarmor" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="618" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="5350" />
+		<set name="price" val="7730000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="220" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9392" type="Armor" name="Shadow Item: Majestic Circlet">
+		<set name="icon" val="icon.armor_leather_helmet_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="head" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="211" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="550" />
+		<set name="price" val="2640000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="73" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9393" type="Armor" name="Shadow Item: Majestic Gauntlets - Light Armor">
+		<set name="icon" val="icon.armor_t84_g_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="gloves" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="140" />
+		<set name="material" val="LEATHER" />
+		<set name="weight" val="540" />
+		<set name="price" val="1760000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<item id="9394" type="Armor" name="Shadow Item: Majestic Boots - Light Armor">
+		<set name="icon" val="icon.armor_t84_b_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="feet" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="140" />
+		<set name="material" val="BLOOD_STEEL" />
+		<set name="weight" val="1110" />
+		<set name="price" val="1760000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
+		</for>
+	</item>
+	<!-- Shadow Tattoo -->
+	<item id="9395" type="Armor" name="Shadow Item: Tattoo of Fighter">
+		<set name="icon" val="icon.etc_str_symbol_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.05" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.03" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.03" />
+		</for>
+	</item>
+	<item id="9396" type="Armor" name="Shadow Item: Tattoo of Mage">
+		<set name="icon" val="icon.etc_wit_symbol_i00" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.03" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.05" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.01" />
+		</for>
+	</item>
+	<!-- Shadow Jewealy A Grade -->
+	<item id="9397" type="Armor" name="Shadow Item: Majestic Necklace">
+		<set name="icon" val="icon.accessary_inferno_necklace_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="276" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="3450000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="85" />
+			<add stat="maxMp" val="33" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9398" type="Armor" name="Shadow Item: Majestic Earring">
+		<set name="icon" val="icon.accessary_inferno_earing_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="207" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="2590000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="63" />
+			<add stat="maxMp" val="25" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9399" type="Armor" name="Shadow Item: Majestic Ring">
+		<set name="icon" val="icon.accessary_inferno_ring_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="A" />
+		<set name="crystal_count" val="138" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1730000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="42" />
+			<add stat="maxMp" val="17" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 </list>

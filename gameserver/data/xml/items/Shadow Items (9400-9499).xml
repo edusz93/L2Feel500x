@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<!-- Shadow Jewealy S Grade -->
+	<item id="9400" type="Armor" name="Shadow Item: Tateossian Necklace">
+		<set name="icon" val="icon.accessory_tateossian_necklace_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="296" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="5920000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="95" />
+			<add stat="maxMp" val="42" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9401" type="Armor" name="Shadow Item: Tateossian Earring">
+		<set name="icon" val="icon.accessory_tateossian_earring_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="222" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="price" val="4440000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="71" />
+			<add stat="maxMp" val="31" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9402" type="Armor" name="Shadow Item: Tateossian Ring">
+		<set name="icon" val="icon.accessory_tateossian_ring_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="148" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="2960000" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<baseadd stat="mDef" val="48" />
+			<add stat="maxMp" val="21" />
+			<enchant stat="mDef" val="0" />
+		</for>
+	</item>
+	<!-- Shadow Hats -->
+	<item id="9403" type="Armor" name="Shadow Item: Wizard Hat">
+		<set name="icon" val="icon.accessory_magic_cap_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>
+	<item id="9404" type="Armor" name="Shadow Item: Romantic Chapeau">
+		<set name="icon" val="icon.accessory_romantic_chaperon_i00" />
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="10" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="duration" val="900" />
+		<for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+		</for>
+	</item>	
+</list>
