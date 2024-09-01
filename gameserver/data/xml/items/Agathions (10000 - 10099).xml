@@ -121,4 +121,59 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
 	</item>
+	<item id="10011" type="EtcItem" name="Mini Dark Elf">
+		<set name="icon" val="L2JBrazuca.icons.mini_darkelf" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10012" type="EtcItem" name="Mini Elf">
+		<set name="icon" val="L2JBrazuca.icons.mini_elf" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10013" type="EtcItem" name="Mini Dwarf">
+		<set name="icon" val="L2JBrazuca.icons.mini_dwarf" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10014" type="EtcItem" name="Mini Moon">
+		<set name="icon" val="L2JBrazuca.icons.moon" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
+	<item id="10015" type="EtcItem" name="Mini Manul">
+		<set name="icon" val="L2JBrazuca.icons.mini_manul" />
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="PET_COLLAR" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	</item>
 </list>

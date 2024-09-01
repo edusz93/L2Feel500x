@@ -24,4 +24,9 @@
 	<item id="10008" npcId="51008" summonType="0"/><!-- Mini Sheep -->
 	<item id="10009" npcId="51009" summonType="0"/><!-- Mini Tree -->
 	<item id="10010" npcId="51010" summonType="0"/><!-- Mini Undefined -->
+	<item id="10011" npcId="51011" summonType="0"/><!-- Mini Dark Elf -->
+	<item id="10012" npcId="51012" summonType="0"/><!-- Mini Elf -->
+	<item id="10013" npcId="51013" summonType="0"/><!-- Mini Dwarf -->
+	<item id="10014" npcId="51014" summonType="0"/><!-- Mini Moon -->
+	<item id="10015" npcId="51015" summonType="0"/><!-- Mini Manul -->
 </list>
