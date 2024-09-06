@@ -344,7 +344,7 @@
 	<npc id="51011" name="Mini Dark Elf" title="Agathion">
 		<set name="level" val="80"/>
 		<set name="radius" val="0"/>
-		<set name="height" val="24"/>
+		<set name="height" val="30"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Agathion"/>
@@ -375,7 +375,7 @@
 	<npc id="51012" name="Mini Elf" title="Agathion">
 		<set name="level" val="80"/>
 		<set name="radius" val="0"/>
-		<set name="height" val="24"/>
+		<set name="height" val="30"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Agathion"/>
@@ -406,7 +406,7 @@
 	<npc id="51013" name="Mini Dwarf" title="Agathion">
 		<set name="level" val="80"/>
 		<set name="radius" val="0"/>
-		<set name="height" val="24"/>
+		<set name="height" val="30"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Agathion"/>
