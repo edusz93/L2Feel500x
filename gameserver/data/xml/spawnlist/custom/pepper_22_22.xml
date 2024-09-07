@@ -7,6 +7,6 @@
 		<node x="82346" y="148677" />
 	</territory>
 	<npcmaker name="pepper_3562774535200" territory="pepper_1704296629185" spawn="ALL" maximumNpcs="1">
-		<npc id="31049" pos="82296;148727;-3464;63660" total="1" respawnDelay="60s" /> <!-- Pepper -->
+		<npc id="31049" pos="82280;148725;-3464;63660" total="1" respawnDelay="60s" /> <!-- Pepper -->
 	</npcmaker>
 </list>

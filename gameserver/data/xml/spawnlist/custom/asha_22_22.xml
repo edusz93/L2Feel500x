@@ -7,6 +7,6 @@
 		<node x="82314" y="148496" />
 	</territory>
 	<npcmaker name="asha_2737932272154675" territory="asha_1722797206729" spawn="ALL" maximumNpcs="1">
-		<npc id="50019" pos="82264;148546;-3464;64981" total="1" respawnDelay="60s" /> <!-- Asha -->
+		<npc id="50019" pos="82281;148547;-3464;64981" total="1" respawnDelay="60s" /> <!-- Asha -->
 	</npcmaker>
 </list>

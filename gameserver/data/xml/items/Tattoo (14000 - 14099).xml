@@ -55,10 +55,7 @@
 			<mul order="0x30" stat="runSpd" val="1.15" />
 		</for>
 	</item>
-
-
-
-					<!-- Tattoo Left -->
+	<!-- Tattoo Left -->
 	<item id="14020" type="Armor" name="Tattoo Left">
 		<set name="icon" val="icon.etc_int_symbol_i01" />
 		<set name="default_action" val="equip" />
@@ -72,6 +69,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<add stat="INT" val="2" />
 		</for>
@@ -89,6 +87,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<add stat="DEX" val="2" />
 		</for>
@@ -106,6 +105,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<add stat="STR" val="2" />
 		</for>
@@ -123,6 +123,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<add stat="CON" val="2" />
 		</for>
@@ -141,6 +142,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<add stat="giveHp" val="79" /> <!-- heal empower lvl 10 -->
 			<mul stat="MagicalMpConsumeRate" val="0.90"/> <!-- -10% gasto de mana -->
@@ -160,6 +162,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<mul stat="mAtk" val="1.05" /> <!-- 5% mattack -->
 			<mul stat="mAtkSpd" val="1.05" /> <!-- 5% casting speed -->
@@ -179,6 +182,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<mul stat="pAtk" val="1.05"/> <!-- 5% patk -->
 			<mul stat="pAtkSpd" val="1.05"/> <!-- 5% atk speed -->
@@ -197,6 +201,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<mul stat="cAtk" val="1.05" /> <!-- 5% critical power -->
 			<add stat="rEvas" val="2"/> <!-- 2 de evasion -->
@@ -216,6 +221,7 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 		<set name="is_oly_restricted" val="true" />
+		<set name="duration" val="900" />
 		<for>
 			<mul stat="mAtk" val="1.10"/> <!-- 10% matk -->
 			<mul stat="pAtk" val="1.10"/> <!-- 10% patk -->

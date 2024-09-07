@@ -20033,165 +20033,165 @@
 		<product id="7970" price="150000"/>
 	</buyList>
 	<buyList id="400000" npcId="50019">
-		<product id="7836" price="70000"/>
-		<product id="8184" price="70000"/>
-		<product id="8557" price="70000"/>
-		<product id="8186" price="70000"/>
-		<product id="8910" price="70000"/>
-		<product id="8914" price="70000"/>
-		<product id="8915" price="70000"/>
-		<product id="8918" price="70000"/>
-		<product id="8919" price="70000"/>
-		<product id="8920" price="70000"/>
-		<product id="8921" price="70000"/>
-		<product id="8922" price="70000"/>
-		<product id="8936" price="70000"/>
-		<product id="8560" price="70000"/>
-		<product id="8561" price="70000"/>
-		<product id="8562" price="70000"/>
-		<product id="8563" price="70000"/>
-		<product id="8564" price="70000"/>
-		<product id="8565" price="70000"/>
-		<product id="18000" price="70000"/>
-		<product id="18001" price="70000"/>
-		<product id="18002" price="70000"/>
-		<product id="18003" price="70000"/>
-		<product id="18004" price="70000"/>
-		<product id="18005" price="70000"/>
-		<product id="18006" price="70000"/>
-		<product id="18007" price="70000"/>
-		<product id="18008" price="70000"/>
-		<product id="18009" price="70000"/>
-		<product id="18010" price="70000"/>
-		<product id="18011" price="70000"/>
-		<product id="18012" price="70000"/>
-		<product id="18013" price="70000"/>
-		<product id="18014" price="70000"/>
-		<product id="18015" price="70000"/>
-		<product id="18016" price="70000"/>
-		<product id="18017" price="70000"/>
-		<product id="18018" price="70000"/>
-		<product id="18019" price="70000"/>
-		<product id="18020" price="70000"/>
-		<product id="18021" price="70000"/>
-		<product id="18022" price="70000"/>
-		<product id="18023" price="70000"/>
-		<product id="18024" price="70000"/>
-		<product id="18025" price="70000"/>
-		<product id="18026" price="70000"/>
-		<product id="18027" price="70000"/>
-		<product id="18028" price="70000"/>
-		<product id="18029" price="70000"/>
-		<product id="18030" price="70000"/>
-		<product id="18031" price="70000"/>
-		<product id="18032" price="70000"/>
-		<product id="18033" price="70000"/>
-		<product id="18034" price="70000"/>
-		<product id="18035" price="70000"/>
-		<product id="18036" price="70000"/>
-		<product id="18037" price="70000"/>
-		<product id="18038" price="70000"/>
-		<product id="18039" price="70000"/>
-		<product id="18040" price="70000"/>
-		<product id="18041" price="70000"/>
-		<product id="18042" price="70000"/>
-		<product id="18043" price="70000"/>
-		<product id="18044" price="70000"/>
-		<product id="18045" price="70000"/>
-		<product id="18046" price="70000"/>
-		<product id="18047" price="70000"/>
-		<product id="18048" price="70000"/>
-		<product id="18049" price="70000"/>
-		<product id="18050" price="70000"/>
-		<product id="18051" price="70000"/>
-		<product id="18052" price="70000"/>
-		<product id="18053" price="70000"/>
-		<product id="18054" price="70000"/>
-		<product id="18055" price="70000"/>
-		<product id="18056" price="70000"/>
-		<product id="18057" price="70000"/>
-		<product id="18058" price="70000"/>
-		<product id="18059" price="70000"/>
-		<product id="18060" price="70000"/>
-		<product id="18061" price="70000"/>
-		<product id="18062" price="70000"/>
-		<product id="18063" price="70000"/>
-		<product id="18064" price="70000"/>
-		<product id="18065" price="70000"/>
-		<product id="18066" price="70000"/>
-		<product id="18067" price="70000"/>
-		<product id="18068" price="70000"/>
-		<product id="18069" price="70000"/>
-		<product id="18070" price="70000"/>
-		<product id="18071" price="70000"/>
-		<product id="18072" price="70000"/>
-		<product id="18073" price="70000"/>
-		<product id="18074" price="70000"/>
-		<product id="18075" price="70000"/>
-		<product id="18076" price="70000"/>
-		<product id="18077" price="70000"/>
-		<product id="18078" price="70000"/>
-		<product id="18079" price="70000"/>
-		<product id="18080" price="70000"/>
+		<product id="7836"/>
+		<product id="8184"/>
+		<product id="8557"/>
+		<product id="8186"/>
+		<product id="8910"/>
+		<product id="8914"/>
+		<product id="8915"/>
+		<product id="8918"/>
+		<product id="8919"/>
+		<product id="8920"/>
+		<product id="8921"/>
+		<product id="8922"/>
+		<product id="8936"/>
+		<product id="8560"/>
+		<product id="8561"/>
+		<product id="8562"/>
+		<product id="8563"/>
+		<product id="8564"/>
+		<product id="8565"/>
+		<product id="18000"/>
+		<product id="18001"/>
+		<product id="18002"/>
+		<product id="18003"/>
+		<product id="18004"/>
+		<product id="18005"/>
+		<product id="18006"/>
+		<product id="18007"/>
+		<product id="18008"/>
+		<product id="18009"/>
+		<product id="18010"/>
+		<product id="18011"/>
+		<product id="18012"/>
+		<product id="18013"/>
+		<product id="18014"/>
+		<product id="18015"/>
+		<product id="18016"/>
+		<product id="18017"/>
+		<product id="18018"/>
+		<product id="18019"/>
+		<product id="18020"/>
+		<product id="18021"/>
+		<product id="18022"/>
+		<product id="18023"/>
+		<product id="18024"/>
+		<product id="18025"/>
+		<product id="18026"/>
+		<product id="18027"/>
+		<product id="18028"/>
+		<product id="18029"/>
+		<product id="18030"/>
+		<product id="18031"/>
+		<product id="18032"/>
+		<product id="18033"/>
+		<product id="18034"/>
+		<product id="18035"/>
+		<product id="18036"/>
+		<product id="18037"/>
+		<product id="18038"/>
+		<product id="18039"/>
+		<product id="18040"/>
+		<product id="18041"/>
+		<product id="18042"/>
+		<product id="18043"/>
+		<product id="18044"/>
+		<product id="18045"/>
+		<product id="18046"/>
+		<product id="18047"/>
+		<product id="18048"/>
+		<product id="18049"/>
+		<product id="18050"/>
+		<product id="18051"/>
+		<product id="18052"/>
+		<product id="18053"/>
+		<product id="18054"/>
+		<product id="18055"/>
+		<product id="18056"/>
+		<product id="18057"/>
+		<product id="18058"/>
+		<product id="18059"/>
+		<product id="18060"/>
+		<product id="18061"/>
+		<product id="18062"/>
+		<product id="18063"/>
+		<product id="18064"/>
+		<product id="18065"/>
+		<product id="18066"/>
+		<product id="18067"/>
+		<product id="18068"/>
+		<product id="18069"/>
+		<product id="18070"/>
+		<product id="18071"/>
+		<product id="18072"/>
+		<product id="18073"/>
+		<product id="18074"/>
+		<product id="18075"/>
+		<product id="18076"/>
+		<product id="18077"/>
+		<product id="18078"/>
+		<product id="18079"/>
+		<product id="18080"/>
 	</buyList>
 	<buyList id="400001" npcId="50019">
-		<product id="16000" price="70000"/>
-		<product id="16001" price="70000"/>
-		<product id="16003" price="70000"/>
-		<product id="16004" price="70000"/>
-		<product id="16005" price="70000"/>
-		<product id="16006" price="70000"/>
-		<product id="16007" price="70000"/>
-		<product id="16008" price="70000"/>
-		<product id="16009" price="70000"/>
-		<product id="16010" price="70000"/>
-		<product id="16011" price="70000"/>
-		<product id="16012" price="70000"/>
-		<product id="16013" price="70000"/>
-		<product id="16014" price="70000"/>
-		<product id="16015" price="70000"/>
-		<product id="16016" price="70000"/>
-		<product id="16017" price="70000"/>
-		<product id="16018" price="70000"/>
-		<product id="16019" price="70000"/>
-		<product id="16020" price="70000"/>
-		<product id="16021" price="70000"/>
-		<product id="16022" price="70000"/>
-		<product id="16023" price="70000"/>
-		<product id="16024" price="70000"/>
-		<product id="16025" price="70000"/>
-		<product id="16026" price="70000"/>
-		<product id="16027" price="70000"/>
-		<product id="16028" price="70000"/>
-		<product id="16029" price="70000"/>
-		<product id="16030" price="70000"/>
-		<product id="16031" price="70000"/>
-		<product id="16032" price="70000"/>
-		<product id="16033" price="70000"/>
-		<product id="16034" price="70000"/>
-		<product id="16035" price="70000"/>
-		<product id="16036" price="70000"/>
-		<product id="16037" price="70000"/>
-		<product id="16038" price="70000"/>
-		<product id="16039" price="70000"/>
-		<product id="16040" price="70000"/>
-		<product id="16041" price="70000"/>
-		<product id="16042" price="70000"/>
-		<product id="16043" price="70000"/>
-		<product id="16044" price="70000"/>
-		<product id="16045" price="70000"/>
-		<product id="16046" price="70000"/>
-		<product id="16047" price="70000"/>
-		<product id="16048" price="70000"/>
-		<product id="16049" price="70000"/>
-		<product id="16050" price="70000"/>
-		<product id="16051" price="70000"/>
-		<product id="16052" price="70000"/>
-		<product id="16053" price="70000"/>
-		<product id="16054" price="70000"/>
-		<product id="16055" price="70000"/>
-		<product id="16056" price="70000"/>
-		<product id="16057" price="70000"/>
-		<product id="16058" price="70000"/>
+		<product id="16000"/>
+		<product id="16001"/>
+		<product id="16003"/>
+		<product id="16004"/>
+		<product id="16005"/>
+		<product id="16006"/>
+		<product id="16007"/>
+		<product id="16008"/>
+		<product id="16009"/>
+		<product id="16010"/>
+		<product id="16011"/>
+		<product id="16012"/>
+		<product id="16013"/>
+		<product id="16014"/>
+		<product id="16015"/>
+		<product id="16016"/>
+		<product id="16017"/>
+		<product id="16018"/>
+		<product id="16019"/>
+		<product id="16020"/>
+		<product id="16021"/>
+		<product id="16022"/>
+		<product id="16023"/>
+		<product id="16024"/>
+		<product id="16025"/>
+		<product id="16026"/>
+		<product id="16027"/>
+		<product id="16028"/>
+		<product id="16029"/>
+		<product id="16030"/>
+		<product id="16031"/>
+		<product id="16032"/>
+		<product id="16033"/>
+		<product id="16034"/>
+		<product id="16035"/>
+		<product id="16036"/>
+		<product id="16037"/>
+		<product id="16038"/>
+		<product id="16039"/>
+		<product id="16040"/>
+		<product id="16041"/>
+		<product id="16042"/>
+		<product id="16043"/>
+		<product id="16044"/>
+		<product id="16045"/>
+		<product id="16046"/>
+		<product id="16047"/>
+		<product id="16048"/>
+		<product id="16049"/>
+		<product id="16050"/>
+		<product id="16051"/>
+		<product id="16052"/>
+		<product id="16053"/>
+		<product id="16054"/>
+		<product id="16055"/>
+		<product id="16056"/>
+		<product id="16057"/>
+		<product id="16058"/>
 	</buyList>
 </list>

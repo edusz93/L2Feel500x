@@ -7,6 +7,6 @@
 		<node x="82350" y="148779" />
 	</territory>
 	<npcmaker name="ronaldo_1511358181468133" territory="ronaldo_1721570625753" spawn="ALL" maximumNpcs="1">
-		<npc id="50018" pos="82300;148829;-3464;63987" total="1" respawnDelay="60s" /> <!-- Ronaldo -->
+		<npc id="50018" pos="82489;149694;-3464;48234" total="1" respawnDelay="60s" /> <!-- Ronaldo -->
 	</npcmaker>
 </list>

@@ -7,6 +7,6 @@
 		<node x="82315" y="148615" />
 	</territory>
 	<npcmaker name="manager_3577620946554797" territory="manager_1723636902487" spawn="ALL" maximumNpcs="1">
-		<npc id="50020" pos="82265;148665;-3464;64884" total="1" respawnDelay="60s" /> <!-- Manager -->
+		<npc id="50020" pos="82282;148667;-3464;64884" total="1" respawnDelay="60s" /> <!-- Manager -->
 	</npcmaker>
 </list>
