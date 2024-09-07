@@ -69,22 +69,4 @@
 	<npcmaker name="tryskell_412342520332011" territory="tryskell_1692978263534" spawn="ALL" maximumNpcs="1">
 		<npc id="50002" pos="9372;-24089;-3744;9672" total="1" respawnDelay="60s" /> <!-- Tryskell -->
 	</npcmaker>
-	<territory name="tryskell_1696953155729" minZ="-3584" maxZ="-3568">
-		<node x="11398" y="-22675" />
-		<node x="11298" y="-22675" />
-		<node x="11298" y="-22775" />
-		<node x="11398" y="-22775" />
-	</territory>
-	<npcmaker name="tryskell_2312536832691125" territory="tryskell_1696953155729" spawn="ALL" maximumNpcs="1">
-		<npc id="50002" pos="11348;-22725;-3584;42854" total="1" respawnDelay="60s" /> <!-- Tryskell -->
-	</npcmaker>
-	<territory name="tryskell_1696953769245" minZ="-3336" maxZ="-3320">
-		<node x="6874" y="-22093" />
-		<node x="6774" y="-22093" />
-		<node x="6774" y="-22193" />
-		<node x="6874" y="-22193" />
-	</territory>
-	<npcmaker name="tryskell_2313150347923379" territory="tryskell_1696953769245" spawn="ALL" maximumNpcs="1">
-		<npc id="50002" pos="6824;-22143;-3336;15583" total="1" respawnDelay="60s" /> <!-- Tryskell -->
-	</npcmaker>
 </list>

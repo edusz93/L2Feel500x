@@ -208,4 +208,14 @@
 	<zone type='FlagZone' shape='Cylinder' minZ='-4500' maxZ='-2900' rad='3000'>
 		<node x="3621" y="-7672" />
 	</zone>
+	<!-- Primeval -->
+	<zone type="FlagZone" shape="NPoly" minZ="-4290" maxZ="-1290">
+		<node x="10408" y="-27395"/>
+		<node x="12065" y="-25334"/>
+		<node x="12223" y="-23159"/>
+		<node x="10424" y="-22340"/>
+		<node x="9566" y="-23131"/>
+		<node x="6911" y="-22210"/>
+		<node x="4337" y="-23513"/>
+	</zone>
 </list>

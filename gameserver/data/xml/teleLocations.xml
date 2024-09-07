@@ -942,11 +942,22 @@
 		<!-- 4s -->
 	<teleport id="60091" x="177841" y="-82323" z="-7216"/>
 	
-		<!-- Boss Event 1 ja usando-->
+	<!-- Boss Event 1 ja usando-->
 	<teleport id="60092" x="28669" y="-6962" z="-1968"/>	
 		<!-- Boss Event 2-->
 	<teleport id="60093" x="27151" y="-7897" z="-1968"/>	
-		<!-- Boss Event 3-->
+	<!-- Boss Event 3-->
 	<teleport id="60094" x="26482" y="-5932" z="-1952"/>
+	
+	<!-- Primeval Lost Nest -->
+	<teleport id="60095" x="26174" y="-17134" z="-2747"/>
 
+	<!-- Primeval Plains 1 -->
+	<teleport id="60096" x="8264" y="-14431" z="-3696"/>
+
+	<!-- Primeval Isle Wharf -->
+	<teleport id="60097" x="10468" y="-24569" z="-3650"/>
+
+	<!-- Primeval Plains 2 -->
+	<teleport id="60098" x="7557" y="-5513" z="-3216"/>
 </list>
