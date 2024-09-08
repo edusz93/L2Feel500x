@@ -98,8 +98,8 @@
 		<set name="is_sellable" val="true" />
 		<set name="is_dropable" val="true" />
 	</item>
-	<item id="13010" type="EtcItem" name="Ignis Seed">
-		<set name="icon" val="icon.etc_torch_on_i00" />
+	<item id="13010" type="EtcItem" name="Primeval Seed">
+		<set name="icon" val="L2JBrazuca.icons.primeval_farm" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="STEEL" />
 		<set name="weight" val="1" />

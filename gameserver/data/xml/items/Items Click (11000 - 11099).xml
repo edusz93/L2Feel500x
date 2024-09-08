@@ -211,7 +211,7 @@
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
 	</item>
 	<item id="11015" type="EtcItem" name="Lucky Box">
-		<set name="icon" val="L2JBrazuca.icons.gif02" />
+		<set name="icon" val="L2JBrazuca.icons.luckybox" />
 		<set name="default_action" val="skill_reduce" />
 		<set name="etcitem_type" val="POTION" />
 		<set name="material" val="STEEL" />
