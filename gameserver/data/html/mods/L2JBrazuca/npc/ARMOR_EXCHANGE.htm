@@ -1,22 +1,25 @@
 <html>
 <body>
-<table width="230">
-	<tr>
-		<td><button value="" action="" width=64 height=64 back="BotoesNpc.RankingWnd_FaceIcon_Human_magician_W" fore="BotoesNpc.RankingWnd_FaceIcon_Human_magician_W"></td>
-		<td>
-			<font color="LEVEL">PT-BR: </font>Evolua suas Weapons S para PvP!<br1>
-			<font color="LEVEL">EN: </font>Evolve your S Weapons for PvP!<br1>
-			<font color="LEVEL">Bonus: </font>+10% PvP Damage.
-		</td>
-	</tr>
-</table><br>
-	%exchanges%
-	<table width="250">
-	<tr>
-		<td width="130" align=right>%nextLink%</td>
-		<td align=center>-</td>
-		<td width="120" align=left>%previousLink%</td>
-	</tr>
-</table><br>
+<center>
+	<img src=L2UI_CH3.herotower_deco width=256 height=32>
+</center>
+%exchanges%
+<center>
+	<img src=L2UI_CH3.herotower_deco width=256 height=32>
+</center><br>
+<center>
+	<table width=240>
+		<tr>
+			<td><combobox width=160 height=21 var="cb" list=-;Arcana_Mace;Draconic_Bow;Shining_Bow;Heavens_Divider;Angel_Slayer;Forgotten_Blade;Basalt_Battleham;Imperial_Staff;Dragon_Hunter_Ax;Saint_Spear;Demon_Splinter;Tallum_Blade;
+></td>
+			<td><button value="Open List" action="bypass -h L2JBrazuca_npcs_armorexchange_list $cb" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<td width=48>%previousLink%</td><td>-</td><td width=32>%nextLink%</td>
+		<tr>
+	</table>	 
+</center>
 </body>
 </html>
