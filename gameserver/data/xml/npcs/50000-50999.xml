@@ -581,7 +581,7 @@
 			<skill id="4416" level="19"/>
 		</skills>
 	</npc>
-	<npc id="50016" idTemplate="29049" name=" " title="Armor Exchange">
+	<npc id="50016" idTemplate="29049" name=" " title="Weapon Exchange">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="84"/>

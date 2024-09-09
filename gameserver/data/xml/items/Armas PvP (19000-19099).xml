@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
 	<item id="19000" type="Weapon" name="Arcana Mace - Acumen (PvP)">
-		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="icon" val="L2JBrazuca.icons.9" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -31,7 +31,7 @@
 		</for>
 	</item>
 	<item id="19001" type="Weapon" name="Arcana Mace - MP Regeneration (PvP)">
-		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="icon" val="L2JBrazuca.icons.9" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -61,7 +61,7 @@
 		</for>
 	</item>
 	<item id="19002" type="Weapon" name="Arcana Mace - Mana Up (PvP)">
-		<set name="icon" val="icon.weapon_arcana_mace_i01" />
+		<set name="icon" val="L2JBrazuca.icons.9" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
@@ -91,7 +91,7 @@
 		</for>
 	</item>
 	<item id="19003" type="Weapon" name="Draconic Bow - Cheap Shot (PvP)">
-		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.2" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -123,7 +123,7 @@
 		</for>
 	</item>
 	<item id="19004" type="Weapon" name="Draconic Bow - Focus (PvP)">
-		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.2" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -154,7 +154,7 @@
 		</for>
 	</item>
 	<item id="19005" type="Weapon" name="Draconic Bow - Critical Slow (PvP)">
-		<set name="icon" val="icon.weapon_draconic_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.2" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -187,7 +187,7 @@
 		</for>
 	</item>
 	<item id="19006" type="Weapon" name="Shining Bow - Cheap Shot (PvP)">
-		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.5" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -219,7 +219,7 @@
 		</for>
 	</item>
 	<item id="19007" type="Weapon" name="Shining Bow - Focus (PvP)">
-		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.5" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -250,7 +250,7 @@
 		</for>
 	</item>
 	<item id="19008" type="Weapon" name="Shining Bow - Crt. Slow (PvP)">
-		<set name="icon" val="icon.weapon_shining_bow_i01" />
+		<set name="icon" val="L2JBrazuca.icons.5" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
@@ -283,7 +283,7 @@
 		</for>
 	</item>
 	<item id="19009" type="Weapon" name="Heavens Divider - Haste (PvP)">
-		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="icon" val="L2JBrazuca.icons.11" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -311,7 +311,7 @@
 		</for>
 	</item>
 	<item id="19010" type="Weapon" name="Heavens Divider - Health (PvP)">
-		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="icon" val="L2JBrazuca.icons.11" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -339,7 +339,7 @@
 		</for>
 	</item>
 	<item id="19011" type="Weapon" name="Heavens Divider - Focus (PvP)">
-		<set name="icon" val="icon.weapon_heavens_divider_i01" />
+		<set name="icon" val="L2JBrazuca.icons.11" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGSWORD" />
 		<set name="bodypart" val="lrhand" />
@@ -367,7 +367,7 @@
 		</for>
 	</item>
 	<item id="19012" type="Weapon" name="Angel Slayer - Crt. Damage (PvP)">
-		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.6" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -396,7 +396,7 @@
 		</for>
 	</item>
 	<item id="19013" type="Weapon" name="Angel Slayer - HP Drain (PvP)">
-		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.6" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -425,7 +425,7 @@
 		</for>
 	</item>
 	<item id="19014" type="Weapon" name="Angel Slayer - Haste (PvP)">
-		<set name="icon" val="icon.weapon_angel_slayer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.6" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DAGGER" />
 		<set name="bodypart" val="rhand" />
@@ -454,7 +454,7 @@
 		</for>
 	</item>
 	<item id="19015" type="Weapon" name="Forgotten Blade - Haste (PvP)">
-		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="icon" val="L2JBrazuca.icons.10" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -482,7 +482,7 @@
 		</for>
 	</item>
 	<item id="19016" type="Weapon" name="Forgotten Blade - Health (PvP)">
-		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="icon" val="L2JBrazuca.icons.10" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -510,7 +510,7 @@
 		</for>
 	</item>
 	<item id="19017" type="Weapon" name="Forgotten Blade - Focus (PvP)">
-		<set name="icon" val="icon.weapon_forgotten_blade_i01" />
+		<set name="icon" val="L2JBrazuca.icons.10" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="rhand" />
@@ -538,7 +538,7 @@
 		</for>
 	</item>
 	<item id="19018" type="Weapon" name="Basalt Battlehammer - HP Drain (PvP)">
-		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.8" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -567,7 +567,7 @@
 		</for>
 	</item>
 	<item id="19019" type="Weapon" name="Basalt Battlehammer - Health (PvP)">
-		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.8" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -596,7 +596,7 @@
 		</for>
 	</item>
 	<item id="19020" type="Weapon" name="Basalt Battlehammer - HP Regeneration (PvP)">
-		<set name="icon" val="icon.weapon_basalt_battlehammer_i01" />
+		<set name="icon" val="L2JBrazuca.icons.8" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="rhand" />
@@ -625,7 +625,7 @@
 		</for>
 	</item>
 	<item id="19021" type="Weapon" name="Imperial Staff - Empower (PvP)">
-		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="icon" val="L2JBrazuca.icons.7" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -655,7 +655,7 @@
 		</for>
 	</item>
 	<item id="19022" type="Weapon" name="Imperial Staff - MP Regeneration (PvP)">
-		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="icon" val="L2JBrazuca.icons.7" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -685,7 +685,7 @@
 		</for>
 	</item>
 	<item id="19023" type="Weapon" name="Imperial Staff - Magic Hold (PvP)">
-		<set name="icon" val="icon.weapon_imperial_staff_i01" />
+		<set name="icon" val="L2JBrazuca.icons.7" />
 		<set name="is_magical" val="true" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
@@ -717,7 +717,7 @@
 		</for>
 	</item>
 	<item id="19024" type="Weapon" name="Dragon Hunter Axe - HP Regeneration (PvP)">
-		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="icon" val="L2JBrazuca.icons.1" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -746,7 +746,7 @@
 		</for>
 	</item>
 	<item id="19025" type="Weapon" name="Dragon Hunter Axe - Health (PvP)">
-		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="icon" val="L2JBrazuca.icons.1" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -775,7 +775,7 @@
 		</for>
 	</item>
 	<item id="19026" type="Weapon" name="Dragon Hunter Axe - HP Drain (PvP)">
-		<set name="icon" val="icon.weapon_dragon_hunter_axe_i01" />
+		<set name="icon" val="L2JBrazuca.icons.1" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="BIGBLUNT" />
 		<set name="bodypart" val="lrhand" />
@@ -804,7 +804,7 @@
 		</for>
 	</item>
 	<item id="19027" type="Weapon" name="Saint Spear - Health (PvP)">
-		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="icon" val="L2JBrazuca.icons.12" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -833,7 +833,7 @@
 		</for>
 	</item>
 	<item id="19028" type="Weapon" name="Saint Spear - Guidance (PvP)">
-		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="icon" val="L2JBrazuca.icons.12" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -862,7 +862,7 @@
 		</for>
 	</item>
 	<item id="19029" type="Weapon" name="Saint Spear - Haste (PvP)">
-		<set name="icon" val="icon.weapon_saint_spear_i01" />
+		<set name="icon" val="L2JBrazuca.icons.12" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="POLE" />
 		<set name="bodypart" val="lrhand" />
@@ -891,7 +891,7 @@
 		</for>
 	</item>
 	<item id="19030" type="Weapon" name="Demon Splinter - Focus (PvP)">
-		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="icon" val="L2JBrazuca.icons.4" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -920,7 +920,7 @@
 		</for>
 	</item>
 	<item id="19031" type="Weapon" name="Demon Splinter - Health (PvP)">
-		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="icon" val="L2JBrazuca.icons.4" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -949,7 +949,7 @@
 		</for>
 	</item>
 	<item id="19032" type="Weapon" name="Demon Splinter - Crt. Stun (PvP)">
-		<set name="icon" val="icon.weapon_demon_splinter_i01" />
+		<set name="icon" val="L2JBrazuca.icons.4" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUALFIST" />
 		<set name="bodypart" val="lrhand" />
@@ -980,7 +980,7 @@
 		</for>
 	</item>
 	<item id="19033" type="Weapon" name="Tallum Blade*Dark Legion's Edge (PvP)">
-		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="icon" val="L2JBrazuca.icons.3" />
 		<set name="default_action" val="equip" />
 		<set name="weapon_type" val="DUAL" />
 		<set name="bodypart" val="lrhand" />
