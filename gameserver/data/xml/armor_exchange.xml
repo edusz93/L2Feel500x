@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<!-- Weapons PvP -->
-		<exchange itemId="19000" itemRequired="6608,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - Acumen -->
-		<exchange itemId="19001" itemRequired="6609,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - MP Regeneration -->
-		<exchange itemId="19002" itemRequired="6610,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - Mana Up -->
-		<exchange itemId="19003" itemRequired="7576,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Cheap Shot -->
-		<exchange itemId="19004" itemRequired="7577,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Focus -->
-		<exchange itemId="19005" itemRequired="7578,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Critical Slow -->
-		<exchange itemId="19006" itemRequired="6593,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Cheap Shot -->
-		<exchange itemId="19007" itemRequired="6594,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Focus -->
-		<exchange itemId="19008" itemRequired="6595,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Crt. Slow -->
-		<exchange itemId="19009" itemRequired="6605,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Haste -->
-		<exchange itemId="19010" itemRequired="6606,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Health -->
-		<exchange itemId="19011" itemRequired="6607,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Focus -->
-		<exchange itemId="19012" itemRequired="6590,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - Crt. Damage -->
-		<exchange itemId="19013" itemRequired="6591,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - HP Drain -->
-		<exchange itemId="19014" itemRequired="6592,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - Haste -->
-		<exchange itemId="19015" itemRequired="6581,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Haste -->
-		<exchange itemId="19016" itemRequired="6582,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Health -->
-		<exchange itemId="19017" itemRequired="6583,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Focus -->
-		<exchange itemId="19018" itemRequired="6584,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - HP Drain -->
-		<exchange itemId="19019" itemRequired="6585,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - Health -->
-		<exchange itemId="19020" itemRequired="6586,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - HP Regeneration -->
-		<exchange itemId="19021" itemRequired="6587,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - Empower -->
-		<exchange itemId="19022" itemRequired="6588,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - MP Regeneration -->
-		<exchange itemId="19023" itemRequired="6589,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - Magic Hold -->
-		<exchange itemId="19024" itemRequired="6596,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - HP Regeneration -->
-		<exchange itemId="19025" itemRequired="6597,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - Health -->
-		<exchange itemId="19026" itemRequired="6598,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - HP Drain -->
-		<exchange itemId="19027" itemRequired="6599,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Health -->
-		<exchange itemId="19028" itemRequired="6600,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Guidance -->
-		<exchange itemId="19029" itemRequired="6601,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Haste -->
-		<exchange itemId="19030" itemRequired="6602,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Focus -->
-		<exchange itemId="19031" itemRequired="6603,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Health -->
-		<exchange itemId="19032" itemRequired="6604,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Crt. Stun -->
-		<exchange itemId="19033" itemRequired="6580,1;13010,100000" enchant="20,16;16,12;15,11;14,10;13,9;12,8"/> <!-- Tallum Blade*Dark Legion's Edge -->
+		<exchange itemId="19000" itemRequired="6608,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - Acumen -->
+		<exchange itemId="19001" itemRequired="6609,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - MP Regeneration -->
+		<exchange itemId="19002" itemRequired="6610,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Arcana Mace - Mana Up -->
+		<exchange itemId="19003" itemRequired="7576,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Cheap Shot -->
+		<exchange itemId="19004" itemRequired="7577,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Focus -->
+		<exchange itemId="19005" itemRequired="7578,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Draconic Bow - Critical Slow -->
+		<exchange itemId="19006" itemRequired="6593,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Cheap Shot -->
+		<exchange itemId="19007" itemRequired="6594,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Focus -->
+		<exchange itemId="19008" itemRequired="6595,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Shining Bow - Crt. Slow -->
+		<exchange itemId="19009" itemRequired="6605,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Haste -->
+		<exchange itemId="19010" itemRequired="6606,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Health -->
+		<exchange itemId="19011" itemRequired="6607,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Heavens Divider - Focus -->
+		<exchange itemId="19012" itemRequired="6590,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - Crt. Damage -->
+		<exchange itemId="19013" itemRequired="6591,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - HP Drain -->
+		<exchange itemId="19014" itemRequired="6592,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Angel Slayer - Haste -->
+		<exchange itemId="19015" itemRequired="6581,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Haste -->
+		<exchange itemId="19016" itemRequired="6582,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Health -->
+		<exchange itemId="19017" itemRequired="6583,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Forgotten Blade - Focus -->
+		<exchange itemId="19018" itemRequired="6584,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - HP Drain -->
+		<exchange itemId="19019" itemRequired="6585,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - Health -->
+		<exchange itemId="19020" itemRequired="6586,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Basalt Battlehammer - HP Regeneration -->
+		<exchange itemId="19021" itemRequired="6587,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - Empower -->
+		<exchange itemId="19022" itemRequired="6588,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - MP Regeneration -->
+		<exchange itemId="19023" itemRequired="6589,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Imperial Staff - Magic Hold -->
+		<exchange itemId="19024" itemRequired="6596,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - HP Regeneration -->
+		<exchange itemId="19025" itemRequired="6597,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - Health -->
+		<exchange itemId="19026" itemRequired="6598,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Dragon Hunter Axe - HP Drain -->
+		<exchange itemId="19027" itemRequired="6599,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Health -->
+		<exchange itemId="19028" itemRequired="6600,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Guidance -->
+		<exchange itemId="19029" itemRequired="6601,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Saint Spear - Haste -->
+		<exchange itemId="19030" itemRequired="6602,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Focus -->
+		<exchange itemId="19031" itemRequired="6603,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Health -->
+		<exchange itemId="19032" itemRequired="6604,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Demon Splinter - Crt. Stun -->
+		<exchange itemId="19033" itemRequired="6580,1;13010,100000" enchant="20,16;19,15;18,14;17,13;16,12;15,11;14,10;13,9;12,8"/> <!-- Tallum Blade*Dark Legion's Edge -->
 </list>
