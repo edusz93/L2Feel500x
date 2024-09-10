@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
-	<npc id="50000" idTemplate="31228" name="Roy the Cat" title="Class Manager">
+	<npc id="50000" idTemplate="60006" name="Roy the Cat" title="Class Manager">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>
 		<set name="radius" val="9"/>
-		<set name="height" val="16"/>
+		<set name="height" val="16.5"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="ClassMaster"/>
@@ -72,12 +72,12 @@
 			<skill id="4416" level="16"/>
 		</skills>
 	</npc>
-	<npc id="50002" idTemplate="35650" name="Tryskell" title="Npc Buffer">
+	<npc id="50002" idTemplate="60007" name="Tryskell" title="Npc Buffer">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>							
 		<set name="level" val="78"/>
-		<set name="radius" val="6.5"/>
-		<set name="height" val="21.96"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="26.5"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="SchemeBuffer"/>
@@ -322,13 +322,13 @@
 		<skills>
 		</skills>
 	</npc>
-	<npc id="50009" idTemplate="31294" name="Arold" title="Raid Boss Info Manager">
+	<npc id="50009" idTemplate="60003" name="Arold" title="Raid Boss Info Manager">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="80"/>
-		<set name="radius" val="8"/>
-		<set name="height" val="23.5"/>
-		<set name="rHand" val="94"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="21"/>
+		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="RaidBossInfo"/>
 		<set name="exp" val="0"/>
@@ -359,12 +359,12 @@
 			<skill id="4416" level="18"/>
 		</skills>
 	</npc>
-	<npc id="50010" idTemplate="31307" name="Kevin" title="GM Shop">
+	<npc id="50010" idTemplate="60000" name="Kevin" title="GM Shop">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>										
 		<set name="level" val="78"/>
-		<set name="radius" val="7"/>
-		<set name="height" val="21.5"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="18"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Merchant"/>
@@ -546,7 +546,7 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50015" idTemplate="50015" name="Headquarters" title="">
+	<npc id="50015" idTemplate="60015" name="Headquarters" title="">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="1"/>
@@ -581,12 +581,12 @@
 			<skill id="4416" level="19"/>
 		</skills>
 	</npc>
-	<npc id="50016" idTemplate="29049" name=" " title="Weapon Exchange">
+	<npc id="50016" idTemplate="60001" name="Octavis" title="Weapon Exchange">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="84"/>
-		<set name="radius" val="40"/>
-		<set name="height" val="40"/>
+		<set name="radius" val="8"/>
+		<set name="height" val="24.5"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="ArmorExchangeNPC"/>
@@ -655,12 +655,12 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50018" idTemplate="30097" name="Ronaldo" title="Enchant Skill">
+	<npc id="50018" idTemplate="60005" name="Ronaldo" title="Enchant Skill">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>						
 		<set name="level" val="70"/>
-		<set name="radius" val="8"/>
-		<set name="height" val="17"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="18"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Trainer"/>
@@ -729,12 +729,12 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50020" idTemplate="31294" name="Manager" title="Achievements">
+	<npc id="50020" idTemplate="60002" name="Manager" title="Achievements">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>
-		<set name="radius" val="8"/>
-		<set name="height" val="23.5"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="25.0"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Achievements"/>
