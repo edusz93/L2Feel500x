@@ -1486,10 +1486,12 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="31049" name="Pepper" title="Symbol Maker">
+	<npc id="31049" idTemplate="60013" name="Pepper" title="Symbol Maker">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>
 		<set name="radius" val="8"/>
-		<set name="height" val="23"/>
+		<set name="height" val="29"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="SymbolMaker"/>
