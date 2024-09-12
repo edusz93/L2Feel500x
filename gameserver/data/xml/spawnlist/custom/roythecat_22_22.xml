@@ -7,6 +7,6 @@
 		<node x="83113" y="147861" />
 	</territory>
 	<npcmaker name="roythecat_3082459455200" territory="roythecat_1704296148870" spawn="ALL" maximumNpcs="1">
-		<npc id="50000" pos="83063;147911;-3464;31045" total="1" respawnDelay="60s" /> <!-- Roy the Cat -->
+		<npc id="50000" pos="83070;147911;-3464;31045" total="1" respawnDelay="60s" /> <!-- Roy the Cat -->
 	</npcmaker>
 </list>

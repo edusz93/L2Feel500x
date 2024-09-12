@@ -7,6 +7,6 @@
 		<node x="82306" y="149647" />
 	</territory>
 	<npcmaker name="pushkin_323517525899750" territory="pushkin_1720382719524" spawn="ALL" maximumNpcs="1">
-		<npc id="30300" pos="82256;149697;-3464;49895" total="1" respawnDelay="60s" /> <!-- Pushkin -->
+		<npc id="30300" pos="82348;149692;-3464;49895" total="1" respawnDelay="60s" /> <!-- Pushkin -->
 	</npcmaker>
 </list>

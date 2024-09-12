@@ -7,6 +7,6 @@
 		<node x="82461" y="149654" />
 	</territory>
 	<npcmaker name="randolf_3621847195700" territory="randolf_1704296688257" spawn="ALL" maximumNpcs="1">
-		<npc id="30095" pos="82411;149704;-3464;48234" total="1" respawnDelay="60s" /> <!-- Randolf -->
+		<npc id="30095" pos="82412;149690;-3464;48234" total="1" respawnDelay="60s" /> <!-- Randolf -->
 	</npcmaker>
 </list>
