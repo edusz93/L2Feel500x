@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+    <command name="gmshop" path="pages/services-gmshop.htm" />
+    <command name="account-service" path="pages/account-service.htm" />
+    <command name="auction-house" path="pages/auction-house.htm" />
+    <command name="cabinet" path="pages/cabinet.htm" />
+    <command name="clan" path="pages/clan.htm" />
+    <command name="events" path="pages/events.htm" />
+    <command name="home" path="pages/home.htm" />
+    <command name="raids" path="pages/raids.htm" />
+    <command name="rankings" path="pages/rankings.htm" />
+    <command name="services" path="pages/services.htm" />
+    <command name="services-buffer" path="pages/services-buffer.htm" />
+    <command name="services-buffer-createscheme" path="pages/services-buffer-createscheme.htm" />
+    <command name="services-buffer-editscheme" path="pages/services-buffer-editscheme.htm" />
+    <command name="services-classmaster" path="pages/services-classmaster.htm" />
+    <command name="services-donationstore" path="pages/services-donationstore.htm" />
+    <command name="services-gatekeeper" path="pages/services-gatekeeper.htm" />
+    <command name="services-warehouse" path="pages/services-warehouse.htm" />
+</list>
