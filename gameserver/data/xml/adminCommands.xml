@@ -237,4 +237,8 @@
 	<aCar name="admin_survey_ans4set" accessLevel="7" params="" desc="Set or edit answer 4 for the survey."/>
 	<aCar name="admin_survey_ans5set" accessLevel="7" params="" desc="Set or edit answer 5 for the survey."/>
 	<aCar name="admin_survey_end" accessLevel="7" params="" desc="End the current survey."/>
+	
+	<!-- ADMIN COMMANDS -->
+	<aCar name="admin_show_inventory" accessLevel="7" params="" desc="Show the inventory of the selected player."/>
+	<aCar name="admin_delete_item" accessLevel="7" params="" desc="Delete a specified item from the player's inventory."/>
 </list>
