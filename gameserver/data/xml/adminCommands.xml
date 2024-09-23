@@ -209,15 +209,32 @@
 	<aCar name="admin_zone" accessLevel="7" params="[show - all|clear|id]" desc="Show the zone panel, or the zone visually."/>
 	
 	<!-- HWID -->
-	<aCar name="admin_hwid_ban" accessLevel="7" params="" desc=""/>
-	
+	<aCar name="admin_hwid_ban" accessLevel="7" params="" desc="Ban a player based on their HWID (Hardware ID)."/>
+
 	<!-- PARTY FARM -->
-	<aCar name="admin_ptfarm" accessLevel="7" params="" desc=""/>
+	<aCar name="admin_ptfarm" accessLevel="7" params="" desc="Manage or configure party farm settings."/>
 	
 	<!-- TOURNAMENT -->
 	<aCar name="admin_tour" accessLevel="7" params="" desc="Activate or Deactivate the manual tournament."/>
 	
 	<!-- THREADS -->
-	<aCar name="admin_threads" accessLevel="7" params="" desc="Activate or Deactivate the manual tournament."/>
-	<aCar name="admin_mod_threads_" accessLevel="7" params="" desc="Activate or Deactivate the manual tournament."/>
+	<aCar name="admin_threads" accessLevel="7" params="" desc="View and manage active server threads."/>
+	<aCar name="admin_mod_threads_" accessLevel="7" params="" desc="Modify or configure server thread settings."/>
+	
+	<!-- SURVEY -->
+	<aCar name="admin_survey_start" accessLevel="7" params="" desc="Start a new survey."/>
+	<aCar name="admin_survey_results" accessLevel="7" params="" desc="View the results of the current or completed survey."/>
+	<aCar name="admin_opmore" accessLevel="7" params="" desc="Increase the number of available survey options."/>
+	<aCar name="admin_opless" accessLevel="7" params="" desc="Decrease the number of available survey options."/>
+	<aCar name="admin_survey_run1" accessLevel="7" params="" desc="Run the survey with 1 option."/>
+	<aCar name="admin_survey_run2" accessLevel="7" params="" desc="Run the survey with 2 options."/>
+	<aCar name="admin_survey_run3" accessLevel="7" params="" desc="Run the survey with 3 options."/>
+	<aCar name="admin_survey_run4" accessLevel="7" params="" desc="Run the survey with 4 options."/>
+	<aCar name="admin_survey_qset" accessLevel="7" params="" desc="Set or edit the survey question."/>
+	<aCar name="admin_survey_ans1set" accessLevel="7" params="" desc="Set or edit answer 1 for the survey."/>
+	<aCar name="admin_survey_ans2set" accessLevel="7" params="" desc="Set or edit answer 2 for the survey."/>
+	<aCar name="admin_survey_ans3set" accessLevel="7" params="" desc="Set or edit answer 3 for the survey."/>
+	<aCar name="admin_survey_ans4set" accessLevel="7" params="" desc="Set or edit answer 4 for the survey."/>
+	<aCar name="admin_survey_ans5set" accessLevel="7" params="" desc="Set or edit answer 5 for the survey."/>
+	<aCar name="admin_survey_end" accessLevel="7" params="" desc="End the current survey."/>
 </list>
