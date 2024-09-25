@@ -10655,25 +10655,19 @@
 			<skill id="4422" level="3"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="545" max="1113" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.0771">
+				<drop itemid="5523" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="19.6969">
+				<drop itemid="1344" min="15" max="16" chance="42.3077"/>
+				<drop itemid="1868" min="1" max="1" chance="21.123"/>
+				<drop itemid="1873" min="1" max="1" chance="21.123"/>
+				<drop itemid="1876" min="1" max="1" chance="4.3022"/>
+				<drop itemid="1895" min="1" max="1" chance="10.3609"/>
+				<drop itemid="4042" min="1" max="1" chance="0.7832"/>
 			</category>
 		</drops>
 	</npc>
@@ -10920,25 +10914,35 @@
 			<skill id="4665" level="8"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="3957" min="1" max="1" chance="0.25"/>
+				<drop itemid="5220" min="1" max="2" chance="25.0"/>
+				<drop itemid="5495" min="1" max="1" chance="17.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4584" max="9387" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="2.2574">
+				<drop itemid="5528" min="1" max="1" chance="26.6836"/>
+				<drop itemid="5527" min="1" max="1" chance="36.9967"/>
+				<drop itemid="5495" min="1" max="1" chance="35.154"/>
+				<drop itemid="5317" min="1" max="1" chance="0.3885"/>
+				<drop itemid="5315" min="1" max="1" chance="0.3885"/>
+				<drop itemid="5312" min="1" max="1" chance="0.3887"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="99.0021">
+				<drop itemid="8274" min="1" max="1" chance="99.9979"/>
+				<drop itemid="8742" min="1" max="1" chance="0.0021"/>
+			</category>
+			<category type="DROP" chance="49.0337">
+				<drop itemid="5220" min="1" max="1" chance="4.6349"/>
+				<drop itemid="8732" min="1" max="1" chance="0.0742"/>
+				<drop itemid="7916" min="1" max="1" chance="4.6349"/>
+				<drop itemid="959" min="1" max="1" chance="0.0366"/>
+				<drop itemid="1866" min="1" max="1" chance="50.9861"/>
+				<drop itemid="1871" min="1" max="3" chance="33.8676"/>
+				<drop itemid="1885" min="1" max="3" chance="5.2292"/>
+				<drop itemid="4041" min="1" max="1" chance="0.5365"/>
 			</category>
 		</drops>
 	</npc>
@@ -10982,25 +10986,37 @@
 			<skill id="4668" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="5502" min="1" max="1" chance="17.5"/>
+				<drop itemid="5503" min="1" max="1" chance="17.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="5331" max="10920" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.2191">
+				<drop itemid="5515" min="1" max="1" chance="23.6051"/>
+				<drop itemid="5514" min="1" max="1" chance="25.8854"/>
+				<drop itemid="5503" min="1" max="1" chance="25.8854"/>
+				<drop itemid="5502" min="1" max="1" chance="23.5307"/>
+				<drop itemid="5319" min="1" max="1" chance="0.2734"/>
+				<drop itemid="5318" min="1" max="1" chance="0.2734"/>
+				<drop itemid="5314" min="1" max="1" chance="0.2734"/>
+				<drop itemid="5313" min="1" max="1" chance="0.2732"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="99.0349">
+				<drop itemid="8274" min="1" max="1" chance="99.9648"/>
+				<drop itemid="8742" min="1" max="1" chance="0.0317"/>
+				<drop itemid="8752" min="1" max="1" chance="0.0035"/>
+			</category>
+			<category type="DROP" chance="22.5105">
+				<drop itemid="960" min="1" max="1" chance="0.103"/>
+				<drop itemid="8732" min="1" max="1" chance="0.2412"/>
+				<drop itemid="7910" min="1" max="1" chance="10.0174"/>
+				<drop itemid="5550" min="1" max="1" chance="3.1065"/>
+				<drop itemid="1864" min="4" max="12" chance="4.4423"/>
+				<drop itemid="1869" min="1" max="3" chance="55.5303"/>
+				<drop itemid="1880" min="1" max="1" chance="18.4828"/>
+				<drop itemid="4043" min="1" max="1" chance="8.0765"/>
 			</category>
 		</drops>
 	</npc>
@@ -11111,25 +11127,32 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="5162" min="1" max="1" chance="0.25"/>
+				<drop itemid="5167" min="1" max="1" chance="0.25"/>
+				<drop itemid="5515" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
 				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.767">
+				<drop itemid="6344" min="1" max="1" chance="21.9367"/>
+				<drop itemid="6342" min="1" max="1" chance="32.3727"/>
+				<drop itemid="6328" min="1" max="1" chance="0.2328"/>
+				<drop itemid="6327" min="1" max="1" chance="0.2328"/>
+				<drop itemid="6326" min="1" max="1" chance="0.2328"/>
+				<drop itemid="6346" min="1" max="1" chance="44.9922"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="41.4461">
+				<drop itemid="5549" min="1" max="1" chance="7.7831"/>
+				<drop itemid="8742" min="1" max="1" chance="0.0523"/>
+				<drop itemid="8732" min="1" max="1" chance="0.0783"/>
+				<drop itemid="1344" min="30" max="90" chance="34.4692"/>
+				<drop itemid="1868" min="4" max="12" chance="20.1063"/>
+				<drop itemid="1873" min="1" max="1" chance="30.1596"/>
+				<drop itemid="1889" min="1" max="1" chance="4.8254"/>
+				<drop itemid="4044" min="1" max="1" chance="2.2976"/>
+				<drop itemid="8742" min="1" max="1" chance="0.2282"/>
 			</category>
 		</drops>
 	</npc>
@@ -11172,25 +11195,21 @@
 			<skill id="4573" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4959" max="10100" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.7008">
+				<drop itemid="5488" min="1" max="1" chance="33.3333"/>
+				<drop itemid="5487" min="1" max="1" chance="66.6667"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="50.8653">
+				<drop itemid="7916" min="1" max="1" chance="6.5532"/>
+				<drop itemid="1873" min="5" max="12" chance="5.0409"/>
+				<drop itemid="1868" min="10" max="28" chance="9.8298"/>
+				<drop itemid="1866" min="3" max="9" chance="11.5644"/>
+				<drop itemid="1865" min="2" max="6" chance="19.4631"/>
+				<drop itemid="1864" min="4" max="12" chance="28.0856"/>
+				<drop itemid="8275" min="1" max="1" chance="19.463"/>
 			</category>
 		</drops>
 	</npc>
@@ -11201,17 +11220,17 @@
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Monster"/>
-		<set name="exp" val="66503"/>
-		<set name="sp" val="3320"/>
-		<set name="hp" val="3010.8929976"/>
-		<set name="mp" val="1777.86"/>
-		<set name="hpRegen" val="8.772"/>
-		<set name="mpRegen" val="3.1008"/>
-		<set name="pAtk" val="1600.93701102"/>
-		<set name="pDef" val="361.0859925"/>
-		<set name="mAtk" val="677.644106544"/>
-		<set name="mDef" val="310.22705872"/>
-		<set name="crit" val="5"/>
+		<set name="exp" val="34170"/>
+		<set name="sp" val="3976"/>
+		<set name="hp" val="3044.88717"/>
+		<set name="mp" val="1812.948"/>
+		<set name="hpRegen" val="8.823"/>
+		<set name="mpRegen" val="3.111"/>
+		<set name="pAtk" val="985.66600746"/>
+		<set name="pDef" val="367.3536375"/>
+		<set name="mAtk" val="699.2575207596"/>
+		<set name="mDef" val="268.81344996"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -11222,7 +11241,7 @@
 		<set name="corpseTime" val="7"/>
 		<set name="walkSpd" val="38"/>
 		<set name="runSpd" val="180"/>
-		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
 		<skills>
 			<skill id="4275" level="2"/>
 			<skill id="4408" level="12"/>
@@ -11232,25 +11251,26 @@
 			<skill id="4615" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6901" min="1" max="1" chance="0.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4969" max="10040" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.1335">
+				<drop itemid="6346" min="1" max="1" chance="24.9262"/>
+				<drop itemid="6344" min="1" max="1" chance="24.9301"/>
+				<drop itemid="6342" min="1" max="1" chance="49.8629"/>
+				<drop itemid="6328" min="1" max="1" chance="0.2808"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="37.7858">
+				<drop itemid="1872" min="14" max="18" chance="4.1351"/>
+				<drop itemid="1871" min="3" max="8" chance="8.2702"/>
+				<drop itemid="1870" min="4" max="9" chance="15.5674"/>
+				<drop itemid="1869" min="2" max="6" chance="16.5405"/>
+				<drop itemid="1867" min="1" max="3" chance="33.0818"/>
+				<drop itemid="1344" min="43" max="110" chance="22.0541"/>
+				<drop itemid="6901" min="1" max="1" chance="0.3509"/>
 			</category>
 		</drops>
 	</npc>
@@ -11293,25 +11313,19 @@
 			<skill id="4665" level="8"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4304" max="6777" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.7092">
+				<drop itemid="5538" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="56.1619">
+				<drop itemid="1867" min="1" max="3" chance="35.6115"/>
+				<drop itemid="1869" min="2" max="6" chance="17.8056"/>
+				<drop itemid="1870" min="2" max="6" chance="17.8056"/>
+				<drop itemid="1871" min="3" max="8" chance="16.1853"/>
+				<drop itemid="1872" min="8" max="20" chance="6.8482"/>
+				<drop itemid="7916" min="1" max="1" chance="5.7438"/>
 			</category>
 		</drops>
 	</npc>
@@ -11322,17 +11336,17 @@
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Monster"/>
-		<set name="exp" val="66503"/>
-		<set name="sp" val="3320"/>
+		<set name="exp" val="32279"/>
+		<set name="sp" val="3704"/>
 		<set name="hp" val="3010.8929976"/>
 		<set name="mp" val="1777.86"/>
 		<set name="hpRegen" val="8.772"/>
 		<set name="mpRegen" val="3.1008"/>
-		<set name="pAtk" val="1600.93701102"/>
+		<set name="pAtk" val="961.93701102"/>
 		<set name="pDef" val="361.0859925"/>
 		<set name="mAtk" val="677.644106544"/>
-		<set name="mDef" val="310.22705872"/>
-		<set name="crit" val="5"/>
+		<set name="mDef" val="264.22705872"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -11343,7 +11357,7 @@
 		<set name="corpseTime" val="7"/>
 		<set name="walkSpd" val="38"/>
 		<set name="runSpd" val="180"/>
-		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="trioll_clan" clanRange="300" canMove="true" seedable="true"/>
 		<skills>
 			<skill id="4032" level="1"/>
 			<skill id="4275" level="2"/>
@@ -11353,25 +11367,30 @@
 			<skill id="4649" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1876" min="1" max="1" chance="35.0"/>
+				<drop itemid="4042" min="1" max="1" chance="22.2"/>
+				<drop itemid="5487" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="1200" max="1800" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.8073">
+				<drop itemid="5546" min="1" max="1" chance="35.2904"/>
+				<drop itemid="5545" min="1" max="1" chance="29.4193"/>
+				<drop itemid="5529" min="1" max="1" chance="35.2903"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="99.0">
+				<drop itemid="8273" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="18.2886">
+				<drop itemid="960" min="1" max="1" chance="0.1531"/>
+				<drop itemid="4042" min="1" max="1" chance="2.0789"/>
+				<drop itemid="1895" min="1" max="1" chance="7.8108"/>
+				<drop itemid="1876" min="1" max="1" chance="49.7083"/>
+				<drop itemid="1873" min="4" max="9" chance="15.1881"/>
+				<drop itemid="1868" min="4" max="12" chance="6.8348"/>
+				<drop itemid="1344" min="296" max="441" chance="18.226"/>
 			</category>
 		</drops>
 	</npc>
@@ -11415,25 +11434,21 @@
 			<skill id="4668" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4174" max="8339" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.3841">
+				<drop itemid="5546" min="1" max="1" chance="33.2346"/>
+				<drop itemid="5545" min="1" max="1" chance="33.2346"/>
+				<drop itemid="5529" min="1" max="1" chance="33.5308"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="47.0183">
+				<drop itemid="4042" min="1" max="1" chance="2.0253"/>
+				<drop itemid="1895" min="1" max="1" chance="26.5853"/>
+				<drop itemid="1876" min="1" max="1" chance="14.0511"/>
+				<drop itemid="1873" min="1" max="1" chance="30.3838"/>
+				<drop itemid="1868" min="3" max="9" chance="23.6314"/>
+				<drop itemid="7910" min="1" max="1" chance="3.3231"/>
 			</category>
 		</drops>
 	</npc>
@@ -11477,25 +11492,25 @@
 			<skill id="4668" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="5549" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="5766" max="11744" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.7354">
+				<drop itemid="5546" min="1" max="1" chance="30.0062"/>
+				<drop itemid="5545" min="1" max="1" chance="30.0062"/>
+				<drop itemid="5529" min="1" max="1" chance="39.9876"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="50.136">
+				<drop itemid="4044" min="1" max="1" chance="4.9864"/>
+				<drop itemid="1889" min="1" max="1" chance="3.7631"/>
+				<drop itemid="1873" min="1" max="1" chance="22.1619"/>
+				<drop itemid="1868" min="3" max="9" chance="39.892"/>
+				<drop itemid="5549" min="1" max="1" chance="10.4976"/>
+				<drop itemid="7916" min="1" max="1" chance="6.233"/>
+				<drop itemid="8275" min="1" max="1" chance="12.466"/>
 			</category>
 		</drops>
 	</npc>
@@ -11536,13 +11551,22 @@
 		</skills>
 		<drops>
 			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+				<drop itemid="1889" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
+				<drop itemid="57" min="5068" max="10300" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.2298">
+				<drop itemid="5537" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="45.8832">
+				<drop itemid="960" min="1" max="1" chance="0.1252"/>
+				<drop itemid="1344" min="30" max="89" chance="39.2303"/>
+				<drop itemid="1868" min="4" max="12" chance="18.1619"/>
+				<drop itemid="1873" min="1" max="1" chance="28.3327"/>
+				<drop itemid="1889" min="1" max="1" chance="4.3588"/>
+				<drop itemid="4044" min="1" max="1" chance="3.2528"/>
+				<drop itemid="5549" min="1" max="1" chance="6.5383"/>
 			</category>
 		</drops>
 	</npc>
@@ -11584,14 +11608,23 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
+				<drop itemid="57" min="4902" max="9946" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.3792">
+				<drop itemid="5546" min="1" max="1" chance="37.5"/>
+				<drop itemid="5545" min="1" max="1" chance="37.5"/>
+				<drop itemid="5529" min="1" max="1" chance="25.0"/>
+			</category>
+			<category type="DROP" chance="42.9867">
+				<drop itemid="1889" min="1" max="1" chance="7.2697"/>
+				<drop itemid="4044" min="1" max="1" chance="5.0571"/>
+				<drop itemid="1873" min="1" max="1" chance="29.0787"/>
+				<drop itemid="1868" min="4" max="11" chance="17.8946"/>
+				<drop itemid="1344" min="32" max="87" chance="33.2331"/>
+				<drop itemid="5549" min="1" max="1" chance="5.1695"/>
+				<drop itemid="6901" min="1" max="1" chance="0.2205"/>
+				<drop itemid="8732" min="1" max="1" chance="2.0768"/>
 			</category>
 		</drops>
 	</npc>
@@ -11633,25 +11666,25 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1895" min="1" max="3" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="4956" max="10020" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="4.7708">
+				<drop itemid="6346" min="1" max="1" chance="20.1531"/>
+				<drop itemid="6344" min="1" max="1" chance="29.9421"/>
+				<drop itemid="6342" min="1" max="1" chance="49.9048"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="47.0905">
+				<drop itemid="4042" min="1" max="1" chance="3.0335"/>
+				<drop itemid="1895" min="1" max="1" chance="23.5951"/>
+				<drop itemid="1876" min="1" max="1" chance="26.5446"/>
+				<drop itemid="1873" min="1" max="1" chance="3.0335"/>
+				<drop itemid="1868" min="4" max="12" chance="35.266"/>
+				<drop itemid="1344" min="32" max="87" chance="8.4942"/>
+				<drop itemid="8742" min="1" max="1" chance="0.0331"/>
 			</category>
 		</drops>
 	</npc>
@@ -11694,25 +11727,27 @@
 			<skill id="4641" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6704" min="1" max="1" chance="15.0"/>
+				<drop itemid="6705" min="1" max="1" chance="22.2"/>
+				<drop itemid="6706" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7072" max="14400" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.8698">
+				<drop itemid="5488" min="1" max="1" chance="61.8077"/>
+				<drop itemid="5487" min="1" max="1" chance="38.1923"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="39.2393">
+				<drop itemid="7916" min="1" max="1" chance="5.6631"/>
+				<drop itemid="5549" min="1" max="1" chance="14.991"/>
+				<drop itemid="4044" min="1" max="1" chance="4.3194"/>
+				<drop itemid="1889" min="1" max="1" chance="6.8877"/>
+				<drop itemid="1873" min="2" max="6" chance="16.8366"/>
+				<drop itemid="1868" min="3" max="9" chance="50.9698"/>
+				<drop itemid="960" min="1" max="1" chance="0.0925"/>
+				<drop itemid="8742" min="1" max="1" chance="0.2399"/>
 			</category>
 		</drops>
 	</npc>
@@ -11753,25 +11788,30 @@
 			<skill id="4422" level="3"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6688" min="1" max="1" chance="17.5"/>
+				<drop itemid="6689" min="1" max="1" chance="17.5"/>
+				<drop itemid="6690" min="1" max="1" chance="17.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6420" max="13120" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="5.1381">
+				<drop itemid="6346" min="1" max="1" chance="54.0623"/>
+				<drop itemid="6344" min="1" max="1" chance="16.7783"/>
+				<drop itemid="6342" min="1" max="1" chance="28.8179"/>
+				<drop itemid="6328" min="1" max="1" chance="0.1707"/>
+				<drop itemid="6327" min="1" max="1" chance="0.1708"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="45.5669">
+				<drop itemid="5549" min="1" max="1" chance="12.1919"/>
+				<drop itemid="4044" min="1" max="1" chance="3.3763"/>
+				<drop itemid="1889" min="1" max="1" chance="4.8768"/>
+				<drop itemid="1873" min="1" max="1" chance="43.8921"/>
+				<drop itemid="1868" min="3" max="9" chance="31.2917"/>
+				<drop itemid="6901" min="1" max="1" chance="0.0328"/>
+				<drop itemid="7910" min="1" max="1" chance="3.5843"/>
+				<drop itemid="8732" min="1" max="1" chance="0.7541"/>
 			</category>
 		</drops>
 	</npc>
@@ -11811,25 +11851,25 @@
 			<skill id="4422" level="3"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1894" min="1" max="1" chance="22.22"/>
+				<drop itemid="4039" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6190" max="12560" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="4.084">
+				<drop itemid="6346" min="1" max="1" chance="43.7232"/>
+				<drop itemid="6344" min="1" max="1" chance="26.047"/>
+				<drop itemid="6342" min="1" max="1" chance="30.2298"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="47.7916">
+				<drop itemid="4042" min="1" max="1" chance="1.8518"/>
+				<drop itemid="1895" min="1" max="1" chance="29.892"/>
+				<drop itemid="1876" min="1" max="1" chance="23.249"/>
+				<drop itemid="1873" min="2" max="6" chance="11.0128"/>
+				<drop itemid="1868" min="3" max="9" chance="29.8916"/>
+				<drop itemid="7916" min="1" max="1" chance="4.1028"/>
 			</category>
 		</drops>
 	</npc>
@@ -11872,25 +11912,30 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1877" min="1" max="1" chance="22.2"/>
+				<drop itemid="4040" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6286" max="12820" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="4.1436">
+				<drop itemid="5515" min="1" max="1" chance="30.548"/>
+				<drop itemid="5514" min="1" max="1" chance="22.7647"/>
+				<drop itemid="5503" min="1" max="1" chance="21.6379"/>
+				<drop itemid="5502" min="1" max="1" chance="24.6254"/>
+				<drop itemid="5314" min="1" max="1" chance="0.212"/>
+				<drop itemid="5313" min="1" max="1" chance="0.212"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="29.9121">
+				<drop itemid="4041" min="1" max="1" chance="1.4532"/>
+				<drop itemid="4040" min="1" max="1" chance="4.4573"/>
+				<drop itemid="1877" min="1" max="1" chance="7.7744"/>
+				<drop itemid="1871" min="4" max="12" chance="27.8593"/>
+				<drop itemid="1866" min="1" max="3" chance="47.7597"/>
+				<drop itemid="960" min="1" max="1" chance="0.0819"/>
+				<drop itemid="8732" min="1" max="1" chance="0.4836"/>
+				<drop itemid="7910" min="1" max="1" chance="10.1306"/>
 			</category>
 		</drops>
 	</npc>
@@ -11933,25 +11978,26 @@
 			<skill id="4641" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6701" min="1" max="1" chance="12.5"/>
+				<drop itemid="6702" min="1" max="1" chance="12.5"/>
+				<drop itemid="6703" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7210" max="14760" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="1.3198">
+				<drop itemid="5488" min="1" max="1" chance="39.8726"/>
+				<drop itemid="5487" min="1" max="1" chance="60.1274"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="48.4345">
+				<drop itemid="6901" min="1" max="1" chance="0.2266"/>
+				<drop itemid="4042" min="1" max="1" chance="3.1281"/>
+				<drop itemid="1894" min="1" max="1" chance="6.0723"/>
+				<drop itemid="1882" min="1" max="1" chance="41.2932"/>
+				<drop itemid="1872" min="8" max="20" chance="13.6402"/>
+				<drop itemid="1867" min="4" max="12" chance="25.808"/>
+				<drop itemid="7916" min="1" max="1" chance="9.8316"/>
 			</category>
 		</drops>
 	</npc>
@@ -11994,25 +12040,25 @@
 			<skill id="4641" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6693" min="1" max="1" chance="12.5"/>
+				<drop itemid="6694" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6421" max="13140" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="5.2907">
+				<drop itemid="6346" min="1" max="1" chance="31.3871"/>
+				<drop itemid="6344" min="1" max="1" chance="31.3871"/>
+				<drop itemid="6342" min="1" max="1" chance="37.0595"/>
+				<drop itemid="6327" min="1" max="1" chance="0.1663"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="18.546">
+				<drop itemid="4043" min="1" max="1" chance="6.4961"/>
+				<drop itemid="4042" min="1" max="1" chance="6.4961"/>
+				<drop itemid="4040" min="1" max="1" chance="4.0536"/>
+				<drop itemid="1895" min="1" max="1" chance="77.0289"/>
+				<drop itemid="7910" min="1" max="1" chance="5.9253"/>
 			</category>
 		</drops>
 	</npc>
@@ -12055,25 +12101,30 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1894" min="1" max="1" chance="22.2"/>
+				<drop itemid="4039" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6285" max="12820" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.655">
+				<drop itemid="5528" min="1" max="1" chance="23.3842"/>
+				<drop itemid="5527" min="1" max="1" chance="28.7273"/>
+				<drop itemid="5495" min="1" max="1" chance="47.1698"/>
+				<drop itemid="5317" min="1" max="1" chance="0.2396"/>
+				<drop itemid="5315" min="1" max="1" chance="0.2396"/>
+				<drop itemid="5312" min="1" max="1" chance="0.2395"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="45.2658">
+				<drop itemid="4042" min="1" max="1" chance="2.5685"/>
+				<drop itemid="1895" min="3" max="9" chance="31.5605"/>
+				<drop itemid="1876" min="1" max="1" chance="20.0833"/>
+				<drop itemid="1873" min="3" max="9" chance="9.0575"/>
+				<drop itemid="1868" min="4" max="12" chance="27.6146"/>
+				<drop itemid="1344" min="150" max="450" chance="8.182"/>
+				<drop itemid="960" min="1" max="1" chance="0.0741"/>
+				<drop itemid="8732" min="1" max="1" chance="0.8595"/>
 			</category>
 		</drops>
 	</npc>
@@ -12116,25 +12167,25 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1877" min="1" max="1" chance="5.0"/>
+				<drop itemid="4040" min="1" max="1" chance="5.0"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6285" max="12820" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.6449">
+				<drop itemid="5546" min="1" max="1" chance="50.0076"/>
+				<drop itemid="5545" min="1" max="1" chance="24.9962"/>
+				<drop itemid="5529" min="1" max="1" chance="24.9962"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="8.2419">
+				<drop itemid="4044" min="1" max="1" chance="23.3319"/>
+				<drop itemid="4041" min="1" max="1" chance="3.9128"/>
+				<drop itemid="4039" min="1" max="1" chance="13.6315"/>
+				<drop itemid="1894" min="1" max="1" chance="27.5748"/>
+				<drop itemid="6901" min="1" max="1" chance="1.9558"/>
+				<drop itemid="7910" min="1" max="1" chance="29.5932"/>
 			</category>
 		</drops>
 	</npc>
@@ -12180,25 +12231,24 @@
 			<skill id="4655" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6707" min="1" max="1" chance="12.5"/>
+				<drop itemid="6708" min="1" max="1" chance="12.5"/>
+				<drop itemid="6709" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="8351" max="17090" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.9433">
+				<drop itemid="5537" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="29.6961">
+				<drop itemid="1866" min="1" max="3" chance="42.0933"/>
+				<drop itemid="1871" min="4" max="12" chance="28.0618"/>
+				<drop itemid="1877" min="1" max="1" chance="3.7004"/>
+				<drop itemid="4040" min="1" max="1" chance="6.8723"/>
+				<drop itemid="4041" min="1" max="1" chance="5.2616"/>
+				<drop itemid="7916" min="1" max="1" chance="14.0106"/>
 			</category>
 		</drops>
 	</npc>
@@ -12239,25 +12289,27 @@
 			<skill id="4612" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6696" min="1" max="1" chance="12.5"/>
+				<drop itemid="6697" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6419" max="13140" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="5.7348">
+				<drop itemid="6346" min="1" max="1" chance="45.8865"/>
+				<drop itemid="6344" min="1" max="1" chance="22.8222"/>
+				<drop itemid="6342" min="1" max="1" chance="31.138"/>
+				<drop itemid="6328" min="1" max="1" chance="0.1533"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="36.7311">
+				<drop itemid="4040" min="1" max="1" chance="2.2313"/>
+				<drop itemid="1879" min="1" max="1" chance="22.6873"/>
+				<drop itemid="1875" min="1" max="1" chance="11.3272"/>
+				<drop itemid="1870" min="1" max="3" chance="43.7398"/>
+				<drop itemid="1865" min="4" max="12" chance="17.0154"/>
+				<drop itemid="960" min="1" max="1" chance="0.1029"/>
+				<drop itemid="7910" min="1" max="1" chance="2.8961"/>
 			</category>
 		</drops>
 	</npc>
@@ -12299,25 +12351,28 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1894" min="1" max="1" chance="22.2"/>
+				<drop itemid="4039" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6171" max="12570" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="4.3351">
+				<drop itemid="5515" min="1" max="1" chance="27.104"/>
+				<drop itemid="5514" min="1" max="1" chance="27.1362"/>
+				<drop itemid="5503" min="1" max="1" chance="27.104"/>
+				<drop itemid="5502" min="1" max="1" chance="18.4534"/>
+				<drop itemid="5318" min="1" max="1" chance="0.2024"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="43.8792">
+				<drop itemid="5220" min="1" max="1" chance="5.2997"/>
+				<drop itemid="4041" min="1" max="1" chance="0.9697"/>
+				<drop itemid="1885" min="1" max="1" chance="7.1217"/>
+				<drop itemid="1871" min="1" max="3" chance="56.9751"/>
+				<drop itemid="1866" min="1" max="3" chance="22.7898"/>
+				<drop itemid="6901" min="1" max="1" chance="0.121"/>
+				<drop itemid="7916" min="1" max="1" chance="6.723"/>
 			</category>
 		</drops>
 	</npc>
@@ -12359,25 +12414,27 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1877" min="1" max="1" chance="35.0"/>
+				<drop itemid="4040" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6161" max="12570" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="5.8475">
+				<drop itemid="6346" min="1" max="1" chance="43.8498"/>
+				<drop itemid="6344" min="1" max="1" chance="21.6466"/>
+				<drop itemid="6342" min="1" max="1" chance="34.2028"/>
+				<drop itemid="6328" min="1" max="1" chance="0.1504"/>
+				<drop itemid="6327" min="1" max="1" chance="0.1504"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="33.4111">
+				<drop itemid="5550" min="1" max="1" chance="2.6721"/>
+				<drop itemid="4043" min="1" max="1" chance="6.8022"/>
+				<drop itemid="1880" min="1" max="1" chance="17.6057"/>
+				<drop itemid="1869" min="1" max="3" chance="59.8607"/>
+				<drop itemid="1864" min="4" max="12" chance="4.9702"/>
+				<drop itemid="7910" min="1" max="1" chance="8.0891"/>
 			</category>
 		</drops>
 	</npc>
@@ -12420,25 +12477,25 @@
 			<skill id="4641" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6710" min="1" max="1" chance="12.5"/>
+				<drop itemid="6712" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7376" max="15110" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="1.7182">
+				<drop itemid="5488" min="1" max="1" chance="49.7441"/>
+				<drop itemid="5487" min="1" max="1" chance="49.7441"/>
+				<drop itemid="5329" min="1" max="1" chance="0.5118"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="16.265">
+				<drop itemid="4044" min="1" max="1" chance="19.7405"/>
+				<drop itemid="4041" min="1" max="1" chance="1.3107"/>
+				<drop itemid="4039" min="1" max="1" chance="21.2"/>
+				<drop itemid="1894" min="1" max="1" chance="21.2"/>
+				<drop itemid="960" min="1" max="1" chance="0.383"/>
+				<drop itemid="7916" min="1" max="1" chance="36.1658"/>
 			</category>
 		</drops>
 	</npc>
@@ -12480,25 +12537,25 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6698" min="1" max="1" chance="12.5"/>
+				<drop itemid="6699" min="1" max="1" chance="12.5"/>
+				<drop itemid="6700" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6437" max="13190" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="1.2375">
+				<drop itemid="5480" min="1" max="1" chance="16.6936"/>
+				<drop itemid="5481" min="1" max="1" chance="83.3064"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="38.6957">
+				<drop itemid="1867" min="13" max="36" chance="8.614"/>
+				<drop itemid="1869" min="2" max="6" chance="32.3036"/>
+				<drop itemid="1870" min="2" max="6" chance="23.4932"/>
+				<drop itemid="1871" min="3" max="9" chance="16.1515"/>
+				<drop itemid="1872" min="8" max="19" chance="15.2014"/>
+				<drop itemid="7910" min="1" max="1" chance="4.2363"/>
 			</category>
 		</drops>
 	</npc>
@@ -12541,25 +12598,26 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1894" min="1" max="1" chance="22.2"/>
+				<drop itemid="4039" min="1" max="1" chance="12.5"/>
+				<drop itemid="4040" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7442" max="15230" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="1.1177">
+				<drop itemid="5522" min="1" max="1" chance="48.0949"/>
+				<drop itemid="5316" min="1" max="1" chance="0.7857"/>
+				<drop itemid="5523" min="1" max="1" chance="51.1194"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="51.7884">
+				<drop itemid="1866" min="3" max="9" chance="16.0911"/>
+				<drop itemid="1865" min="3" max="9" chance="17.5539"/>
+				<drop itemid="1873" min="4" max="11" chance="4.2518"/>
+				<drop itemid="1864" min="5" max="15" chance="19.3093"/>
+				<drop itemid="1344" min="40" max="120" chance="32.0667"/>
+				<drop itemid="1868" min="14" max="35" chance="10.7272"/>
 			</category>
 		</drops>
 	</npc>
@@ -12599,28 +12657,6 @@
 			<skill id="4416" level="6"/>
 			<skill id="4422" level="3"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22171" name="Triol's High Priest" title="">
 		<set name="level" val="80"/>
@@ -12663,25 +12699,29 @@
 			<skill id="4641" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6713" min="1" max="1" chance="12.5"/>
+				<drop itemid="6714" min="1" max="1" chance="12.5"/>
+				<drop itemid="7579" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="8543" max="17500" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.9404">
+				<drop itemid="8342" min="1" max="1" chance="46.4268"/>
+				<drop itemid="7902" min="1" max="1" chance="0.0826"/>
+				<drop itemid="5544" min="1" max="1" chance="14.2684"/>
+				<drop itemid="5533" min="1" max="1" chance="24.9538"/>
+				<drop itemid="8349" min="1" max="1" chance="14.2684"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="44.7768">
+				<drop itemid="4042" min="1" max="1" chance="4.2945"/>
+				<drop itemid="1895" min="3" max="9" chance="37.0881"/>
+				<drop itemid="1876" min="1" max="1" chance="31.9042"/>
+				<drop itemid="6901" min="1" max="1" chance="0.2997"/>
+				<drop itemid="1873" min="2" max="6" chance="11.754"/>
+				<drop itemid="1868" min="16" max="44" chance="5.7264"/>
+				<drop itemid="7916" min="1" max="1" chance="8.9331"/>
 			</category>
 		</drops>
 	</npc>
@@ -12724,25 +12764,26 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="6714" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7450" max="15230" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.5691">
+				<drop itemid="5528" min="1" max="1" chance="30.7894"/>
+				<drop itemid="5527" min="1" max="1" chance="36.3874"/>
+				<drop itemid="5495" min="1" max="1" chance="32.5769"/>
+				<drop itemid="5317" min="1" max="1" chance="0.2463"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="25.7222">
+				<drop itemid="4041" min="1" max="1" chance="3.6672"/>
+				<drop itemid="1881" min="9" max="27" chance="19.4384"/>
+				<drop itemid="1875" min="1" max="1" chance="22.8685"/>
+				<drop itemid="1872" min="5" max="15" chance="38.8773"/>
+				<drop itemid="1344" min="283" max="834" chance="14.9524"/>
+				<drop itemid="959" min="1" max="1" chance="0.0991"/>
+				<drop itemid="8732" min="1" max="1" chance="0.0971"/>
 			</category>
 		</drops>
 	</npc>
@@ -12785,25 +12826,25 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1894" min="1" max="1" chance="22.2"/>
+				<drop itemid="4039" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6297" max="12880" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="1.001">
+				<drop itemid="5488" min="1" max="1" chance="43.2466"/>
+				<drop itemid="5487" min="1" max="1" chance="56.7534"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="40.0309">
+				<drop itemid="5549" min="1" max="1" chance="12.4903"/>
+				<drop itemid="4044" min="1" max="1" chance="4.6258"/>
+				<drop itemid="1889" min="1" max="1" chance="10.8611"/>
+				<drop itemid="1873" min="2" max="6" chance="16.5037"/>
+				<drop itemid="1868" min="3" max="9" chance="49.9617"/>
+				<drop itemid="960" min="1" max="1" chance="0.0567"/>
+				<drop itemid="7916" min="1" max="1" chance="5.5007"/>
 			</category>
 		</drops>
 	</npc>
@@ -12845,25 +12886,25 @@
 			<skill id="4665" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="SPOIL" chance="100.0">
+				<drop itemid="1877" min="1" max="1" chance="35.0"/>
+				<drop itemid="4040" min="1" max="1" chance="12.5"/>
 			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="6280" max="12820" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.8196">
+				<drop itemid="5481" min="1" max="1" chance="34.7604"/>
+				<drop itemid="5480" min="1" max="1" chance="65.2396"/>
 			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="40.6548">
+				<drop itemid="4041" min="1" max="1" chance="0.3512"/>
+				<drop itemid="1881" min="1" max="1" chance="24.5973"/>
+				<drop itemid="1875" min="1" max="1" chance="9.11"/>
+				<drop itemid="1872" min="5" max="15" chance="18.921"/>
+				<drop itemid="1867" min="11" max="27" chance="11.1804"/>
+				<drop itemid="1344" min="40" max="120" chance="35.1393"/>
+				<drop itemid="6901" min="1" max="1" chance="0.7008"/>
 			</category>
 		</drops>
 	</npc>
@@ -12907,14 +12948,14 @@
 			<skill id="4612" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
+				<drop itemid="57" min="215" max="508" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="7.1255">
+				<drop itemid="1868" min="1" max="1" chance="61.0177"/>
+				<drop itemid="1873" min="1" max="1" chance="15.5932"/>
+				<drop itemid="1876" min="1" max="1" chance="15.5932"/>
+				<drop itemid="1895" min="1" max="1" chance="7.7959"/>
 			</category>
 		</drops>
 		<minions>
@@ -12960,14 +13001,18 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
+				<drop itemid="57" min="1500" max="2200" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="0.162">
+				<drop itemid="5481" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="7.8493">
+				<drop itemid="1344" min="11" max="30" chance="39.8128"/>
+				<drop itemid="1866" min="1" max="1" chance="27.1055"/>
+				<drop itemid="1871" min="1" max="1" chance="28.9541"/>
+				<drop itemid="1877" min="1" max="1" chance="2.0638"/>
+				<drop itemid="4041" min="1" max="1" chance="2.0638"/>
 			</category>
 		</drops>
 	</npc>
@@ -13012,14 +13057,11 @@
 			<skill id="4641" level="1"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
+				<drop itemid="57" min="6232" max="7692" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="16.6066">
+				<drop itemid="4044" min="1" max="1" chance="100.0"/>
 			</category>
 		</drops>
 		<minions>
@@ -13065,14 +13107,8 @@
 			<skill id="4422" level="3"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+				<drop itemid="57" min="4456" max="7385" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -13115,25 +13151,11 @@
 			<skill id="4614" level="9"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
 			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
+				<drop itemid="57" min="7411" max="7610" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
+			<category type="DROP" chance="35.0">
+				<drop itemid="1895" min="1" max="1" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -13179,17 +13201,6 @@
 			<skill id="4641" level="1"/>
 			<skill id="4655" level="9"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22192" name="Andreas' Royal Guards" title="">
 		<set name="level" val="86"/>
@@ -13229,17 +13240,6 @@
 			<skill id="4622" level="9"/>
 			<skill id="4665" level="9"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22193" name="Andreas' Royal Guards" title="">
 		<set name="level" val="86"/>
@@ -13278,17 +13278,6 @@
 			<skill id="4622" level="9"/>
 			<skill id="4665" level="9"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22194" name="Penance Guard" title="">
 		<set name="level" val="80"/>
@@ -13328,17 +13317,6 @@
 			<skill id="4416" level="1"/>
 			<skill id="4422" level="3"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="44570" max="91260" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22195" name="Ritual Sacrifice" title="">
 		<set name="level" val="99"/>
@@ -13377,28 +13355,6 @@
 			<skill id="4422" level="3"/>
 			<skill id="4614" level="9"/>
 		</skills>
-		<drops>
-			<category type="SPOIL" chance="70.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="4457" max="9126" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="0.3">
-				<drop itemid="730" min="1" max="1" chance="15.0"/>
-				<drop itemid="729" min="1" max="1" chance="15.0"/>
-				<drop itemid="960" min="1" max="1" chance="15.0"/>
-				<drop itemid="959" min="1" max="1" chance="15.0"/>
-				<drop itemid="6572" min="1" max="1" chance="8.0"/>
-				<drop itemid="6569" min="1" max="1" chance="8.0"/>
-				<drop itemid="6570" min="1" max="1" chance="8.0"/>
-				<drop itemid="6577" min="1" max="1" chance="8.0"/>
-				<drop itemid="6578" min="1" max="1" chance="8.0"/>
-			</category>
-		</drops>
 	</npc>
 	<npc id="22196" name="Velociraptor" title="">
 		<set name="level" val="80"/>
@@ -14375,9 +14331,6 @@
 			<category type="CURRENCY" chance="70.0">
 				<drop itemid="57" min="55210" max="110520" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="8762" min="1" max="1" chance="100"/>
-			</category>
 			<category type="DROP" chance="6.6666">
 				<drop itemid="5541" min="1" max="1" chance="100.0"/>
 			</category>
@@ -14387,6 +14340,7 @@
 				<drop itemid="8894" min="1" max="1" chance="9.0849"/>
 				<drop itemid="8895" min="1" max="1" chance="5.9676"/>
 				<drop itemid="8956" min="1" max="1" chance="3.0282"/>
+				<drop itemid="8762" min="1" max="1" chance="18.4455"/>
 			</category>
 		</drops>
 	</npc>
@@ -14425,9 +14379,6 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0">
 				<drop itemid="57" min="57070" max="100100" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="8762" min="1" max="1" chance="100"/>
 			</category>
 			<category type="DROP" chance="5.8823">
 				<drop itemid="5541" min="1" max="1" chance="100.0"/>
@@ -14477,9 +14428,6 @@
 			</category>
 			<category type="CURRENCY" chance="70.0">
 				<drop itemid="57" min="55710" max="109660" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="100.0">
-				<drop itemid="8762" min="1" max="1" chance="100"/>
 			</category>
 			<category type="DROP" chance="4.5454">
 				<drop itemid="5541" min="1" max="1" chance="100.0"/>
