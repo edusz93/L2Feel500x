@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+	<npc id="60014" idTemplate="60014" name="Baylor" title="Feel Boss">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="90"/>
+		<set name="radius" val="54"/>
+		<set name="height" val="77.5"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="GrandBoss"/>
+		<set name="exp" val="2346616"/>
+		<set name="sp" val="1166150"/>
+		<set name="hp" val="1629806.78327062"/>
+		<set name="mp" val="1641"/>
+		<set name="hpRegen" val="3.229319897932"/>
+		<set name="mpRegen" val="3"/>
+		<set name="pAtk" val="1267.04651101713"/>
+		<set name="pDef" val="1011.21024"/>
+		<set name="mAtk" val="1790.2949006429"/>
+		<set name="mDef" val="193.3"/>
+		<set name="crit" val="4"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="60"/>
+		<set name="int" val="76"/>
+		<set name="dex" val="73"/>
+		<set name="wit" val="70"/>
+		<set name="con" val="57"/>
+		<set name="men" val="80"/>
+		<set name="corpseTime" val="60"/>
+		<set name="walkSpd" val="40"/>
+		<set name="runSpd" val="170"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<drops>
+		</drops>
+	</npc>
+</list>
