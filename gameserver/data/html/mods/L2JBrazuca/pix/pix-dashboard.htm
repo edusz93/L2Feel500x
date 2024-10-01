@@ -1,31 +1,41 @@
 <html>
 <body>
 <center>
-	<table width="220px">
-		<tr>
-			<td><button value="" action="" width=64 height=64 back="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M" fore="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M"></td>
-			<td>
-				<font color="LEVEL">PT-BR:</font> Precisamos de doacoes para manter o servidor ativo. Sua contribuicao e vital para continuarmos oferecendo uma experiencia de jogo de qualidade. Ajude-nos doando hoje mesmo!
-			</td>
-		</tr>
-	</table>
-<br>Selecione a quatidade de moedas que voce deseja!<br1>1 %item% = %price% centavos doado.<br1><font color=LEVEL>Receba sua recompensa no link Pagos!</font><br>
+    <table width="220px">
+        <tr>
+            <td><button value="" action="" width=64 height=64 back="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M" fore="BotoesNpc.RankingWnd_FaceIcon_Kamael_soldier_M"></td>
+            <td>
+                <font color="LEVEL">PT-BR:</font> Doacoes sao essenciais para manter o servidor ativo. Ajude-nos!
+            </td>
+        </tr>
+    </table>
+<br1>
+1 %item% = %price% centavos.<br>
+<font color=LEVEL>Receba bonus de tickets:</font><br1>
+<font color=LEVEL>R$100+ = 10% (10 tickets)</font><br1>
+<font color=LEVEL>R$150+ = 15% (22 tickets)</font><br1>
+<font color=LEVEL>R$200+ = 20% (40 tickets)</font><br1>
+<font color=LEVEL>R$250+ = 25% (62 tickets)</font><br1>
+<font color=LEVEL>R$300+ = 30% (90 tickets)</font><br>
+
+Selecione quantos %item% deseja receber!<br1>
 <table width=80 >
-	<tr>
-		<td align=center width=16>	
-			<button action="link dec_Quantity" back=L2UI_CH3.prev1_down fore=L2UI_CH3.prev1 width=16 height=16>
-		</td>
-		<td align=center>	
-			<font color=LEVEL>%quanty%</font>
-		</td>	
-		<td align=center width=16>	
-			<button action="link inc_Quantity" back=L2UI_CH3.next1_down fore=L2UI_CH3.next1 width=16 height=16>
-		</td>
-	</tr>
+    <tr>
+        <td align=center width=16>    
+            <button action="link dec_Quantity" back=L2UI_CH3.prev1_down fore=L2UI_CH3.prev1 width=16 height=16>
+        </td>
+        <td align=center>    
+            <font color=LEVEL>%quanty%</font>
+        </td>    
+        <td align=center width=16>    
+            <button action="link inc_Quantity" back=L2UI_CH3.next1_down fore=L2UI_CH3.next1 width=16 height=16>
+        </td>
+    </tr>
 </table>
 <br>
-R$ %val%
-<br1>
+Valor a ser doado: R$ %val%
+<br>
+<font color=LEVEL>Bonus: %tickets% %item%</font><br>
 <table width=290>
 	<tr>
 		<td width=93 align=center><button value="Gerar Pix" action="link gerar_pix" width=75 height=21 back=L2UI_CH3.Btn1_normalOn fore=L2UI_CH3.Btn1_normal></td>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-	<item id="13000" type="EtcItem" name="Tickt of Donate">
+	<item id="13000" type="EtcItem" name="Ticket of Donate">
 		<set name="icon" val="L2JBrazuca.icons.tkt" />
 		<set name="etcitem_type" val="MATERIAL" />
 		<set name="material" val="STEEL" />
