@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="rivelino_1728320859442" minZ="-3464" maxZ="-3448">
+		<node x="82697" y="149746" />
+		<node x="82597" y="149746" />
+		<node x="82597" y="149646" />
+		<node x="82697" y="149646" />
+	</territory>
+	<npcmaker name="rivelino_7894282790000" territory="rivelino_1728320859442" spawn="ALL" maximumNpcs="1">
+		<npc id="50022" pos="82647;149696;-3464;48712" total="1" respawnDelay="60s" /> <!-- Rivelino -->
+	</npcmaker>
+</list>

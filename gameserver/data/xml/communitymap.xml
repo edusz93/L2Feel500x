@@ -2,7 +2,7 @@
 <list>
     <command name="gmshop" path="pages/services-gmshop.htm" />
     <command name="account_service" path="pages/account-service.htm" />
-    <command name="auction-house" path="pages/auction-house.htm" />
+    <command name="auction-house" path="auction-house/buy.htm" />
     <command name="cabinet" path="pages/cabinet.htm" />
     <command name="clan" path="pages/clan.htm" />
     <command name="events" path="pages/events.htm" />
