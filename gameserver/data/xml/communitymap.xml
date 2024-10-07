@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
     <command name="gmshop" path="pages/services-gmshop.htm" />
-    <command name="account_service" path="pages/account-service.htm" />
+    <command name="character-service" path="pages/character-service.htm" />
     <command name="auction-house" path="auction-house/buy.htm" />
     <command name="cabinet" path="pages/cabinet.htm" />
     <command name="clan" path="pages/clan.htm" />
@@ -10,11 +10,11 @@
     <command name="raids" path="pages/raids.htm" />
     <command name="rankings" path="pages/rankings.htm" />
     <command name="services" path="pages/services.htm" />
-    <command name="buffer" path="pages/services-buffer.htm" />
     <command name="buffer_createscheme" path="pages/services-buffer-createscheme.htm" />
     <command name="buffer_editscheme" path="pages/services-buffer-editscheme.htm" />
     <command name="classmaster" path="pages/services-classmaster.htm" />
     <command name="donationstore" path="pages/services-donationstore.htm" />
-    <command name="gatekeeper" path="pages/services-gatekeeper.htm" />
+	<command name="services-gatekeeper" path="pages/services-gatekeeper.htm" />
+	<command name="services-buffer" path="pages/services-buffer.htm" />
     <command name="warehouse" path="pages/services-warehouse.htm" />
 </list>
