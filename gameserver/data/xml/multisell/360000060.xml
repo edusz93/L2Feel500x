@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+<!-- Pacote Ouro-->
+	<item>
+		<production id="11005" count="1"/>
+		<production id="11017" count="1"/>
+		<production id="14002" count="1"/>
+        <production id="13007" count="5"/>
+		<production id="11000" count="1"/>
+		<production id="10007" count="1"/>
+        <ingredient id="13000" count="100"/>
+		<production id="8627" count="20"/>
+		<production id="8639" count="20"/>
+		<production id="5592" count="1000"/>
+		<production id="5591" count="1000"/>
+    </item>
+</list>

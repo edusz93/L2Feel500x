@@ -17,4 +17,5 @@
 	<command name="services-gatekeeper" path="pages/services-gatekeeper.htm" />
 	<command name="services-buffer" path="pages/services-buffer.htm" />
     <command name="warehouse" path="pages/services-warehouse.htm" />
+	<command name="donatebuy" path="index.htm" />
 </list>

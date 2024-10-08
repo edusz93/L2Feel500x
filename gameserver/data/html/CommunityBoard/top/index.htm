@@ -44,7 +44,7 @@
 											</tr>
 										</table>
 									</td>
-								</tr>
+								</tr>								
 								<tr>
 									<td>
 										<table width="180">
@@ -97,24 +97,36 @@
 													<font color="808080">L2Feel.com:</font> <font color="LEVEL">Interlude</font>
 												</td>
 												<td width=50>
-													<font color="808080">Exp:</font> 500x
+													<font color="808080">Exp:</font> <font color=00FF00>500x</font>
 												</td>
 												<td width=50>
-													<font color="808080">Normal Enchant:</font> 50%
+													<font color="808080">Normal Enchant:</font> <font color=00FFFF>50%</font>
 												</td>
 											</tr>
 											<tr>
 												<td width=50>
-													<font color="808080">Online:</font> <font color="LEVEL">%online%</font>
+													<font color="808080">Life Stone:</font> <font color=FF0000>5%</font>
 												</td>
 												<td width=50>
-													<font color="808080">Blessed Enchant:</font> 40%
+													<font color="808080">Blessed Enchant:</font> <font color=LEVEL>40%</font>
 												</td>
 												<td width=50>
-													<font color="808080">Crystal Enchant:</font> 25%
+													<font color="808080">Crystal Enchant:</font> <font color=FF0000>25%</font>
+												</td>
+											</tr>
+											<tr>
+												<td width=50>
+													<font color="808080">Conta Vip:</font> %vip%
+												</td>
+												<td width=50>
+													<font color="808080">Player Nobles:</font> <font color=00FFFF>%player_is_noble%</font>
+												</td>
+												<td width=50>
+													<font color="808080">Último Acesso:</font> <font color=FFFFFF>%player_last_access%</font>
 												</td>
 											</tr>
 										</table>
+										<br1><font color="808080">Próximo Spawn:</font> <font color=FFFFFF>%nextSpawn%</font><br>
 										<!--- server info --->
 										<!--- donation store --->
 										<center>
@@ -122,11 +134,11 @@
 											<tr>
 												<td>
 													<table>
-														<tr><td height=30></td></tr>
+														<tr><td height=10></td></tr>
 														<tr>
 															<td width=20></td>
 															<td width=300>
-																<font name="hs22" color="LEVEL">DONATE SHOP</font>
+																<font color="LEVEL">DONATE SHOP</font>
 															</td>
 															<td width=200>
 															</td>
@@ -141,18 +153,18 @@
 														<tr>
 															<td width=20></td>
 															<td height=40 width=34><img src=icon.etc_dice_a_i00 width=32 height=32></td>
-															<td height=32 width=200>Roulette<br1><font name="hs15" color="LEVEL">25 Tick of Donate</font>
+															<td height=32 width=200>Roulette <font color=00FF00>(Teste a sua sorte!)</font><br1><font name="hs15" color="LEVEL">25 Tick of Donate</font>
 															</td>
-															<td width=150>
+															<td width=150><button value="" action="bypass _bbshome;donatebuy;11017;25;" width=32 height=32 back="BotoesNpc.LCoinShopWnd_Buy_Button_Down" fore="BotoesNpc.LCoinShopWnd_Buy_Button_Over">
 															</td>
 														</tr>
 														<tr><td height=10></td></tr>
 														<tr>
 															<td width=20></td>
 															<td height=40 width=34><img src=L2JBrazuca.icons.vip4 width=32 height=32></td>
-															<td height=32 width=200>1 Mes Vip Status<br1><font name="hs15" color="LEVEL">30 Tick of Donate</font>
+															<td height=32 width=200>1 Mes Vip Status <font color=00FF00>(Rates 2x)</font><br1><font name="hs15" color="LEVEL">30 Tick of Donate</font>
 															</td>
-															<td width=150>
+															<td width=150><button value="" action="bypass _bbshome;donatebuy;11005;30;" width=32 height=32 back="BotoesNpc.LCoinShopWnd_Buy_Button_Down" fore="BotoesNpc.LCoinShopWnd_Buy_Button_Over">
 															</td>
 														</tr>
 													</table>
@@ -165,7 +177,7 @@
 														<tr>
 															<td width=20></td>
 															<td width=300>
-																<button value="Ver mais itens" action="bypass _bbshome" width=255 height=33 back="L2EssenceCommunity.donate_items_btn_over" fore="L2EssenceCommunity.donate_items_btn">
+																<button value="Ver mais itens" action="bypass _bbsmultisell;360000027" width=255 height=33 back="L2EssenceCommunity.donate_items_btn_over" fore="L2EssenceCommunity.donate_items_btn">
 															</td>
 															<td width=200>
 															</td>
@@ -178,6 +190,7 @@
 										</center>
 										<!--- donation store --->
 										<!--- buy premium --->
+										<font color="LEVEL">PACOTES DE INAUGURAÇÃO</font>
 										<table>
 											<tr>
 												<td>
@@ -201,7 +214,7 @@
 														</tr>
 														<tr>
 															<td width=180>
-																<center><button value="Comprar Pacote" action="bypass _bbshome" width=154 height=27 back="L2EssenceCommunity.buy_premium_btn_over" fore="L2EssenceCommunity.buy_premium_btn"></center>
+																<center><button value="Abrir Oferta" action="bypass _bbsmultisell;360000059" width=154 height=27 back="L2EssenceCommunity.buy_premium_btn_over" fore="L2EssenceCommunity.buy_premium_btn"></center>
 															</td>
 														</tr>
 														<tr>
@@ -231,7 +244,7 @@
 														</tr>
 														<tr>
 															<td width=180>
-																<center><button value="Comprar Pacote" action="bypass _bbshome" width=154 height=27 back="L2EssenceCommunity.buy_premium_btn_over" fore="L2EssenceCommunity.buy_premium_btn"></center>
+																<center><button value="Abrir Oferta" action="bypass _bbsmultisell;360000060" width=154 height=27 back="L2EssenceCommunity.buy_premium_btn_over" fore="L2EssenceCommunity.buy_premium_btn"></center>
 															</td>
 														</tr>
 														<tr>
