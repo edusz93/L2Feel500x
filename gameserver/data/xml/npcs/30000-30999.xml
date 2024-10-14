@@ -6864,8 +6864,8 @@
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>
-		<set name="radius" val="7"/>
-		<set name="height" val="16.5"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="18"/>
 		<set name="rHand" val="89"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Trainer"/>

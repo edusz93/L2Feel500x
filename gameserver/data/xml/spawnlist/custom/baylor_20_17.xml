@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="baylor_1728948664180" minZ="-3648" maxZ="-3632">
+		<node x="10573" y="-23833" />
+		<node x="10473" y="-23833" />
+		<node x="10473" y="-23933" />
+		<node x="10573" y="-23933" />
+	</territory>
+	<npcmaker name="baylor_15716656851000" territory="baylor_1728948664180" spawn="ALL" maximumNpcs="1">
+		<npc id="60014" pos="10523;-23883;-3648;55026" total="1" respawnDelay="4h" /> <!-- Baylor -->
+	</npcmaker>
+</list>

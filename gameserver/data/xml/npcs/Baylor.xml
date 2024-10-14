@@ -8,7 +8,7 @@
 		<set name="height" val="77.5"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
-		<set name="type" val="GrandBoss"/>
+		<set name="type" val="RaidBoss"/>
 		<set name="exp" val="2346616"/>
 		<set name="sp" val="1166150"/>
 		<set name="hp" val="1629806.78327062"/>
@@ -27,7 +27,7 @@
 		<set name="wit" val="70"/>
 		<set name="con" val="57"/>
 		<set name="men" val="80"/>
-		<set name="corpseTime" val="60"/>
+		<set name="corpseTime" val="15"/>
 		<set name="walkSpd" val="40"/>
 		<set name="runSpd" val="170"/>
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>

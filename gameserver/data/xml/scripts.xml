@@ -375,6 +375,7 @@
 	<script path="script.ai.boss.Zaken"/>
 	<script path="script.ai.boss.Barakiel"/>
 	<script path="script.ai.boss.BossEvent"/>
+	<script path="script.ai.boss.Baylor"/>
 
 	<script path="script.ai.group.Chests"/>
 	<script path="script.ai.group.FeedableBeasts"/>
