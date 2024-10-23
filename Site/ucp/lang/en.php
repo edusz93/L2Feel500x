@@ -313,5 +313,3 @@ $LANG[14004] = "This name is already in use!";
 $LANG[15003] = "Bank transaction";
 $LANG[15004] = "After payment send the proof to";
 $LANG[15005] = "Deposit or transfer to the following bank account";
-$LANG[15006] = "Already have an account?";
-$LANG[15007] = "Log in";

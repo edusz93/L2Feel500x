@@ -313,5 +313,4 @@ $LANG[14004] = "Esse nome já está em uso!";
 $LANG[15003] = "Transação bancária";
 $LANG[15004] = "Após o pagamento envie o comprovante para";
 $LANG[15005] = "Deposite ou transfira para seguinte conta bancária";
-$LANG[15006] = "Já possui uma conta?";
-$LANG[15007] = "Faça login";
+

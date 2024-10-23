@@ -2,8 +2,8 @@
 @font-face { font-family: OpenSansSemibold; src: url('./fonts/OpenSans-Semibold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
 @font-face { font-family: OpenSansBold; src: url('./fonts/OpenSans-Bold.ttf') format('truetype'); font-weight: bold; font-style: normal; }
 
-body, html { min-width: 1035px; margin: 0; padding: 0; overflow-x: hidden; text-shadow: 1px 1px 2px rgba(0, 0, 255, 0.1); color:#fff}
-body { background: url('../../assets/images/logo.png') no-repeat center top; background-color: #0D1023; color: #000; margin-top:-5%;}
+body, html { min-width: 1035px; margin: 0; padding: 0; overflow-x: hidden; }
+body { background: url('../../imgs/bg-top.jpg') no-repeat center top; background-color: #0e0701; color: #000; }
 body, a, a:active, a:visited, a:link, input, textarea, select { font-family: OpenSansRegular, Arial; font-size: 13px; text-decoration: none; }
 a, a:active, a:visited, a:link { cursor: pointer; font-weight: bold; font-family: OpenSansBold, Arial; }
 a, input { outline: none; }
@@ -34,7 +34,7 @@ a.default.sucesso, span.default.sucesso, input.default.sucesso { background: #0d
 body { padding-top: 430px; }
 
 section { width: 1000px; min-height: 400px; background: #fff; margin: 0 auto; padding: 15px 20px 15px 15px; border-radius: 15px 0 15px 15px; position: relative; box-shadow: 0 0 15px rgba(0,0,0,0.3); }
-section.login { min-height: 540px; background: #fff url('../../assets/images/top-bg.jpg') no-repeat center center; }
+section.login { min-height: 540px; background: #fff url('../imgs/nm/login_bg.jpg') no-repeat center bottom; }
 
 .loggedAs { width: 238px; height: 45px; overflow: hidden; box-sizing: border-box; padding: 15px 15px 0; background: #fff; position: absolute; top: -31px; left: 0; border-radius: 15px 15px 0 0; }
 .loggedAs > div { position: relative; font-size: 12px; color: #414141; font-weight: bold; width: 100%; height: 25px; line-height: 25px; box-sizing: border-box; padding: 0 10px; background: #dfdfdf; border-radius: 4px; }
@@ -217,60 +217,3 @@ section.blue .box h1, section.blue table.default tr th, section.blue .service > 
 section.red .box h1, section.red table.default tr th, section.red .service > .title .costs, section.red nav > *.actived { background-color: #740000 !important; } section.red a, section.red a:active, section.red a:visited, section.red a:link { color: #ac0000; } section.red a:hover { color: #de0000; } section.red a:active { color: #ff5a5a; } section.red a.default, section.red span.default, section.red input.default { background: #740000; background: -moz-linear-gradient(top, #9f0000 0%, #740000 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#9f0000), color-stop(100%,#740000)); border: 1px solid #740000; } section.red a.default:hover, section.red input.default:hover, section.red span.default:hover { background: #c70000; border-color: #c70000; } section.red table.donateBox { border-color: rgba(116,0,0,0.2); background-color: rgba(116,0,0,0.05); } section.red table.donateBox th { background-color: rgba(116,0,0,0.1); } 
 section.green .box h1, section.green table.default tr th, section.green .service > .title .costs, section.green nav > *.actived { background-color: #0b5f00 !important; } section.green a, section.green a:active, section.green a:visited, section.green a:link { color: #0f7f00; } section.green a:hover { color: #15b000; } section.green a:active { color: #1be400; } section.green a.default, section.green span.default, section.green input.default { background: #0b5f00; background: -moz-linear-gradient(top, #118f00 0%, #0b5f00 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#118f00), color-stop(100%,#0b5f00)); border: 1px solid #0b5f00; } section.green a.default:hover, section.green input.default:hover, section.green span.default:hover { background: #15b100; border-color: #15b100; } section.green table.donateBox { border-color: rgba(11,95,0,0.2); background-color: rgba(11,95,0,0.05); } section.green table.donateBox th { background-color: rgba(11,95,0,0.1); } 
 section.purple .box h1, section.purple table.default tr th, section.purple .service > .title .costs, section.purple nav > *.actived { background-color: #4c005f !important; } section.purple a, section.purple a:active, section.purple a:visited, section.purple a:link { color: #6b0086; } section.purple a:hover { color: #9201b6; } section.purple a:active { color: #b700e5; } section.purple a.default, section.purple span.default, section.purple input.default { background: #4c005f; background: -moz-linear-gradient(top, #70008c 0%, #4c005f 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#70008c), color-stop(100%,#4c005f)); border: 1px solid #4c005f; } section.purple a.default:hover, section.purple input.default:hover, section.purple span.default:hover { background: #8c00af; border-color: #8c00af; } section.purple table.donateBox { border-color: rgba(76,0,95,0.2); background-color: rgba(76,0,95,0.05); } section.purple table.donateBox th { background-color: rgba(76,0,95,0.1); } 
-
-.smoke { position: absolute; left: 0; right: 0; top: 510px; height: 484px; width: 100%; background-image: url(../assets/images/smoke.png); background-position: left top; background-repeat: repeat-x; -webkit-animation: smoke 20s linear infinite; animation: smoke 20s linear infinite; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; }
-
-@-webkit-keyframes smoke { 0% { background-position: left -1920px top; }
-  100% { background-position: left 1920px top; } }
-
-@keyframes smoke { 0% { background-position: left -1920px top; }
-  100% { background-position: left 1920px top; } }
-  
-  /*********animation**********/
-.sparks { position: absolute; width: 1200px; left: 50%; top: 0; z-index: -1; }
-.sparks > div { position: absolute; }
-.sparks .spark_1 { background: url(../assets/images/spark_1.png) no-repeat; width: 764px; height: 313px; right: 0; bottom: -320px; -webkit-transform: scale(0.6); transform: scale(0.6); -webkit-animation: spark-1 4s linear infinite; animation: spark-1 4s linear infinite; -webkit-animation-delay: 1s; animation-delay: 1s; }
-.sparks .spark_2 { background: url(../assets/images/spark_2.png) no-repeat; width: 179px; height: 335px; right: 230px; bottom: -320px; -webkit-transform: scale(0.6); transform: scale(0.6); -webkit-animation: spark-1 4s linear infinite; animation: spark-1 4s linear infinite; -webkit-animation-delay: 2s; animation-delay: 2s; }
-.sparks .spark_3 { background: url(../assets/images/spark_3.png) no-repeat; width: 128px; height: 165px; right: 280px; bottom: -140px; -webkit-transform: scale(0.6); transform: scale(0.6); -webkit-animation: spark-3 4s linear infinite; animation: spark-3 4s linear infinite; -webkit-animation-delay: 2s; animation-delay: 2s; }
-.sparks .spark-big { background: url(../assets/images/spark_4.png) no-repeat; width: 794px; height: 176px; right: 0; bottom: -180px; -webkit-transform: scale(0.6); transform: scale(0.6); -webkit-animation: spark-5 4s linear infinite; animation: spark-5 4s linear infinite; }
-.sparks .spark_5 { -webkit-animation-delay: 2s; animation-delay: 2s; right: 40px; }
-
-.sparks_2 .spark_1 { background: url(../assets/images/spark_1.png) no-repeat; -webkit-animation-delay: 2s; animation-delay: 2s; }
-.sparks_2 .spark_2 { background: url(../assets/images/spark_2.png) no-repeat; -webkit-animation-delay: 3s; animation-delay: 3s; }
-.sparks_2 .spark_3 { background: url(../assets/images/spark_3.png) no-repeat; -webkit-animation-delay: 3s; animation-delay: 3s; }
-.sparks_2 .spark-big { background: url(../assets/images/spark_4.png) no-repeat; }
-.sparks_2 .spark_5 { -webkit-animation-delay: 3s; animation-delay: 3s; }
-
-.sparks_2 { margin-left: -500px;}
-
-@-webkit-keyframes spark-1 { 0% { bottom: -320px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -240px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -160px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: -80px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 0px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }
-
-@keyframes spark-1 { 0% { bottom: -320px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -240px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -160px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: -80px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 0px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }
-@-webkit-keyframes spark-3 { 0% { bottom: -140px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -80px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -20px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: 40px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 100px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }
-@keyframes spark-3 { 0% { bottom: -140px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -80px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -20px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: 40px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 100px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }
-@-webkit-keyframes spark-5 { 0% { bottom: -180px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -120px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -60px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: 0px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 60px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }
-@keyframes spark-5 { 0% { bottom: -180px; -webkit-transform: scale(0.6); transform: scale(0.6); opacity: 0; }
-  25% { bottom: -120px; -webkit-transform: scale(0.7); transform: scale(0.7); opacity: 1; }
-  50% { bottom: -60px; -webkit-transform: scale(0.8); transform: scale(0.8); opacity: 1; }
-  75% { bottom: 0px; -webkit-transform: scale(0.9); transform: scale(0.9); opacity: 0.5; }
-  100% { bottom: 60px; -webkit-transform: scale(1); transform: scale(1); opacity: 0; } }

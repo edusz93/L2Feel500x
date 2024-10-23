@@ -2,6 +2,7 @@
 
 <h1>Top Clan</h1>
 
+
 <?php
 require('private/includes/rankoptions.php');
 $cacheFile = "cache/topclan.xml";
@@ -83,75 +84,44 @@ if($genNew) {
 	
 }
 
-$selectedAlly = isset($_GET['ally']) ? $_GET['ally'] : '';
 ?>
-
-<form method="get" action="">
-    <input type="hidden" name="page" value="topclan" />
-    <label for="ally">Filtrar por Ally:</label>
-    <select name="ally" id="ally">
-        <option value="">Todos</option>
-        <?php
-        $allies = [];
-        foreach ($xml->line as $line) {
-            $allyName = (string) $line->ally;
-            if (!in_array($allyName, $allies)) {
-                $allies[] = $allyName;
-                echo '<option value="'.htmlspecialchars($allyName).'"'.($selectedAlly === $allyName ? ' selected' : '').'>'.htmlspecialchars($allyName).'</option>';
-            }
-        }
-        ?>
-    </select>
-    <button type="submit">Filtrar</button>
-</form>
 
 <div class='pddInner'>
 	<?php echo $LANG[30504]."<br />".$LANG[30500]." <b>".date('d/m/Y', $updated)."</b> ".$LANG[30501]." <b>".date('H:i', $updated)."</b>."; ?><br /><br />
 </div>
 
 <table cellspacing="0" cellpadding="0" border="0" class='default'>
-    <thead>
-        <tr>
-            <th class='pos'></th>
-            <th><?php echo htmlspecialchars($LANG[12013]); ?></th>
-            <th>Ally</th>
-            <th title='Level / <?php echo htmlspecialchars($LANG[29005]); ?>'>Lvl / Rep.</th>
-        </tr>
-    </thead>
-    <tbody>
-        <?php
-        $line = $xml->line;
-        $countView = (!empty($countTopCLAN) ? intval($countTopCLAN) : 100);
-        if (count($line) < $countView) { $countView = count($line); }
+	
+	<tr>
+		<th class='pos'></th>
+		<th><?php echo $LANG[12013]; ?></th>
+		<th>Ally</th>
+		<th title='Level / <?php echo $LANG[29005]; ?>'>Lvl / Rep.</th>
+	</tr>
+	
+	<?php
+	
+	$line = $xml->line;
+	
+	$countView = (!empty($countTopCLAN) ? intval($countTopCLAN) : 100);
+	if(count($line) < $countView) { $countView = count($line); }
+	for($i=0, $c=$countView; $i < $c; $i++) {
+		
+		echo "
+		<tr".(($i % 2 == 0) ? " class='two'" : "").">
+			<td class='pos'>".$line[$i]->pos."&ordm;</td>
+			<td>
+				<b>".$line[$i]->name."</b>
+				<br /><span style='font-size:11px;font-weight:normal;opacity:0.5;'>".$LANG[12011].": ".$line[$i]->leader." &nbsp;&bull;&nbsp; ".$line[$i]->members." ".($line[$i]->members > 1 ? $LANG[12012] : substr($LANG[12012], 0, -1))."</span>
+			</td>
+			<td>".$line[$i]->ally."</td>
+			<td>".$line[$i]->level." / ".$line[$i]->reputation."</td>
+		</tr>
+		";
+		
+	}
+	
+	?>
 
-        for ($i = 0, $displayed = 0; $displayed < $countView && $i < count($line); $i++) {
-            $ally = (string) $line[$i]->ally;
-            if ($selectedAlly && $ally !== $selectedAlly) {
-                continue;
-            }
-            $row_class = ($displayed % 2 == 0) ? " class='two'" : "";
-            $pos = htmlspecialchars($line[$i]->pos);
-            $name = htmlspecialchars($line[$i]->name);
-            $leader = htmlspecialchars($line[$i]->leader);
-            $members = htmlspecialchars($line[$i]->members);
-            $level = htmlspecialchars($line[$i]->level);
-            $reputation = htmlspecialchars($line[$i]->reputation);
-            $members_text = ($members > 1) ? $LANG[12012] : substr($LANG[12012], 0, -1);
-            $leader_label = htmlspecialchars($LANG[12011]);
-
-            echo "
-            <tr{$row_class}>
-                <td class='pos'>{$pos}&ordm;</td>
-                <td>
-                    <b>{$name}</b>
-                    <br /><span style='font-size:12px;font-weight:bold;opacity:0.5;'>{$leader_label}: {$leader} &nbsp;&bull;&nbsp; {$members} {$members_text}</span>
-                </td>
-                <td><center>{$ally}</center></td>
-                <td><center>{$level} / {$reputation}</center></td>
-            </tr>
-            ";
-            $displayed++;
-        }
-        ?>
-    </tbody>
 </table>
+<br>

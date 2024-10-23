@@ -75,10 +75,10 @@
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="false" seedable="false"/>
 		<drops>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13001" min="20" max="40" chance="100.0"/>
+				<drop itemid="13001" min="10" max="20" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1000" max="5000" chance="100.0"/>
+				<drop itemid="13010" min="500" max="2500" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -116,10 +116,10 @@
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="false" seedable="false"/>
 		<drops>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13001" min="20" max="40" chance="100.0"/>
+				<drop itemid="13001" min="10" max="20" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1000" max="5000" chance="100.0"/>
+				<drop itemid="13010" min="500" max="2500" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -157,10 +157,10 @@
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="false" seedable="false"/>
 		<drops>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13001" min="20" max="40" chance="100.0"/>
+				<drop itemid="13001" min="10" max="20" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="100.0">
-				<drop itemid="13010" min="1000" max="5000" chance="100.0"/>
+				<drop itemid="13010" min="500" max="2500" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>

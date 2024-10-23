@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<!-- Weapons S Grade -->
-	<reward id="0" itemId="7577" enchant="0" count="1" chance="4"/>	<!-- Draconic Bow [Focus] -->
+	<reward id="0" itemId="7577" enchant="0" count="1" chance="10"/>	<!-- Draconic Bow [Focus] -->
 	<reward id="1" itemId="6580" enchant="0" count="1" chance="10"/>	<!-- Tallum Blade*Dark Legion's Edge -->
 	<reward id="2" itemId="6604" enchant="0" count="1" chance="10"/>	<!-- Demon Splinter [Crt. Stun] -->
 	<reward id="3" itemId="6601" enchant="0" count="1" chance="10"/>	<!-- Saint Spear [Haste] -->
-	<reward id="4" itemId="6594" enchant="0" count="1" chance="4"/>	<!-- Shining Bow [Focus] -->
+	<reward id="4" itemId="6594" enchant="0" count="1" chance="10"/>	<!-- Shining Bow [Focus] -->
 	<reward id="5" itemId="6590" enchant="0" count="1" chance="10"/>	<!-- Angel Slayer [Crt. Damage] -->
 	<reward id="6" itemId="6587" enchant="0" count="1" chance="10"/>	<!-- Imperial Staff [Empower] -->
-	<reward id="7" itemId="6585" enchant="0" count="1" chance="15"/>	<!-- Basalt Battlehammer [Health] -->
-	<reward id="8" itemId="6608" enchant="0" count="1" chance="4"/>	<!-- Arcana Mace [Acumen] -->
+	<reward id="7" itemId="6585" enchant="0" count="1" chance="10"/>	<!-- Basalt Battlehammer [Health] -->
+	<reward id="8" itemId="6608" enchant="0" count="1" chance="10"/>	<!-- Arcana Mace [Acumen] -->
 	<reward id="9" itemId="6583" enchant="0" count="1" chance="10"/>	<!-- Forgotten Blade [Focus] -->
 	<reward id="10" itemId="6607" enchant="0" count="1" chance="10"/>	<!-- Heaven's Divider [Focus] -->
 	<!-- Jewels S Grade -->
@@ -25,9 +25,29 @@
 	<reward id="17" itemId="10000" enchant="0" count="1" chance="10"/>	<!--  Mini Baium  -->
 	<reward id="18" itemId="10001" enchant="0" count="1" chance="10"/>	<!--  Mini Zaken  -->
 	<reward id="19" itemId="10002" enchant="0" count="1" chance="10"/>	<!--  Mini Valakas  -->
-	<reward id="20" itemId="10003" enchant="0" count="1" chance="10"/>	<!--  Mini Antaras  -->	
+	<reward id="20" itemId="10003" enchant="0" count="1" chance="10"/>	<!--  Mini Antaras  -->
+	<reward id="21" itemId="10004" enchant="0" count="1" chance="10"/>	<!--  Mini Baium  -->
+	<reward id="22" itemId="10005" enchant="0" count="1" chance="10"/>	<!--  Mini Zaken  -->
+	<reward id="23" itemId="10006" enchant="0" count="1" chance="10"/>	<!--  Mini Valakas  -->
+	<reward id="24" itemId="10007" enchant="0" count="1" chance="10"/>	<!--  Mini Antaras  -->
+	<reward id="25" itemId="10008" enchant="0" count="1" chance="10"/>	<!--  Mini Zaken  -->
+	<reward id="26" itemId="10009" enchant="0" count="1" chance="10"/>	<!--  Mini Valakas  -->
+	<reward id="27" itemId="10010" enchant="0" count="1" chance="10"/>	<!--  Mini Antaras  -->	
 	<!-- Farms -->
-	<reward id="21" itemId="13007" enchant="0" count="2" chance="85"/>	<!--  Gold Bar  -->
-	<reward id="22" itemId="13010" enchant="0" count="5000" chance="60"/>	<!--  Ignis Farm  -->
-
+	<reward id="28" itemId="13007" enchant="0" count="10" chance="85"/>	<!--  Gold Bar  -->
+	<reward id="29" itemId="13010" enchant="0" count="5000" chance="60"/>	<!--  Primeval Seed  -->
+	<!-- Shields -->
+	<reward id="30" itemId="16000" enchant="0" count="1" chance="15"/>	<!--  Dusk Shield  -->
+	<reward id="31" itemId="16001" enchant="0" count="1" chance="15"/>	<!--  Shield Of Imperial Warlord Zombie  -->
+	<!-- Hats -->
+	<reward id="32" itemId="18077" enchant="0" count="1" chance="15"/>	<!--  Redefined Feathered Hat  -->
+	<reward id="33" itemId="18078" enchant="0" count="1" chance="15"/>	<!--  Redefined Jester Hat  -->
+	<reward id="34" itemId="18079" enchant="0" count="1" chance="15"/>	<!--  Redefined Wizard Hat  -->
+	<reward id="35" itemId="18080" enchant="0" count="1" chance="15"/>	<!--  Redefined Dapper Cap  -->
+	<!-- Tattoo -->
+	<reward id="36" itemId="14000" enchant="0" count="1" chance="10"/>	<!--  Tattoo of Fighter  -->
+	<reward id="37" itemId="14001" enchant="0" count="1" chance="10"/>	<!--  Tattoo of Mage  -->
+	<reward id="38" itemId="14002" enchant="0" count="1" chance="10"/>	<!--  Tattoo of Runner  -->
+	<reward id="39" itemId="14020" enchant="0" count="1" chance="10"/>	<!--  Tattoo Left INT -->
+	<reward id="40" itemId="14022" enchant="0" count="1" chance="10"/>	<!--  Tattoo Left STR -->
 </list>

@@ -261,3 +261,5 @@
 14/08/2024 13:33:37 >>> HWID: [18C04DF2A824] >>> Player: [OndaMaluca]
 14/08/2024 13:35:22 >>> HWID: [18C04DF2A824] >>> Player: [OndaMaluca]
 14/08/2024 13:38:06 >>> HWID: [18C04DF2A824] >>> Player: [BrisaMaluka]
+16/10/2024 12:22:59 >>> HWID: [18C04DF2A824] >>> Player: [PaiDoSeuNenem]
+16/10/2024 12:29:14 >>> HWID: [18C04DF2A824] >>> Player: [PaiDoSeuNenem]

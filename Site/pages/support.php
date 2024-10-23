@@ -4,7 +4,7 @@
 <div class='pddInner'>
 	<?php echo $LANG[12084]; ?><br /><br />
 	<?php echo "Click no botão abaixo e converse com nossa equipe."; ?><br /><br />
-	<a style='display:table;margin: 0 auto;' href='https://wa.me/5531971787575?text=Preciso+de+um+suporte+no+L2Feel.com+75x.' target='_blank' class='default dbig'><?php echo "WhatsApp"; ?></a><br />
+	<a style='display:table;margin: 0 auto;' href='https://wa.me/5531971787575?text=Preciso+de+um+suporte+no+L2Feel.net+500x.' target='_blank' class='default dbig'><?php echo "WhatsApp"; ?></a><br />
 
 	<?php echo "Esta é a única pagina de comunicação entre a equipe e os jogadores.
 	Se você estiver sendo atendido através de outro pagina ou por alguém que se diz ser da nossa equipe,

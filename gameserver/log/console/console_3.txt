@@ -1,249 +1,265 @@
-[27-08-2024 17:22:10]	INFO	-----------------------------------------------=[ Config ]
-[27-08-2024 17:22:10]	INFO	Loading gameserver configuration files.
-[27-08-2024 17:22:10]	INFO	Loaded 1155 Filter Words.
-[27-08-2024 17:22:10]	INFO	Loaded 46 classes Damages configurations
-[27-08-2024 17:22:10]	INFO	Loaded 31 Olympiad Damages configurations
-[27-08-2024 17:22:10]	INFO	----------------------------------------------=[ Poolers ]
-[27-08-2024 17:22:10]	INFO	Initializing ConnectionPool.
-[27-08-2024 17:22:12]	INFO	Initializing ThreadPool.
-[27-08-2024 17:22:12]	INFO	--------------------------------------------=[ IdFactory ]
-[27-08-2024 17:22:17]	INFO	Updated characters online status.
-[27-08-2024 17:22:18]	INFO	Cleaned 0 elements from database.
-[27-08-2024 17:22:18]	INFO	Cleaned 0 expired timestamps from database.
-[27-08-2024 17:22:19]	INFO	Initializing 823296 objectIds pool, with 57355 used ids.
-[27-08-2024 17:22:19]	INFO	------------------------------------------------=[ Cache ]
-[27-08-2024 17:22:19]	INFO	Loaded 38 crests.
-[27-08-2024 17:22:19]	INFO	------------------------------------------------=[ World ]
-[27-08-2024 17:22:19]	INFO	World grid (176 by 256) is now set up.
-[27-08-2024 17:22:19]	INFO	Loaded regions.
-[27-08-2024 17:22:19]	INFO	Loaded 10 announcements.
-[27-08-2024 17:22:19]	INFO	Loaded 1 server variables.
-[27-08-2024 17:22:19]	INFO	-----------------------------------------------=[ Skills ]
-[27-08-2024 17:22:23]	INFO	SkillTable: Loaded 29813 skills.
-[27-08-2024 17:22:24]	INFO	Loaded 117 fishing skills.
-[27-08-2024 17:22:24]	INFO	Loaded 64 clan skills.
-[27-08-2024 17:22:24]	INFO	Loaded 14550 enchant skills.
-[27-08-2024 17:22:24]	INFO	------------------------------------------------=[ Items ]
-[27-08-2024 17:22:25]	INFO	Loaded items.
-[27-08-2024 17:22:25]	INFO	Loaded 24 summon items.
-[27-08-2024 17:22:25]	INFO	Loaded 180 hennas.
-[27-08-2024 17:22:26]	INFO	Loaded 689 buyLists.
-[27-08-2024 17:22:26]	INFO	Loaded 154 multisell.
-[27-08-2024 17:22:27]	INFO	Loaded 871 recipes.
-[27-08-2024 17:22:27]	INFO	Loaded 54 armor sets.
-[27-08-2024 17:22:27]	INFO	Loaded 270 fish.
-[27-08-2024 17:22:27]	INFO	Loaded 334 spellbooks.
-[27-08-2024 17:22:27]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[27-08-2024 17:22:27]	INFO	Loaded 4 sets of augmentation stats.
-[27-08-2024 17:22:27]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[27-08-2024 17:22:27]	INFO	Loaded 2 cursed weapons.
-[27-08-2024 17:22:27]	INFO	Loaded 334 skipping item(s).
-[27-08-2024 17:22:27]	INFO	-----------------------------------------------=[ Admins ]
-[27-08-2024 17:22:27]	INFO	Loaded 10 access levels.
-[27-08-2024 17:22:27]	INFO	Loaded 137 admin command rights.
-[27-08-2024 17:22:27]	INFO	Loaded 0 bookmarks.
-[27-08-2024 17:22:27]	INFO	Loaded 2 petitions.
-[27-08-2024 17:22:27]	INFO	-------------------------------------------=[ Characters ]
-[27-08-2024 17:22:27]	INFO	Loaded 89 player classes templates.
-[27-08-2024 17:22:27]	INFO	Loaded 1214 player infos.
-[27-08-2024 17:22:27]	INFO	Loaded 81 player levels.
-[27-08-2024 17:22:27]	INFO	Loaded 296 RaidPoints entries.
-[27-08-2024 17:22:27]	INFO	Loaded 29 healSps entries.
-[27-08-2024 17:22:27]	INFO	-------------------------------------=[ Community server ]
-[27-08-2024 17:22:27]	INFO	------------------------------------------------=[ Clans ]
-[27-08-2024 17:22:30]	INFO	Loaded 24 clans.
-[27-08-2024 17:22:30]	INFO	--------------------------------=[ Geodata & Pathfinding ]
-[27-08-2024 17:22:34]	INFO	Loaded 139 L2J region files.
-[27-08-2024 17:22:34]	INFO	Loaded 31 node buffers.
-[27-08-2024 17:22:34]	INFO	------------------------------------------------=[ Zones ]
-[27-08-2024 17:22:48]	INFO	Loaded 27 zones classes and total 1095 zones.
-[27-08-2024 17:22:48]	INFO	---------------------------------=[ Castles & Clan Halls ]
-[27-08-2024 17:22:49]	INFO	Loaded 9 castles.
-[27-08-2024 17:22:49]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
-[27-08-2024 17:22:50]	INFO	----------------------------------------=[ Task Managers ]
-[27-08-2024 17:22:50]	INFO	Restored 0 items on ground.
-[27-08-2024 17:22:50]	INFO	------------------------------------------=[ Seven Signs ]
-[27-08-2024 17:22:50]	INFO	Currently on Competition (Quest Event) period.
-[27-08-2024 17:22:50]	INFO	The Seal of Avarice is currently owned by Lords of Dawn.
-[27-08-2024 17:22:50]	INFO	The Seal of Gnosis remains unclaimed.
-[27-08-2024 17:22:50]	INFO	The Seal of Strife remains unclaimed.
-[27-08-2024 17:22:50]	INFO	Next Seven Signs period change set to Mon Sep 02 18:00:00 BRT 2024.
-[27-08-2024 17:22:50]	INFO	Next Seven Signs period begins in 6 days, 0 hours and 37 mins.
-[27-08-2024 17:22:50]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
-[27-08-2024 17:22:50]	INFO	----------------------------------------=[ Manor Manager ]
-[27-08-2024 17:22:50]	INFO	Loaded 121 manor areas.
-[27-08-2024 17:22:50]	INFO	Loaded 247 seeds.
-[27-08-2024 17:22:50]	INFO	-------------------------------------------------=[ NPCs ]
-[27-08-2024 17:22:50]	INFO	Loaded 67 available buffs.
-[27-08-2024 17:22:50]	INFO	Loaded 0 ready to use schemes.
-[27-08-2024 17:22:53]	INFO	Loaded 6510 NPC templates.
-[27-08-2024 17:22:53]	INFO	Loaded 16 walking routes.
-[27-08-2024 17:22:54]	INFO	Loaded 547 doors templates.
-[27-08-2024 17:22:54]	INFO	Loaded 6 Tournament Arenas.
-[27-08-2024 17:22:54]	INFO	[Tournament]: Next Event time: Tue Aug 27 20:00:00 BRT 2024
-[27-08-2024 17:22:54]	INFO	Loaded 29 static objects.
-[27-08-2024 17:22:54]	INFO	Loaded 199 spawn data.
-[27-08-2024 17:23:12]	INFO	Loaded 11629 territories.
-[27-08-2024 17:23:12]	INFO	Loaded 12031 NPC makers.
-[27-08-2024 17:23:12]	INFO	Loaded 11 GrandBosses instances.
-[27-08-2024 17:23:12]	INFO	Loaded 7 Dimensional Rift rooms.
-[27-08-2024 17:23:12]	INFO	Loaded 14 newbie buffs.
-[27-08-2024 17:23:12]	INFO	Loaded 72 instant teleport positions.
-[27-08-2024 17:23:12]	INFO	Loaded 117 teleport positions.
-[27-08-2024 17:23:12]	INFO	Loaded 789 teleport locations.
-[27-08-2024 17:23:12]	INFO	Loaded 13 observer groups and 25 spawns.
-[27-08-2024 17:23:12]	INFO	Loaded 29 Raid boss info instances.
-[27-08-2024 17:23:12]	INFO	-----------------------------------=[ Olympiads & Heroes ]
-[27-08-2024 17:23:13]	INFO	Loaded 22 stadiums.
-[27-08-2024 17:23:13]	INFO	8316 minutes until Olympiad period ends.
-[27-08-2024 17:23:13]	INFO	Next weekly Olympiad change is in 5039 minutes.
-[27-08-2024 17:23:13]	INFO	Loaded 61 nobles.
-[27-08-2024 17:23:13]	INFO	Olympiad competition period starts in 0 days, 2 hours and 36 mins.
-[27-08-2024 17:23:13]	INFO	Olympiad event starts/started @ Tue Aug 27 20:00:00 BRT 2024.
-[27-08-2024 17:23:13]	INFO	Loaded 38 fights for: Pipizinho.
-[27-08-2024 17:23:13]	INFO	Loaded 47 diary entries for hero: Pipizinho.
-[27-08-2024 17:23:13]	INFO	Loaded 11 fights for: TheKingOFMadona.
-[27-08-2024 17:23:13]	INFO	Loaded 210 diary entries for hero: TheKingOFMadona.
-[27-08-2024 17:23:13]	INFO	Loaded 23 fights for: Airex.
-[27-08-2024 17:23:13]	INFO	Loaded 216 diary entries for hero: Airex.
-[27-08-2024 17:23:13]	INFO	Loaded 24 fights for: D.
-[27-08-2024 17:23:13]	INFO	Loaded 3 diary entries for hero: D.
-[27-08-2024 17:23:13]	INFO	Loaded 42 fights for: Buiu.
-[27-08-2024 17:23:13]	INFO	Loaded 348 diary entries for hero: Buiu.
-[27-08-2024 17:23:13]	INFO	Loaded 26 fights for: Kimmy.
-[27-08-2024 17:23:13]	INFO	Loaded 64 diary entries for hero: Kimmy.
-[27-08-2024 17:23:13]	INFO	Loaded 131 fights for: qUARtER8ACk1.
-[27-08-2024 17:23:13]	INFO	Loaded 302 diary entries for hero: qUARtER8ACk1.
-[27-08-2024 17:23:13]	INFO	Loaded 0 fights for: Ishida.
-[27-08-2024 17:23:13]	INFO	Loaded 150 diary entries for hero: Ishida.
-[27-08-2024 17:23:13]	INFO	Loaded 1 fights for: High.
-[27-08-2024 17:23:13]	INFO	Loaded 68 diary entries for hero: High.
-[27-08-2024 17:23:14]	INFO	Loaded 0 fights for: iDudinhaBR.
-[27-08-2024 17:23:14]	INFO	Loaded 6 diary entries for hero: iDudinhaBR.
-[27-08-2024 17:23:14]	INFO	Loaded 27 fights for: WhatsApp.
-[27-08-2024 17:23:14]	INFO	Loaded 47 diary entries for hero: WhatsApp.
-[27-08-2024 17:23:14]	INFO	Loaded 0 fights for: Khromum.
-[27-08-2024 17:23:14]	INFO	Loaded 2 diary entries for hero: Khromum.
-[27-08-2024 17:23:14]	INFO	Loaded 21 fights for: BabyMonster.
-[27-08-2024 17:23:14]	INFO	Loaded 127 diary entries for hero: BabyMonster.
-[27-08-2024 17:23:14]	INFO	Loaded 70 fights for: mcmxcvi.
-[27-08-2024 17:23:14]	INFO	Loaded 9 diary entries for hero: mcmxcvi.
-[27-08-2024 17:23:14]	INFO	Loaded 36 fights for: Hermiosvalda.
-[27-08-2024 17:23:14]	INFO	Loaded 38 diary entries for hero: Hermiosvalda.
-[27-08-2024 17:23:14]	INFO	Loaded 17 fights for: Behemoth.
-[27-08-2024 17:23:14]	INFO	Loaded 9 diary entries for hero: Behemoth.
-[27-08-2024 17:23:14]	INFO	Loaded 76 fights for: Limao.
-[27-08-2024 17:23:14]	INFO	Loaded 10 diary entries for hero: Limao.
-[27-08-2024 17:23:14]	INFO	Loaded 0 fights for: ManoCaLL.
-[27-08-2024 17:23:14]	INFO	Loaded 15 diary entries for hero: ManoCaLL.
-[27-08-2024 17:23:14]	INFO	Loaded 0 fights for: RennaLa.
-[27-08-2024 17:23:14]	INFO	Loaded 4 diary entries for hero: RennaLa.
-[27-08-2024 17:23:14]	INFO	Loaded 72 fights for: BLINDADA.
-[27-08-2024 17:23:14]	INFO	Loaded 60 diary entries for hero: BLINDADA.
-[27-08-2024 17:23:14]	INFO	Loaded 18 fights for: 1Davi.
-[27-08-2024 17:23:14]	INFO	Loaded 43 diary entries for hero: 1Davi.
-[27-08-2024 17:23:14]	INFO	Loaded 55 fights for: Artemis.
-[27-08-2024 17:23:14]	INFO	Loaded 12 diary entries for hero: Artemis.
-[27-08-2024 17:23:14]	INFO	Loaded 86 fights for: pepeg4s.
-[27-08-2024 17:23:14]	INFO	Loaded 1 diary entries for hero: pepeg4s.
-[27-08-2024 17:23:14]	INFO	Loaded 0 fights for: Ranni.
-[27-08-2024 17:23:14]	INFO	Loaded 1 diary entries for hero: Ranni.
-[27-08-2024 17:23:14]	INFO	Loaded 15 fights for: Rene.
-[27-08-2024 17:23:14]	INFO	Loaded 50 diary entries for hero: Rene.
-[27-08-2024 17:23:15]	INFO	Loaded 0 fights for: Run.
-[27-08-2024 17:23:15]	INFO	Loaded 8 diary entries for hero: Run.
-[27-08-2024 17:23:15]	INFO	Loaded 9 fights for: Vi.
-[27-08-2024 17:23:15]	INFO	Loaded 97 diary entries for hero: Vi.
-[27-08-2024 17:23:15]	INFO	Loaded 0 fights for: OverBLINDADO.
-[27-08-2024 17:23:15]	INFO	Loaded 3 diary entries for hero: OverBLINDADO.
-[27-08-2024 17:23:15]	INFO	Loaded 2 fights for: NightWolF.
-[27-08-2024 17:23:15]	INFO	Loaded 20 diary entries for hero: NightWolF.
-[27-08-2024 17:23:15]	INFO	Loaded 0 fights for: ljiljijlji.
-[27-08-2024 17:23:15]	INFO	Loaded 1 diary entries for hero: ljiljijlji.
-[27-08-2024 17:23:15]	INFO	Loaded 30 heroes and 45 all time heroes.
-[27-08-2024 17:23:15]	INFO	-------------------------------------=[ Quests & Scripts ]
-[27-08-2024 17:23:16]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
-[27-08-2024 17:23:16]	INFO	Updated Sailren (id: 49999) status to 0.
-[27-08-2024 17:23:17]	INFO	Spawned 11 "start_weapon" NPCs.
-[27-08-2024 17:23:17]	INFO	Bandit Stronghold siege scheduled for Tue Sep 10 20:00:00 BRT 2024.
-[27-08-2024 17:23:17]	INFO	Devastated Castle siege scheduled for Tue Sep 10 20:00:00 BRT 2024.
-[27-08-2024 17:23:17]	INFO	Fortress of Resistance siege scheduled for Tue Sep 10 20:00:00 BRT 2024.
-[27-08-2024 17:23:17]	INFO	Fortress of the Dead siege scheduled for Tue Sep 10 20:01:00 BRT 2024.
-[27-08-2024 17:23:17]	INFO	Rainbow Springs Chateau siege scheduled for Tue Sep 10 20:00:00 BRT 2024.
-[27-08-2024 17:23:17]	INFO	Wild Beast Reserve siege scheduled for Tue Sep 10 20:00:00 BRT 2024.
-[27-08-2024 17:23:18]	INFO	Loaded 418 regular scripts and 6 scheduled scripts.
-[27-08-2024 17:23:18]	INFO	-----------------------------------------------=[ Events ]
-[27-08-2024 17:23:18]	INFO	Loaded 8197 Derby Track records, currently on race #8198.
-[27-08-2024 17:23:18]	INFO	Loaded 0 couples.
-[27-08-2024 17:23:18]	INFO	OfflineTradersTable: loaded 0 offline traders.
-[27-08-2024 17:23:18]	INFO	Capture The Flag Engine: is disabled.
-[27-08-2024 17:23:18]	INFO	Deathmatch Engine: is Started.
-[27-08-2024 17:23:18]	INFO	Last Man Engine: Engine is disabled.
-[27-08-2024 17:23:18]	INFO	Team vs Team Engine: is Started.
-[27-08-2024 17:23:18]	INFO	-----------------------------------------------=[ Spawns ]
-[27-08-2024 17:23:18]	INFO	AntiBotTask started.
-[27-08-2024 17:23:19]	INFO	Updated Orfen (id: 29014) status to 0.
-[27-08-2024 17:23:19]	INFO	Updated Queen Ant (id: 29001) status to 0.
-[27-08-2024 17:23:28]	INFO	Updated Core (id: 29006) status to 0.
-[27-08-2024 17:23:28]	INFO	Updated Zaken (id: 29022) status to 0.
-[27-08-2024 17:23:34]	INFO	Spawned 30372 NPCs.
-[27-08-2024 17:23:34]	INFO	Spawned 443 day NPCs, despawned 0 night NPCs.
-[27-08-2024 17:23:34]	INFO	Spawned 2612 Seven Signs - Event NPCs.
-[27-08-2024 17:23:34]	INFO	---------------------------------------------=[ Handlers ]
-[27-08-2024 17:23:34]	INFO	Loaded 134 admin command handlers.
-[27-08-2024 17:23:34]	INFO	Loaded 13 chat handlers.
-[27-08-2024 17:23:34]	INFO	Loaded 29 item handlers.
-[27-08-2024 17:23:35]	INFO	Loaded 74 skill handlers.
-[27-08-2024 17:23:35]	INFO	Loaded 25 target handlers.
-[27-08-2024 17:23:35]	INFO	Loaded 15 user command handlers.
-[27-08-2024 17:23:35]	INFO	Loaded 40 voiced command handlers.
-[27-08-2024 17:23:35]	INFO	Loaded 16 bypass command handlers.
-[27-08-2024 17:23:35]	INFO	-------------------------------------------=[ L2JBrazuca ]
-[27-08-2024 17:23:35]	INFO	Auto Restart is enabled.
-[27-08-2024 17:23:35]	INFO	Custom Starter Items is enabled.
-[27-08-2024 17:23:35]	INFO	Custom Spawn Char is enabled.
-[27-08-2024 17:23:35]	INFO	Custom Title Char Start is enabled.
-[27-08-2024 17:23:35]	INFO	Custom Level Char Start is enabled.
-[27-08-2024 17:23:35]	INFO	Bs limit in party is enabled.
-[27-08-2024 17:23:35]	INFO	Party Farm: Next Event: 22:00
-[27-08-2024 17:23:35]	INFO	AutoFarm task started.
-[27-08-2024 17:23:35]	INFO	Agathions tasks started.
-[27-08-2024 17:23:35]	INFO	RaidBossReturnTask started.
-[27-08-2024 17:23:35]	INFO	PixMsgTask started.
-[27-08-2024 17:23:35]	INFO	Loaded 23 Roulette rewards.
-[27-08-2024 17:23:35]	INFO	StatusRealTimeTask started.
-[27-08-2024 17:23:35]	INFO	Loaded 2 Skills Sellers.
-[27-08-2024 17:23:35]	INFO	Loaded 1 Territory Wars.
-[27-08-2024 17:23:35]	WARNING	Next schedule for Territory Pagans Temple: 18:00
-[27-08-2024 17:23:35]	INFO	Territory Wars Update Clan Task started.
-[27-08-2024 17:23:35]	INFO	Loaded 4 Treasure Hunts.
-[27-08-2024 17:23:35]	INFO	Loaded 4 Treasure Hunts Weapons.
-[27-08-2024 17:23:35]	INFO	Treasure Hunt Task started.
-[27-08-2024 17:23:35]	INFO	FlagZoneController task started.
-[27-08-2024 17:23:35]	INFO	Loaded 11 Armor exchanges.
-[27-08-2024 17:23:35]	INFO	Loaded 13 Epic Boss Configs.
-[27-08-2024 17:23:35]	INFO	Castle Buff Task started.
-[27-08-2024 17:23:35]	INFO	------------------------------------------=[ VDS Manager ]
-[27-08-2024 17:23:35]	INFO	Initializing Threads.
-[27-08-2024 17:23:35]	INFO	Configurations: VDSystem settings loaded.
-[27-08-2024 17:23:36]	INFO	VDSystem: System initialized.
-[27-08-2024 17:23:37]	INFO	AchievementsTask started.
-[27-08-2024 17:23:37]	INFO	-----------------------------------------------=[ System ]
-[27-08-2024 17:23:37]	INFO	Deadlock detector is disabled.
-[27-08-2024 17:23:37]	INFO	Gameserver has started, used memory: 1419 / 6144 Mo.
-[27-08-2024 17:23:37]	INFO	Maximum allowed players: 1000.
-[27-08-2024 17:23:37]	INFO	Server loaded in 87 seconds
-[27-08-2024 17:23:37]	INFO	-----------------------------------------=[ Hwid Manager ]
-[27-08-2024 17:23:37]	INFO	Loaded 0 banned(s) HWID(s)
-[27-08-2024 17:23:37]	INFO	Loaded 639 player(s) HWID(s)
-[27-08-2024 17:23:37]	INFO	Loaded HWID KEY RUSaCis Project
-[27-08-2024 17:23:37]	INFO	Loaded HWID IP *
-[27-08-2024 17:23:37]	INFO	Loaded Anti Leech key...assigned 
-[27-08-2024 17:23:37]	INFO	Loaded Restriction Leech...assigned 
-[27-08-2024 17:23:37]	INFO	Loaded Licensed to Max Players : 1000
-[27-08-2024 17:23:37]	INFO	------------------------------------------------=[ Login ]
-[27-08-2024 17:23:38]	INFO	Connecting to login on 127.0.0.1:9014.
-[27-08-2024 17:23:39]	INFO	Registered as server: [1] Ignis.
-[27-08-2024 17:23:55]	INFO	HWID: [F4B5205A3540], character: [HighLander]
-[27-08-2024 17:24:00]	INFO	HWID: [F4B5205A3540], character: [testeclan]
-[27-08-2024 17:24:16]	INFO	Updated Sailren (id: 49999) status to 1.
+[23-10-2024 05:02:06]	INFO	-----------------------------------------------=[ Config ]
+[23-10-2024 05:02:06]	INFO	Loading gameserver configuration files.
+[23-10-2024 05:02:06]	INFO	Loaded 1155 Filter Words.
+[23-10-2024 05:02:06]	INFO	Loaded 46 classes Damages configurations
+[23-10-2024 05:02:06]	INFO	Loaded 31 Olympiad Damages configurations
+[23-10-2024 05:02:06]	INFO	Loading auto farm configuration files.
+[23-10-2024 05:02:06]	INFO	----------------------------------------------=[ Poolers ]
+[23-10-2024 05:02:06]	INFO	Initializing ConnectionPool.
+[23-10-2024 05:02:07]	INFO	Initializing ThreadPool.
+[23-10-2024 05:02:07]	INFO	--------------------------------------------=[ IdFactory ]
+[23-10-2024 05:02:08]	INFO	Updated characters online status.
+[23-10-2024 05:02:08]	INFO	Cleaned 0 elements from database.
+[23-10-2024 05:02:08]	INFO	Cleaned 0 expired timestamps from database.
+[23-10-2024 05:02:08]	INFO	Initializing 102912 objectIds pool, with 940 used ids.
+[23-10-2024 05:02:08]	INFO	------------------------------------------------=[ Cache ]
+[23-10-2024 05:02:08]	INFO	Loaded 42 crests.
+[23-10-2024 05:02:08]	INFO	------------------------------------------------=[ World ]
+[23-10-2024 05:02:08]	INFO	World grid (176 by 256) is now set up.
+[23-10-2024 05:02:08]	INFO	Loaded regions.
+[23-10-2024 05:02:08]	INFO	Loaded 5 announcements.
+[23-10-2024 05:02:08]	INFO	Loaded 1 server variables.
+[23-10-2024 05:02:08]	INFO	-----------------------------------------------=[ Skills ]
+[23-10-2024 05:02:09]	INFO	SkillTable: Loaded 29813 skills.
+[23-10-2024 05:02:09]	INFO	Loaded 117 fishing skills.
+[23-10-2024 05:02:09]	INFO	Loaded 64 clan skills.
+[23-10-2024 05:02:09]	INFO	Loaded 14550 enchant skills.
+[23-10-2024 05:02:09]	INFO	------------------------------------------------=[ Items ]
+[23-10-2024 05:02:09]	INFO	Loaded items.
+[23-10-2024 05:02:09]	INFO	Loaded 29 summon items.
+[23-10-2024 05:02:09]	INFO	Loaded 180 hennas.
+[23-10-2024 05:02:09]	INFO	Loaded 689 buyLists.
+[23-10-2024 05:02:10]	INFO	Loaded 158 multisell.
+[23-10-2024 05:02:10]	INFO	Loaded 871 recipes.
+[23-10-2024 05:02:10]	INFO	Loaded 60 armor sets.
+[23-10-2024 05:02:10]	INFO	Loaded 270 fish.
+[23-10-2024 05:02:10]	INFO	Loaded 334 spellbooks.
+[23-10-2024 05:02:10]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[23-10-2024 05:02:10]	INFO	Loaded 4 sets of augmentation stats.
+[23-10-2024 05:02:10]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[23-10-2024 05:02:10]	INFO	Loaded 2 cursed weapons.
+[23-10-2024 05:02:10]	INFO	Loaded 334 skipping item(s).
+[23-10-2024 05:02:10]	INFO	-----------------------------------------------=[ Admins ]
+[23-10-2024 05:02:10]	INFO	Loaded 10 access levels.
+[23-10-2024 05:02:10]	INFO	Loaded 154 admin command rights.
+[23-10-2024 05:02:10]	INFO	Loaded 0 bookmarks.
+[23-10-2024 05:02:10]	INFO	Loaded 0 petitions.
+[23-10-2024 05:02:10]	INFO	-------------------------------------------=[ Characters ]
+[23-10-2024 05:02:10]	INFO	Loaded 89 player classes templates.
+[23-10-2024 05:02:10]	INFO	Loaded 21 player infos.
+[23-10-2024 05:02:10]	INFO	Loaded 81 player levels.
+[23-10-2024 05:02:10]	INFO	Loaded 10 RaidPoints entries.
+[23-10-2024 05:02:10]	INFO	Loaded 29 healSps entries.
+[23-10-2024 05:02:10]	INFO	-------------------------------------=[ Community server ]
+[23-10-2024 05:02:10]	INFO	Loaded 56 forums.
+[23-10-2024 05:02:10]	INFO	Loaded 18 command mappings.
+[23-10-2024 05:02:10]	INFO	------------------------------------------------=[ Clans ]
+[23-10-2024 05:02:10]	INFO	Loaded 5 clans.
+[23-10-2024 05:02:10]	INFO	--------------------------------=[ Geodata & Pathfinding ]
+[23-10-2024 05:02:11]	INFO	Loaded 139 L2J region files.
+[23-10-2024 05:02:11]	INFO	Loaded 31 node buffers.
+[23-10-2024 05:02:11]	INFO	------------------------------------------------=[ Zones ]
+[23-10-2024 05:02:16]	INFO	Loaded 27 zones classes and total 1096 zones.
+[23-10-2024 05:02:16]	INFO	---------------------------------=[ Castles & Clan Halls ]
+[23-10-2024 05:02:16]	INFO	Loaded 9 castles.
+[23-10-2024 05:02:16]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
+[23-10-2024 05:02:16]	INFO	----------------------------------------=[ Task Managers ]
+[23-10-2024 05:02:16]	INFO	Restored 0 items on ground.
+[23-10-2024 05:02:16]	INFO	------------------------------------------=[ Seven Signs ]
+[23-10-2024 05:02:16]	INFO	Currently on Seal Validation period.
+[23-10-2024 05:02:16]	INFO	The Seal of Gnosis remains unclaimed.
+[23-10-2024 05:02:16]	INFO	The Seal of Strife remains unclaimed.
+[23-10-2024 05:02:16]	INFO	The Seal of Avarice remains unclaimed.
+[23-10-2024 05:02:16]	INFO	Next Seven Signs period change set to Mon Oct 28 18:00:00 BRT 2024.
+[23-10-2024 05:02:16]	INFO	Next Seven Signs period begins in 5 days, 12 hours and 57 mins.
+[23-10-2024 05:02:16]	INFO	Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
+[23-10-2024 05:02:16]	INFO	----------------------------------------=[ Manor Manager ]
+[23-10-2024 05:02:16]	INFO	Loaded 121 manor areas.
+[23-10-2024 05:02:16]	INFO	Loaded 247 seeds.
+[23-10-2024 05:02:16]	INFO	-------------------------------------------------=[ NPCs ]
+[23-10-2024 05:02:16]	INFO	Loaded 67 available buffs.
+[23-10-2024 05:02:16]	INFO	Loaded 0 ready to use schemes.
+[23-10-2024 05:02:16]	INFO	Loaded 6532 NPC templates.
+[23-10-2024 05:02:16]	INFO	Loaded 16 walking routes.
+[23-10-2024 05:02:17]	INFO	Loaded 547 doors templates.
+[23-10-2024 05:02:17]	INFO	Loaded 6 Tournament Arenas.
+[23-10-2024 05:02:17]	INFO	[Tournament]: Next Event time: Wed Oct 23 10:00:00 BRT 2024
+[23-10-2024 05:02:17]	INFO	Loaded 29 static objects.
+[23-10-2024 05:02:17]	INFO	Loaded 199 spawn data.
+[23-10-2024 05:02:20]	INFO	Loaded 11628 territories.
+[23-10-2024 05:02:20]	INFO	Loaded 12030 NPC makers.
+[23-10-2024 05:02:20]	INFO	Loaded 11 GrandBosses instances.
+[23-10-2024 05:02:20]	INFO	Loaded 7 Dimensional Rift rooms.
+[23-10-2024 05:02:20]	INFO	Loaded 14 newbie buffs.
+[23-10-2024 05:02:20]	INFO	Loaded 72 instant teleport positions.
+[23-10-2024 05:02:20]	INFO	Loaded 117 teleport positions.
+[23-10-2024 05:02:20]	INFO	Loaded 793 teleport locations.
+[23-10-2024 05:02:20]	INFO	Loaded 13 observer groups and 25 spawns.
+[23-10-2024 05:02:20]	INFO	Loaded 30 Raid boss info instances.
+[23-10-2024 05:02:20]	INFO	-----------------------------------=[ Olympiads & Heroes ]
+[23-10-2024 05:02:20]	INFO	Loaded 22 stadiums.
+[23-10-2024 05:02:20]	INFO	7617 minutes until Olympiad period ends.
+[23-10-2024 05:02:20]	INFO	Next weekly Olympiad change is in 9011 minutes.
+[23-10-2024 05:02:20]	INFO	Loaded 0 nobles.
+[23-10-2024 05:02:20]	INFO	Olympiad competition period starts in 0 days, 14 hours and 57 mins.
+[23-10-2024 05:02:20]	INFO	Olympiad event starts/started @ Wed Oct 23 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Loaded 0 heroes and 0 all time heroes.
+[23-10-2024 05:02:20]	INFO	-------------------------------------=[ Quests & Scripts ]
+[23-10-2024 05:02:20]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
+[23-10-2024 05:02:20]	INFO	Updated Sailren (id: 49999) status to 0.
+[23-10-2024 05:02:20]	INFO	Spawned 11 "start_weapon" NPCs.
+[23-10-2024 05:02:20]	INFO	Bandit Stronghold siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Devastated Castle siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Fortress of Resistance siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Fortress of the Dead siege scheduled for Tue Oct 29 20:01:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Rainbow Springs Chateau siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Wild Beast Reserve siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
+[23-10-2024 05:02:20]	INFO	Loaded 419 regular scripts and 6 scheduled scripts.
+[23-10-2024 05:02:20]	INFO	-----------------------------------------------=[ Events ]
+[23-10-2024 05:02:20]	INFO	Loaded 8715 Derby Track records, currently on race #8716.
+[23-10-2024 05:02:20]	INFO	Loaded 0 couples.
+[23-10-2024 05:02:20]	INFO	OfflineTradersTable: loaded 0 offline traders.
+[23-10-2024 05:02:20]	INFO	Capture The Flag Engine: is disabled.
+[23-10-2024 05:02:20]	INFO	Deathmatch Engine: Engine is disabled.
+[23-10-2024 05:02:20]	INFO	Last Man Engine: Engine is disabled.
+[23-10-2024 05:02:20]	INFO	Team vs Team Engine: is Started.
+[23-10-2024 05:02:20]	INFO	-----------------------------------------------=[ Spawns ]
+[23-10-2024 05:02:20]	INFO	AntiBotTask started.
+[23-10-2024 05:02:20]	INFO	Updated Core (id: 29006) status to 0.
+[23-10-2024 05:02:21]	INFO	Updated Queen Ant (id: 29001) status to 0.
+[23-10-2024 05:02:22]	INFO	Updated Orfen (id: 29014) status to 0.
+[23-10-2024 05:02:22]	INFO	Updated Zaken (id: 29022) status to 0.
+[23-10-2024 05:02:23]	INFO	Spawned 44935 NPCs.
+[23-10-2024 05:02:23]	INFO	Spawned 688 day NPCs, despawned 0 night NPCs.
+[23-10-2024 05:02:23]	INFO	Spawned 2148 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+[23-10-2024 05:02:23]	INFO	Spawned 1779 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+[23-10-2024 05:02:23]	INFO	---------------------------------------------=[ Handlers ]
+[23-10-2024 05:02:23]	INFO	Loaded 151 admin command handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 13 chat handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 29 item handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 74 skill handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 25 target handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 16 user command handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 41 voiced command handlers.
+[23-10-2024 05:02:23]	INFO	Loaded 16 bypass command handlers.
+[23-10-2024 05:02:23]	INFO	-------------------------------------------=[ L2JBrazuca ]
+[23-10-2024 05:02:23]	INFO	Auto Restart is enabled.
+[23-10-2024 05:02:23]	INFO	Custom Starter Items is enabled.
+[23-10-2024 05:02:23]	INFO	Custom Spawn Char is enabled.
+[23-10-2024 05:02:23]	INFO	Custom Title Char Start is enabled.
+[23-10-2024 05:02:23]	INFO	Custom Level Char Start is enabled.
+[23-10-2024 05:02:23]	INFO	Bs limit in party is enabled.
+[23-10-2024 05:02:23]	INFO	Party Farm is disabled.
+[23-10-2024 05:02:23]	INFO	AutoFarm task started.
+[23-10-2024 05:02:23]	INFO	Agathions tasks started.
+[23-10-2024 05:02:23]	INFO	RaidBossReturnTask started.
+[23-10-2024 05:02:23]	INFO	PixMsgTask started.
+[23-10-2024 05:02:23]	INFO	Loaded 41 Roulette rewards.
+[23-10-2024 05:02:23]	INFO	StatusRealTimeTask started.
+[23-10-2024 05:02:23]	INFO	Loaded 2 Skills Sellers.
+[23-10-2024 05:02:23]	INFO	Loaded 1 Territory Wars.
+[23-10-2024 05:02:23]	WARNING	Next schedule for Territory Primveal Isle: 13:00
+[23-10-2024 05:02:23]	INFO	Territory Wars Update Clan Task started.
+[23-10-2024 05:02:23]	INFO	Loaded 4 Treasure Hunts.
+[23-10-2024 05:02:23]	INFO	Loaded 4 Treasure Hunts Weapons.
+[23-10-2024 05:02:23]	INFO	Treasure Hunt Task started.
+[23-10-2024 05:02:23]	INFO	FlagZoneController task started.
+[23-10-2024 05:02:23]	INFO	Loaded 34 Armor exchanges.
+[23-10-2024 05:02:23]	INFO	Loaded 13 Epic Boss Configs.
+[23-10-2024 05:02:23]	INFO	Castle Buff Task started.
+[23-10-2024 05:02:23]	INFO	------------------------------------------=[ VDS Manager ]
+[23-10-2024 05:02:23]	INFO	Initializing Threads.
+[23-10-2024 05:02:23]	INFO	Configurations: VDSystem settings loaded.
+[23-10-2024 05:02:23]	INFO	VDSystem: System initialized.
+[23-10-2024 05:02:23]	INFO	AchievementsTask started.
+[23-10-2024 05:02:23]	INFO	AuctionTable: Loaded 2 items.
+[23-10-2024 05:02:23]	INFO	-----------------------------------------------=[ System ]
+[23-10-2024 05:02:23]	INFO	Deadlock detector is disabled.
+[23-10-2024 05:02:23]	INFO	Gameserver has started, used memory: 1634 / 6144 Mo.
+[23-10-2024 05:02:23]	INFO	Maximum allowed players: 1000.
+[23-10-2024 05:02:23]	INFO	Server loaded in 17 seconds
+[23-10-2024 05:02:23]	INFO	-----------------------------------------=[ Hwid Manager ]
+[23-10-2024 05:02:23]	INFO	Loaded 0 banned(s) HWID(s)
+[23-10-2024 05:02:23]	INFO	Loaded 15 player(s) HWID(s)
+[23-10-2024 05:02:23]	INFO	Loaded HWID KEY RUSaCis Project
+[23-10-2024 05:02:23]	INFO	Loaded HWID IP *
+[23-10-2024 05:02:23]	INFO	Loaded Anti Leech key...assigned 
+[23-10-2024 05:02:23]	INFO	Loaded Restriction Leech...assigned 
+[23-10-2024 05:02:23]	INFO	Loaded Licensed to Max Players : 1000
+[23-10-2024 05:02:24]	INFO	------------------------------------------------=[ Login ]
+[23-10-2024 05:02:24]	INFO	Connecting to login on auth.l2feel.net:9014.
+[23-10-2024 05:02:24]	INFO	Registered as server: [1] Feel.
+[23-10-2024 05:03:20]	INFO	Updated Sailren (id: 49999) status to 1.
+[23-10-2024 05:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 05:32:24]	INFO	Server Time: 5:32.
+[23-10-2024 05:32:24]	INFO	Players Online: 0
+[23-10-2024 05:32:24]	INFO	Agathioms: 0
+[23-10-2024 05:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 05:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 05:32:24]	INFO	Used memory: 1996 MB
+[23-10-2024 05:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 06:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 06:32:24]	INFO	Server Time: 6:32.
+[23-10-2024 06:32:24]	INFO	Players Online: 0
+[23-10-2024 06:32:24]	INFO	Agathioms: 0
+[23-10-2024 06:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 06:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 06:32:24]	INFO	Used memory: 1734 MB
+[23-10-2024 06:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 07:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 07:32:24]	INFO	Server Time: 7:32.
+[23-10-2024 07:32:24]	INFO	Players Online: 0
+[23-10-2024 07:32:24]	INFO	Agathioms: 0
+[23-10-2024 07:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 07:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 07:32:24]	INFO	Used memory: 1533 MB
+[23-10-2024 07:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 08:00:06]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[23-10-2024 08:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 08:32:24]	INFO	Server Time: 8:32.
+[23-10-2024 08:32:24]	INFO	Players Online: 0
+[23-10-2024 08:32:24]	INFO	Agathioms: 0
+[23-10-2024 08:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 08:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 08:32:24]	INFO	Used memory: 2300 MB
+[23-10-2024 08:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 09:00:06]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[23-10-2024 09:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 09:32:24]	INFO	Server Time: 9:32.
+[23-10-2024 09:32:24]	INFO	Players Online: 0
+[23-10-2024 09:32:24]	INFO	Agathioms: 0
+[23-10-2024 09:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 09:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 09:32:24]	INFO	Used memory: 1852 MB
+[23-10-2024 09:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 10:00:00]	INFO	[Tournament]: Event Started.
+[23-10-2024 10:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 10:32:24]	INFO	Server Time: 10:32.
+[23-10-2024 10:32:24]	INFO	Players Online: 0
+[23-10-2024 10:32:24]	INFO	Agathioms: 0
+[23-10-2024 10:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 10:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 10:32:24]	INFO	Used memory: 2652 MB
+[23-10-2024 10:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 10:40:00]	INFO	[Tournament]: Event Finished.
+[23-10-2024 10:40:00]	INFO	[Tournament]: Next Event time: Wed Oct 23 15:00:00 BRT 2024
+[23-10-2024 11:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 11:32:24]	INFO	Server Time: 11:32.
+[23-10-2024 11:32:24]	INFO	Players Online: 0
+[23-10-2024 11:32:24]	INFO	Agathioms: 0
+[23-10-2024 11:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 11:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 11:32:24]	INFO	Used memory: 1971 MB
+[23-10-2024 11:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 11:46:49]	WARNING	HWID: [IP: 188.119.66.112] is trying to loggin server without client side hwid.
+[23-10-2024 12:00:06]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[23-10-2024 12:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 12:32:24]	INFO	Server Time: 12:32.
+[23-10-2024 12:32:24]	INFO	Players Online: 0
+[23-10-2024 12:32:24]	INFO	Agathioms: 0
+[23-10-2024 12:32:24]	INFO	Auto Farms actives: 0
+[23-10-2024 12:32:24]	INFO	Free Memory: 6144 MB
+[23-10-2024 12:32:24]	INFO	Used memory: 2776 MB
+[23-10-2024 12:32:24]	INFO	----------------------------------------=[ Server Status ]
+[23-10-2024 13:00:00]	WARNING	Territory War: Primveal Isle is Started.
+[23-10-2024 13:00:06]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.

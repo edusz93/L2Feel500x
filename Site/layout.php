@@ -1,46 +1,40 @@
-<?php require('private/classes/classIndex.php'); ?>
-<?php require('private/seo.php'); ?>
-<html lang="<?php echo $language ?>">
+<?php if(!$indexing) { exit; } ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-   <!-- Meta Pixel Code -->
-	<script>
-		!function(f,b,e,v,n,t,s)
-		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-		n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];
-		s.parentNode.insertBefore(t,s)}(window, document,'script',
-		'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '836750097965439');
-		fbq('track', 'PageView');
-	</script>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16628570268">
-	</script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+<!--
+	
+	Desenvolvido pela Atualstudio
+	www.atualstudio.com
 
-	  gtag('config', 'AW-16628570268');
-	</script>
-	<noscript>
-		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=836750097965439&ev=PageView&noscript=1"/>
-	</noscript>
-    
-    <!-- Meta Tags -->
+          ##########
+       ################
+    ######          ######
+   #####              #####
+  ####         ....    ####
+ ####        ########  ####
+ ####       ########## ####
+  ####      ########## ####
+  #####       ######## ####
+   #####        ****** ####
+     ######################
+         ################
+	
+	Website Version 4.0
+	
+-->
+<?php require('private/seo.php'); ?>
+<!-- Meta Tags -->
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="imagetoolbar" content="no">
     <meta name="keywords" content="<?php echo strtolower($server_name.', '.$server_chronicle); ?>, l2, l2feel, l2 feel, feel, Lineage 2 feel, lineage, lineage2, lineage 2, lainiege, laineage, lainiage, lineage dois, lineage ii, internacional, international, portuguese, english, espanish, espanol, espanhol, portugues, ingles, gringo, br, 1x, 5x, 10x, 30x, 50x, 70x, 100x, 150x, 200x, 300x, 1000x, free fun, diversao gratis, gratuito, gratuitamente, free fun, new server, novo servidor, o melhor servidor de lineage 2, o melhor servidor">
     <meta name="description" content="<?php echo htmlspecialchars($SEO['description'], ENT_QUOTES, 'UTF-8'); ?>">
     
     <!-- Links -->
     <link rel="shortcut icon" href="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon.png">
     <link rel="image_src" href="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/image_src.jpg">
-    <link href="./css/style.css" rel="stylesheet">
-    <link href="./css/css2.css" rel="stylesheet">
+    <link href="./css/global.css" rel="stylesheet">
+    <link href="./css/prettyPhoto.css" rel="stylesheet">
+	<link href="./css/soon.min.css" rel="stylesheet">
     
     <!-- Title -->
     <title><?php echo htmlspecialchars($SEO['title'], ENT_QUOTES, 'UTF-8'); ?></title>
@@ -52,7 +46,7 @@
     <meta property="og:url" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>">
     <meta property="og:description" content="<?php echo htmlspecialchars($SEO['description'], ENT_QUOTES, 'UTF-8'); ?>">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/image_src_v2.jpg">
+    <meta property="og:image" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/image_src_v4.jpg">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="300">
     <meta property="og:image:height" content="300">
@@ -62,1000 +56,443 @@
     <meta name="twitter:image" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon-300x300.jpg">
     <meta name="twitter:image:alt" content="<?php echo htmlspecialchars($SEO['description'], ENT_QUOTES, 'UTF-8'); ?>">
     <meta name="twitter:card" content="summary_large_image">
-    
-    <!-- Icons -->
-    <link rel="icon" href="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon-150x150.jpg" sizes="32x32">
-    <link rel="icon" href="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon-300x300.jpg" sizes="192x192">
-    <link rel="apple-touch-icon" href="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon-300x300.jpg">
-    <meta name="msapplication-TileImage" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/imgs/favicon-300x300.jpg">
 
     <!-- Integration URLs -->
     <meta property="ia:markup_url" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/docs/markup">
     <meta property="ia:markup_url_dev" content="https://dev.<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/docs/markup">
     <meta property="ia:rules_url" content="https://<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/docs/rules">
     <meta property="ia:rules_url_dev" content="https://dev.<?php echo htmlspecialchars($server_url, ENT_QUOTES, 'UTF-8'); ?>/docs/rules">
-    
-    <style>
-    .vote {
-        justify-content: center;
-        background-color: #21202C; /* Fundo cinza escuro */
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-        padding:20px;
-    }
-    
-    .vote a {
-        text-align: center;
-        transition: transform 0.3s;
-    }
-    
-    .vote a:hover {
-        transform: scale(1.05);
-    }
-    
-    .vote img {
-        width: 25.67%;
-        height: 60px; /* Ajuste de altura automático para manter proporção */
-        transition: opacity 0.3s;
-		padding: 5px;
-    }
-    
-    .vote img:hover {
-        opacity: 0.7;
-    }
-    
-    .vote a {
-        color: #ffffff; /* Cor do texto */
-    }
-    </style>
 
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/global.js?1"></script>
 
 </head>
-<body style="text-shadow: 1px 1px 2px rgba(0, 0, 0, 1); color:#FFFFFF">
-	<div class="smoke"></div>
-		<div class="wrapper">
-			<div class="topPanel flex-s-c">
-				<div class="btn-mobile btn-drop" data-class="topPanel-left">
-					<span></span>
-					<span></span>
-					<span></span>
-				</div>
-			<div class="topPanel-left">
-				<div class="mobile-menu">
-					<ul>
-						<li><a href="./">Home</a></li>
-						<li><a href="./ucp/?page=register"><?php echo $LANG[12032]; ?></a></li>
-						<li><a href="./?page=download">Download</a></li>
-						<li><a href="./?page=info"><?php echo $LANG[12996]; ?></a></li>
-						<li><a href="https://chat.whatsapp.com/IbwqkEyLpmd97xmgauF8No" target="_blank">WhatsApp</a></li>
-					</ul>
-					<div class="atualstudioCountdown" style="padding-top:20%;"><!-- Countdown INI -->
-						<?php if($counterActived == 1) { $inauguracao = mktime($cHor,$cMin,0,$cMes,$cDia,$cAno); if(time() < $inauguracao) { ?>
-						<div style="font-size: 20px; text-align:center; padding: 0 0 0 25px;">
-							<?php echo $cDia." ".date('F', $inauguracao).", ".$cAno." &bullet; ".$cHor.":".$cMin; ?> <span style='font-size:11px; font-weight:bold; font-style:italic; vertical-align: super;'>(UTC <?php echo $cGMT; ?>)</span>
-						</div>
-						<link href="css/soon.min.css" rel="stylesheet" />
-						<div class="atualstudioCountdown">
-							<style>
-								@import url(http://fonts.googleapis.com/css?family=Quicksand);
-								#soon-glow { font-family: 'Quicksand', sans-serif; color: #FFF; background: transparent; text-transform:lowercase; }
-								#soon-glow .soon-label { color: #FFF; text-shadow:0 0 .25rem rgba(0,0,0,.75); }
-								#soon-glow .soon-ring-progress { color: #FDFCC4; background-color:rgba(255,255,255,.15); }
-								#soon-glow>.soon-group { margin-bottom:-.5em; }
-								.soon[data-layout*="group"] { padding-top: 20px; }
-								.soon[data-face*="glow"] .soon-separator, .soon[data-face*="glow"] .soon-slot-inner { text-shadow: 0 0 .125em rgba(0,0,0,.75); }
-							</style>
-							<div class="soon" id="soon-glow" data-layout="group overlap" data-face="slot doctor glow" data-padding="false" data-scale-max="l" data-visual="ring color-light width-thin glow-progress length-70 gap-0 offset-65"></div>
-						</div>
-						<script>(function(){ var i=0,soons = document.querySelectorAll('.atualstudioCountdown .soon'),l=soons.length; for(;i<l;i++) { soons[i].setAttribute('data-due','<?php echo date("Y-m-d\TH:i:s", mktime(($cHor+$sumH), $cMin, 0, $cMes, $cDia, $cAno)); ?>'); soons[i].setAttribute('data-now','<?php echo date("Y-m-d\TH:i:s"); ?>'); } }());</script>
-						<script src="js/soon.min.js" data-auto="false"></script><script>var soons = document.querySelectorAll('.atualstudioCountdown .soon'); for(var i=0;i<soons.length;i++) { Soon.create(soons[i]); }</script>
-						<?php } } ?>
-					</div><!-- Countdown  FIM -->
-				</div>
-				<nav class="menu-wrapper">
-					<ul class="menu menu-main">
-						<li class="menu__item"><a href="./" class="menu__link">Home</a></li>
-						<li class="menu__item"><a href="./ucp/?page=register" class="menu__link"><?php echo $LANG[12032]; ?></a></li>
-						<li class="menu__item"><a href="./?page=download" class="menu__link">Download</a></li>
-						<li class="menu__item"><a href="./?page=info" class="menu__link"><?php echo $LANG[12996]; ?></a></li>
-						<li class="menu__item"><a href="https://chat.whatsapp.com/IbwqkEyLpmd97xmgauF8No" target="_blank" class="menu__link">WhatsApp</a></li>
-						<li class="menu__item"></li>
-					</ul>
-				</nav>
-				<div class="langBlock parent_block" style="left:200px;">
-					<div class="langBlock-active flex-c buttonDrop" data-class="langBlock-dropdown">
-						<?php
-						// Define o caminho da imagem baseado no idioma atual
-						switch ($language) {
-							case 'en':
-								echo '<img src="./assets/images/english.png" alt="English">';
-								break;
-							case 'es':
-								echo '<img src="./assets/images/espanol.png" alt="Español">';
-								break;
-							case 'pt':
-							default:
-								echo '<img src="./assets/images/portuguese.png" alt="Português">';
-								break;
-						}
-						?>
-						<span></span>
+<body>
+	
+<?php if($faceBoxOn == 1) {
+echo "
+<div id=\"fb-root\"></div>
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = \"//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.7&appId=577018195656213\";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+";
+}
+?>
+
+<div class='all'>
+	
+	<div class='main <?php echo $language; ?>'><div><div><div>
+		
+		<div class='langs'><?php $addp = "&url=https://".urlencode($_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']); ?>
+			<a href='?changelang=en' class='en' title='English' onclick="document.location.replace('./index.php?changelang=en<?php echo $addp; ?>');return false;"></a>
+			<a href='?changelang=pt' class='pt' title='Portugu&ecirc;s' onclick="document.location.replace('./index.php?changelang=pt<?php echo $addp; ?>');return false;"></a>
+			<a href='?changelang=es' class='es' title='Espa&ntilde;ol' onclick="document.location.replace('./index.php?changelang=es<?php echo $addp; ?>');return false;"></a>
+		</div>
+		
+		<div class='menu'></div>
+		
+		<div class='content'>
+			
+			<div class='menu_opcs'>
+				<a href='./' class='o1'></a>
+				<a href='./?page=info' class='o2'></a>
+				<a href='./?page=rules' class='o3'></a>
+				<a href='./?page=download' class='o4'></a>
+				<a href='./?page=register' class='o5'></a>
+				<a href='./?page=donations' class='o6'></a>
+				<a href='./forum' class='o7'></a>
+			</div>		
+			
+			<div class='esq'>
+				
+				<div class='box'>
+					<div class='title stpPNG t1'><span title='<?php echo $LANG[12018]; ?>'></span></div>
+					<div class='ctt'>
+						
+						<?php if($logged != 1) { ?>
+						
+							<div class='loginarea'>
+								<img src='imgs/nm/loader.gif' style='width:0;height:0;display:none;' />
+								<form id='login_form' action='<?php echo (file_exists('ucp/engine/login.php') ? "./ucp/?engine=login&fromsite" : "./?engine=login"); ?>' method='POST'>
+									<?php
+									$_SESSION['lkey'] = md5(time().rand(100,999).$uniqueKey); echo "<input type='hidden' name='lkey' value='".$_SESSION['lkey']."' />";
+									if(isset($_GET['lerror'])) {
+										echo "<div class='error'>".((intval($_GET['lerror']) == 1) ? $LANG[11979] : $LANG[11990])."</div>";
+									}
+									?>
+									<div class='fieldsBox'>
+										<label>
+											<input type='text' name='ucp_login' class='inpt' placeholder='Login' title='Username' autocomplete='off' />
+											<div class='acc_icon user'></div>
+										</label>
+										<label>
+											<input type='password' name='ucp_passw' class='inpt pass' placeholder='Password' title='Password' autocomplete='off' />
+											<div class='acc_icon pass'></div>
+										</label>
+										<?php if($captcha_cp_on == 1) {
+											echo "<input type='button' onclick='opencaptcha();' class='default gologin' value='Login' />";
+										} else {
+											echo "<input type='submit' class='default gologin' value='Login' />";
+										} ?>
+									</div>
+									<div class='ess'><a href='./?page=forgot'><?php echo $LANG[12020]; ?></a></div>
+									<input type='hidden' value='<?php echo md5(uniqid()) ?>' name='ucp_uniqid' id='ucp_uniqid' />
+									<input type='hidden' value='' name='captcha' id='ucp_captcha' />
+									<div class='anpc'><?php echo $LANG[12019]; ?> <a href='./?page=register'><?php echo $LANG[12077]; ?></a></div>
+								</form>
+							</div>
+							
+						<?php } else { ?>
+							
+							<div class='logged'><?php echo $LANG[12021]; ?> <span><?php echo $_SESSION['acc']; ?></span></div>
+							<?php if(file_exists('ucp/index.php')) { ?><a href='./ucp' class='default'>DASHBOARD</a><?php } ?>
+							<a href='./?page=ucp_changepass' class='default'><?php echo $LANG[12022]; ?></a>
+							<?php if($chaemail == 1) { ?><a href='./?page=ucp_changeemail' class='default'><?php echo $LANG[11014]; ?></a><?php } ?>
+							<?php if($dpage['unstuk'] == 1) { ?><a href='./?page=ucp_unstuck' class='default'>Unstuck Char</a><?php } ?>
+							<a href='./?engine=logout' class='default'><?php echo $LANG[12023]; ?></a>
+							
+						<?php } ?>
+						
 					</div>
+				</div>
+				
+				<a href='./?page=donations' class='stylebutton donate'>
+					<div class='ball'></div>
+					<div class='desc'><?php echo $LANG[60000]; ?></div>
+				</a>
+				
+				<?php
+				
+				if($dpage['bosstt'] == 1 || $dpage['csiege'] == 1) {
 					
-					<?php $addp = "&url=https://".urlencode($_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']); ?>
+					if($dpage['csiege'] == 1) {
+						echo "
+						<a href='./?page=siege' class='stylebutton castle'>
+							<div class='ball'></div>
+							<div class='desc'>".$LANG[60001]."</div>
+						</a>";
+					}
+						
+					if($dpage['bosstt'] == 1) {
+						echo "
+						<a href='./?page=boss' class='stylebutton boss'>
+							<div class='ball'></div>
+							<div class='desc'>".$LANG[60002]."</div>
+						</a>";
+					}
 					
-					<ul class="langBlock-dropdown toggled_block">
-						<?php if ($language !== 'en') { ?>
-						<li>
-							<a href='?changelang=en' class='en' title='English' onclick="document.location.replace('./index.php?changelang=en<?php echo $addp; ?>');return false;">
-								<img src="./assets/images/english.png" alt="English">
-							</a>
-						</li>
-						<?php } ?>
-						<?php if ($language !== 'es') { ?>
-						<li>
-							<a href='?changelang=es' class='es' title='Español' onclick="document.location.replace('./index.php?changelang=es<?php echo $addp; ?>');return false;">
-								<img src="./assets/images/espanol.png" alt="Español">
-							</a>
-						</li>
-						<?php } ?>
-						<?php if ($language !== 'pt') { ?>
-						<li>
-							<a href='?changelang=pt' class='pt' title='Português' onclick="document.location.replace('./index.php?changelang=pt<?php echo $addp; ?>');return false;">
-								<img src="./assets/images/portuguese.png" alt="Português">
-							</a>
-						</li>
-						<?php } ?>
-					</ul>
-				</div><!-- langBlock -->
-			</div><!-- topPanel-left -->
-			<div class="topPanel-right">
-				<a href="./ucp" class="user-enter"><i class="icon icon-enter"></i> <?php echo $LANG[40000]; ?></a>
-				<div class="online">
-					<div class="online-flex flex-c-c">
-						<?php
-							// Verificação do status do servidor
-							if ($forceServerStatus == 'on') {
-								$serverStatus = 'online';
-							} elseif ($forceServerStatus == 'off') {
-								$serverStatus = 'offline';
+				}
+				
+				?>
+				
+				<div class='box'>
+					<div class='title stpPNG t2'><span title='<?php echo $LANG[13005]; ?>'></span></div>
+					<div class='ctt support'>
+						<a href='./?page=support'><img src='imgs/chat_on.png' /></a>
+					</div>
+				</div>
+				
+				<?php
+
+				if($dpage['topcla'] == 1 || $dpage['toponl'] == 1 || $dpage['toppkp'] == 1 || $dpage['toppvp'] == 1) {
+					echo"
+					<div class='box'>
+						<div class='title stpPNG t3'><span title='".$LANG[12024]."'></span></div>
+						<div class='ctt'>
+								
+				".($dpage['toppvp'] == 1 ? "<a href='./?page=toppvp' class='default'>Top PvP</a>" : "")."
+				".($dpage['toppkp'] == 1 ? "<a href='./?page=toppk' class='default'>Top Pk</a>" : "")."
+				".($dpage['toponl'] == 1 ? "<a href='./?page=toponline' class='default'>Top Online</a>" : "")."
+				".($dpage['topcla'] == 1 ? "<a href='./?page=topclan' class='default'>Top Clan</a>" : "")."
+				".($dpage['toppvp'] == 1 ? "<a href='./?page=toppvp'class='default'>Top PvP</a>" : "")."
+		         ".($dpage['toplvl'] == 1 ? "<a href='./?page=toplevel'class='default'>Top Level</a>" : "")."
+		        ".($dpage['topadn'] == 1 ? "<a href='./?page=topadena'class='default'>Top Adena</a>" : "")."
+                ".($dpage['bossjl'] == 1 ? "<a href='./?page=boss_jewels_loc'class='default'>Boss Jewels Loc</a>" : "")."
+
+						</div>
+						
+					</div>";
+				}
+				
+				if($dpage['olyall'] == 1 || $dpage['olyher'] == 1 || $dpage['olyrak'] == 1) {
+					echo "
+					<div class='box'>
+						<div class='title stpPNG t9'><span title='Grand Olympiad'></span></div>
+						<div class='ctt'>
+							".($dpage['olyrak'] == 1 ? "<a href='./?page=oly_rank' class='default'>Ranking</a>" : "")."
+							".($dpage['olyher'] == 1 ? "<a href='./?page=oly_heroes' class='default'>".$LANG[12999]."</a>" : "")."
+							".($dpage['olyall'] == 1 ? "<a href='./?page=oly_allheroes' class='default'>".$LANG[12025]."</a>" : "")."
+						</div>
+					</div>";
+				}
+				?>
+				<div class='box'>
+					<div class='title stpPNG t10'><span title='Fraps'></span></div>
+					<div class='ctt'>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/g2xvAXpBw9s?si=RfVI4e1XQyfDfNTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/pk6jnCrcIQo?si=yP7UuoH3Rj8CsDA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/g0l0389JT48?si=jV1kg3MRUPGaJjh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/6QpEP_Ki65E?si=fdjGjLyd7d2EwiZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Hl0FkHXaivg?si=OIICkrHYIYTCwDGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/-xv_N4k2Urw?si=mvLosT11cjFFro3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/0Y-fz6nxnvQ?si=eMLYRd-1ZHqX1cvt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto"  src="https://www.youtube.com/embed/B39WVG_69eI?si=VSRyO0c6xD913BMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/qJdU_WFNIBg?si=Fw1clYSqqB9fDYKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/DuQed3ly4js?si=o-JdpoNT636gAQPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<iframe width="100%" height="auto" src="https://www.youtube.com/embed/_KCpl3CloFE?si=_r-a-EXF0OOPOhlp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+				</div>
+			</div>
+			
+			
+			<div class='cen'><div><div><div><div><div>
+				
+				<?php require('pages/'.$p.'.php'); ?>
+				
+			</div></div></div></div></div></div>
+			
+			
+			<div class='dir'>
+				
+				<?php
+				if($forceServerStatus == 'on') { $serverStatus = 'on'; }
+				elseif($forceServerStatus == 'off') { $serverStatus = 'off'; }
+				else {
+					$check_game = @fsockopen(''.$serverIp.'', ''.$gamePort.'', $errno, $errstr, 1);
+					if($check_game){ $serverStatus = 'on'; } else { $serverStatus = 'off'; }
+				}
+				?>
+				<div class='server_status <?php echo $serverStatus; ?>'><span></span></div>
+				
+				<?php
+				if($showPlayersOn == '1') {
+					$cacheFile = "cache/playerson.xml";
+					$genNew = 0;
+					if(!file_exists($cacheFile)) { $genNew = 1; } else {
+						$xml = simplexml_load_file($cacheFile);
+						$configs = $xml->configs;
+						$updated = intval($configs->updated);
+						$delay = 1;
+						if(($updated+($delay*60)) < time()) {
+							$genNew = 1;
+						}
+					}
+					if($genNew == 1) {
+						require("private/playerson.php");
+					}
+					$playersOnline = $xml->players; $playersOnline = intval($playersOnline[0]->online);
+					if($serverStatus == 'off') { $playersOnline = 0; }
+					echo "<div class='players_on'><span>".intval($playersOnline*$fakePlayers)."</span> Players Online</div>";
+				}
+				?>
+				
+				<div class='box'>
+					<div class='title stpPNG t4'><span title='<?php echo $LANG[12980]; ?>'></span></div>
+					<div class='ctt'>
+						<a href='http://top.l2jbrasil.com/index.php?a=in&u=L2FEEL' target='_blank' class='default'>TOP L2JBRASIL</a>
+						<a href='https://www.top100arena.com/listing/99644/vote' target='_blank' class='default'>TOP100ARENA</a>
+						<a href='https://vgw.hopzone.net/site/vote/104671/1' target='_blank' class='default'>HOPZONE</a>
+						<a href='https://www.l2servers.com/servers/vote-59055.php' target='_blank' class='default'>L2TOPSERVERS</a>
+					</div>
+				</div>
+				
+				<?php
+				
+				if($dpage['galler'] == 1) {
+					echo "
+					<div class='box'>
+						<div class='title stpPNG t5'><span title='".$LANG[12026]."'></span></div>
+						<div class='ctt'>
+							<div class='galleryBox'><div>
+								";
+								$xml = @simplexml_load_file("cache/gallery.xml");
+								$line = @$xml->line;
+								$asideRankCountG = (!empty($galleCount) ? intval($galleCount) : 6);
+								if(count($line) < $asideRankCountG) { $asideRankCountG = count($line); }
+								if($asideRankCountG > 0) {
+									for($i=0, $c=$asideRankCountG; $i < $c; $i++) {
+										if(intval($line[$i]->isvideo) != '1') {
+											echo "
+											<a href='".$dir_gallery.$line[$i]->url."' rel='prettyPhoto[fullGallery]'>
+												<img src='".$dir_gallery."thumbnail/".$line[$i]->url."' />
+												<div></div>
+											</a>
+											";
+										} else {
+											echo "
+											<a href='//www.youtube.com/watch?v=".$line[$i]->url."&rel=0' class='iframe' rel='prettyPhoto[fullGallery]'>
+												<img src='".$dir_gallery."thumbnail/".$line[$i]->url.".jpg' />
+												<div></div>
+												<span></span>
+											</a>
+											";
+										}
+									}
+								}
+								for($i=$asideRankCountG, $c=(!empty($galleCount) ? intval($galleCount) : 6); $i < $c; $i++) {
+									echo "<a href='javascript:void(0)'><div></div></a>";
+								}
+								echo "
+							</div></div>
+							
+							<div class='vermais'>
+								<a href='./?page=gallery'>".$LANG[12027]." &raquo;</a>
+							</div>
+						</div>
+					</div>";
+				}
+				
+				if($dpage['topcla'] == 1) {
+					echo "
+					<div class='box'>
+						<div class='title stpPNG t6'><span title='Top Clan'></span></div>
+						<div class='ctt'>
+							<div class='indexRank'>
+							";
+							$xml = @simplexml_load_file("cache/topclan.xml"); $line = @$xml->line;
+							if(count($line) < $asideRankCount) { $asideRankCount = count($line); }
+							if($asideRankCount > 0) {
+								for($i=0, $c=$asideRankCount; $i < $c; $i++) {
+									echo "<div>".$line[$i]->pos."&ordm;&nbsp;&nbsp; ".$line[$i]->name." <span>".$line[$i]->level." lvl</span></div>";
+								}
 							} else {
-								$check_game = @fsockopen($serverIp, $gamePort, $errno, $errstr, 1);
-								if ($check_game) {
-									$serverStatus = 'online';
-								} else {
-									$serverStatus = 'offline';
+								for($i=1, $c=(!empty($asideRankCount) ? intval($asideRankCount) : 3); $i <= $c; $i++) {
+									echo "<div>".$i."&ordm;&nbsp;&nbsp; Clan <span>0 lvl</span></div>";
 								}
 							}
-						?>
-						<div class="online-block <?php echo $serverStatus; ?>-block-active">
-							<?php
-								if ($showPlayersOn == '1') {
-									$cacheFile = "./cache/playerson.xml";
-									$genNew = 0;
-									if (!file_exists($cacheFile)) {
-										$genNew = 1;
-									} else {
-										$xml = simplexml_load_file($cacheFile);
-										$configs = $xml->configs;
-										$updated = intval($configs->updated);
-										$delay = 1;
-										if (($updated + ($delay * 60)) < time()) {
-											$genNew = 1;
-										}
-									}
-									if ($genNew == 1) {
-										require("./private/playerson.php");
-									}
-									$playersOnline = $xml->players;
-									$playersOnline = intval($playersOnline[0]->online);
-									if ($serverStatus == 'off') {
-										$playersOnline = 0;
-									}
-									$playersOnline = $playersOnline * $fakePlayers;
-									echo ceil($playersOnline);
+							echo "
+							</div>
+							<div class='vermais'>
+								<a href='./?page=topclan'>".$LANG[12027]." &raquo;</a>
+							</div>
+						</div>
+					</div>";
+				}
+				
+				if($dpage['toppvp'] == 1) {
+					echo "
+					<div class='box'>
+						<div class='title stpPNG t7'><span title='Top PvP'></span></div>
+						<div class='ctt'>
+							<div class='indexRank'>
+							";
+							$xml = @simplexml_load_file("cache/toppvp.xml"); $line = @$xml->line;
+							if(count($line) < $asideRankCount) { $asideRankCount = count($line); }
+							if($asideRankCount > 0) {
+								for($i=0, $c=$asideRankCount; $i < $c; $i++) {
+									echo "<div>".$line[$i]->pos."&ordm;&nbsp;&nbsp; ".$line[$i]->name." <span>".$line[$i]->pvp." pvps</span></div>";
 								}
-							?>
-							<span class="<?php echo $serverStatus == 'online' ? 'green-blinking' : 'color-red'; ?>">
-								<?php echo ucfirst($serverStatus); ?>
-							</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div><!--topPanel-->
-		<header class="header flex-s-c">
-			<div class="hero hero_1">
-			</div>
-			<div class="logo">
-				<a href="./"><img src="./assets/images/logo.png" alt="logo"></a>
-			</div>
-			<div class="headerInfo">
-				<div class="atualstudioCountdown"><!-- Countdown INI -->
-					<?php if($counterActived == 1) { $inauguracao = mktime($cHor,$cMin,0,$cMes,$cDia,$cAno); if(time() < $inauguracao) { ?>
-					<div style="font-size: 20px; text-align:center; padding: 0 0 0 25px;">
-						<?php echo $cDia." ".date('F', $inauguracao).", ".$cAno." &bullet; ".$cHor.":".$cMin; ?> <span style='font-size:11px; font-weight:bold; font-style:italic; vertical-align: super;'>(UTC <?php echo $cGMT; ?>)</span>
-					</div>
-					<link href="css/soon.min.css" rel="stylesheet" />
-					<style>
-						@import url(http://fonts.googleapis.com/css?family=Quicksand);
-						#soon-glow { font-family: 'Quicksand', sans-serif; color: #FFF; background: transparent; text-transform:lowercase; }
-						#soon-glow .soon-label { color: #FFF; text-shadow:0 0 .25rem rgba(0,0,0,.75); }
-						#soon-glow .soon-ring-progress { color: #FDFCC4; background-color:rgba(255,255,255,.15); }
-						#soon-glow>.soon-group { margin-bottom:-.5em; }
-						.soon[data-layout*="group"] { padding-top: 20px; }
-						.soon[data-face*="glow"] .soon-separator, .soon[data-face*="glow"] .soon-slot-inner { text-shadow: 0 0 .125em rgba(0,0,0,.75); }
-					</style>
-					<div class="soon" id="soon-glow" data-layout="group overlap" data-face="slot doctor glow" data-padding="false" data-scale-max="1" data-visual="ring color-light width-thin glow-progress length-70 gap-0 offset-65"></div>
-					<script>(function(){ var i=0,soons = document.querySelectorAll('.atualstudioCountdown .soon'),l=soons.length; for(;i<l;i++) { soons[i].setAttribute('data-due','<?php echo date("Y-m-d\TH:i:s", mktime(($cHor+$sumH), $cMin, 0, $cMes, $cDia, $cAno)); ?>'); soons[i].setAttribute('data-now','<?php echo date("Y-m-d\TH:i:s"); ?>'); } }());</script>
-					<script src="js/soon.min.js" data-auto="false"></script><script>var soons = document.querySelectorAll('.atualstudioCountdown .soon'); for(var i=0;i<soons.length;i++) { Soon.create(soons[i]); }</script>
-					<?php } } ?>
-				</div><!-- Countdown  FIM -->
-				<div class="headerInfo-title">
-					<?php echo $LANG[12121]; ?>
-				</div>
-			<div class="headerInfo-text">
-				<?php echo $LANG[12122]; ?>
-			</div>
-				<div class="headerInfo-button">
-					<a href="./?page=download" class="button"><i class="icon icon-battle"></i> <?php echo $LANG[12118] ?></a>
-				</div>
-			</div>
-			<div class="sparks sparks_2">
-				<div class="spark_1"></div>
-				<div class="spark_2"></div>
-				<div class="spark_3"></div>
-				<div class="spark_4 spark-big"></div>
-				<div class="spark_5 spark-big"></div>
-			</div>
-		</header>
-		<div class="main">
-			<div class="sidebar">
-				<div class="top">
-					<div class="tabs tabsBlock">
-						<ul class="tabs-caption tabs-button">
-							<li class="active">Top PvP</li>
-							<li>Top Pk</li>
-							<li>Top Clan</li>
-							<?php require('private/includes/rankoptions.php'); ?>
-						</ul>
-						<div class="tabBlock">
-							<div class="tabs-content active tabContent">
-								<div class="table">
-									<?php
-									$cacheFile = "cache/toppvp.xml";
-									$genNew = 0;
-
-									// Verifica se o arquivo de cache não existe
-									if (!file_exists($cacheFile)) {
-										$genNew = 1;
-									} else {
-										// Carrega o arquivo XML existente
-										$xml = simplexml_load_file($cacheFile);
-										if ($xml === false) {
-											die('' . $cacheFile);
-										}
-
-										$configs = $xml->configs;
-										$updated = intval($configs->updated);
-										$rcount = intval($configs->rcount);
-
-										// Verifica se o cache precisa ser atualizado
-										$delay = $cacheDelayMin; // Suponho que $cacheDelayMin seja definido em outro lugar
-										if (($updated + ($delay * 60)) < time()) {
-											$genNew = 1;
-										}
-
-										// Verifica se o número de registros no cache é o esperado
-										if ($rcount != $countTopPVP) {
-											$genNew = 1;
-										}
-									}
-
-									// Verifica se a exibição do ranking está desativada até uma data específica
-									$dateReg = mktime($reg['hr'], $reg['min'], 0, $reg['mes'], $reg['dia'], $reg['ano']);
-									if ($showRankReg == 0 && time() < $dateReg) {
-										$genNew = 1;
-									}
-
-									// Se necessário, gera um novo arquivo de cache
-									if ($genNew) {
-										// Cria diretório cache se não existir
-										if (!file_exists("cache")) {
-											@mkdir("cache", 0775, true);
-											@chmod("cache", 0775);
-										}
-
-										// Cria index.html dentro do diretório cache se não existir
-										if (!file_exists("cache/index.html")) {
-											$secIndexFile = fopen("cache/index.html", "w+");
-											@fclose($secIndexFile);
-										}
-
-										// Cria .htaccess dentro do diretório cache se não existir
-										if (!file_exists("cache/.htaccess")) {
-											$secHtacsFile = fopen("cache/.htaccess", "w+");
-											@fwrite($secHtacsFile, "Options -Indexes\ndeny from all");
-											@fclose($secHtacsFile);
-										}
-
-										// Abre o arquivo de cache para escrita
-										$wFile = fopen($cacheFile, "w+");
-										if ($wFile === false) {
-											die('Não foi possível abrir o arquivo ' . $cacheFile . ' para escrita.');
-										}
-
-										// Cria o conteúdo do arquivo XML
-										$updated = time();
-										$line = "\n<configs>\n<atualstudio>Cache script by Atualstudio.com</atualstudio>\n<updated>" . $updated . "</updated>\n<delay>" . $cacheDelayMin . "</delay>\n<rcount>" . $countTopPVP . "</rcount>\n</configs>";
-
-										// Verifica se deve exibir o ranking
-										if ($showRankReg == 1 || ($showRankReg == 0 && time() > $dateReg)) {
-											require_once('private/classes/classStats.php');
-
-											// Chama a função para obter os dados do ranking de PvP
-											$query = Stats::TopPvP($countTopPVP);
-
-											// Verifica se há dados retornados
-											if (count($query) > 0) {
-												// Itera sobre os resultados e cria as linhas no XML
-												foreach ($query as $key => $data) {
-													$dias = intval($data['onlinetime'] / 86400);
-													$marcador = $data['onlinetime'] % 86400;
-													$hora = intval($marcador / 3600);
-													$marcador = $marcador % 3600;
-													$minuto = intval($marcador / 60);
-
-													$line .= "\n<line>\n";
-													$line .= "<pos>" . ($key + 1) . "</pos>\n";
-													$line .= "<name>" . $data['char_name'] . "</name>\n";
-													$line .= "<clan>" . (empty($data['clan_name']) ? '-' : $data['clan_name']) . "</clan>\n";
-													$line .= "<pvp>" . $data['pvpkills'] . "</pvp>\n";
-													$line .= "<pk>" . $data['pkkills'] . "</pk>\n";
-													$line .= "<otdays>" . $dias . "</otdays>\n";
-													$line .= "<othrs>" . $hora . "</othrs>\n";
-													$line .= "<otmin>" . $minuto . "</otmin>\n";
-													$line .= "</line>";
-												}
-											} else {
-												// Caso não haja dados, marca para excluir o cache
-												$deleteCache = 1;
-											}
-										} else {
-											// Caso o ranking não deva ser exibido, marca para excluir o cache
-											$deleteCache = 1;
-										}
-
-										// Escreve o conteúdo no arquivo XML
-										if (!@fwrite($wFile, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ranking>" . $line . "\n</ranking>")) {
-											die('' . $cacheFile);
-										}
-										@fclose($wFile);
-
-										// Verifica se deve excluir o cache
-										if (isset($deleteCache) && file_exists($cacheFile)) {
-											unlink($cacheFile);
-										}
-									}
-									?>
-									<?php
-									$xml = @simplexml_load_file("cache/toppvp.xml");
-									if ($xml === false) {
-										echo "";
-									} else {
-										$line = @$xml->line;
-
-										// Definindo o número máximo de jogadores a serem exibidos
-										$asideRankCount = 10;
-
-										if (count($line) < $asideRankCount) {
-											$asideRankCount = count($line);
-										}
-
-										if ($asideRankCount > 0) {
-											for ($i = 0; $i < $asideRankCount; $i++) {
-												$pos = $line[$i]->pos;
-												$name = $line[$i]->name;
-												$pvp = $line[$i]->pvp;
-
-												echo '<div class="table-row';
-												if ($i < 3) {
-													echo ' table-row-top';
-												}
-												echo '">
-													<div class="table-td number">
-														<span class="n-top-' . $pos . '">' . $pos . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">' . $name . '</a>
-													</div>
-													<div class="table-td points">
-														' . $pvp . '
-													</div>
-												</div>';
-											}
-										} else {
-											for ($i = 1; $i <= 3; $i++) {
-												echo '<div class="table-row">
-													<div class="table-td number">
-														<span>' . $i . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">Player</a>
-													</div>
-													<div class="table-td points">
-														0
-													</div>
-												</div>';
-											}
-										}
-									}
-									?>
-								</div>
+							} else {
+								for($i=1, $c=(!empty($asideRankCount) ? intval($asideRankCount) : 3); $i <= $c; $i++) {
+									echo "<div>".$i."&ordm;&nbsp;&nbsp; Player <span>0 pvps</span></div>";
+								}
+							}
+							echo "
 							</div>
-							<div class="tabs-content tabContent">
-								<div class="table">
-									<?php
-									$cacheFile = "cache/toppk.xml";
-									$genNew = 0;
-
-									// Verifica se o arquivo de cache não existe
-									if (!file_exists($cacheFile)) {
-										$genNew = 1;
-									} else {
-										// Carrega o arquivo XML existente
-										$xml = simplexml_load_file($cacheFile);
-										if ($xml === false) {
-											die('' . $cacheFile);
-										}
-
-										$configs = $xml->configs;
-										$updated = intval($configs->updated);
-										$rcount = intval($configs->rcount);
-
-										// Verifica se o cache precisa ser atualizado
-										$delay = $cacheDelayMin; // Suponho que $cacheDelayMin seja definido em outro lugar
-										if (($updated + ($delay * 60)) < time()) {
-											$genNew = 1;
-										}
-
-										// Verifica se o número de registros no cache é o esperado
-										if ($rcount != $countTopPK) {
-											$genNew = 1;
-										}
-									}
-
-									// Verifica se a exibição do ranking está desativada até uma data específica
-									$dateReg = mktime($reg['hr'], $reg['min'], 0, $reg['mes'], $reg['dia'], $reg['ano']);
-									if ($showRankReg == 0 && time() < $dateReg) {
-										$genNew = 1;
-									}
-
-									// Se necessário, gera um novo arquivo de cache
-									if ($genNew) {
-										// Cria diretório cache se não existir
-										if (!file_exists("cache")) {
-											@mkdir("cache", 0775, true);
-											@chmod("cache", 0775);
-										}
-
-										// Cria index.html dentro do diretório cache se não existir
-										if (!file_exists("cache/index.html")) {
-											$secIndexFile = fopen("cache/index.html", "w+");
-											@fclose($secIndexFile);
-										}
-
-										// Cria .htaccess dentro do diretório cache se não existir
-										if (!file_exists("cache/.htaccess")) {
-											$secHtacsFile = fopen("cache/.htaccess", "w+");
-											@fwrite($secHtacsFile, "Options -Indexes\ndeny from all");
-											@fclose($secHtacsFile);
-										}
-
-										// Abre o arquivo de cache para escrita
-										$wFile = fopen($cacheFile, "w+");
-										if ($wFile === false) {
-											die('Não foi possível abrir o arquivo ' . $cacheFile . ' para escrita.');
-										}
-
-										// Cria o conteúdo do arquivo XML
-										$updated = time();
-										$line = "\n<configs>\n<atualstudio>Cache script by Atualstudio.com</atualstudio>\n<updated>" . $updated . "</updated>\n<delay>" . $cacheDelayMin . "</delay>\n<rcount>" . $countTopPK . "</rcount>\n</configs>";
-
-										// Verifica se deve exibir o ranking
-										if ($showRankReg == 1 || ($showRankReg == 0 && time() > $dateReg)) {
-											require_once('private/classes/classStats.php');
-
-											// Chama a função para obter os dados do ranking de PK
-											$query = Stats::TopPk($countTopPK);
-
-											// Verifica se há dados retornados
-											if (count($query) > 0) {
-												// Itera sobre os resultados e cria as linhas no XML
-												foreach ($query as $key => $data) {
-													$dias = intval($data['onlinetime'] / 86400);
-													$marcador = $data['onlinetime'] % 86400;
-													$hora = intval($marcador / 3600);
-													$marcador = $marcador % 3600;
-													$minuto = intval($marcador / 60);
-
-													$line .= "\n<line>\n";
-													$line .= "<pos>" . ($key + 1) . "</pos>\n";
-													$line .= "<name>" . $data['char_name'] . "</name>\n";
-													$line .= "<clan>" . (empty($data['clan_name']) ? '-' : $data['clan_name']) . "</clan>\n";
-													$line .= "<pvp>" . $data['pvpkills'] . "</pvp>\n";
-													$line .= "<pk>" . $data['pkkills'] . "</pk>\n";
-													$line .= "<otdays>" . $dias . "</otdays>\n";
-													$line .= "<othrs>" . $hora . "</othrs>\n";
-													$line .= "<otmin>" . $minuto . "</otmin>\n";
-													$line .= "</line>";
-												}
-											} else {
-												// Caso não haja dados, marca para excluir o cache
-												$deleteCache = 1;
-											}
-										} else {
-											// Caso o ranking não deva ser exibido, marca para excluir o cache
-											$deleteCache = 1;
-										}
-
-										// Escreve o conteúdo no arquivo XML
-										if (!@fwrite($wFile, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ranking>" . $line . "\n</ranking>")) {
-											die('' . $cacheFile);
-										}
-										@fclose($wFile);
-
-										// Verifica se deve excluir o cache
-										if (isset($deleteCache) && file_exists($cacheFile)) {
-											unlink($cacheFile);
-										}
-									}
-									?>								
-									<?php
-									$xml = @simplexml_load_file("cache/toppk.xml");
-									if ($xml === false) {
-										echo "";
-									} else {
-										$line = @$xml->line;
-
-										// Definindo o número máximo de jogadores a serem exibidos
-										$asideRankCount = 10;
-
-										if (count($line) < $asideRankCount) {
-											$asideRankCount = count($line);
-										}
-
-										if ($asideRankCount > 0) {
-											for ($i = 0; $i < $asideRankCount; $i++) {
-												$pos = $line[$i]->pos;
-												$name = $line[$i]->name;
-												$pk = $line[$i]->pk;
-
-												echo '<div class="table-row';
-												if ($i < 3) {
-													echo ' table-row-top';
-												}
-												echo '">
-													<div class="table-td number">
-														<span class="n-top-' . $pos . '">' . $pos . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">' . $name . '</a>
-													</div>
-													<div class="table-td points">
-														' . $pk . '
-													</div>
-												</div>';
-											}
-										} else {
-											for ($i = 1; $i <= 3; $i++) {
-												echo '<div class="table-row">
-													<div class="table-td number">
-														<span>' . $i . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">Player</a>
-													</div>
-													<div class="table-td points">
-														0
-													</div>
-												</div>';
-											}
-										}
-									}
-									?>
-								</div>
-							</div>
-							<div class="tabs-content tabContent">
-								<div class="table">
-									<?php
-									$cacheFile = "cache/topclan.xml";
-									$genNew = 0;
-
-									// Verifica se o arquivo de cache não existe
-									if (!file_exists($cacheFile)) {
-										$genNew = 1;
-									} else {
-										// Carrega o arquivo XML existente
-										$xml = simplexml_load_file($cacheFile);
-										if ($xml === false) {
-											die('' . $cacheFile);
-										}
-
-										$configs = $xml->configs;
-										$updated = intval($configs->updated);
-										$rcount = intval($configs->rcount);
-
-										// Verifica se o cache precisa ser atualizado
-										$delay = $cacheDelayMin; // Suponho que $cacheDelayMin seja definido em outro lugar
-										if (($updated + ($delay * 60)) < time()) {
-											$genNew = 1;
-										}
-
-										// Verifica se o número de registros no cache é o esperado
-										if ($rcount != $countTopCLAN) {
-											$genNew = 1;
-										}
-									}
-
-									// Verifica se a exibição do ranking está desativada até uma data específica
-									$dateReg = mktime($reg['hr'], $reg['min'], 0, $reg['mes'], $reg['dia'], $reg['ano']);
-									if ($showRankReg == 0 && time() < $dateReg) {
-										$genNew = 1;
-									}
-
-									// Se necessário, gera um novo arquivo de cache
-									if ($genNew) {
-										// Cria diretório cache se não existir
-										if (!file_exists("cache")) {
-											@mkdir("cache", 0775, true);
-											@chmod("cache", 0775);
-										}
-
-										// Cria index.html dentro do diretório cache se não existir
-										if (!file_exists("cache/index.html")) {
-											$secIndexFile = fopen("cache/index.html", "w+");
-											@fclose($secIndexFile);
-										}
-
-										// Cria .htaccess dentro do diretório cache se não existir
-										if (!file_exists("cache/.htaccess")) {
-											$secHtacsFile = fopen("cache/.htaccess", "w+");
-											@fwrite($secHtacsFile, "Options -Indexes\ndeny from all");
-											@fclose($secHtacsFile);
-										}
-
-										// Abre o arquivo de cache para escrita
-										$wFile = fopen($cacheFile, "w+");
-										if ($wFile === false) {
-											die('Não foi possível abrir o arquivo ' . $cacheFile . ' para escrita.');
-										}
-
-										// Cria o conteúdo do arquivo XML
-										$updated = time();
-										$line = "\n<configs>\n<atualstudio>Cache script by Atualstudio.com</atualstudio>\n<updated>" . $updated . "</updated>\n<delay>" . $cacheDelayMin . "</delay>\n<rcount>" . $countTopCLAN . "</rcount>\n</configs>";
-
-										// Verifica se deve exibir o ranking
-										if ($showRankReg == 1 || ($showRankReg == 0 && time() > $dateReg)) {
-											require_once('private/classes/classStats.php');
-
-											// Chama a função para obter os dados do ranking de Clãs
-											$query = Stats::TopClan($countTopCLAN);
-
-											// Verifica se há dados retornados
-											if (count($query) > 0) {
-												// Itera sobre os resultados e cria as linhas no XML
-												foreach ($query as $key => $data) {
-													$line .= "\n<line>\n";
-													$line .= "<pos>" . ($key + 1) . "</pos>\n";
-													$line .= "<name>" . $data['clan_name'] . "</name>\n";
-													$line .= "<leader>" . $data['char_name'] . "</leader>\n";
-													$line .= "<members>" . $data['membros'] . "</members>\n";
-													$line .= "<ally>" . (empty($data['ally_name']) ? '-' : $data['ally_name']) . "</ally>\n";
-													$line .= "<level>" . $data['clan_level'] . "</level>\n";
-													$line .= "<reputation>" . $data['reputation_score'] . "</reputation>\n";
-													$line .= "</line>";
-												}
-											} else {
-												// Caso não haja dados, marca para excluir o cache
-												$deleteCache = 1;
-											}
-										} else {
-											// Caso o ranking não deva ser exibido, marca para excluir o cache
-											$deleteCache = 1;
-										}
-
-										// Escreve o conteúdo no arquivo XML
-										if (!@fwrite($wFile, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ranking>" . $line . "\n</ranking>")) {
-											die('' . $cacheFile);
-										}
-										@fclose($wFile);
-
-										// Verifica se deve excluir o cache
-										if (isset($deleteCache) && file_exists($cacheFile)) {
-											unlink($cacheFile);
-										}
-									}
-									?>								
-									<?php
-									$xml = @simplexml_load_file("cache/topclan.xml");
-									if ($xml === false) {
-										echo "";
-									} else {
-										$line = @$xml->line;
-
-										// Definindo o número máximo de clãs a serem exibidos
-										$asideRankCount = 10;
-
-										if (count($line) < $asideRankCount) {
-											$asideRankCount = count($line);
-										}
-
-										if ($asideRankCount > 0) {
-											for ($i = 0; $i < $asideRankCount; $i++) {
-												$pos = $line[$i]->pos;
-												$name = $line[$i]->name;
-												$level = $line[$i]->level;
-
-												echo '<div class="table-row';
-												if ($i < 3) {
-													echo ' table-row-top';
-												}
-												echo '">
-													<div class="table-td number">
-														<span class="n-top-' . $pos . '">' . $pos . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">' . $name . '</a>
-													</div>
-													<div class="table-td points">
-														' . $level . ' lvl
-													</div>
-												</div>';
-											}
-										} else {
-											for ($i = 1; $i <= 3; $i++) {
-												echo '<div class="table-row">
-													<div class="table-td number">
-														<span>' . $i . '</span>
-													</div>
-													<div class="table-td name">
-														<a href="#">Clan</a>
-													</div>
-													<div class="table-td points">
-														0 lvl
-													</div>
-												</div>';
-											}
-										}
-									}
-									?>
-								</div>
+							<div class='vermais'>
+								<a href='./?page=toppvp'>".$LANG[12027]." &raquo;</a>
 							</div>
 						</div>
-					</div>
-				</div><!--top-->
-				<div class="vote">
-					<h1>Vote</h1>
-				    <center>
-				        <!-- Begin L2jBrasil -->
-                        <a href="//top.l2jbrasil.com/index.php?a=in&u=l2feel" target="_blank">
-                            <img src="//top.l2jbrasil.com/button.php?u=l2feel" alt="Top L2JBrasil  de Servidores de   Lineage2 " border="0" width="32%" height="120px"/>
-                        </a>
-                        <!-- End L2jBrasil -->				    
-						<!-- Begin HopZone.Eu code -->
-						<a href="https://hopzone.eu/vote/130" target="_blank">
-						<img src="https://hopzone.eu/uploads/pages_media/2_banner-1.png" alt="Vote for us in HopZone.Eu"  width="100%"/>
-						</a>
-						<!-- End HopZone.Eu code -->
-                        <!-- Begin hotservers -->
-                        <a href="https://hotservers.org/servers/vote/294" target='_blank'>
-                            <img src="https://hotservers.org/voting-banner-image/294/assets/img/voting-banners/140x120_static/140x120_2024_01_30.png" alt="Vote for our sever on Hotservers.org" style="border:0" width="32%" height="120px">
-                        </a>
-                        <!-- End hotservers -->                    
-                        <!-- Begin 4teambr -->
-                        <a href="https://top.4teambr.com/index.php?a=in&u=l2feel" target="_blank">
-                            <img src="./images/4teambr.png" alt="4TOP Servers" width="32%" height="120px"/>
-                        </a>
-                        <!-- End 4teambr -->
-                        <!-- Begin l2votes -->
-                        <a href='https://l2votes.com/votes.php?sid=753' target='_blank' title='l2votes.com'>
-                            <img alt='image' title='image' alt='https://l2votes.com/votes.php?sid=753' src='https://l2votes.com/images/logos/l2votes-1.jpg' width="32%" height="120px"/>
-                        </a>
-                        <!-- End l2votes -->
-                        <!-- Begin hotservers -->
-                        <a href="https://l2rankzone.com/lineage2-servers/l2feel/219/vote" target="_blank" title="l2rankzone lineage 2 private l2servers">
-                            <img src="https://files.l2rankzone.com/banners/l2rankzone-l2servers-l2top-v2.png" alt="l2rankzone lineage 2 private l2servers" width="32%" height="120px"/>
-                        </a>
-                        <!-- End hotservers -->
-                        <h4 style="opacity:0.6;">Para receber recompensa após votar:<br> .hopzone .l2jbrasil .l2votes .top4teambr</h4>
-				    </center>
+					</div>";
+				}
+	
+				if($dpage['toppkp'] == 1) {
+					echo "
+					<div class='box'>
+						<div class='title stpPNG t8'><span title='Top Pk'></span></div>
+						<div class='ctt'>
+							<div class='indexRank'>
+							";
+							$xml = @simplexml_load_file("cache/toppk.xml"); $line = @$xml->line;
+							if(count($line) < $asideRankCount) { $asideRankCount = count($line); }
+							if($asideRankCount > 0) {
+								for($i=0, $c=$asideRankCount; $i < $c; $i++) {
+									echo "<div>".$line[$i]->pos."&ordm;&nbsp;&nbsp; ".$line[$i]->name." <span>".$line[$i]->pk." pks</span></div>";
+								}
+							} else {
+								for($i=1, $c=(!empty($asideRankCount) ? intval($asideRankCount) : 3); $i <= $c; $i++) {
+									echo "<div>".$i."&ordm;&nbsp;&nbsp; Player <span>0 pks</span></div>";
+								}
+							}
+							echo "
+							</div>
+							<div class='vermais'>
+								<a href='./?page=toppk'>".$LANG[12027]." &raquo;</a>
+							</div>
+						</div>
+					</div>";
+				}
+				
+				?>
+				<div>
+					<center>
+						<!-- BEGIN: Powered by Supercounters.com -->
+						<script type="text/javascript" src="//widget.supercounters.com/ssl/online_t.js"></script><script type="text/javascript">sc_online_t(1701396,"Users Online","E4B970");</script><br><noscript><a href="https://www.supercounters.com/">supercounters.com</a></noscript>
+						<!-- END: Powered by Supercounters.com -->
+					</center>
 				</div>
-				<br><br>
-				<div class="discordBlock">
-					<iframe src="https://discord.com/widget?id=1012356880191983616&theme=dark" width="100%" height="287" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-				</div><!--discordBlock-->
 			</div>
-<?php if ($p != 'index'): ?>
-    <div class="content">
-        <?php require('pages/'.$p.'.php'); ?>
-    </div>
-<?php else: ?>
-    <div class="news">
-        <div class="news-title">
-            <span><?php echo $LANG[13001]; ?></span>
-        </div>
-        <?php
-        $news = Index::News(0, $inewsCount); // Recupera as notícias
-        $totalNews = count($news);
-        if ($totalNews > 0) {
-            $newsBlock = $news[0]; // Primeira notícia
-            $smallNewsBlocks = array_slice($news, 1, 2); // Segunda e terceira notícias
-            // Primeira notícia principal
-            $newsImage = ((strlen(trim($newsBlock['img'])) > 0) ? (file_exists($dir_newsimg.trim($newsBlock['img'])) ? $dir_newsimg.trim($newsBlock['img']) : 'assets/images/no-img-new.jpg') : 'assets/images/no-img-new.jpg');
-            $newTxt = strip_tags(($language == 'en' && strlen(trim($newsBlock['content_en'])) > 0 ? trim($newsBlock['content_en']) : ($language == 'es' && strlen(trim($newsBlock['content_es'])) > 0 ? trim($newsBlock['content_es']) : trim($newsBlock['content_pt']))));
-            $newTitle = ($language == 'en' && strlen(trim($newsBlock['title_en'])) > 0 ? trim($newsBlock['title_en']) : ($language == 'es' && strlen(trim($newsBlock['title_es'])) > 0 ? trim($newsBlock['title_es']) : $newsBlock['title_pt']));
-            ?>
-            <div class="newsBlock" style="background-image: url(<?php echo $newsImage; ?>);">
-                <div class="newsBlock-date">
-                    <?php echo date('d', $newsBlock['post_date']); ?> <span><?php echo strtoupper(date('M', $newsBlock['post_date'])); ?></span>
-                </div>
-                <div class="newsBlock-title">
-                    <a href="./?page=news&id=<?php echo $newsBlock['nid']; ?>"><?php echo $newTitle; ?></a>
-                </div>
-                <div class="newsBlock-text">
-                    <?php echo trim(substr($newTxt, 0, 180)).(strlen($newTxt) > 180 ? '...' : ''); ?>
-                </div>
-                <div class="newsBlock-button">
-                    <a href="./?page=news&id=<?php echo $newsBlock['nid']; ?>" class="button button-white button-small"><?php echo $LANG[12991]; ?></a>
-                </div>
-            </div>
-            <div class="newsBlockFlex">
-                <?php
-                // Primeira notícia pequena
-                $smallNews = $smallNewsBlocks[0];
-                $newsImage = 'assets/images/no-img-new-small.jpg'; // Imagem específica
-                $newTitle = ($language == 'en' && strlen(trim($smallNews['title_en'])) > 0 ? trim($smallNews['title_en']) : ($language == 'es' && strlen(trim($smallNews['title_es'])) > 0 ? trim($smallNews['title_es']) : $smallNews['title_pt']));
-                $newTxt = strip_tags(($language == 'en' && strlen(trim($smallNews['content_en'])) > 0 ? trim($smallNews['content_en']) : ($language == 'es' && strlen(trim($smallNews['content_es'])) > 0 ? trim($smallNews['content_es']) : trim($smallNews['content_pt']))));
-                ?>
-                <div class="newsBlock newsBlockSmall" style="background-image: url(<?php echo $newsImage; ?>);">
-                    <div class="newsBlock-date">
-                        <?php echo date('d', $smallNews['post_date']); ?> <span><?php echo strtoupper(date('M', $smallNews['post_date'])); ?></span>
-                    </div>
-                    <div class="newsBlock-title">
-                        <a href="./?page=news&id=<?php echo $smallNews['nid']; ?>"><?php echo $newTitle; ?></a>
-                    </div>
-                    <div class="newsBlock-text">
-                        <?php echo trim(substr($newTxt, 0, 100)).(strlen($newTxt) > 100 ? '...' : ''); ?>
-                    </div>
-                    <div class="newsBlock-button">
-                        <a href="./?page=news&id=<?php echo $smallNews['nid']; ?>" class="button button-white button-small"><?php echo $LANG[12991]; ?></a>
-                    </div>
-                </div>
-                <?php
-                // Segunda notícia pequena
-                $smallNews = $smallNewsBlocks[1];
-                $newsImage = 'assets/images/no-img-new-small-2.jpg'; // Imagem específica
-                $newTitle = ($language == 'en' && strlen(trim($smallNews['title_en'])) > 0 ? trim($smallNews['title_en']) : ($language == 'es' && strlen(trim($smallNews['title_es'])) > 0 ? trim($smallNews['title_es']) : $smallNews['title_pt']));
-                $newTxt = strip_tags(($language == 'en' && strlen(trim($smallNews['content_en'])) > 0 ? trim($smallNews['content_en']) : ($language == 'es' && strlen(trim($smallNews['content_es'])) > 0 ? trim($smallNews['content_es']) : trim($smallNews['content_pt']))));
-                ?>
-                <div class="newsBlock newsBlockSmall" style="background-image: url(<?php echo $newsImage; ?>);">
-                    <div class="newsBlock-date">
-                        <?php echo date('d', $smallNews['post_date']); ?> <span><?php echo strtoupper(date('M', $smallNews['post_date'])); ?></span>
-                    </div>
-                    <div class="newsBlock-title">
-                        <a href="./?page=news&id=<?php echo $smallNews['nid']; ?>"><?php echo $newTitle; ?></a>
-                    </div>
-                    <div class="newsBlock-text">
-                        <?php echo trim(substr($newTxt, 0, 100)).(strlen($newTxt) > 100 ? '...' : ''); ?>
-                    </div>
-                    <div class="newsBlock-button">
-                        <a href="./?page=news&id=<?php echo $smallNews['nid']; ?>" class="button button-white button-small"><?php echo $LANG[12991]; ?></a>
-                    </div>
-                </div>
-            </div>
-            <a href="./?page=news" class="show-more"><?php echo $LANG[11000]; ?></a>
-        <?php } else {
-            // Caso não haja notícias
-            echo "<div style='text-align:center;'><b>".$LANG[12063]."</b></div>";
-        } ?>
-    </div>
-<?php endif; ?>
-
+			
 		</div>
-		<footer class="footer">
-			<div class="footerInfo">
-				<div class="footerInfo-title">
-					© 2024 <a href="./">L2FEEL.COM</a>
-				</div>
-				<div class="footerInfo-text">
-				    <!-- BEGIN: Powered by Supercounters.com -->
-                    <script type="text/javascript" src="//widget.supercounters.com/ssl/online_t.js">
-                    </script>
-                    <script type="text/javascript">
-                        sc_online_t(1693541,"User online","");
-                    </script>
-                    <noscript>
-                        <a href="https://www.supercounters.com/">
-                            supercounters.com
-                        </a>
-                    </noscript>
-                    <!-- END: Powered by Supercounters.com -->
-				</div>
-				<div class="footerInfo-text">
-					<?php echo $LANG[12129]; ?>
-				</div>
-				<div class="footerInfo-buttons">
-					<a href=""><?php echo $LANG[12130]; ?></a>
-					<a href=""><?php echo $LANG[12131]; ?></a>
-				</div>
-			</div><!--footerInfo-->
-			<div class="footerMenu flex">
-				<ul>
-					<li><a href="">Home</a></li>
-					<li><a href=""><?php echo $LANG[12118] ?></a></li>
-					<li><a href=""><?php echo $LANG[12032]; ?></a></li>
-					<li><a href="">Download</a></li>
-				</ul>
-				<ul>
-					<li><a href=""><?php echo $LANG[12108]; ?></a></li>
-					<li><a href=""><?php echo $LANG[13005]; ?></a></li>
-					<li><a href=""><?php echo $LANG[12119]; ?></a></li>
-					<li><a href="">FAQ</a></li>
-				</ul>
-			</div>
-			<div class="footerRight">
-				<div class="socBlock">
-					<a href="./" class="dc"></a>
-					<a href="./" class="fb"></a>
-					<a href="./" class="yt"></a>
-				</div>
-				<div class="dis-logo">
-					<img src="./assets/images/mex-vision.png" alt="">
-				</div>
-			</div>
-		</footer>
-	</div><!--wrapper-->
-	<div id="enter" class="modal_div"> 
-		<span class="modal_close"></span>
-		<div class="modalContent">
-			<div class="modal-title flex-s-c">
-				<span><?php echo $LANG[12032]; ?></span>
-				<a href="" class="button button-white button-small"><?php echo $LANG[12120]; ?></a>
-			</div>
-			<form>
-				<div class="formGroup">
-					<p>Login</p>
-					<input type="text" placeholder="LOGIN">
-				</div>
-				<div class="formGroup">
-					<p>E-Mail</p>
-					<input type="text" placeholder="E-MAIL">
-				</div>
-				<div class="formGroup">
-					<p><?php echo $LANG[12120]; ?></p>
-					<input type="password" placeholder="<?php echo $LANG[12120]; ?>">
-				</div>
-				<div class="formGroup">
-					<p><?php echo $LANG[12048]; ?></p>
-					<input type="password" placeholder="<?php echo $LANG[12048]; ?>">
-				</div>
-				<div class="rules">
-					<label class="checkbox-container">
-						<input type="checkbox" checked="checked">
-						<span class="checkmark"></span>
-					</label>
-					<span><a href=""><?php echo $LANG[12994]; ?></a></span>
-				</div>
-				<div class="formButtons flex-c">
-					<button><?php echo $LANG[12032]; ?></button>
-					<button class="button-white"><?php echo $LANG[13004]; ?></button>
-				</div>
-			</form>
-		</div><!--modalContent-->
+		
+		<script type='text/javascript'>
+			$(document).ready(function(){
+				var lateralESQ = ($('.content > .esq').height());
+				var lateralDIR = ($('.content > .dir').height());
+				var centralH = ($('.content > .cen > div > div > div > div').height());
+				if(lateralDIR > lateralESQ && lateralDIR > centralH) {
+					$('.content > .cen > div > div > div > div').css({ 'min-height': ''+(lateralDIR)+'px' })
+				} else if(lateralDIR < lateralESQ && lateralESQ > centralH) {
+					$('.content > .cen > div > div > div > div').css({ 'min-height': ''+(lateralESQ)+'px' })
+				}
+			});
+		</script>
+
+		
+	</div></div></div></div>
+	
+	<div class='rodape'>
+		&copy; <?php echo date('Y'); ?> <?php echo $server_name; ?> - All rights reserved
+		<a class='atualstudio stpPNG' href='http://www.atualstudio.com' title='<?php echo $LANG[12028]; ?>' target='_blank'></a>
+		<a class='atualstudio stpPNG' href='http://www.atualstudio.com' title='<?php echo $LANG[12028]; ?>' target='_blank'></a>
 	</div>
-	<div id="overlay"></div>
-	<script src="./js/jquery-3.6.0.min.js"></script>
-	<script src="./js/global.js"></script>
+	
+</div>
+
+<?php
+if(!empty($_SESSION['aAlert_msg'])) {
+	echo "<script>atualAlert('".$_SESSION['aAlert_msg']."', '".$_SESSION['aAlert_act']."', '".(isset($_SESSION['aAlert_url']) ? $_SESSION['aAlert_url'] : '')."');</script>";
+	$_SESSION['aAlert_msg'] = ''; $_SESSION['aAlert_act'] = ''; $_SESSION['aAlert_url'] = ''; unset($_SESSION['aAlert_msg']); unset($_SESSION['aAlert_act']); unset($_SESSION['aAlert_url']);
+}
+?>
+
+
+<!-- PrettyPhoto -->
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script><script type="text/javascript" charset="utf-8">$(document).ready(function(){ $("a[rel^='prettyPhoto']").prettyPhoto({ theme: 'atualstudio', social_tools: '', markup: '<div class="pp_pic_holder"><div class="ppt">&nbsp;</div><div class="pp_top"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div><div class="pp_content_container"><div class="pp_left"><div class="pp_right"><div class="pp_content"><div class="pp_loaderIcon"></div><div class="pp_fade"><a href="#" class="pp_expand" title="Expand the image">Expand</a><div class="pp_hoverContainer"><a class="pp_next" href="#">next</a><a class="pp_previous" href="#">previous</a></div><div id="pp_full_res"></div><div class="pp_details"></div></div></div></div></div></div><div class="pp_bottom"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div></div><div class="pp_overlay"></div>' }); });</script>
+
+<!-- Important Terms to JS Scripts -->
+<input type='hidden' id='l11015' value='<?php echo ($LANG[11015]); ?>' /><input type='hidden' id='l12055' value='<?php echo ($LANG[12055]); ?>' /><input type='hidden' id='l11017' value='<?php echo ($LANG[11017]); ?>' /><input type='hidden' id='l11018' value='<?php echo ($LANG[11018]); ?>' /><input type='hidden' id='l20001' value='<?php echo ($LANG[20001]); ?>' /><input type='hidden' id='l40044' value='<?php echo ($LANG[40044]); ?>' />
+
+<!-- Facebook PopUp -->
+<?php if($facePopupOn == 1) {
+echo "
+<div id='fanback'><div id='fan-exit'></div><div id='fanbox'><div id='fanclose'></div><iframe src='//www.facebook.com/plugins/likebox.php?href=".$facePage."&amp;width=402&amp;height=255&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23E2E2E2&amp;stream=false&amp;header=false&amp;appId=577018195656213' scrolling='no' frameborder='0' allowTransparency='true'></iframe></div></div>
+<script src='js/jquery.cookie.js' type='text/javascript'></script>
+<script type='text/javascript'>
+	$(function() { if($.cookie('atualstudioPopup') != 'yes'){ $('#fanback').delay(100).fadeIn('medium'); $('#fanclose, #fan-exit').click(function(){ $('#fanback').stop().fadeOut('medium'); }); } $.cookie('atualstudioPopup', 'yes', { path: '/', expires: ".intval(trim($fbPopupDelay))." }); });
+</script>";
+} ?>
+
+<!-- Control JS Flash Size -->
+<script>
+	$(function(){ $('section object').attr('width', $('article > .page').width()).attr('height', ((360 / 640) * $('article > .page').width())).children('embed').attr('width', $('article > .page').width()).attr('height', ((360 / 640) * $('article > .page').width())); });
+</script>
+
+
 </body>
 </html>

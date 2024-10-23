@@ -1,6 +1,6 @@
 <?php
 
-$LANG[40000] = "User Panel";
+$LANG[40000] = "User Control Panel";
 $LANG[40001] = "Statistics";
 $LANG[40002] = "Help Us Voting";
 $LANG[40044] = "Your security key has expired! We will load the page and please try again.";
@@ -28,216 +28,104 @@ $LANG[10997] = "Suffix";
 $LANG[20000] = "You receive <b>".$coinPer." ".$coinName."'s</b> a cada <b>".$coinCur." ".number_format($coinCos, 2, ',', '')."</b> donated.";
 $LANG[20001] = "Wait...";
 $LANG[12977] = "You can only register from:";
-$LANG[10999] = "Opening";
+$LANG[10999] = "Grand Opening";
 $LANG[11000] = "View more news";
 $LANG[11001] = "Server Files";
 $LANG[11002] = "
-<div align='left' style='padding-top:5px'>
-    <h1>Lineage 2 Ignis</h1>
-
-	<h2>Client Version: Interlude (C6)</h2>
-
-	<h3><img src='./assets/info/xp.png'> Rates</h3>
-
-	<ul>
-
-		<li>Exp/SP: 100x</li>
-
-		<li>Adena: 10x</li>
-
-		<li>Item Drop: 1x</li>
-
-		<li>Quest: 1x</li>
-
-		<li>Spoil: 1x</li>
-
-		<li>Seal Stones: 10x</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/vip.png'> VIP System</h3>
-
-	<ul>
-
-		<li>Exp/SP: 200x</li>
-
-		<li>Adena: 15x</li>
-
-		<li>Item Drop: 2x</li>
-
-		<li>Quest: 2x</li>
-
-		<li>Spoil: 1x</li>
-
-		<li>Seal Stones: 15x</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/enchant.png'> Enchant Settings</h3>
-
-	<ul>
-
-		<li>Safe Enchant: +3</li>
-
-		<li>Max Enchant: +16</li>
-
-		<li>Enchant Chance: Normal Scroll 60%, Blessed Scroll 50%, Crystal Scroll 10% (non-returnable)</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/ww.png'> Buffs System</h3>
-
-	<ul>
-
-		<li>20+4 Buff slots (Divine Inspirations)</li>
-
-		<li>Buff Duration: 2 hours</li>
-
-		<li>NPC Buffer with all buffs free</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/augment.png'> Augment Chances</h3>
-
-	<ul>
-
-		<li>No-Grade Lifestone: 1%</li>
-
-		<li>Mid-Grade Lifestone: 1%</li>
-
-		<li>High-Grade Lifestone: 5%</li>
-
-		<li>Top-Grade Lifestone: 5%</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/book.png'> Olympiad</h3>
-
-	<ul>
-
-		<li>Time: From 20:00 to 00:00 hours</li>
-
-		<li>Weekly cycle (7 days)</li>
-
-		<li>Hero every Monday at 12:00 hours</li>
-
-		<li>Base class disabled</li>
-
-		<li>General class calling with 5 registered players</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/hat.png'> Unique Customizations</h3>
-
-	<ul>
-
-		<li>Automated Events: TvT, CTF, KTB, Tournament, Party Farm, Territory War</li>
-
-		<li>Custom Accessories</li>
-
-		<li>Agathions</li>
-
-		<li>Titanium Set</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/Frenzy.png'> Map Bosses</h3>
-
-	<p>Some bosses have custom level, drop, and respawn. Check with NPC Arold in Giran.</p>
-
-	<br>
-
-	<h3><img src='./assets/info/Frintezza.png'> Jewel Bosses</h3>
-
-	<p>All jewel bosses are level 80, with custom drop and respawn. Check with NPC Arold in Giran.</p>
-
-	<ul>
-
-		<li>Jewels with custom stats: Core +2 INT, Orfen +2 STR, Frintezza +100 pdef/mdef</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/baium.png'> Boss Quest</h3>
-
-	<p>Retail</p>
-
-	<p>Available at the GM SHOP for 2 Gold Bars.</p>
-
-	<br>
-
-	<h3><img src='./assets/info/skill.png'> Subclass</h3>
-
-	<ul>
-
-		<li>Free, just go to the NPC and add</li>
-
-		<li>3 non-cumulative subclasses</li>
-
-		<li>Restrictions for Overlord and Maestro</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/Nobless.png'> Nobles</h3>
-
-	<p>Retail</p>
-
-	<p>Lunargent and Hellfire Oil available at the GM SHOP.</p>
-
-	<br>
-
-	<h3><img src='./assets/info/adena.png'> Server Economy</h3>
-
-	<p>Currencies: Adena, Gold Bar, Ignis Seed, Event, Tournament, PvP Farm, and TKT.</p>
-
-	<br>
-
-	<h3><img src='./assets/info/PvP.png'> Balanced Gameplay</h3>
-
-	<ul>
-
-		<li>Classes and Skills balanced for PvP and PvE</li>
-
-		<li>Restriction of 2 Bishops per Party</li>
-
-		<li>Restriction of 18 players per clan in flag area</li>
-
-		<li>Mana Potion fills 1000 mana every 10 seconds</li>
-
-		<li>Server/Java optimized for smoother gameplay</li>
-
-	</ul>
-
-	<br>
-
-	<h3><img src='./assets/info/Discord.png'> Active Community</h3>
-
-	<p>Discord with specific channels for PvP, PvE, questions, and events</p>
-
-	<br>
-
-	<h3><img src='./assets/info/Party.png'> Professional Support and Administration</h3>
-
-	<p>Dedicated and active GM team</p>
-
-</div>
+<header>
+    <h1>Private Server of Lineage 2 Interlude</h1>
+    <p>Inauguration of the new journey: 01/11/2024</p>
+</header>
+
+<section>
+    <h2>Beginning of the Journey</h2>
+    <p>Welcome to L2Feel! We have been online for 9 months and are ready to inaugurate a new journey on 01/11/2024. All players will start at level 80, equipped with Shadow Grade A items, including hats and tattoos, ready to face the challenges of the server. Our players are real; we do not use fake players like other servers.</p>
+
+    <h3>Server Rates</h3>
+    <ul>
+        <li><strong>Experience:</strong> 500x - Level up quickly and explore the game content.</li>
+        <li><strong>Adena:</strong> 150x - Accumulate financial resources to buy gear and essential items.</li>
+        <li><strong>Subclass:</strong> No quest needed to obtain a subclass.</li>
+        <li><strong>Nobility:</strong> To become a Noble, you only need to kill the raid boss Barakiel with a subclass of level 76 or higher.</li>
+    </ul>
+
+    <h3>Enchant</h3>
+    <p>Enhance your weapons and armor with the following enchant options:</p>
+    <ul>
+        <li><strong>Safe Enchantment:</strong> +3, max: +16 - Start with a solid base and improve your combat tools.</li>
+        <li><strong>Enchant Success Rate:</strong>
+            <ul>
+                <li><strong>Normal:</strong> 60% - Reasonable chance of success.</li>
+                <li><strong>Blessed:</strong> 40% - For those seeking more power.</li>
+                <li><strong>Crystal:</strong> 30% - Does not break and does not revert to the enchantment level, but the success rate is lower.</li>
+            </ul>
+        </li>
+        <li><strong>Life Stone:</strong> 5% success for acquiring skills - An opportunity to enhance your skills in-game.</li>
+    </ul>
+
+    <h3>Buffs and NPCs</h3>
+    <p>Buffs are essential for increasing your efficiency in combat:</p>
+    <ul>
+        <li><strong>Buff Slots:</strong> 24+4 - Includes the Divine Inspiration skill, which is free and automatic.</li>
+        <li><strong>Buff Duration:</strong> 2 hours - Buffs can be acquired at NPCs in towns.</li>
+        <li><strong>Buff Loss:</strong> You will not lose your buffs upon dying anywhere on the map except in the flagzone. However, dying inside the Primeval flagzone will not result in buff loss.</li>
+    </ul>
+
+    <h3>Flagzone and Parties</h3>
+    <ul>
+        <li><strong>Flagzone:</strong> If you die inside the Primeval flagzone, the player will respawn within the area. Outside of it, respawn will be in Giran.</li>
+        <li><strong>Party Limit:</strong> Maximum of 3 parties per clan/alliance in the flagzone (27 players).</li>
+    </ul>
+
+    <h3>Battles and Events</h3>
+    <p>Participate in a variety of events and challenges that will enhance your gaming experience:</p>
+    <ul>
+        <li><strong>Epics and Grand Boss:</strong> All level 80 bosses with flag zone areas, bringing epic challenges for players.</li>
+        <li><strong>Raid Boss:</strong> Level 80 with special drops, offering valuable rewards.</li>
+        <li><strong>Command .mission:</strong> Daily quests rewarding players with items and resources.</li>
+        <li><strong>Community Board:</strong> Rankings and auction shop for dynamic player interactions.</li>
+        <li><strong>Upgrade NPC:</strong> Upgrade your +16 Grade S weapons for PvP and receive bonuses in combat, including 10% additional damage and hero shine that increases as the enchantment increases.</li>
+        <li><strong>Olympiads:</strong> Every 7 days with a retail model, allowing fair competitions among players. The ranking updates daily.</li>
+        <li><strong>Special Events:</strong> TvT, Tournament, Kill the Boss, and Treasure Hunter with meteors falling in Primeval, increasing fun and rewards.</li>
+        <li><strong>Farm Area:</strong> In Primeval Isle, with mob respawn every 5 seconds, allowing for efficient farming.</li>
+    </ul>
+
+    <h3>System and Security</h3>
+    <p>L2Feel prioritizes player security and experience:</p>
+    <ul>
+        <li><strong>Intelligent Auto Farm:</strong> Allows you to play while attending to other responsibilities.</li>
+        <li><strong>Anti-bot:</strong> WarGuard v2 and a Java anti-script system ensuring a fair gaming environment.</li>
+        <li><strong>Flagzone:</strong> Only 1 HWID per computer to prevent abuse.</li>
+    </ul>
+
+    <h3>VIP Accounts</h3>
+    <p>VIP accounts have exclusive advantages:</p>
+    <ul>
+        <li><strong>Experience and Drop:</strong> VIP accounts receive double experience and drop.</li>
+    </ul>
+
+    <h3>Advantages for Solo Players</h3>
+    <p>At L2Feel, we value players who prefer to play solo. The server is balanced to provide a fun and rewarding experience without the need to be in a large group. Here are some advantages:</p>
+    <ul>
+        <li><strong>No Party Farming:</strong> The server was designed for solo players, meaning there will be no party farming, allowing you to progress without relying on others.</li>
+        <li><strong>Farm Area:</strong> Farm areas have been adjusted to allow solo players to progress efficiently without depending on large groups.</li>
+        <li><strong>Daily Quests:</strong> The command <strong>.mission</strong> offers daily quests with generous rewards, facilitating the progress of solo players.</li>
+        <li><strong>Intelligent Auto Farm:</strong> Activate the auto farm system while you attend to other tasks. An ideal tool for those playing solo.</li>
+        <li><strong>Community Board and Rankings:</strong> Even while playing solo, you can actively participate in the Community Board rankings and compete with everyone.</li>
+    </ul>
+
+    <h3>Advantages for Clans</h3>
+    <p>In addition to providing a great experience for solo players, L2Feel also offers great advantages for those playing in groups or part of a clan. Here are some exclusive advantages for clans:</p>
+    <ul>
+        <li><strong>Clan Wars:</strong> Participate in epic wars between clans and fight for territorial and castle dominance.</li>
+        <li><strong>Raids and Grand Bosses:</strong> Epic raid bosses with special drops, perfect for coordinated clan groups fighting together.</li>
+        <li><strong>Castles:</strong> Conquer fortresses and castles to ensure additional benefits like buffs and taxes for your clan.</li>
+        <li><strong>Party Organization:</strong> With a limit of 3 parties (27 players) in the flagzone, your clan can coordinate epic battles and dominate important areas.</li>
+    </ul>
+
+    <h3>Final Remarks</h3>
+    <p>L2Feel is a free-to-play server. We do not sell heroes for donations, and there will be no party farming to consider solo players. Get ready for a new adventure on 01/11/2024 and join our community!</p>
+</section>
 ";
 $LANG[11003] = "Clan Owner";
 $LANG[11004] = "Clan Leader";
@@ -381,6 +269,7 @@ $LANG[12114] = "Hello!<br /><br />There is an registered account on our server w
 $LANG[12115] = "Below are the statuses of the server epic boss.";
 $LANG[12116] = "Access";
 $LANG[12117] = "Being faced!";
+
 $LANG[12118] = "START GAME";
 $LANG[12119] = "COMMUNITY";
 $LANG[12120] = "LOGIN";

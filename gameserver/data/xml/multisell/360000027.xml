@@ -2,81 +2,81 @@
 <list maintainEnchantment="true" applyTaxes="true">
 	<!-- GOLD BAR -->
 	<item id="1">
-	<ingredient id="13000" count="10"/>
-    <production id="13007" count="1"/>
+		<ingredient id="13000" count="10"/>
+		<production id="13007" count="1"/>
 	</item>
 	<!-- Elixir hp/cp -->
 	<item id="3">
-	<ingredient id="13000" count="5"/>
-    <production id="8627" count="20"/>
-	<production id="8639" count="20"/>
+		<ingredient id="13000" count="5"/>
+		<production id="8627" count="20"/>
+		<production id="8639" count="20"/>
 	</item>
 	<!-- CP/cp Potion -->
 	<item id="5">
-	<ingredient id="13000" count="5"/>
-	<production id="5592" count="1000"/>
-	<production id="5591" count="1000"/>
+		<ingredient id="13000" count="5"/>
+		<production id="5592" count="1000"/>
+		<production id="5591" count="1000"/>
 	</item>
 	<!-- Top-Grade Life Stone: Level 76 -->
 	<item id="6">
-	<ingredient id="13000" count="1"/>
-	<production id="8762" count="5"/>
+		<ingredient id="13000" count="1"/>
+		<production id="8762" count="10"/>
 	</item>
 	<!-- Giant's Codex -->
 	<item id="7">
-	<ingredient id="13000" count="5"/>
-	<production id="6622" count="1"/>
+		<ingredient id="13000" count="5"/>
+		<production id="6622" count="1"/>
 	</item>
 	<!-- Roulette -->
 	<item id="8">
-	<ingredient id="13000" count="25"/>
-	<production id="11017" count="1"/>
+		<ingredient id="13000" count="25"/>
+		<production id="11017" count="1"/>
 	</item>
-   <!-- 7 days Premium Status -->
-  <item id="10">
-    <ingredient id="13000" count="10"/>
-    <production id="11003" count="1"/>
-  </item>
-   <!-- 15 days Premium Status -->
-  <item id="11">
-    <ingredient id="13000" count="20"/>
-    <production id="11004" count="1"/>
-  </item>
-   <!-- 1 Month Premium Status -->
-  <item id="12">
-    <ingredient id="13000" count="30"/>
-    <production id="11005" count="1"/>
-  </item>
-  <!-- Change Name -->
-  <item id="13">
-    <ingredient id="13000" count="20"/>
-    <production id="11010" count="1"/>
-  </item>
-  <!-- Change Sexy -->
-  <item id="14">
-    <ingredient id="13000" count="10"/>
-    <production id="11011" count="1"/>
-  </item>
-  <!-- Remove PK -->
-  <item id="15">
-    <ingredient id="13000" count="10"/>
-    <production id="11012" count="1"/>
-  </item>
-  <!-- Level 80 -->
-  <item id="16">
-    <ingredient id="13000" count="10"/>
-    <production id="11013" count="1"/>
-  </item>
-  <!-- Change Class -->
-  <item id="17">
-    <ingredient id="13000" count="20"/>
-    <production id="11014" count="1"/>
-  </item>
-  <!-- Nobles -->
-  <item id="18">
-    <ingredient id="13000" count="30"/>
-    <production id="11000" count="1"/>
-  </item>
+	<!-- 7 days Premium Status -->
+	<item id="10">
+		<ingredient id="13000" count="10"/>
+		<production id="11003" count="1"/>
+	</item>
+	<!-- 15 days Premium Status -->
+	<item id="11">
+		<ingredient id="13000" count="20"/>
+		<production id="11004" count="1"/>
+	</item>
+	<!-- 1 Month Premium Status -->
+	<item id="12">
+		<ingredient id="13000" count="30"/>
+		<production id="11005" count="1"/>
+	</item>
+	<!-- Change Name -->
+	<item id="13">
+		<ingredient id="13000" count="20"/>
+		<production id="11010" count="1"/>
+	</item>
+	<!-- Change Sexy -->
+	<item id="14">
+		<ingredient id="13000" count="10"/>
+		<production id="11011" count="1"/>
+	</item>
+	<!-- Remove PK -->
+	<item id="15">
+		<ingredient id="13000" count="10"/>
+		<production id="11012" count="1"/>
+	</item>
+	<!-- Level 80 -->
+	<item id="16">
+		<ingredient id="13000" count="10"/>
+		<production id="11013" count="1"/>
+	</item>
+	<!-- Change Class -->
+	<item id="17">
+		<ingredient id="13000" count="20"/>
+		<production id="11014" count="1"/>
+	</item>
+	<!-- Nobles -->
+	<item id="18">
+		<ingredient id="13000" count="30"/>
+		<production id="11000" count="1"/>
+	</item>
 	<!--  CP Potion -->
 	<item id="19">
 		<ingredient id="13000" count="10"/>

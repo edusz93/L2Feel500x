@@ -1064,13 +1064,10 @@
 		<node x="9566" y="-23131"/>
 		<node x="6911" y="-22210"/>
 		<node x="4337" y="-23513"/>
-		<spawn type="NORMAL" x="10468" y="-24569" z="-3645"/>
-		<spawn type="NORMAL" x="9946" y="-23519" z="-3688"/>
-		<spawn type="NORMAL" x="8693" y="-23397" z="-3736"/>
-		<spawn type="NORMAL" x="7874" y="-22964" z="-3704"/>
-		<spawn type="NORMAL" x="11204" y="-22691" z="-3592"/>
-		<spawn type="NORMAL" x="9914" y="-22486" z="-3696"/>
-		<spawn type="NORMAL" x="6963" y="-22042" z="-3344"/>
+		<spawn type="NORMAL" x="11004" y="-23059" z="-3704"/>
+		<spawn type="NORMAL" x="8636" y="-23845" z="-3704"/>
+		<spawn type="NORMAL" x="8050" y="-23033" z="-3704"/>
+		<spawn type="NORMAL" x="9388" y="-23490" z="-3704"/>
 	</zone>
 	<zone id="999990" shape="NPoly" minZ="-12664" maxZ="-10664"><!-- Boss Event Zone -->
 		<stat name="townId" val="20"/>

@@ -45,15 +45,8 @@
 
 </head>
 <body>
-<div class="smoke"></div>
+
 <section class='<?php $themeAvailables = array('default', 'black', 'blue', 'red', 'green', 'purple'); echo $language.' '.(in_array($themeColor, $themeAvailables) ? $themeColor : 'default').(!$logged ? ' login' : ''); ?>'>
-<div class="sparks sparks_2">
-				<div class="spark_1"></div>
-				<div class="spark_2"></div>
-				<div class="spark_3"></div>
-				<div class="spark_4 spark-big"></div>
-				<div class="spark_5 spark-big"></div>
-			</div>
 	
 	<div class='langs'><?php $addp = "&url=http://".urlencode($_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']); ?>
 		<a href='?changelang=en' class='en' title='English' onclick="document.location.replace('./index.php?changelang=en<?php echo $addp; ?>');return false;"></a>
@@ -242,6 +235,8 @@
 
 <footer>
 	&copy; <?php echo date('Y'); ?> <?php echo $server_name; ?> - All rights reserved<br />
+	<span>Atualstudio Lineage 2 User Panel 2.0</span>
+	<a class='atualstudio' href='http://www.atualstudio.com' title='<?php echo $LANG[12028]; ?>' target='_blank'></a>
 </footer>
 
 <?php

@@ -1,99 +1,112 @@
 <?php if(!$indexing) { echo "<script>document.location.replace('./');</script>"; exit; } ?>
 <h1>Downloads</h1>
-<div class='pddInner' style="color: #ddd; text-align: left; font-size: 18px; margin: 20px 0;">
-    Para jogar, escolha entre as seguintes opções de download.<br><strong>Recomendamos fortemente</strong> o uso do patch com a interface com o tema Essence.<br>
-    <strong>Atenção:</strong> É necessário apagar a antiga pasta <strong>system</strong> do seu client Lineage 2 e colocar a do servidor sozinha!
+<!-- Informação inicial -->
+<div class='pddInner' style="color: #4A3B28; text-align: left; font-size: 16px; margin: 20px 0;">
+    Para jogar, escolha entre as seguintes opções de download.<br><br>
+    <strong style="color: #C14B4B;">Atenção:</strong> É necessário apagar a antiga pasta <strong>system</strong> do seu client Lineage 2 e colocar a do servidor sozinha!
 </div>
 
-<!-- PATCH V8 + SILENT ESSENCE INTERFACE -->
-<div style="padding: 20px; background-color: #333; color: #fff; border-radius: 10px; margin-bottom: 30px;">
-    <h2 style="font-size: 24px; color: #f9f9f9; border-bottom: 2px solid #666; padding-bottom: 10px; margin-bottom: 20px;">PATCH V8 + SILENT ESSENCE INTERFACE</h2>
-    <p style="color: #ddd;">Recomendado! Este patch inclui a interface com o tema Essence.</p>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://www.mediafire.com/file/cx5in94om27x6fn/L2ignis_Patch_With_Silent_Essence_Interface_v8.rar/file" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEDIAFIRE
-        </a>
-    </div>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://mega.nz/file/aJQgjJII#N2qtjcK9JPICL82V2mAYpeHGI_Gi9CaTetXiW_Hb-i8" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEGA (mirror)
-        </a>
-    </div>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://drive.google.com/file/d/1ge_HsC1-tkRSnnxYoHhcXc5mhKPbOjq9/view?usp=drive_link" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> Google Drive (mirror)
-        </a>
-    </div>
-</div>
+<!-- PATCH V2 + SILENT INTERFACE -->
+<div class='box' style="padding: 20px;  border-radius: 10px; margin-bottom: 30px; width:91%">
+    <h2 style="font-size: 22px; color: #FFD700; border-bottom: 2px solid #8B4513; padding-bottom: 10px; margin-bottom: 20px;">
+        Patch v2 + Silent Interface
+    </h2>
+    <p style="color: #EEE; margin-bottom: 20px;">Recomendado! Este patch v2 inclui a interface personalizada Silent.</p>
 
-<!-- PATCH V8 + SILENT INTERLUDE INTERFACE -->
-<div style="padding: 20px; background-color: #333; color: #fff; border-radius: 10px; margin-bottom: 30px;">
-    <h2 style="font-size: 24px; color: #f9f9f9; border-bottom: 2px solid #666; padding-bottom: 10px; margin-bottom: 20px;">PATCH V8 + SILENT INTERLUDE INTERFACE</h2>
-    <p style="color: #ddd;">Este patch inclui a interface com o tema Interlude.</p>
+    <!-- Botão Mediafire -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://www.mediafire.com/file/7i51rj3tquj0w7u/L2Ignis_Patch_With_Silent_Interface_v8.rar/file" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEDIAFIRE
+        <a class="default dbig" href="https://www.mediafire.com/file/pezkzrh298qwcdl/L2Feel_Interface_V2.rar/file" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Mediafire
         </a>
     </div>
+
+    <!-- Botão Mega (Mirror) -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://mega.nz/file/bcB0UKJQ#a8VmN4wCWOczAWb2rhmDYCteosGOZNYepFrvkbbs9bE" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEGA (mirror)
+        <a class="default dbig" href="https://mega.nz/file/fZoXTaQZ#POOrLOQtko77Mbn2AO1S1cGgYAbYIWJHIYblcakKNjg" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Mega (mirror)
         </a>
     </div>
+
+    <!-- Botão Google Drive (Mirror) -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://drive.google.com/file/d/1OaJqpZcM8WhC0W8aWNCfTQNgmObvFrnt/view?usp=drive_link" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> Google Drive (mirror)
+        <a class="default dbig" href="https://drive.google.com/file/d/1AcekEeq7XkCTJAPxrqBOfmXjHMH1PD4k/view?usp=sharing" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Google Drive (mirror)
         </a>
     </div>
 </div>
 
-<!-- PATCH V8 -->
-<div style="padding: 20px; background-color: #333; color: #fff; border-radius: 10px; margin-bottom: 30px;">
-    <h2 style="font-size: 24px; color: #f9f9f9; border-bottom: 2px solid #666; padding-bottom: 10px; margin-bottom: 20px;">PATCH V8</h2>
-    <p style="color: #ddd;">Este patch é sem interface incluída.</p>
+<!-- PATCH V2 CLEAN (SEM INTERFACE) -->
+<div class='box' style="padding: 20px;  border-radius: 10px; margin-bottom: 30px; width:91%">
+    <h2 style="font-size: 22px; color: #FFD700; border-bottom: 2px solid #8B4513; padding-bottom: 10px; margin-bottom: 20px;">
+        Patch v2 Clean (sem interface)
+    </h2>
+    <p style="color: #EEE; margin-bottom: 20px;">Este patch v2 não inclui uma interface personalizada.</p>
+
+    <!-- Botão Mediafire -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://www.mediafire.com/file/x129uocwylxzaqk/L2Ignis_Patch_v8.rar/file" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEDIAFIRE
+        <a class="default dbig" href="https://www.mediafire.com/file/plkiuy5pchb4v9h/L2Feel_Clean_V2.rar/file" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Mediafire
         </a>
     </div>
+
+    <!-- Botão Mega (Mirror) -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://mega.nz/file/mcx3Gaja#5VmiX3y8Ynfya_kD3Qo03Wy0uEALbWHw8GRzORveDSc" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEGA (mirror)
+        <a class="default dbig" href="https://mega.nz/file/PdBXCCSK#uNpPuGr1WpdJ9qKf86liMLX8LamszZYYAagXeWWUAOE" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Mega (mirror)
         </a>
     </div>
+
+    <!-- Botão Google Drive (Mirror) -->
     <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://drive.google.com/file/d/1BYSiBSsabruPMEH1fhgJbOcSCkpXKEVi/view?usp=drive_link" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> Google Drive (mirror)
+        <a class="default dbig" href="https://drive.google.com/file/d/16PIQFWpkxxd6NL5R8aWJwPDPAFZWCuWi/view?usp=sharing" target="_blank" 
+           >
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Google Drive (mirror)
         </a>
     </div>
 </div>
 
-<!-- INTERLUDE CLIENT + PATCH V8 + INTERFACE -->
-<div style="padding: 20px; background-color: #333; color: #fff; border-radius: 10px; margin-bottom: 30px;">
-    <h2 style="font-size: 24px; color: #f9f9f9; border-bottom: 2px solid #666; padding-bottom: 10px; margin-bottom: 20px;">INTERLUDE CLIENT + PATCH V8 + INTERFACE</h2>
-    <p style="color: #ddd;">Download completo do jogo com o patch V8 e a interface com o tema Interlude.</p>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://drive.google.com/file/d/1wWR5xyUc2tPZIbBKbf8cRNhxb57NXRfk/view?usp=drive_link" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> GOOGLE DRIVE
+<!-- CLIENTE INTERLUDE VFINAL + PATCH V2 + SILENT INTERFACE -->
+<div class='box' style="padding: 20px;  border-radius: 10px; margin-bottom: 30px; width:91%">
+    <h2 style="font-size: 22px; color: #FFD700; border-bottom: 2px solid #8B4513; padding-bottom: 10px; margin-bottom: 20px;">
+        Cliente Interlude vFinal + Patch v2 + Silent Interface
+    </h2>
+	<p style="color: #EEE; margin-bottom: 20px;">Jogo completo, versão final antes do Kamael, já com o patch v2 instalado.</p>
+    <div>
+        <a class="default dbig" href="https://drive.google.com/file/d/1Vs1bGhAtD81fIoK1ZyKvw4chagN-7YoZ/view?usp=sharing" target="_blank" style="text-decoration: none; color: #FFD700; font-weight: bold;">
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Google Drive
         </a>
     </div>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://www.mediafire.com/file/3lx72yh28b1fq5e/Lineage_2_-_Interlude.rar/file" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEDIAFIRE (mirror)
-        </a>
-    </div>
-    <div style="margin: 15px 0;">
-        <a class='default dbig' href="https://mega.nz/file/ydoSFCiK#yMeSy0Sg2GzyPMdSx6V3ZoFbhIDn-UBGjlsMP-N8dfE" target="_blank" style="display: block; background-color: #444; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
-            <i class="fa fa-download" style="padding-right:5px;"></i> MEGA (mirror)
+</div>
+
+<!-- CLIENTE INTERLUDE VFINAL + PATCH V2 CLEAN (SEM INTERFACE) -->
+<div class='box' style="padding: 20px;  border-radius: 10px; margin-bottom: 30px; width:91%">
+    <h2 style="font-size: 22px; color: #FFD700; border-bottom: 2px solid #8B4513; padding-bottom: 10px; margin-bottom: 20px;">
+        Cliente Interlude vFinal + Patch v2 Clean (sem interface)
+    </h2>
+	<p style="color: #EEE; margin-bottom: 20px;">Jogo completo, versão final antes do Kamael, já com o patch v2 instalado.</p>
+    <div>
+        <a class="default dbig" href="https://drive.google.com/file/d/1CN_YtzHI_KH6CSUdsvTZtwmkVkR_dKxC/view?usp=sharing" target="_blank" style="text-decoration: none; color: #FFD700; font-weight: bold;">
+            <i class="fa fa-download" style="padding-right: 5px;"></i> Google Drive
         </a>
     </div>
 </div>
 
 <!-- INSTRUÇÕES -->
-<div style="padding: 20px; background-color: #333; color: #fff; border-radius: 10px;">
-    <h2 style="font-size: 20px; color: #f9f9f9;">Instruções:</h2>
-    <p style="color: #ddd;">1. Escolha entre o patch com a interface tema Interlude ou Essence.</p>
-    <p style="color: #ddd;">2. Se desejar instalar sua própria interface, escolha o patch sem interface.</p>
-    <p style="color: #ddd;">3. Temos também o jogo completo já com o patch tema Interlude instalado.</p>
-    <p style="color: #ddd;">4. É necessário apagar a pasta 'system' antiga do seu client Lineage 2 e colocar a nova fornecida pelo servidor.</p>
+<div class='box' style="padding: 20px;  border-radius: 10px; margin-bottom: 30px; width:91%">
+    <h2 style="font-size: 22px; color: #FFD700; border-bottom: 2px solid #8B4513; padding-bottom: 10px; margin-bottom: 20px;">
+        Instruções:
+    </h2>
+    <ol style="padding-left: 20px; color: #EEE; line-height: 1.6;">
+        <li>Escolha o patch com interface, caso prefira uma experiência pronta para uso.</li>
+        <li>Se quiser personalizar sua própria interface, opte pelo patch sem interface.</li>
+        <li>Também disponibilizamos o jogo completo, versão final antes do Kamael, já com o patch v2 instalado.</li>
+        <li>Remova a pasta antiga 'system' do seu client Lineage 2 e substitua pela nova fornecida pelo servidor.</li>
+    </ol>
 </div>
+
+

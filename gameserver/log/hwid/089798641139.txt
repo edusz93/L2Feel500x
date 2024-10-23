@@ -84,3 +84,7 @@
 07/08/2024 19:06:33 >>> HWID: [089798641139] >>> Player: [Vrising]
 07/08/2024 19:42:32 >>> HWID: [089798641139] >>> Player: [LuisInacioLula]
 07/08/2024 22:49:03 >>> HWID: [089798641139] >>> Player: [MariaJoaquina]
+15/10/2024 20:50:50 >>> HWID: [089798641139] >>> Player: [MariaJoaquina]
+16/10/2024 19:45:00 >>> HWID: [089798641139] >>> Player: [MariaJoaquina]
+17/10/2024 19:59:11 >>> HWID: [089798641139] >>> Player: [MariaJoaquina]
+21/10/2024 19:34:26 >>> HWID: [089798641139] >>> Player: [MariaJoaquina]

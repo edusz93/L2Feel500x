@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
 	<item id="18000" type="Armor" name="Anonymous Mask">
+		<set name="icon" val="eternal_head.Anon_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -11,6 +12,7 @@
 		</for>
 	</item>
 	<item id="18001" type="Armor" name="Macaw Hat">
+		<set name="icon" val="eternal_head.Popugai_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -21,6 +23,7 @@
 		</for>
 	</item>
 	<item id="18002" type="Armor" name="Blue Daemon">
+		<set name="icon" val="eternal_head.Hell_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -31,6 +34,7 @@
 		</for>
 	</item>
 	<item id="18003" type="Armor" name="Killer Mask">
+		<set name="icon" val="eternal_head.Zlodey_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -41,6 +45,7 @@
 		</for>
 	</item>
 	<item id="18004" type="Armor" name="Angry Bird">
+		<set name="icon" val="eternal_head.Angry_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -51,6 +56,7 @@
 		</for>
 	</item>
 	<item id="18005" type="Armor" name="Warm Hat">
+		<set name="icon" val="eternal_head.Shapka_Hat_Blue_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -61,6 +67,7 @@
 		</for>
 	</item>
 	<item id="18006" type="Armor" name="Warm Hat">
+		<set name="icon" val="eternal_head.Shapka_Hat_White_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -71,6 +78,7 @@
 		</for>
 	</item>
 	<item id="18007" type="Armor" name="Not cap">
+		<set name="icon" val="eternal_head.Kepka_Hat_Yellow_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -81,6 +89,7 @@
 		</for>
 	</item>
 	<item id="18008" type="Armor" name="FBI Cap">
+		<set name="icon" val="eternal_head.Kepka_Hat_Black_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -91,6 +100,7 @@
 		</for>
 	</item>
 	<item id="18009" type="Armor" name="Pirate King">
+		<set name="icon" val="eternal_head.Pirate_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -101,6 +111,7 @@
 		</for>
 	</item>
 	<item id="18010" type="Armor" name="Baseball Helmet">
+		<set name="icon" val="eternal_head.HelmetRed_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -111,6 +122,7 @@
 		</for>
 	</item>
 	<item id="18011" type="Armor" name="Headphones">
+		<set name="icon" val="eternal_head.Phone_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -121,6 +133,7 @@
 		</for>
 	</item>
 	<item id="18012" type="Armor" name="Seraph Helmet">
+		<set name="icon" val="eternal_head.Seraph_Helm_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -131,6 +144,7 @@
 		</for>
 	</item>
 	<item id="18013" type="Armor" name="Vorpal Helmet">
+		<set name="icon" val="eternal_head.Vorpal_Helm_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -141,6 +155,7 @@
 		</for>
 	</item>
 	<item id="18014" type="Armor" name="White Hat">
+		<set name="icon" val="eternal_head.Moder_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -151,6 +166,7 @@
 		</for>
 	</item>
 	<item id="18015" type="Armor" name="Black Hat">
+		<set name="icon" val="eternal_head.Pro_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -161,6 +177,7 @@
 		</for>
 	</item>
 	<item id="18016" type="Armor" name="Summer White Hat">
+		<set name="icon" val="eternal_head.Sumhat_Hat_White_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -171,6 +188,7 @@
 		</for>
 	</item>
 	<item id="18017" type="Armor" name="Summer Black Hat">
+		<set name="icon" val="eternal_head.Sumhat_Hat_Black_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -181,6 +199,7 @@
 		</for>
 	</item>
 	<item id="18018" type="Armor" name="Paper Bag">
+		<set name="icon" val="eternal_head.Bag_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -191,6 +210,7 @@
 		</for>
 	</item>
 	<item id="18019" type="Armor" name="Witcher Hat">
+		<set name="icon" val="eternal_head.Witch_Hat_White_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -201,6 +221,7 @@
 		</for>
 	</item>
 	<item id="18020" type="Armor" name="Beret of Marines">
+		<set name="icon" val="eternal_head.Bill_Hat_Mph_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -211,6 +232,7 @@
 		</for>
 	</item>
 	<item id="18021" type="Armor" name="Beret of Russia">
+		<set name="icon" val="eternal_head.Bill_Hat_Rus_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -221,6 +243,7 @@
 		</for>
 	</item>
 	<item id="18022" type="Armor" name="Beret of Special Forces">
+		<set name="icon" val="eternal_head.Bill_Hat_Spec_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -231,6 +254,7 @@
 		</for>
 	</item>
 	<item id="18023" type="Armor" name="Beret of USSR">
+		<set name="icon" val="eternal_head.Bill_Hat_CCCP_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -241,6 +265,7 @@
 		</for>
 	</item>
 	<item id="18024" type="Armor" name="Fashion Shoes">
+		<set name="icon" val="eternal_head.Boot_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -251,6 +276,7 @@
 		</for>
 	</item>
 	<item id="18025" type="Armor" name="Big Glasses">
+		<set name="icon" val="eternal_head.Ttg_Glass_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -261,6 +287,7 @@
 		</for>
 	</item>
 	<item id="18026" type="Armor" name="Military Helmet">
+		<set name="icon" val="eternal_head.Kaska_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -271,6 +298,7 @@
 		</for>
 	</item>
 	<item id="18027" type="Armor" name="Headgear of Leader">
+		<set name="icon" val="eternal_head.Leader_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -281,6 +309,7 @@
 		</for>
 	</item>
 	<item id="18028" type="Armor" name="Good Ghost">
+		<set name="icon" val="eternal_head.Ghost_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -291,6 +320,7 @@
 		</for>
 	</item>
 	<item id="18029" type="Armor" name="Voodoo Hat">
+		<set name="icon" val="eternal_head.Voodoo_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -301,6 +331,7 @@
 		</for>
 	</item>
 	<item id="18030" type="Armor" name="Cap of The 80th">
+		<set name="icon" val="eternal_head.Gopka_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -311,6 +342,7 @@
 		</for>
 	</item>
 	<item id="18031" type="Armor" name="Cap Rus">
+		<set name="icon" val="eternal_head.br_hat_for_boi_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -321,6 +353,7 @@
 		</for>
 	</item>
 	<item id="18032" type="Armor" name="Alien Mask">
+		<set name="icon" val="eternal_head.icones.icone_alien" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -331,6 +364,7 @@
 		</for>
 	</item>
 	<item id="18033" type="Armor" name="Doccabi Mask">
+		<set name="icon" val="eternal_head.icones.icone_ogre" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -341,6 +375,7 @@
 		</for>
 	</item>
 	<item id="18034" type="Armor" name="Frank Mask">
+		<set name="icon" val="eternal_head.icones.icone_frank" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -351,6 +386,7 @@
 		</for>
 	</item>
 	<item id="18035" type="Armor" name="Mumpkin Mask">
+		<set name="icon" val="eternal_head.icones.icone_abobora" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -361,6 +397,7 @@
 		</for>
 	</item>
 	<item id="18036" type="Armor" name="Mummy Mask">
+		<set name="icon" val="eternal_head.icones.icone_mumia" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -371,6 +408,7 @@
 		</for>
 	</item>
 	<item id="18037" type="Armor" name="Panic Mask">
+		<set name="icon" val="eternal_head.icones.icone_panic" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -381,6 +419,7 @@
 		</for>
 	</item>
 	<item id="18038" type="Armor" name="Cap Adiddas">
+		<set name="icon" val="eternal_head.icone.br_hat_for_boy_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -391,6 +430,7 @@
 		</for>
 	</item>
 	<item id="18039" type="Armor" name="Helloween Hat">
+		<set name="icon" val="eternal_head.accessory_halloween_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -401,6 +441,7 @@
 		</for>
 	</item>
 	<item id="18040" type="Armor" name="Top Hat Magic">
+		<set name="icon" val="eternal_head.br_flag_cap_icon" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -411,6 +452,7 @@
 		</for>
 	</item>
 	<item id="18041" type="Armor" name="Fire Demon">
+		<set name="icon" val="eternal_head.icone_anger" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -421,6 +463,7 @@
 		</for>
 	</item>
 	<item id="18042" type="Armor" name="Water Angel">
+		<set name="icon" val="eternal_head.Sorrow_icon" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -431,6 +474,7 @@
 		</for>
 	</item>
 	<item id="18043" type="Armor" name="Cowboy Cap">
+		<set name="icon" val="eternal_head.cowboy_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -441,6 +485,7 @@
 		</for>
 	</item>
 	<item id="18044" type="Armor" name="Steel Cap">
+		<set name="icon" val="eternal_head.g_co_sf_hair" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -451,6 +496,7 @@
 		</for>
 	</item>
 	<item id="18045" type="Armor" name="Eye Visor">
+		<set name="icon" val="eternal_head.br_Eye_Visor_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -461,6 +507,7 @@
 		</for>
 	</item>
 	<item id="18046" type="Armor" name="Golden Skeleton Circlet">
+		<set name="icon" val="eternal_head.golden_skeleton_circlet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -471,6 +518,7 @@
 		</for>
 	</item>
 	<item id="18047" type="Armor" name="Zaken Cap">
+		<set name="icon" val="eternal_head.zaken_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -481,6 +529,7 @@
 		</for>
 	</item>
 	<item id="18048" type="Armor" name="Valkyrie Cap">
+		<set name="icon" val="eternal_head.br_valkyrie_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -491,6 +540,7 @@
 		</for>
 	</item>
 	<item id="18049" type="Armor" name="Beach Cap">
+		<set name="icon" val="eternal_head.g_beach_cap" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -501,6 +551,7 @@
 		</for>
 	</item>
 	<item id="18050" type="Armor" name="Circlet of Eva">
+		<set name="icon" val="eternal_head.br_circlet_of_eva_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -511,6 +562,7 @@
 		</for>
 	</item>
 	<item id="18051" type="Armor" name="Goggle's">
+		<set name="icon" val="eternal_head.br_goggles_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -521,6 +573,7 @@
 		</for>
 	</item>
 	<item id="18052" type="Armor" name="Advance Mine Search Cap">
+		<set name="icon" val="eternal_head.Advance_Mine_Search_Cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -531,6 +584,7 @@
 		</for>
 	</item>
 	<item id="18053" type="Armor" name="Knight Circlet">
+		<set name="icon" val="eternal_head.knight_circlet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -541,6 +595,7 @@
 		</for>
 	</item>
 	<item id="18054" type="Armor" name="Ketra Karm">
+		<set name="icon" val="eternal_head.Ketra_Karm_m001_a_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -551,6 +606,7 @@
 		</for>
 	</item>
 	<item id="18055" type="Armor" name="Mine Search Cap">
+		<set name="icon" val="eternal_head.Mine_Search_Cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -561,6 +617,7 @@
 		</for>
 	</item>
 	<item id="18056" type="Armor" name="Ruthless Mask">
+		<set name="icon" val="eternal_head.br_mask_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -571,6 +628,7 @@
 		</for>
 	</item>
 	<item id="18057" type="Armor" name="Animal Skeleton Circlet">
+		<set name="icon" val="eternal_head.Animal_Skeleton_Circlet_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -581,6 +639,7 @@
 		</for>
 	</item>
 	<item id="18058" type="Armor" name="Samurai Helmet">
+		<set name="icon" val="eternal_head.icon.g_co_japan_general_hair_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -591,6 +650,7 @@
 		</for>
 	</item>
 	<item id="18059" type="Armor" name="Nifty Hat">
+		<set name="icon" val="eternal_head.icon.g_hair_fancy_hat_pl" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -601,6 +661,7 @@
 		</for>
 	</item>
 	<item id="18060" type="Armor" name="Highlander Hat">
+		<set name="icon" val="eternal_head.icon.g_hair_gorale_hat_pl" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -611,6 +672,7 @@
 		</for>
 	</item>
 	<item id="18061" type="Armor" name="Hat-Flare - Fireworks Volley">
+		<set name="icon" val="eternal_head.icon.br_rocket_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -621,6 +683,7 @@
 		</for>
 	</item>
 	<item id="18062" type="Armor" name="National Taiwan headdress">
+		<set name="icon" val="eternal_head.icon.g_co_paiwan_hair" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -631,6 +694,7 @@
 		</for>
 	</item>
 	<item id="18063" type="Armor" name="Cap Flower">
+		<set name="icon" val="eternal_head.icon.pi_flowerhat_for_lady" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -641,6 +705,7 @@
 		</for>
 	</item>
 	<item id="18064" type="Armor" name="Chinese Empire Helmet">
+		<set name="icon" val="eternal_head.icon.accessory_tengallon_brown_hat_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -651,6 +716,7 @@
 		</for>
 	</item>
 	<item id="18065" type="Armor" name="Hat Forest Tinkerbell">
+		<set name="icon" val="eternal_head.icon.pi_forgetmenot_cap" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -661,6 +727,7 @@
 		</for>
 	</item>
 	<item id="18066" type="Armor" name="Hat Cricket">
+		<set name="icon" val="eternal_head.icon.br_locust_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -671,6 +738,7 @@
 		</for>
 	</item>
 	<item id="18067" type="Armor" name="Hat Paiwan">
+		<set name="icon" val="eternal_head.icon.br_paiwan_cap_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -681,6 +749,7 @@
 		</for>
 	</item>
 	<item id="18068" type="Armor" name="Comfortsprit Hat">
+		<set name="icon" val="eternal_head.icon.br_comfortspirit_hat_a_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -691,6 +760,7 @@
 		</for>
 	</item>
 	<item id="18069" type="Armor" name="Eye Beetle">
+		<set name="icon" val="eternal_head.icon.accessory_beetle_eye_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -701,6 +771,7 @@
 		</for>
 	</item>
 	<item id="18070" type="Armor" name="Straw Hat">
+		<set name="icon" val="eternal_head.icon.accessory_straw_hat_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -711,6 +782,7 @@
 		</for>
 	</item>
 	<item id="18071" type="Armor" name="Topper Magic">
+		<set name="icon" val="eternal_head.Hatter_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -721,6 +793,7 @@
 		</for>
 	</item>
 	<item id="18072" type="Armor" name="Topper Voodoo">
+		<set name="icon" val="eternal_head.Voodoo2_Hat_i" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -731,6 +804,7 @@
 		</for>
 	</item>
 	<item id="18073" type="Armor" name="Valakas Daemon">
+		<set name="icon" val="eternal_head.kras" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -741,6 +815,7 @@
 		</for>
 	</item>
 	<item id="18074" type="Armor" name="Elegia Hat">
+		<set name="icon" val="eternal_head.elegia_mask_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -751,6 +826,7 @@
 		</for>
 	</item>
 	<item id="18075" type="Armor" name="Carnival Hat">
+		<set name="icon" val="eternal_head.carnaval" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -761,6 +837,7 @@
 		</for>
 	</item>
 	<item id="18076" type="Armor" name="Assassin's Bamboo Hat">
+		<set name="icon" val="eternal_head.br_Bamboo_Hat_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -770,9 +847,8 @@
 			<add stat="mDef" val="150" />
 		</for>
 	</item>
-	
-	
 	<item id="18077" type="Armor" name="Redefined Feathered Hat">
+		<set name="icon" val="kamui_acc.accessory_archer_hat2_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -783,6 +859,7 @@
 		</for>
 	</item>	
 	<item id="18078" type="Armor" name="Redefined Jester Hat">
+		<set name="icon" val="kamui_acc.accessory_jester_cap_2_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -793,6 +870,7 @@
 		</for>
 	</item>	
 	<item id="18079" type="Armor" name="Redefined Wizard Hat">
+		<set name="icon" val="kamui_acc.accessory_magician_cap2_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />
@@ -803,6 +881,7 @@
 		</for>
 	</item>	
 	<item id="18080" type="Armor" name="Redefined Dapper Cap">
+		<set name="icon" val="kamui_acc.accessory_dandy_cap2_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="hair" />
 		<set name="material" val="WOOD" />

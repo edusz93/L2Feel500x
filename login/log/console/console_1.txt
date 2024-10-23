@@ -1,20 +1,20 @@
-[28-08-2024 19:52:13]	INFO	-----------------------------------------------=[ Config ]
-[28-08-2024 19:52:13]	INFO	Loading loginserver configuration files.
-[28-08-2024 19:52:13]	INFO	----------------------------------------------=[ Poolers ]
-[28-08-2024 19:52:13]	INFO	Initializing ConnectionPool.
-[28-08-2024 19:52:13]	INFO	--------------------------------------=[ LoginController ]
-[28-08-2024 19:52:14]	INFO	Cached 10 KeyPairs for RSA communication.
-[28-08-2024 19:52:14]	INFO	Stored 20 keys for Blowfish communication.
-[28-08-2024 19:52:14]	INFO	------------------------------------=[ GameServerManager ]
-[28-08-2024 19:52:14]	INFO	Loaded 127 server names.
-[28-08-2024 19:52:14]	INFO	Loaded 1 registered gameserver(s).
-[28-08-2024 19:52:15]	INFO	Cached 10 RSA keys for gameserver communication.
-[28-08-2024 19:52:15]	INFO	---------------------------------------------=[ Ban List ]
-[28-08-2024 19:52:15]	INFO	Loaded 1 banned IP(s).
-[28-08-2024 19:52:15]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
-[28-08-2024 19:52:15]	INFO	Listening for gameservers on *:9014.
-[28-08-2024 19:52:15]	INFO	Loginserver ready on *:2106.
-[28-08-2024 19:52:15]	INFO	------------------------=[ Waiting for gameserver answer ]
-[28-08-2024 19:52:18]	INFO	Hooked [1] Feel gameserver on: 127.0.0.1.
-[28-08-2024 19:52:27]	INFO	Auto created account 'admin'.
-[28-08-2024 19:55:30]	INFO	GameServer [1] Feel is now set as disconnected.
+[15-10-2024 11:04:48]	INFO	-----------------------------------------------=[ Config ]
+[15-10-2024 11:04:48]	INFO	Loading loginserver configuration files.
+[15-10-2024 11:04:48]	INFO	----------------------------------------------=[ Poolers ]
+[15-10-2024 11:04:48]	INFO	Initializing ConnectionPool.
+[15-10-2024 11:04:48]	INFO	--------------------------------------=[ LoginController ]
+[15-10-2024 11:04:48]	INFO	Cached 10 KeyPairs for RSA communication.
+[15-10-2024 11:04:48]	INFO	Stored 20 keys for Blowfish communication.
+[15-10-2024 11:04:48]	INFO	------------------------------------=[ GameServerManager ]
+[15-10-2024 11:04:48]	INFO	Loaded 127 server names.
+[15-10-2024 11:04:48]	INFO	Loaded 1 registered gameserver(s).
+[15-10-2024 11:04:48]	INFO	Cached 10 RSA keys for gameserver communication.
+[15-10-2024 11:04:48]	INFO	---------------------------------------------=[ Ban List ]
+[15-10-2024 11:04:48]	INFO	Loaded 1 banned IP(s).
+[15-10-2024 11:04:48]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
+[15-10-2024 11:04:48]	INFO	Listening for gameservers on *:9014.
+[15-10-2024 11:04:48]	INFO	Loginserver ready on *:2106.
+[15-10-2024 11:04:48]	INFO	------------------------=[ Waiting for gameserver answer ]
+[15-10-2024 11:04:56]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[15-10-2024 11:05:02]	INFO	GameServer [1] Feel is now set as disconnected.
+[15-10-2024 11:05:24]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.

@@ -52,12 +52,12 @@ $buyCoins['bonus_count'][1] = '100'; // A partir de qual quantidade o bônus aba
 $buyCoins['bonus_percent'][1] = '10'; // Qual a porcentagem de bonificação?
 
 // Bonificação 2:
-$buyCoins['bonus_count'][2] = '300'; // A partir de qual quantidade o bônus abaixo é dado?
-$buyCoins['bonus_percent'][2] = '30'; // Qual a porcentagem de bonificação?
+$buyCoins['bonus_count'][2] = '400'; // A partir de qual quantidade o bônus abaixo é dado?
+$buyCoins['bonus_percent'][2] = '15'; // Qual a porcentagem de bonificação?
 
 // Bonificação 3:
-$buyCoins['bonus_count'][3] = '500'; // A partir de qual quantidade o bônus abaixo é dado?
-$buyCoins['bonus_percent'][3] = '50'; // Qual a porcentagem de bonificação?
+$buyCoins['bonus_count'][3] = '1000'; // A partir de qual quantidade o bônus abaixo é dado?
+$buyCoins['bonus_percent'][3] = '20'; // Qual a porcentagem de bonificação?
 
 // Exclusão de fatura
 $delFatura = 1; // O usuário pode excluir uma fatura? (1 = Sim | 0 = Não) - OBS: Uma fatura nunca é excluída, ela é ocultada, mas sempre permanecerá no banco de dados.

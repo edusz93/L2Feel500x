@@ -12,26 +12,8 @@ $database_acis = $dbnm;
 error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
 
 $acis = mysqli_connect($hostname_acis, $username_acis, $password_acis, $database_acis);
-
-function getNextRespawnBoss($bosses, $connection, $excludeNames = []) {
-    $nextBoss = null;
-    $minRespawnTime = PHP_INT_MAX;
-
-    foreach ($bosses as $boss) {
-        if (in_array($boss['name'], $excludeNames)) {
-            continue;
-        }
-        $result = mysqli_query($connection, $boss['query']);
-        while ($raid = mysqli_fetch_array($result)) {
-            if ($raid['respawn_time'] < $minRespawnTime && $raid['respawn_time'] >= time() * 1000) {
-                $minRespawnTime = $raid['respawn_time'];
-                $nextBoss = $boss;
-                $nextBoss['respawn_time'] = $raid['respawn_time'];
-            }
-        }
-    }
-
-    return $nextBoss;
+if (!$acis) {
+    die("Connection failed: " . mysqli_connect_error());
 }
 
 $GrandBosses = [
@@ -113,6 +95,7 @@ $EpicBosses = [
 ];
 
 $RaidBosses = [
+	['name' => 'Baylor', 'level' => 90, 'image' => 'https://forum.battleclub.ws/uploads/monthly_2022_07/baylor.jpg.02e0df864753bf47b1ef76303b993a1d.jpg', 'query' => "SELECT * FROM spawn_data WHERE name = 'baylor'", 'random' => '0m'],
 	['name' => 'Flame of Splendor Barakiel', 'level' => 80, 'image' => 'https://l2j.ru/npc_picture.php?id=25325', 'query' => "SELECT * FROM grandboss_data WHERE boss_id = 39999", 'random' => '0m'],
 	['name' => 'Shilens Messenger Cabrio', 'level' => 80, 'image' => 'https://l2j.ru/npc_picture.php?id=25035', 'query' => "SELECT * FROM spawn_data WHERE name = 'domb_death_cabrio'", 'random' => '0m'],
 	['name' => 'Death Lord Hallate', 'level' => 80, 'image' => 'https://l2j.ru/npc_picture.php?id=25220', 'query' => "SELECT * FROM spawn_data WHERE name = 'hallate_the_death_lord'", 'random' => '0m'],
@@ -144,89 +127,83 @@ $RaidBosses = [
 	['name' => 'Flamestone Giant', 'level' => 80, 'image' => 'https://l2j.ru/npc_picture.php?id=25524', 'query' => "SELECT * FROM spawn_data WHERE name = 'flame_stone_golem'", 'random' => '0m']
 ];
 
-$nextGrandBoss = getNextRespawnBoss($GrandBosses, $acis, ['Boss Event: Sailren']);
-$nextEpicBoss = getNextRespawnBoss($EpicBosses, $acis);
-$nextRaidBoss = getNextRespawnBoss($RaidBosses, $acis);
-
 // Obter o filtro selecionado pelo usuário
 $filter = isset($_GET['filter']) ? $_GET['filter'] : 'all';
 $currentTimeMillis = time() * 1000;
 
 function shouldShowBoss($respawnTime, $filter) {
     global $currentTimeMillis;
-    if ($filter == 'all') return true;
+    if ($filter === 'all') return true;
     $isDead = $respawnTime >= $currentTimeMillis;
-    return ($filter == 'alive' && !$isDead) || ($filter == 'dead' && $isDead);
+    return ($filter === 'alive') !== $isDead; // Inverte a lógica
 }
 
-function displayBossRow($name, $level, $image, $respawnTime, $lang, $isEpic = false, $random, $fixedHour) {
+function displayBossRow($name, $level, $image, $respawnTime, $lang, $isEpic = false, $random, $fixedHour, $rowIndex) {
     global $filter, $currentTimeMillis;
     $isDead = $respawnTime >= $currentTimeMillis;
     if (!shouldShowBoss($respawnTime, $filter)) return;
+
+    // Definindo cores para "morto"
+    $darkRed = '#992600'; // vermelho escuro
+    $lighterRed = '#c0483b'; // vermelho um pouco mais escuro que o anterior
+
+    // Alternar as cores com base no índice
+    if ($isDead) {
+        $bgColor = ($rowIndex % 2 == 0) ? $darkRed : $lighterRed;
+    } else {
+        // Cor de fundo alternada para vivo
+        $bgColor = ($rowIndex % 2 == 0) ? '#2a1d14' : '#34271E';
+    }
+
+    $imgWidth = '100px'; // Largura reduzida da imagem
+    $imgHeight = '100px'; // Altura da imagem
+    $imgFilter = $isDead ? 'grayscale(100%)' : 'none';
+    $statusColor = $isDead ? 'orange' : '#32CD32'; // Cor para vivo ou morto
+    $respawnTextColor = '#cccccc'; // Cor do texto do tempo de respawn
     ?>
-    <tr class="<?php echo $isDead ? 'dead' : ''; ?>" style="<?php echo $isDead ? 'background-color: #2B2A36;' : ''; ?>">
-        <td align="center" style="padding:0px; border-right: 1px solid #444; vertical-align: middle;" width="35%">
-            <?php echo $name; ?><br />
-            <div style="display: inline-block; overflow: hidden; width: auto; height: 75px; border-radius: 1px; border: 2px solid #555; <?php echo $isEpic ? 'border-radius:50%;' :""; ?>">
-                <img src="<?php echo $isEpic ? './assets/images/boss/' :""; ?><?php echo $image; ?>" alt="Image" style="<?php if ($respawnTime >= $currentTimeMillis) echo 'filter: grayscale(100%);'; ?> max-width: 100%; height: auto; max-height: 100%;" />
+
+    <tr class="<?php echo $isDead ? 'dead' : 'alive'; ?>" style="background-color: <?php echo $bgColor; ?>; transition: background-color 0.3s;">
+        <td align="center" style="padding: 15px; border-right: 1px solid #4e3b29; vertical-align: middle; width: 150px;">
+            <h4 style="margin: 0; color: #fff;"><?php echo $name; ?></h4><br>
+            <div style="display: inline-block; overflow: hidden; width: <?php echo $imgWidth; ?>; height: <?php echo $imgHeight; ?>; border-radius: 5px; border: 2px solid #4e3b29; position: relative;">
+                <img src="<?php echo $isEpic ? './assets/images/boss/' : ""; ?><?php echo $image; ?>" alt="Image" style="filter: <?php echo $imgFilter; ?>; width: 100%; height: 100%; object-fit: cover; border-radius: 5px; display: block; margin: auto;"/>
             </div>
         </td>
-        <td style="border-right: 1px solid #444; vertical-align: middle;" align="center" width="20%">
-            <?php echo $level; ?>
+        <td style="border-right: 1px solid #4e3b29; vertical-align: middle; padding: 15px; color: #f0c674; text-align: center; width: 50px;">
+            <strong><?php echo $level; ?></strong>
         </td>
-        <td style="border-right: 1px solid #444; vertical-align: middle;" align="center" width="45%">
+        <td style="border-right: 1px solid #4e3b29; vertical-align: middle; padding: 15px; color: #000; text-align: center; width: 200px;">
             <?php
             if ($respawnTime < $currentTimeMillis) {
-                echo "<font class='is_alive' style='color:#32CD32;'>" . $lang[12030] . "</font>";
+                echo "<span style='color: $statusColor; font-weight: bold;'>" . $lang[12030] . "</span>";
             } else {
                 $date = date('d/m', ($respawnTime / 1000));
-				if($random == "0m") {
-					$time = date('H:i:s', ($respawnTime / 1000));
-				}
-				else {
-					$time = $fixedHour . " +- " . $random;
-				}
-                echo "<font style='color:orange;'>" . $lang[12029] . "</font> <br>(<font style='color:#cccccc;'>" . $date . ", " . $time . "</font>)";
+                $time = $random == "0m" ? date('H:i', ($respawnTime / 1000)) : $fixedHour . " +- " . $random;
+                echo "<span style='color: orange; font-weight: bold;'>" . $lang[12029] . "</span> <br><span style='color: $respawnTextColor;'>(" . $date . ", " . $time . ")</span>";
             }
             ?>
         </td>
     </tr>
+
     <?php
 }
 
 ?><h1>Boss Status</h1>
 <!-- Formulário de filtro -->
-<form method="GET" action="">
+<form method="GET" action="" style="margin-bottom: 20px; display: flex; align-items: center;">
     <input type="hidden" name="page" value="boss" />
-    <label for="filter">Filtrar por status:</label>
-    <select name="filter">
+    <label for="filter" style="margin-right: 10px; font-weight: bold; color: #fff;">Filtrar por status:</label>
+    <select name="filter" id="filter" style="padding: 8px 12px; background-color: #2a1d14; color: #f0c674; border: 1px solid #4e3b29; border-radius: 5px; margin-right: 15px;">
         <option value="all" <?php if ($filter == 'all') echo 'selected'; ?>>Todos</option>
         <option value="alive" <?php if ($filter == 'alive') echo 'selected'; ?>>Vivos</option>
         <option value="dead" <?php if ($filter == 'dead') echo 'selected'; ?>>Mortos</option>
     </select>
-    <button type="submit">Filtrar</button>
+    <button type="submit" style="padding: 8px 15px; background-color: #4e3b29; color: #f0c674; border: none; border-radius: 5px; cursor: pointer;">Filtrar</button>
 </form>
 <div class='pddInner'>
     <?php echo $LANG[12115] . "<br />" . $LANG[30500] . " <b>" . date('d/m/Y', $updated) . "</b> " . $LANG[30501] . " <b>" . date('H:i', $updated) . "</b>."; ?><br /><br />
 </div>
 <center>
-    <?php if ($nextGrandBoss): ?>
-    <div style="padding: 5px; font-size: 18px; font-weight: bold; color: #e0e0e0; background-color: ; border-radius: 18px; border: 1px solid #333333;">
-        Próximo Grand Boss a renascer: <span style="color: #76ff03;"><?php echo $nextGrandBoss['name']; ?></span>
-    </div>
-    <?php endif; ?>
-    <?php if ($nextEpicBoss): ?>
-    <div style="padding: 5px; font-size: 18px; font-weight: bold; color: #e0e0e0; background-color: ; border-radius: 18px; border: 1px solid #333333;">
-        Próximo Epic Boss a renascer: <span style="color: #76ff03;"><?php echo $nextEpicBoss['name']; ?></span>
-    </div>
-    <?php endif; ?>
-    <?php if ($nextRaidBoss): ?>
-    <div style="padding: 5px; font-size: 18px; font-weight: bold; color: #e0e0e0; background-color: ; border-radius: 18px; border: 1px solid #333333;">
-        Próximo Raid Boss a renascer: <span style="color: #76ff03;"><?php echo $nextRaidBoss['name']; ?></span> às <?php echo date('d/m/Y H:i:s', $nextRaidBoss['respawn_time'] / 1000); ?>
-    </div>
-    <br />
-    <?php endif; ?>
-
     <table width="98%" height="auto" border="0" cellpadding="0" cellspacing="0">
         <tr style="background-color:#333; color:#FFF; font-size:14px; font-weight:600; text-align:center;">
             <td style="padding-top:10px;padding-bottom:12px; border-radius: 5px 0 0 0;" width="35%" align="center" nowrap="nowrap">BOSS NAME</td>
@@ -236,27 +213,44 @@ function displayBossRow($name, $level, $image, $respawnTime, $lang, $isEpic = fa
     </table>
 
     <table width="98%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px solid #444; font-weight:400; font-size:15px; letter-spacing:-0.6px; color:#cccccc;">
-    <?php
-    foreach ($GrandBosses as $boss) {
-        $result = mysqli_query($acis, $boss['query']);
-        while ($raid = mysqli_fetch_array($result)) {
-            displayBossRow($boss['name'], $boss['level'], $boss['image'], $raid['respawn_time'], $LANG, true, $boss['random'], $boss['fixedHour']);
-        }
-    }
+	<?php
 
-    foreach ($EpicBosses as $boss) {
-        $result = mysqli_query($acis, $boss['query']);
-        while ($raid = mysqli_fetch_array($result)) {
-            displayBossRow($boss['name'], $boss['level'], $boss['image'], $raid['respawn_time'], $LANG, true, $boss['random'], $boss['fixedHour']);
-        }
-    }
+	function displayBosses($bosses, $acis, $LANG, &$rowIndex, $isGrandOrEpic) {
+		$bossesWithRespawnTimes = []; // Array para armazenar os bosses com respawn times
 
-    foreach ($RaidBosses as $boss) {
-        $result = mysqli_query($acis, $boss['query']);
-        while ($raid = mysqli_fetch_array($result)) {
-            displayBossRow($boss['name'], $boss['level'], $boss['image'], $raid['respawn_time'], $LANG, false, $boss['random'], 0);
-        }
-    }
-    ?>
+		foreach ($bosses as $boss) {
+			$result = mysqli_query($acis, $boss['query']);
+			while ($raid = mysqli_fetch_array($result)) {
+				// Armazena os dados do boss junto com o respawn_time
+				$bossData = [
+					'name' => $boss['name'],
+					'level' => $boss['level'],
+					'image' => $boss['image'],
+					'respawn_time' => $raid['respawn_time'],
+					'random' => $boss['random'],
+					'fixedHour' => $boss['fixedHour']
+				];
+				$bossesWithRespawnTimes[] = $bossData; // Adiciona ao array
+			}
+		}
+
+		// Ordena o array por respawn_time de forma ascendente
+		usort($bossesWithRespawnTimes, function($a, $b) {
+			return $a['respawn_time'] <=> $b['respawn_time']; // Ordem ascendente
+		});
+
+		// Exibe os bosses ordenados
+		foreach ($bossesWithRespawnTimes as $boss) {
+			displayBossRow($boss['name'], $boss['level'], $boss['image'], $boss['respawn_time'], $LANG, $isGrandOrEpic, $boss['random'], $boss['fixedHour'], $rowIndex);
+			$rowIndex++; // Incrementa o contador de linhas
+		}
+	}
+
+	$rowIndex = 0; // Inicializa o contador de linhas
+	displayBosses($GrandBosses, $acis, $LANG, $rowIndex, true); // Exibe Grand Bosses
+	displayBosses($EpicBosses, $acis, $LANG, $rowIndex, true); // Exibe Epic Bosses
+	displayBosses($RaidBosses, $acis, $LANG, $rowIndex, false); // Exibe Raid Bosses
+
+	?>
     </table>
 </center>

@@ -12,7 +12,7 @@ Rune Area
 		<node x="14783" y="-10180" />
 	</territory>
 	<npcmaker name="primeval_isle_0" territory="primeval_isle_0" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="15283;-10680;-3311;60446" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15283;-10680;-3311;60446" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -23,7 +23,7 @@ Rune Area
 		<node x="22071" y="-16374" />
 	</territory>
 	<npcmaker name="primeval_isle_1" territory="primeval_isle_1" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="22571;-16874;-3001;10997" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="22571;-16874;-3001;10997" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -34,7 +34,7 @@ Rune Area
 		<node x="4710" y="-19903" />
 	</territory>
 	<npcmaker name="primeval_isle_10" territory="primeval_isle_10" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5210;-20403;-3545;13569" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5210;-20403;-3545;13569" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -45,7 +45,7 @@ Rune Area
 		<node x="6625" y="-14943" />
 	</territory>
 	<npcmaker name="primeval_isle_100" territory="primeval_isle_100" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="7125;-15443;-3698;37509" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="7125;-15443;-3698;37509" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -56,7 +56,7 @@ Rune Area
 		<node x="5212" y="-10042" />
 	</territory>
 	<npcmaker name="primeval_isle_101" territory="primeval_isle_101" spawn="ALL" maximumNpcs="6">
-		<npc id="22208" pos="5712;-10542;-3636;21674" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="5712;-10542;-3636;21674" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -67,7 +67,7 @@ Rune Area
 		<node x="6616" y="-8423" />
 	</territory>
 	<npcmaker name="primeval_isle_102" territory="primeval_isle_102" spawn="ALL" maximumNpcs="6">
-		<npc id="22208" pos="7116;-8923;-3664;18041" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="7116;-8923;-3664;18041" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -78,7 +78,7 @@ Rune Area
 		<node x="5143" y="-11625" />
 	</territory>
 	<npcmaker name="primeval_isle_103" territory="primeval_isle_103" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="5643;-12125;-3644;45427" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="5643;-12125;-3644;45427" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -89,7 +89,7 @@ Rune Area
 		<node x="3882" y="-7237" />
 	</territory>
 	<npcmaker name="primeval_isle_104" territory="primeval_isle_104" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="4382;-7737;-3498;40460" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="4382;-7737;-3498;40460" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -100,7 +100,7 @@ Rune Area
 		<node x="3493" y="-6418" />
 	</territory>
 	<npcmaker name="primeval_isle_105" territory="primeval_isle_105" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="3993;-6918;-3344;19928" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="3993;-6918;-3344;19928" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -111,7 +111,7 @@ Rune Area
 		<node x="2366" y="-11095" />
 	</territory>
 	<npcmaker name="primeval_isle_106" territory="primeval_isle_106" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="2866;-11595;-3631;31237" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="2866;-11595;-3631;31237" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -122,7 +122,7 @@ Rune Area
 		<node x="7597" y="-16213" />
 	</territory>
 	<npcmaker name="primeval_isle_107" territory="primeval_isle_107" spawn="ALL" maximumNpcs="6">
-		<npc id="22208" pos="8097;-16713;-3660;14777" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="8097;-16713;-3660;14777" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -133,7 +133,7 @@ Rune Area
 		<node x="5790" y="-19081" />
 	</territory>
 	<npcmaker name="primeval_isle_108" territory="primeval_isle_108" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="6290;-19581;-3654;26774" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="6290;-19581;-3654;26774" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -144,7 +144,7 @@ Rune Area
 		<node x="7524" y="-18644" />
 	</territory>
 	<npcmaker name="primeval_isle_109" territory="primeval_isle_109" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="8024;-19144;-3633;60167" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="8024;-19144;-3633;60167" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -155,7 +155,7 @@ Rune Area
 		<node x="2109" y="-15139" />
 	</territory>
 	<npcmaker name="primeval_isle_11" territory="primeval_isle_11" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="2609;-15639;-3387;21420" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="2609;-15639;-3387;21420" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -166,7 +166,7 @@ Rune Area
 		<node x="1751" y="-10287" />
 	</territory>
 	<npcmaker name="primeval_isle_110" territory="primeval_isle_110" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="2251;-10787;-3528;48497" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="2251;-10787;-3528;48497" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -177,7 +177,7 @@ Rune Area
 		<node x="4796" y="-18244" />
 	</territory>
 	<npcmaker name="primeval_isle_111" territory="primeval_isle_111" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="5296;-18744;-3686;7446" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="5296;-18744;-3686;7446" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -188,7 +188,7 @@ Rune Area
 		<node x="4370" y="-15398" />
 	</territory>
 	<npcmaker name="primeval_isle_112" territory="primeval_isle_112" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="4870;-15898;-3612;10897" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="4870;-15898;-3612;10897" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -199,7 +199,7 @@ Rune Area
 		<node x="2870" y="-14089" />
 	</territory>
 	<npcmaker name="primeval_isle_113" territory="primeval_isle_113" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="3370;-14589;-3480;40010" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="3370;-14589;-3480;40010" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -210,7 +210,7 @@ Rune Area
 		<node x="1963" y="-15691" />
 	</territory>
 	<npcmaker name="primeval_isle_114" territory="primeval_isle_114" spawn="ALL" maximumNpcs="8">
-		<npc id="22211" pos="2463;-16191;-3340;28013" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="2463;-16191;-3340;28013" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -221,7 +221,7 @@ Rune Area
 		<node x="2141" y="-16578" />
 	</territory>
 	<npcmaker name="primeval_isle_115" territory="primeval_isle_115" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="2641;-17078;-3503;26403" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="2641;-17078;-3503;26403" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -232,7 +232,7 @@ Rune Area
 		<node x="1597" y="-13498" />
 	</territory>
 	<npcmaker name="primeval_isle_116" territory="primeval_isle_116" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="2097;-13998;-3310;37600" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="2097;-13998;-3310;37600" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -243,7 +243,7 @@ Rune Area
 		<node x="7853" y="-14001" />
 	</territory>
 	<npcmaker name="primeval_isle_117" territory="primeval_isle_117" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="8353;-14501;-3701;41399" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="8353;-14501;-3701;41399" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -254,7 +254,7 @@ Rune Area
 		<node x="7028" y="-9232" />
 	</territory>
 	<npcmaker name="primeval_isle_118" territory="primeval_isle_118" spawn="ALL" maximumNpcs="6">
-		<npc id="22211" pos="7528;-9732;-3630;22517" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="7528;-9732;-3630;22517" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -265,7 +265,7 @@ Rune Area
 		<node x="4088" y="-11573" />
 	</territory>
 	<npcmaker name="primeval_isle_119" territory="primeval_isle_119" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="4588;-12073;-3590;25455" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="4588;-12073;-3590;25455" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -276,7 +276,7 @@ Rune Area
 		<node x="7347" y="-13892" />
 	</territory>
 	<npcmaker name="primeval_isle_12" territory="primeval_isle_12" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="7847;-14392;-3708;43868" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="7847;-14392;-3708;43868" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -287,7 +287,7 @@ Rune Area
 		<node x="2715" y="-7036" />
 	</territory>
 	<npcmaker name="primeval_isle_120" territory="primeval_isle_120" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="3215;-7536;-3388;36084" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="3215;-7536;-3388;36084" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -298,7 +298,7 @@ Rune Area
 		<node x="3855" y="-8140" />
 	</territory>
 	<npcmaker name="primeval_isle_121" territory="primeval_isle_121" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="4355;-8640;-3577;57107" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="4355;-8640;-3577;57107" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -309,7 +309,7 @@ Rune Area
 		<node x="1841" y="-8567" />
 	</territory>
 	<npcmaker name="primeval_isle_122" territory="primeval_isle_122" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="2341;-9067;-3559;34153" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="2341;-9067;-3559;34153" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -320,7 +320,7 @@ Rune Area
 		<node x="5161" y="-8318" />
 	</territory>
 	<npcmaker name="primeval_isle_123" territory="primeval_isle_123" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="5661;-8818;-3622;37378" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="5661;-8818;-3622;37378" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -331,7 +331,7 @@ Rune Area
 		<node x="6718" y="-17075" />
 	</territory>
 	<npcmaker name="primeval_isle_124" territory="primeval_isle_124" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="7218;-17575;-3642;55344" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="7218;-17575;-3642;55344" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -342,7 +342,7 @@ Rune Area
 		<node x="15287" y="-18356" />
 	</territory>
 	<npcmaker name="primeval_isle_125" territory="primeval_isle_125" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="15787;-18856;-3210;61275" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="15787;-18856;-3210;61275" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -353,7 +353,7 @@ Rune Area
 		<node x="21434" y="-17106" />
 	</territory>
 	<npcmaker name="primeval_isle_126" territory="primeval_isle_126" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="21934;-17606;-2966;43922" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="21934;-17606;-2966;43922" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -364,7 +364,7 @@ Rune Area
 		<node x="16685" y="-17538" />
 	</territory>
 	<npcmaker name="primeval_isle_127" territory="primeval_isle_127" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="17185;-18038;-3223;32776" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="17185;-18038;-3223;32776" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -375,7 +375,7 @@ Rune Area
 		<node x="19091" y="-19360" />
 	</territory>
 	<npcmaker name="primeval_isle_128" territory="primeval_isle_128" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="19591;-19860;-3309;41948" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="19591;-19860;-3309;41948" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -386,7 +386,7 @@ Rune Area
 		<node x="19756" y="-16942" />
 	</territory>
 	<npcmaker name="primeval_isle_129" territory="primeval_isle_129" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="20256;-17442;-3127;43791" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="20256;-17442;-3127;43791" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -397,7 +397,7 @@ Rune Area
 		<node x="6057" y="-10014" />
 	</territory>
 	<npcmaker name="primeval_isle_13" territory="primeval_isle_13" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="6557;-10514;-3685;31632" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="6557;-10514;-3685;31632" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -408,7 +408,7 @@ Rune Area
 		<node x="18801" y="-13438" />
 	</territory>
 	<npcmaker name="primeval_isle_130" territory="primeval_isle_130" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="19301;-13938;-3017;21921" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="19301;-13938;-3017;21921" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -419,7 +419,7 @@ Rune Area
 		<node x="14312" y="-14388" />
 	</territory>
 	<npcmaker name="primeval_isle_131" territory="primeval_isle_131" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="14812;-14888;-3179;54530" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="14812;-14888;-3179;54530" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -430,7 +430,7 @@ Rune Area
 		<node x="13486" y="-12873" />
 	</territory>
 	<npcmaker name="primeval_isle_132" territory="primeval_isle_132" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="13986;-13373;-3214;38912" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="13986;-13373;-3214;38912" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -441,7 +441,7 @@ Rune Area
 		<node x="14801" y="-11382" />
 	</territory>
 	<npcmaker name="primeval_isle_133" territory="primeval_isle_133" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="15301;-11882;-3099;33388" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="15301;-11882;-3099;33388" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -452,7 +452,7 @@ Rune Area
 		<node x="15126" y="-8473" />
 	</territory>
 	<npcmaker name="primeval_isle_134" territory="primeval_isle_134" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="15626;-8973;-3297;38494" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="15626;-8973;-3297;38494" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -463,7 +463,7 @@ Rune Area
 		<node x="16503" y="-8361" />
 	</territory>
 	<npcmaker name="primeval_isle_135" territory="primeval_isle_135" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="17003;-8861;-3210;27695" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="17003;-8861;-3210;27695" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -474,7 +474,7 @@ Rune Area
 		<node x="17496" y="-8468" />
 	</territory>
 	<npcmaker name="primeval_isle_136" territory="primeval_isle_136" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="17996;-8968;-2821;27858" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="17996;-8968;-2821;27858" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -485,7 +485,7 @@ Rune Area
 		<node x="19098" y="-8115" />
 	</territory>
 	<npcmaker name="primeval_isle_137" territory="primeval_isle_137" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="19598;-8615;-2729;26923" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="19598;-8615;-2729;26923" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -496,7 +496,7 @@ Rune Area
 		<node x="21536" y="-8890" />
 	</territory>
 	<npcmaker name="primeval_isle_138" territory="primeval_isle_138" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="22036;-9390;-2789;23174" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="22036;-9390;-2789;23174" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -507,7 +507,7 @@ Rune Area
 		<node x="22560" y="-11066" />
 	</territory>
 	<npcmaker name="primeval_isle_139" territory="primeval_isle_139" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="23060;-11566;-2613;6579" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="23060;-11566;-2613;6579" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -518,7 +518,7 @@ Rune Area
 		<node x="23890" y="-10985" />
 	</territory>
 	<npcmaker name="primeval_isle_14" territory="primeval_isle_14" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="24390;-11485;-2550;59163" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="24390;-11485;-2550;59163" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -529,7 +529,7 @@ Rune Area
 		<node x="22597" y="-14344" />
 	</territory>
 	<npcmaker name="primeval_isle_140" territory="primeval_isle_140" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="23097;-14844;-3059;15973" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="23097;-14844;-3059;15973" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -540,7 +540,7 @@ Rune Area
 		<node x="25050" y="-18002" />
 	</territory>
 	<npcmaker name="primeval_isle_141" territory="primeval_isle_141" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="25550;-18502;-2650;50955" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="25550;-18502;-2650;50955" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -551,7 +551,7 @@ Rune Area
 		<node x="23039" y="-20979" />
 	</territory>
 	<npcmaker name="primeval_isle_142" territory="primeval_isle_142" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="23539;-21479;-2547;40995" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="23539;-21479;-2547;40995" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -562,7 +562,7 @@ Rune Area
 		<node x="21271" y="-14798" />
 	</territory>
 	<npcmaker name="primeval_isle_143" territory="primeval_isle_143" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="21771;-15298;-3063;34947" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="21771;-15298;-3063;34947" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -573,7 +573,7 @@ Rune Area
 		<node x="20926" y="-10172" />
 	</territory>
 	<npcmaker name="primeval_isle_144" territory="primeval_isle_144" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="21426;-10672;-2835;2066" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="21426;-10672;-2835;2066" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -584,7 +584,7 @@ Rune Area
 		<node x="20655" y="-10945" />
 	</territory>
 	<npcmaker name="primeval_isle_145" territory="primeval_isle_145" spawn="ALL" maximumNpcs="8">
-		<npc id="22196" pos="21155;-11445;-2793;23452" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="21155;-11445;-2793;23452" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -595,7 +595,7 @@ Rune Area
 		<node x="18686" y="-15780" />
 	</territory>
 	<npcmaker name="primeval_isle_146" territory="primeval_isle_146" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="19186;-16280;-3121;36984" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="19186;-16280;-3121;36984" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -606,7 +606,7 @@ Rune Area
 		<node x="19190" y="-13616" />
 	</territory>
 	<npcmaker name="primeval_isle_147" territory="primeval_isle_147" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="19690;-14116;-2977;9736" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="19690;-14116;-2977;9736" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -617,7 +617,7 @@ Rune Area
 		<node x="17753" y="-13028" />
 	</territory>
 	<npcmaker name="primeval_isle_148" territory="primeval_isle_148" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="18253;-13528;-3129;58086" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="18253;-13528;-3129;58086" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -628,7 +628,7 @@ Rune Area
 		<node x="14406" y="-18578" />
 	</territory>
 	<npcmaker name="primeval_isle_149" territory="primeval_isle_149" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="14906;-19078;-3165;63558" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="14906;-19078;-3165;63558" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -639,7 +639,7 @@ Rune Area
 		<node x="22961" y="-11059" />
 	</territory>
 	<npcmaker name="primeval_isle_15" territory="primeval_isle_15" spawn="ALL" maximumNpcs="8">
-		<npc id="22203" pos="23461;-11559;-2569;44460" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="23461;-11559;-2569;44460" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -650,7 +650,7 @@ Rune Area
 		<node x="16201" y="-16444" />
 	</territory>
 	<npcmaker name="primeval_isle_150" territory="primeval_isle_150" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="16701;-16944;-3235;6575" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="16701;-16944;-3235;6575" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -661,7 +661,7 @@ Rune Area
 		<node x="17336" y="-14847" />
 	</territory>
 	<npcmaker name="primeval_isle_151" territory="primeval_isle_151" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="17836;-15347;-3148;9420" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="17836;-15347;-3148;9420" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -672,7 +672,7 @@ Rune Area
 		<node x="15421" y="-15291" />
 	</territory>
 	<npcmaker name="primeval_isle_152" territory="primeval_isle_152" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="15921;-15791;-3191;41384" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="15921;-15791;-3191;41384" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -683,7 +683,7 @@ Rune Area
 		<node x="18937" y="-14950" />
 	</territory>
 	<npcmaker name="primeval_isle_153" territory="primeval_isle_153" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="19437;-15450;-3106;33421" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="19437;-15450;-3106;33421" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -694,7 +694,7 @@ Rune Area
 		<node x="16198" y="-9614" />
 	</territory>
 	<npcmaker name="primeval_isle_154" territory="primeval_isle_154" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="16698;-10114;-3258;10489" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="16698;-10114;-3258;10489" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -705,7 +705,7 @@ Rune Area
 		<node x="27289" y="-16994" />
 	</territory>
 	<npcmaker name="primeval_isle_155" territory="primeval_isle_155" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="27789;-17494;-2592;3750" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="27789;-17494;-2592;3750" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -716,7 +716,7 @@ Rune Area
 		<node x="20212" y="-13299" />
 	</territory>
 	<npcmaker name="primeval_isle_156" territory="primeval_isle_156" spawn="ALL" maximumNpcs="1">
-		<npc id="18346" pos="20712;-13799;-2976;40704" total="1" respawnDelay="60s"/>
+		<npc id="18346" pos="20712;-13799;-2976;40704" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -727,7 +727,7 @@ Rune Area
 		<node x="24537" y="-12541" />
 	</territory>
 	<npcmaker name="primeval_isle_157" territory="primeval_isle_157" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="25037;-13041;-2567;64781" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="25037;-13041;-2567;64781" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -738,7 +738,7 @@ Rune Area
 		<node x="16454" y="-10522" />
 	</territory>
 	<npcmaker name="primeval_isle_158" territory="primeval_isle_158" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="16954;-11022;-3206;53961" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="16954;-11022;-3206;53961" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -749,7 +749,7 @@ Rune Area
 		<node x="20509" y="-13888" />
 	</territory>
 	<npcmaker name="primeval_isle_159" territory="primeval_isle_159" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="21009;-14388;-3100;46465" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="21009;-14388;-3100;46465" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -760,7 +760,7 @@ Rune Area
 		<node x="21134" y="-11630" />
 	</territory>
 	<npcmaker name="primeval_isle_16" territory="primeval_isle_16" spawn="ALL" maximumNpcs="8">
-		<npc id="22203" pos="21634;-12130;-2688;58670" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="21634;-12130;-2688;58670" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -771,7 +771,7 @@ Rune Area
 		<node x="19541" y="-8636" />
 	</territory>
 	<npcmaker name="primeval_isle_160" territory="primeval_isle_160" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="20041;-9136;-2792;17359" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="20041;-9136;-2792;17359" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -782,7 +782,7 @@ Rune Area
 		<node x="16819" y="-12508" />
 	</territory>
 	<npcmaker name="primeval_isle_161" territory="primeval_isle_161" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="17319;-13008;-3126;5605" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="17319;-13008;-3126;5605" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -793,7 +793,7 @@ Rune Area
 		<node x="16102" y="-14843" />
 	</territory>
 	<npcmaker name="primeval_isle_162" territory="primeval_isle_162" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="16602;-15343;-3189;17384" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="16602;-15343;-3189;17384" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -804,7 +804,7 @@ Rune Area
 		<node x="15151" y="-17928" />
 	</territory>
 	<npcmaker name="primeval_isle_163" territory="primeval_isle_163" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="15651;-18428;-3176;37306" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="15651;-18428;-3176;37306" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -815,7 +815,7 @@ Rune Area
 		<node x="16847" y="-16714" />
 	</territory>
 	<npcmaker name="primeval_isle_164" territory="primeval_isle_164" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="17347;-17214;-3210;22418" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="17347;-17214;-3210;22418" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -826,7 +826,7 @@ Rune Area
 		<node x="17744" y="-19161" />
 	</territory>
 	<npcmaker name="primeval_isle_165" territory="primeval_isle_165" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="18244;-19661;-3268;30880" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="18244;-19661;-3268;30880" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -837,7 +837,7 @@ Rune Area
 		<node x="20523" y="-19280" />
 	</territory>
 	<npcmaker name="primeval_isle_166" territory="primeval_isle_166" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="21023;-19780;-3291;20822" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="21023;-19780;-3291;20822" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -848,7 +848,7 @@ Rune Area
 		<node x="22994" y="-19250" />
 	</territory>
 	<npcmaker name="primeval_isle_167" territory="primeval_isle_167" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="23494;-19750;-2768;33024" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="23494;-19750;-2768;33024" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -859,7 +859,7 @@ Rune Area
 		<node x="25940" y="-18693" />
 	</territory>
 	<npcmaker name="primeval_isle_168" territory="primeval_isle_168" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="26440;-19193;-2436;39975" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="26440;-19193;-2436;39975" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -870,7 +870,7 @@ Rune Area
 		<node x="26934" y="-16469" />
 	</territory>
 	<npcmaker name="primeval_isle_169" territory="primeval_isle_169" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="27434;-16969;-2684;27490" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="27434;-16969;-2684;27490" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -881,7 +881,7 @@ Rune Area
 		<node x="3550" y="-18170" />
 	</territory>
 	<npcmaker name="primeval_isle_17" territory="primeval_isle_17" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="4050;-18670;-3584;32506" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="4050;-18670;-3584;32506" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -892,7 +892,7 @@ Rune Area
 		<node x="16205" y="-10193" />
 	</territory>
 	<npcmaker name="primeval_isle_170" territory="primeval_isle_170" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="16705;-10693;-3256;16322" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="16705;-10693;-3256;16322" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -903,7 +903,7 @@ Rune Area
 		<node x="13650" y="-16146" />
 	</territory>
 	<npcmaker name="primeval_isle_171" territory="primeval_isle_171" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="14150;-16646;-2962;10232" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="14150;-16646;-2962;10232" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -914,7 +914,7 @@ Rune Area
 		<node x="18048" y="-19109" />
 	</territory>
 	<npcmaker name="primeval_isle_172" territory="primeval_isle_172" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="18548;-19609;-3297;51715" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="18548;-19609;-3297;51715" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -925,7 +925,7 @@ Rune Area
 		<node x="19866" y="-14839" />
 	</territory>
 	<npcmaker name="primeval_isle_173" territory="primeval_isle_173" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="20366;-15339;-3081;9995" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="20366;-15339;-3081;9995" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -936,7 +936,7 @@ Rune Area
 		<node x="27224" y="-14374" />
 	</territory>
 	<npcmaker name="primeval_isle_174" territory="primeval_isle_174" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="27724;-14874;-2568;41810" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="27724;-14874;-2568;41810" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -947,7 +947,7 @@ Rune Area
 		<node x="23250" y="-17437" />
 	</territory>
 	<npcmaker name="primeval_isle_175" territory="primeval_isle_175" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="23750;-17937;-2766;56039" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="23750;-17937;-2766;56039" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -958,7 +958,7 @@ Rune Area
 		<node x="19875" y="-20644" />
 	</territory>
 	<npcmaker name="primeval_isle_176" territory="primeval_isle_176" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="20375;-21144;-3056;59125" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="20375;-21144;-3056;59125" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -969,7 +969,7 @@ Rune Area
 		<node x="23542" y="-19053" />
 	</territory>
 	<npcmaker name="primeval_isle_177" territory="primeval_isle_177" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="24042;-19553;-2802;14044" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="24042;-19553;-2802;14044" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -980,7 +980,7 @@ Rune Area
 		<node x="25593" y="-15721" />
 	</territory>
 	<npcmaker name="primeval_isle_178" territory="primeval_isle_178" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="26093;-16221;-2720;36060" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="26093;-16221;-2720;36060" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -991,7 +991,7 @@ Rune Area
 		<node x="27087" y="-18571" />
 	</territory>
 	<npcmaker name="primeval_isle_179" territory="primeval_isle_179" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="27587;-19071;-2435;43189" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="27587;-19071;-2435;43189" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1002,7 +1002,7 @@ Rune Area
 		<node x="20146" y="-20813" />
 	</territory>
 	<npcmaker name="primeval_isle_18" territory="primeval_isle_18" spawn="ALL" maximumNpcs="8">
-		<npc id="22203" pos="20646;-21313;-3013;40393" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="20646;-21313;-3013;40393" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1013,7 +1013,7 @@ Rune Area
 		<node x="27289" y="-12607" />
 	</territory>
 	<npcmaker name="primeval_isle_180" territory="primeval_isle_180" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="27789;-13107;-2252;55791" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="27789;-13107;-2252;55791" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1024,7 +1024,7 @@ Rune Area
 		<node x="24817" y="-9796" />
 	</territory>
 	<npcmaker name="primeval_isle_181" territory="primeval_isle_181" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="25317;-10296;-2467;38229" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="25317;-10296;-2467;38229" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1035,7 +1035,7 @@ Rune Area
 		<node x="23024" y="-9993" />
 	</territory>
 	<npcmaker name="primeval_isle_182" territory="primeval_isle_182" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="23524;-10493;-2627;29330" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="23524;-10493;-2627;29330" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1046,7 +1046,7 @@ Rune Area
 		<node x="21715" y="-15872" />
 	</territory>
 	<npcmaker name="primeval_isle_183" territory="primeval_isle_183" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="22215;-16372;-2992;58767" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="22215;-16372;-2992;58767" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1057,7 +1057,7 @@ Rune Area
 		<node x="16819" y="-15448" />
 	</territory>
 	<npcmaker name="primeval_isle_184" territory="primeval_isle_184" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="17319;-15948;-3214;10274" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="17319;-15948;-3214;10274" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1068,7 +1068,7 @@ Rune Area
 		<node x="17918" y="-16750" />
 	</territory>
 	<npcmaker name="primeval_isle_185" territory="primeval_isle_185" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="18418;-17250;-3227;993" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="18418;-17250;-3227;993" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1079,7 +1079,7 @@ Rune Area
 		<node x="13618" y="-18610" />
 	</territory>
 	<npcmaker name="primeval_isle_186" territory="primeval_isle_186" spawn="ALL" maximumNpcs="1">
-		<npc id="18345" pos="14118;-19110;-3084;42011" total="1" respawnDelay="60s"/>
+		<npc id="18345" pos="14118;-19110;-3084;42011" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1090,7 +1090,7 @@ Rune Area
 		<node x="13356" y="-17541" />
 	</territory>
 	<npcmaker name="primeval_isle_187" territory="primeval_isle_187" spawn="ALL" maximumNpcs="1">
-		<npc id="18344" pos="13856;-18041;-3084;14873" total="1" respawnDelay="60s"/>
+		<npc id="18344" pos="13856;-18041;-3084;14873" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1101,7 +1101,7 @@ Rune Area
 		<node x="22684" y="-15603" />
 	</territory>
 	<npcmaker name="primeval_isle_188" territory="primeval_isle_188" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="23184;-16103;-3022;47647" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="23184;-16103;-3022;47647" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1112,7 +1112,7 @@ Rune Area
 		<node x="20510" y="-19222" />
 	</territory>
 	<npcmaker name="primeval_isle_189" territory="primeval_isle_189" spawn="ALL" maximumNpcs="8">
-		<npc id="22200" pos="21010;-19722;-3291;21898" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="21010;-19722;-3291;21898" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1123,7 +1123,7 @@ Rune Area
 		<node x="22676" y="-9435" />
 	</territory>
 	<npcmaker name="primeval_isle_19" territory="primeval_isle_19" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="23176;-9935;-2670;489" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="23176;-9935;-2670;489" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1134,7 +1134,7 @@ Rune Area
 		<node x="3828" y="-18987" />
 	</territory>
 	<npcmaker name="primeval_isle_190" territory="primeval_isle_190" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="4328;-19487;-3575;20714" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="4328;-19487;-3575;20714" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1145,7 +1145,7 @@ Rune Area
 		<node x="2694" y="-15936" />
 	</territory>
 	<npcmaker name="primeval_isle_191" territory="primeval_isle_191" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="3194;-16436;-3576;21395" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="3194;-16436;-3576;21395" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1156,7 +1156,7 @@ Rune Area
 		<node x="4539" y="-12456" />
 	</territory>
 	<npcmaker name="primeval_isle_192" territory="primeval_isle_192" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="5039;-12956;-3659;16501" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="5039;-12956;-3659;16501" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1167,7 +1167,7 @@ Rune Area
 		<node x="1765" y="-14458" />
 	</territory>
 	<npcmaker name="primeval_isle_193" territory="primeval_isle_193" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="2265;-14958;-3293;18803" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="2265;-14958;-3293;18803" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1178,7 +1178,7 @@ Rune Area
 		<node x="7684" y="-14993" />
 	</territory>
 	<npcmaker name="primeval_isle_194" territory="primeval_isle_194" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="8184;-15493;-3654;9240" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="8184;-15493;-3654;9240" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1189,7 +1189,7 @@ Rune Area
 		<node x="5744" y="-10909" />
 	</territory>
 	<npcmaker name="primeval_isle_195" territory="primeval_isle_195" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="6244;-11409;-3640;46380" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="6244;-11409;-3640;46380" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1200,7 +1200,7 @@ Rune Area
 		<node x="2700" y="-8794" />
 	</territory>
 	<npcmaker name="primeval_isle_196" territory="primeval_isle_196" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="3200;-9294;-3650;27281" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="3200;-9294;-3650;27281" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1211,7 +1211,7 @@ Rune Area
 		<node x="3232" y="-7493" />
 	</territory>
 	<npcmaker name="primeval_isle_197" territory="primeval_isle_197" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="3732;-7993;-3475;57193" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="3732;-7993;-3475;57193" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1222,7 +1222,7 @@ Rune Area
 		<node x="2450" y="-7790" />
 	</territory>
 	<npcmaker name="primeval_isle_198" territory="primeval_isle_198" spawn="ALL" maximumNpcs="8">
-		<npc id="22200" pos="2950;-8290;-3454;25454" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="2950;-8290;-3454;25454" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1233,7 +1233,7 @@ Rune Area
 		<node x="5616" y="-13356" />
 	</territory>
 	<npcmaker name="primeval_isle_199" territory="primeval_isle_199" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="6116;-13856;-3711;1347" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="6116;-13856;-3711;1347" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1244,7 +1244,7 @@ Rune Area
 		<node x="21223" y="-10794" />
 	</territory>
 	<npcmaker name="primeval_isle_2" territory="primeval_isle_2" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="21723;-11294;-2765;30263" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="21723;-11294;-2765;30263" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1255,7 +1255,7 @@ Rune Area
 		<node x="18698" y="-8654" />
 	</territory>
 	<npcmaker name="primeval_isle_20" territory="primeval_isle_20" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="19198;-9154;-2755;21227" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="19198;-9154;-2755;21227" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1266,7 +1266,7 @@ Rune Area
 		<node x="2650" y="-12009" />
 	</territory>
 	<npcmaker name="primeval_isle_200" territory="primeval_isle_200" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="3150;-12509;-3646;50583" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="3150;-12509;-3646;50583" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1277,7 +1277,7 @@ Rune Area
 		<node x="7662" y="-17563" />
 	</territory>
 	<npcmaker name="primeval_isle_201" territory="primeval_isle_201" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="8162;-18063;-3452;29478" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="8162;-18063;-3452;29478" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1288,7 +1288,7 @@ Rune Area
 		<node x="6460" y="-16156" />
 	</territory>
 	<npcmaker name="primeval_isle_202" territory="primeval_isle_202" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="6960;-16656;-3662;16435" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="6960;-16656;-3662;16435" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1299,7 +1299,7 @@ Rune Area
 		<node x="2715" y="-18699" />
 	</territory>
 	<npcmaker name="primeval_isle_203" territory="primeval_isle_203" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="3215;-19199;-3355;21612" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="3215;-19199;-3355;21612" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1310,7 +1310,7 @@ Rune Area
 		<node x="6714" y="-17966" />
 	</territory>
 	<npcmaker name="primeval_isle_204" territory="primeval_isle_204" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="7214;-18466;-3658;44359" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="7214;-18466;-3658;44359" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1321,7 +1321,7 @@ Rune Area
 		<node x="3950" y="-17368" />
 	</territory>
 	<npcmaker name="primeval_isle_205" territory="primeval_isle_205" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="4450;-17868;-3662;7083" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="4450;-17868;-3662;7083" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1332,7 +1332,7 @@ Rune Area
 		<node x="19355" y="-19723" />
 	</territory>
 	<npcmaker name="primeval_isle_206" territory="primeval_isle_206" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="19855;-20223;-3272;18485" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="19855;-20223;-3272;18485" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1343,7 +1343,7 @@ Rune Area
 		<node x="22620" y="-19570" />
 	</territory>
 	<npcmaker name="primeval_isle_207" territory="primeval_isle_207" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="23120;-20070;-2706;23795" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="23120;-20070;-2706;23795" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1354,7 +1354,7 @@ Rune Area
 		<node x="26130" y="-18732" />
 	</territory>
 	<npcmaker name="primeval_isle_208" territory="primeval_isle_208" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="26630;-19232;-2410;63690" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="26630;-19232;-2410;63690" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1365,7 +1365,7 @@ Rune Area
 		<node x="25167" y="-17112" />
 	</territory>
 	<npcmaker name="primeval_isle_209" territory="primeval_isle_209" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="25667;-17612;-2768;47494" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="25667;-17612;-2768;47494" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1376,7 +1376,7 @@ Rune Area
 		<node x="18973" y="-17301" />
 	</territory>
 	<npcmaker name="primeval_isle_21" territory="primeval_isle_21" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="19473;-17801;-3216;16363" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="19473;-17801;-3216;16363" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1387,7 +1387,7 @@ Rune Area
 		<node x="27262" y="-15217" />
 	</territory>
 	<npcmaker name="primeval_isle_210" territory="primeval_isle_210" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="27762;-15717;-2672;37366" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="27762;-15717;-2672;37366" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1398,7 +1398,7 @@ Rune Area
 		<node x="26927" y="-11935" />
 	</territory>
 	<npcmaker name="primeval_isle_211" territory="primeval_isle_211" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="27427;-12435;-2364;35838" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="27427;-12435;-2364;35838" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1409,7 +1409,7 @@ Rune Area
 		<node x="20396" y="-13967" />
 	</territory>
 	<npcmaker name="primeval_isle_212" territory="primeval_isle_212" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="20896;-14467;-3066;50794" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="20896;-14467;-3066;50794" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1420,7 +1420,7 @@ Rune Area
 		<node x="20576" y="-8928" />
 	</territory>
 	<npcmaker name="primeval_isle_213" territory="primeval_isle_213" spawn="ALL" maximumNpcs="8">
-		<npc id="22200" pos="21076;-9428;-2815;19434" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="21076;-9428;-2815;19434" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1431,7 +1431,7 @@ Rune Area
 		<node x="19776" y="-11356" />
 	</territory>
 	<npcmaker name="primeval_isle_214" territory="primeval_isle_214" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="20276;-11856;-2817;35078" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="20276;-11856;-2817;35078" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1442,7 +1442,7 @@ Rune Area
 		<node x="16429" y="-12957" />
 	</territory>
 	<npcmaker name="primeval_isle_215" territory="primeval_isle_215" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="16929;-13457;-3148;25562" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="16929;-13457;-3148;25562" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1453,7 +1453,7 @@ Rune Area
 		<node x="5830" y="-20829" />
 	</territory>
 	<npcmaker name="primeval_isle_216" territory="primeval_isle_216" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="6330;-21329;-3437;24635" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="6330;-21329;-3437;24635" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1464,7 +1464,7 @@ Rune Area
 		<node x="7296" y="-19546" />
 	</territory>
 	<npcmaker name="primeval_isle_217" territory="primeval_isle_217" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="7796;-20046;-3556;43147" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="7796;-20046;-3556;43147" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1475,7 +1475,7 @@ Rune Area
 		<node x="6152" y="-20022" />
 	</territory>
 	<npcmaker name="primeval_isle_218" territory="primeval_isle_218" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="6652;-20522;-3562;24064" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="6652;-20522;-3562;24064" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1486,7 +1486,7 @@ Rune Area
 		<node x="13702" y="-17116" />
 	</territory>
 	<npcmaker name="primeval_isle_219" territory="primeval_isle_219" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="14202;-17616;-3107;5033" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="14202;-17616;-3107;5033" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1497,7 +1497,7 @@ Rune Area
 		<node x="18941" y="-18617" />
 	</territory>
 	<npcmaker name="primeval_isle_22" territory="primeval_isle_22" spawn="ALL" maximumNpcs="8">
-		<npc id="22203" pos="19441;-19117;-3336;25916" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="19441;-19117;-3336;25916" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1508,7 +1508,7 @@ Rune Area
 		<node x="17602" y="-16866" />
 	</territory>
 	<npcmaker name="primeval_isle_220" territory="primeval_isle_220" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="18102;-17366;-3235;53844" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="18102;-17366;-3235;53844" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1519,7 +1519,7 @@ Rune Area
 		<node x="16160" y="-10549" />
 	</territory>
 	<npcmaker name="primeval_isle_221" territory="primeval_isle_221" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="16660;-11049;-3284;59113" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="16660;-11049;-3284;59113" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1530,7 +1530,7 @@ Rune Area
 		<node x="21324" y="-13620" />
 	</territory>
 	<npcmaker name="primeval_isle_222" territory="primeval_isle_222" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="21824;-14120;-3132;55141" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="21824;-14120;-3132;55141" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1541,7 +1541,7 @@ Rune Area
 		<node x="19271" y="-17940" />
 	</territory>
 	<npcmaker name="primeval_isle_223" territory="primeval_isle_223" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="19771;-18440;-3260;30168" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="19771;-18440;-3260;30168" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1552,7 +1552,7 @@ Rune Area
 		<node x="21950" y="-9212" />
 	</territory>
 	<npcmaker name="primeval_isle_224" territory="primeval_isle_224" spawn="ALL" maximumNpcs="8">
-		<npc id="22196" pos="22450;-9712;-2768;50093" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="22450;-9712;-2768;50093" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1563,7 +1563,7 @@ Rune Area
 		<node x="20471" y="-17979" />
 	</territory>
 	<npcmaker name="primeval_isle_225" territory="primeval_isle_225" spawn="ALL" maximumNpcs="8">
-		<npc id="22196" pos="20971;-18479;-3224;21814" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="20971;-18479;-3224;21814" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1574,7 +1574,7 @@ Rune Area
 		<node x="24714" y="-15399" />
 	</territory>
 	<npcmaker name="primeval_isle_226" territory="primeval_isle_226" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="25214;-15899;-2772;11040" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="25214;-15899;-2772;11040" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1585,7 +1585,7 @@ Rune Area
 		<node x="24393" y="-16878" />
 	</territory>
 	<npcmaker name="primeval_isle_227" territory="primeval_isle_227" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="24893;-17378;-2785;4942" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="24893;-17378;-2785;4942" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1596,7 +1596,7 @@ Rune Area
 		<node x="23534" y="-20378" />
 	</territory>
 	<npcmaker name="primeval_isle_228" territory="primeval_isle_228" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="24034;-20878;-2667;44436" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="24034;-20878;-2667;44436" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1607,7 +1607,7 @@ Rune Area
 		<node x="26711" y="-16451" />
 	</territory>
 	<npcmaker name="primeval_isle_229" territory="primeval_isle_229" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="27211;-16951;-2688;17645" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="27211;-16951;-2688;17645" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1618,7 +1618,7 @@ Rune Area
 		<node x="23563" y="-17808" />
 	</territory>
 	<npcmaker name="primeval_isle_23" territory="primeval_isle_23" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="24063;-18308;-2746;17368" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="24063;-18308;-2746;17368" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1629,7 +1629,7 @@ Rune Area
 		<node x="26452" y="-18037" />
 	</territory>
 	<npcmaker name="primeval_isle_230" territory="primeval_isle_230" spawn="ALL" maximumNpcs="8">
-		<npc id="22196" pos="26952;-18537;-2561;28782" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="26952;-18537;-2561;28782" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1640,7 +1640,7 @@ Rune Area
 		<node x="26395" y="-10751" />
 	</territory>
 	<npcmaker name="primeval_isle_231" territory="primeval_isle_231" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="26895;-11251;-2444;64787" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="26895;-11251;-2444;64787" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1651,7 +1651,7 @@ Rune Area
 		<node x="25475" y="-11581" />
 	</territory>
 	<npcmaker name="primeval_isle_232" territory="primeval_isle_232" spawn="ALL" maximumNpcs="7">
-		<npc id="22196" pos="25975;-12081;-2530;50271" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="25975;-12081;-2530;50271" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1662,7 +1662,7 @@ Rune Area
 		<node x="25709" y="-9948" />
 	</territory>
 	<npcmaker name="primeval_isle_233" territory="primeval_isle_233" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="26209;-10448;-2485;485" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="26209;-10448;-2485;485" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1673,7 +1673,7 @@ Rune Area
 		<node x="16772" y="-11908" />
 	</territory>
 	<npcmaker name="primeval_isle_234" territory="primeval_isle_234" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="17272;-12408;-3124;56391" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="17272;-12408;-3124;56391" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1684,7 +1684,7 @@ Rune Area
 		<node x="17665" y="-15490" />
 	</territory>
 	<npcmaker name="primeval_isle_235" territory="primeval_isle_235" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="18165;-15990;-3171;6783" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="18165;-15990;-3171;6783" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1695,7 +1695,7 @@ Rune Area
 		<node x="18230" y="-14146" />
 	</territory>
 	<npcmaker name="primeval_isle_236" territory="primeval_isle_236" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="18730;-14646;-3011;5748" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="18730;-14646;-3011;5748" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1706,7 +1706,7 @@ Rune Area
 		<node x="16754" y="-14393" />
 	</territory>
 	<npcmaker name="primeval_isle_237" territory="primeval_isle_237" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="17254;-14893;-3141;29420" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="17254;-14893;-3141;29420" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1717,7 +1717,7 @@ Rune Area
 		<node x="18672" y="-16574" />
 	</territory>
 	<npcmaker name="primeval_isle_238" territory="primeval_isle_238" spawn="ALL" maximumNpcs="8">
-		<npc id="22200" pos="19172;-17074;-3178;4793" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="19172;-17074;-3178;4793" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1728,7 +1728,7 @@ Rune Area
 		<node x="19660" y="-16639" />
 	</territory>
 	<npcmaker name="primeval_isle_239" territory="primeval_isle_239" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="20160;-17139;-3095;2761" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="20160;-17139;-3095;2761" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1739,7 +1739,7 @@ Rune Area
 		<node x="22927" y="-20934" />
 	</territory>
 	<npcmaker name="primeval_isle_24" territory="primeval_isle_24" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="23427;-21434;-2566;48857" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="23427;-21434;-2566;48857" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1750,7 +1750,7 @@ Rune Area
 		<node x="17920" y="-18575" />
 	</territory>
 	<npcmaker name="primeval_isle_240" territory="primeval_isle_240" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="18420;-19075;-3266;50413" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="18420;-19075;-3266;50413" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1761,7 +1761,7 @@ Rune Area
 		<node x="13516" y="-13047" />
 	</territory>
 	<npcmaker name="primeval_isle_241" territory="primeval_isle_241" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="14016;-13547;-3204;10600" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="14016;-13547;-3204;10600" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1772,7 +1772,7 @@ Rune Area
 		<node x="15583" y="-10005" />
 	</territory>
 	<npcmaker name="primeval_isle_242" territory="primeval_isle_242" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="16083;-10505;-3310;40062" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="16083;-10505;-3310;40062" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1783,7 +1783,7 @@ Rune Area
 		<node x="15235" y="-8577" />
 	</territory>
 	<npcmaker name="primeval_isle_243" territory="primeval_isle_243" spawn="ALL" maximumNpcs="6">
-		<npc id="22200" pos="15735;-9077;-3272;58191" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="15735;-9077;-3272;58191" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1794,7 +1794,7 @@ Rune Area
 		<node x="16819" y="-8200" />
 	</territory>
 	<npcmaker name="primeval_isle_244" territory="primeval_isle_244" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="17319;-8700;-3171;40356" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="17319;-8700;-3171;40356" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1805,7 +1805,7 @@ Rune Area
 		<node x="14331" y="-10704" />
 	</territory>
 	<npcmaker name="primeval_isle_245" territory="primeval_isle_245" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="14831;-11204;-3246;11902" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="14831;-11204;-3246;11902" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1816,7 +1816,7 @@ Rune Area
 		<node x="16541" y="-7077" />
 	</territory>
 	<npcmaker name="primeval_isle_246" territory="primeval_isle_246" spawn="ALL" maximumNpcs="7">
-		<npc id="22200" pos="17041;-7577;-3155;4691" total="1" respawnDelay="60s"/>
+		<npc id="22200" pos="17041;-7577;-3155;4691" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1827,7 +1827,7 @@ Rune Area
 		<node x="25407" y="-10874" />
 	</territory>
 	<npcmaker name="primeval_isle_247" territory="primeval_isle_247" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="25907;-11374;-2490;45840" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="25907;-11374;-2490;45840" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1838,7 +1838,7 @@ Rune Area
 		<node x="21875" y="-10876" />
 	</territory>
 	<npcmaker name="primeval_isle_248" territory="primeval_isle_248" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="22375;-11376;-2710;57140" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="22375;-11376;-2710;57140" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1849,7 +1849,7 @@ Rune Area
 		<node x="19956" y="-10327" />
 	</territory>
 	<npcmaker name="primeval_isle_249" territory="primeval_isle_249" spawn="ALL" maximumNpcs="1">
-		<npc id="22199" pos="20456;-10827;-2844;53326" total="1" respawnDelay="60s"/>
+		<npc id="22199" pos="20456;-10827;-2844;53326" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1860,7 +1860,7 @@ Rune Area
 		<node x="24124" y="-19238" />
 	</territory>
 	<npcmaker name="primeval_isle_25" territory="primeval_isle_25" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="24624;-19738;-2688;51782" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="24624;-19738;-2688;51782" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1871,7 +1871,7 @@ Rune Area
 		<node x="23937" y="-10291" />
 	</territory>
 	<npcmaker name="primeval_isle_250" territory="primeval_isle_250" spawn="ALL" maximumNpcs="6">
-		<npc id="22196" pos="24437;-10791;-2557;23915" total="1" respawnDelay="60s"/>
+		<npc id="22196" pos="24437;-10791;-2557;23915" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1882,7 +1882,7 @@ Rune Area
 		<node x="24936" y="-18339" />
 	</territory>
 	<npcmaker name="primeval_isle_26" territory="primeval_isle_26" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="25436;-18839;-2646;25313" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="25436;-18839;-2646;25313" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1893,7 +1893,7 @@ Rune Area
 		<node x="26702" y="-15459" />
 	</territory>
 	<npcmaker name="primeval_isle_27" territory="primeval_isle_27" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="27202;-15959;-2670;21415" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="27202;-15959;-2670;21415" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1904,7 +1904,7 @@ Rune Area
 		<node x="27493" y="-16341" />
 	</territory>
 	<npcmaker name="primeval_isle_28" territory="primeval_isle_28" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="27993;-16841;-2623;60221" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="27993;-16841;-2623;60221" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1915,7 +1915,7 @@ Rune Area
 		<node x="26069" y="-12950" />
 	</territory>
 	<npcmaker name="primeval_isle_29" territory="primeval_isle_29" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="26569;-13450;-2372;7458" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="26569;-13450;-2372;7458" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1926,7 +1926,7 @@ Rune Area
 		<node x="18981" y="-9954" />
 	</territory>
 	<npcmaker name="primeval_isle_3" territory="primeval_isle_3" spawn="ALL" maximumNpcs="8">
-		<npc id="22203" pos="19481;-10454;-2833;25200" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="19481;-10454;-2833;25200" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1937,7 +1937,7 @@ Rune Area
 		<node x="3408" y="-9233" />
 	</territory>
 	<npcmaker name="primeval_isle_30" territory="primeval_isle_30" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="3908;-9733;-3653;29133" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="3908;-9733;-3653;29133" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1948,7 +1948,7 @@ Rune Area
 		<node x="3156" y="-8440" />
 	</territory>
 	<npcmaker name="primeval_isle_31" territory="primeval_isle_31" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="3656;-8940;-3597;56133" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="3656;-8940;-3597;56133" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1959,7 +1959,7 @@ Rune Area
 		<node x="15863" y="-15908" />
 	</territory>
 	<npcmaker name="primeval_isle_32" territory="primeval_isle_32" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="16363;-16408;-3233;41012" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16363;-16408;-3233;41012" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1970,7 +1970,7 @@ Rune Area
 		<node x="16698" y="-16872" />
 	</territory>
 	<npcmaker name="primeval_isle_33" territory="primeval_isle_33" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="17198;-17372;-3215;52353" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="17198;-17372;-3215;52353" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1981,7 +1981,7 @@ Rune Area
 		<node x="16208" y="-15234" />
 	</territory>
 	<npcmaker name="primeval_isle_34" territory="primeval_isle_34" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="16708;-15734;-3201;15117" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16708;-15734;-3201;15117" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1992,7 +1992,7 @@ Rune Area
 		<node x="15631" y="-17912" />
 	</territory>
 	<npcmaker name="primeval_isle_35" territory="primeval_isle_35" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="16131;-18412;-3197;5209" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16131;-18412;-3197;5209" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2003,7 +2003,7 @@ Rune Area
 		<node x="20414" y="-14757" />
 	</territory>
 	<npcmaker name="primeval_isle_36" territory="primeval_isle_36" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="20914;-15257;-3054;1542" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="20914;-15257;-3054;1542" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2014,7 +2014,7 @@ Rune Area
 		<node x="17635" y="-19113" />
 	</territory>
 	<npcmaker name="primeval_isle_37" territory="primeval_isle_37" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="18135;-19613;-3271;50422" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="18135;-19613;-3271;50422" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2025,7 +2025,7 @@ Rune Area
 		<node x="16421" y="-11151" />
 	</territory>
 	<npcmaker name="primeval_isle_38" territory="primeval_isle_38" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="16921;-11651;-3180;63702" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16921;-11651;-3180;63702" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2036,7 +2036,7 @@ Rune Area
 		<node x="15471" y="-10995" />
 	</territory>
 	<npcmaker name="primeval_isle_39" territory="primeval_isle_39" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="15971;-11495;-3241;37336" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15971;-11495;-3241;37336" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2047,7 +2047,7 @@ Rune Area
 		<node x="14549" y="-14371" />
 	</territory>
 	<npcmaker name="primeval_isle_4" territory="primeval_isle_4" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="15049;-14871;-3159;28728" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15049;-14871;-3159;28728" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2058,7 +2058,7 @@ Rune Area
 		<node x="16856" y="-7500" />
 	</territory>
 	<npcmaker name="primeval_isle_40" territory="primeval_isle_40" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="17356;-8000;-3162;8113" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="17356;-8000;-3162;8113" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2069,7 +2069,7 @@ Rune Area
 		<node x="14265" y="-11645" />
 	</territory>
 	<npcmaker name="primeval_isle_41" territory="primeval_isle_41" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="14765;-12145;-3097;58828" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="14765;-12145;-3097;58828" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2080,7 +2080,7 @@ Rune Area
 		<node x="14031" y="-12775" />
 	</territory>
 	<npcmaker name="primeval_isle_42" territory="primeval_isle_42" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="14531;-13275;-3181;5074" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="14531;-13275;-3181;5074" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2091,7 +2091,7 @@ Rune Area
 		<node x="16340" y="-8822" />
 	</territory>
 	<npcmaker name="primeval_isle_43" territory="primeval_isle_43" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="16840;-9322;-3231;65145" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16840;-9322;-3231;65145" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2102,7 +2102,7 @@ Rune Area
 		<node x="15342" y="-7594" />
 	</territory>
 	<npcmaker name="primeval_isle_44" territory="primeval_isle_44" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="15842;-8094;-3240;59603" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15842;-8094;-3240;59603" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2113,7 +2113,7 @@ Rune Area
 		<node x="16980" y="-16125" />
 	</territory>
 	<npcmaker name="primeval_isle_45" territory="primeval_isle_45" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="17480;-16625;-3217;142" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="17480;-16625;-3217;142" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2124,7 +2124,7 @@ Rune Area
 		<node x="14636" y="-17787" />
 	</territory>
 	<npcmaker name="primeval_isle_46" territory="primeval_isle_46" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="15136;-18287;-3195;31347" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15136;-18287;-3195;31347" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2135,7 +2135,7 @@ Rune Area
 		<node x="14162" y="-17161" />
 	</territory>
 	<npcmaker name="primeval_isle_47" territory="primeval_isle_47" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="14662;-17661;-3173;58268" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="14662;-17661;-3173;58268" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2146,7 +2146,7 @@ Rune Area
 		<node x="5244" y="-7707" />
 	</territory>
 	<npcmaker name="primeval_isle_48" territory="primeval_isle_48" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5744;-8207;-3619;7358" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5744;-8207;-3619;7358" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2157,7 +2157,7 @@ Rune Area
 		<node x="6071" y="-8855" />
 	</territory>
 	<npcmaker name="primeval_isle_49" territory="primeval_isle_49" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="6571;-9355;-3696;61131" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="6571;-9355;-3696;61131" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2168,7 +2168,7 @@ Rune Area
 		<node x="15581" y="-13615" />
 	</territory>
 	<npcmaker name="primeval_isle_5" territory="primeval_isle_5" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="16081;-14115;-3184;39309" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="16081;-14115;-3184;39309" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2179,7 +2179,7 @@ Rune Area
 		<node x="4451" y="-8700" />
 	</territory>
 	<npcmaker name="primeval_isle_50" territory="primeval_isle_50" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="4951;-9200;-3637;753" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="4951;-9200;-3637;753" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2190,7 +2190,7 @@ Rune Area
 		<node x="6444" y="-12288" />
 	</territory>
 	<npcmaker name="primeval_isle_51" territory="primeval_isle_51" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="6944;-12788;-3682;55553" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="6944;-12788;-3682;55553" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2201,7 +2201,7 @@ Rune Area
 		<node x="6101" y="-14419" />
 	</territory>
 	<npcmaker name="primeval_isle_52" territory="primeval_isle_52" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="6601;-14919;-3729;34439" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="6601;-14919;-3729;34439" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2212,7 +2212,7 @@ Rune Area
 		<node x="1850" y="-9534" />
 	</territory>
 	<npcmaker name="primeval_isle_53" territory="primeval_isle_53" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="2350;-10034;-3613;45124" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="2350;-10034;-3613;45124" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2223,7 +2223,7 @@ Rune Area
 		<node x="2850" y="-13341" />
 	</territory>
 	<npcmaker name="primeval_isle_54" territory="primeval_isle_54" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="3350;-13841;-3567;62197" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="3350;-13841;-3567;62197" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2234,7 +2234,7 @@ Rune Area
 		<node x="4104" y="-10379" />
 	</territory>
 	<npcmaker name="primeval_isle_55" territory="primeval_isle_55" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="4604;-10879;-3672;45973" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="4604;-10879;-3672;45973" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2245,7 +2245,7 @@ Rune Area
 		<node x="7411" y="-13081" />
 	</territory>
 	<npcmaker name="primeval_isle_56" territory="primeval_isle_56" spawn="ALL" maximumNpcs="6">
-		<npc id="22203" pos="7911;-13581;-3699;63498" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="7911;-13581;-3699;63498" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2256,7 +2256,7 @@ Rune Area
 		<node x="4710" y="-17556" />
 	</territory>
 	<npcmaker name="primeval_isle_57" territory="primeval_isle_57" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5210;-18056;-3720;32454" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5210;-18056;-3720;32454" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2267,7 +2267,7 @@ Rune Area
 		<node x="5399" y="-16134" />
 	</territory>
 	<npcmaker name="primeval_isle_58" territory="primeval_isle_58" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5899;-16634;-3717;11942" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5899;-16634;-3717;11942" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2278,7 +2278,7 @@ Rune Area
 		<node x="5236" y="-14954" />
 	</territory>
 	<npcmaker name="primeval_isle_59" territory="primeval_isle_59" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5736;-15454;-3663;40856" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5736;-15454;-3663;40856" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2289,7 +2289,7 @@ Rune Area
 		<node x="6882" y="-20394" />
 	</territory>
 	<npcmaker name="primeval_isle_6" territory="primeval_isle_6" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="7382;-20894;-3488;35828" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="7382;-20894;-3488;35828" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2300,7 +2300,7 @@ Rune Area
 		<node x="5264" y="-20198" />
 	</territory>
 	<npcmaker name="primeval_isle_60" territory="primeval_isle_60" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5764;-20698;-3458;5051" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5764;-20698;-3458;5051" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2311,7 +2311,7 @@ Rune Area
 		<node x="14514" y="-9278" />
 	</territory>
 	<npcmaker name="primeval_isle_61" territory="primeval_isle_61" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="15014;-9778;-3289;16223" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="15014;-9778;-3289;16223" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2322,7 +2322,7 @@ Rune Area
 		<node x="22233" y="-13524" />
 	</territory>
 	<npcmaker name="primeval_isle_62" territory="primeval_isle_62" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="22733;-14024;-3122;58552" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="22733;-14024;-3122;58552" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2333,7 +2333,7 @@ Rune Area
 		<node x="6063" y="-19478" />
 	</territory>
 	<npcmaker name="primeval_isle_64" territory="primeval_isle_64" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="6563;-19978;-3604;63942" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="6563;-19978;-3604;63942" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2344,7 +2344,7 @@ Rune Area
 		<node x="5005" y="-19183" />
 	</territory>
 	<npcmaker name="primeval_isle_65" territory="primeval_isle_65" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5505;-19683;-3618;3661" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5505;-19683;-3618;3661" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2355,7 +2355,7 @@ Rune Area
 		<node x="3765" y="-14684" />
 	</territory>
 	<npcmaker name="primeval_isle_66" territory="primeval_isle_66" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="4265;-15184;-3589;15488" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="4265;-15184;-3589;15488" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2366,7 +2366,7 @@ Rune Area
 		<node x="2868" y="-15108" />
 	</territory>
 	<npcmaker name="primeval_isle_67" territory="primeval_isle_67" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="3368;-15608;-3547;2412" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="3368;-15608;-3547;2412" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2377,7 +2377,7 @@ Rune Area
 		<node x="6879" y="-14214" />
 	</territory>
 	<npcmaker name="primeval_isle_68" territory="primeval_isle_68" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="7379;-14714;-3711;38907" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="7379;-14714;-3711;38907" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2388,7 +2388,7 @@ Rune Area
 		<node x="4635" y="-10839" />
 	</territory>
 	<npcmaker name="primeval_isle_69" territory="primeval_isle_69" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5135;-11339;-3641;48544" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5135;-11339;-3641;48544" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2399,7 +2399,7 @@ Rune Area
 		<node x="4295" y="-16607" />
 	</territory>
 	<npcmaker name="primeval_isle_7" territory="primeval_isle_7" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="4795;-17107;-3688;7622" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="4795;-17107;-3688;7622" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2410,7 +2410,7 @@ Rune Area
 		<node x="5113" y="-13845" />
 	</territory>
 	<npcmaker name="primeval_isle_70" territory="primeval_isle_70" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5613;-14345;-3712;48634" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5613;-14345;-3712;48634" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2421,7 +2421,7 @@ Rune Area
 		<node x="4259" y="-6635" />
 	</territory>
 	<npcmaker name="primeval_isle_71" territory="primeval_isle_71" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="4759;-7135;-3464;26944" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="4759;-7135;-3464;26944" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2432,7 +2432,7 @@ Rune Area
 		<node x="4703" y="-7946" />
 	</territory>
 	<npcmaker name="primeval_isle_72" territory="primeval_isle_72" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5203;-8446;-3585;59155" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5203;-8446;-3585;59155" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2443,7 +2443,7 @@ Rune Area
 		<node x="2559" y="-10439" />
 	</territory>
 	<npcmaker name="primeval_isle_73" territory="primeval_isle_73" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="3059;-10939;-3642;56598" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="3059;-10939;-3642;56598" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2454,7 +2454,7 @@ Rune Area
 		<node x="5496" y="-7785" />
 	</territory>
 	<npcmaker name="primeval_isle_74" territory="primeval_isle_74" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5996;-8285;-3649;48744" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5996;-8285;-3649;48744" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2465,7 +2465,7 @@ Rune Area
 		<node x="5450" y="-8182" />
 	</territory>
 	<npcmaker name="primeval_isle_75" territory="primeval_isle_75" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="5950;-8682;-3643;55411" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="5950;-8682;-3643;55411" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2476,7 +2476,7 @@ Rune Area
 		<node x="5538" y="-16901" />
 	</territory>
 	<npcmaker name="primeval_isle_76" territory="primeval_isle_76" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="6038;-17401;-3724;43831" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="6038;-17401;-3724;43831" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2487,7 +2487,7 @@ Rune Area
 		<node x="3236" y="-17299" />
 	</territory>
 	<npcmaker name="primeval_isle_77" territory="primeval_isle_77" spawn="ALL" maximumNpcs="1">
-		<npc id="22214" pos="3736;-17799;-3633;64130" total="1" respawnDelay="60s"/>
+		<npc id="22214" pos="3736;-17799;-3633;64130" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2498,7 +2498,7 @@ Rune Area
 		<node x="23280" y="-11411" />
 	</territory>
 	<npcmaker name="primeval_isle_78" territory="primeval_isle_78" spawn="ALL" maximumNpcs="1">
-		<npc id="22215" total="1" respawnDelay="60s"/>
+		<npc id="22215" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2509,7 +2509,7 @@ Rune Area
 		<node x="27763" y="-16986" />
 	</territory>
 	<npcmaker name="primeval_isle_79" territory="primeval_isle_79" spawn="ALL" maximumNpcs="1">
-		<npc id="22215" pos="28263;-17486;-2539;50052" total="1" respawnDelay="60s"/>
+		<npc id="22215" pos="28263;-17486;-2539;50052" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2520,7 +2520,7 @@ Rune Area
 		<node x="6507" y="-18761" />
 	</territory>
 	<npcmaker name="primeval_isle_8" territory="primeval_isle_8" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="7007;-19261;-3709;21009" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="7007;-19261;-3709;21009" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2531,7 +2531,7 @@ Rune Area
 		<node x="11196" y="-23160" />
 	</territory>
 	<npcmaker name="primeval_isle_84" territory="primeval_isle_84" spawn="ALL" maximumNpcs="1">
-		<npc id="32113" pos="11696;-23660;-3649;41115" total="1" respawnDelay="60s"/>
+		<npc id="32113" pos="11696;-23660;-3649;41115" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2542,7 +2542,7 @@ Rune Area
 		<node x="4872" y="-2217" />
 	</territory>
 	<npcmaker name="primeval_isle_85" territory="primeval_isle_85" spawn="ALL" maximumNpcs="1">
-		<npc id="32112" pos="5372;-2717;-3193;16794" total="1" respawnDelay="60s"/>
+		<npc id="32112" pos="5372;-2717;-3193;16794" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2553,7 +2553,7 @@ Rune Area
 		<node x="6820" y="-4932" />
 	</territory>
 	<npcmaker name="primeval_isle_86" territory="primeval_isle_86" spawn="ALL" maximumNpcs="1">
-		<npc id="32111" pos="7320;-5432;-3224;57729" total="1" respawnDelay="60s"/>
+		<npc id="32111" pos="7320;-5432;-3224;57729" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2564,7 +2564,7 @@ Rune Area
 		<node x="9809" y="-24546" />
 	</territory>
 	<npcmaker name="primeval_isle_87" territory="primeval_isle_87" spawn="ALL" maximumNpcs="1">
-		<npc id="32106" pos="10309;-25046;-3688;4571" total="1" respawnDelay="60s"/>
+		<npc id="32106" pos="10309;-25046;-3688;4571" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2575,7 +2575,7 @@ Rune Area
 		<node x="11449" y="-23498" />
 	</territory>
 	<npcmaker name="primeval_isle_88" territory="primeval_isle_88" spawn="ALL" maximumNpcs="1">
-		<npc id="32105" pos="11949;-23998;-3649;33256" total="1" respawnDelay="60s"/>
+		<npc id="32105" pos="11949;-23998;-3649;33256" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2586,7 +2586,7 @@ Rune Area
 		<node x="11014" y="-22857" />
 	</territory>
 	<npcmaker name="primeval_isle_89" territory="primeval_isle_89" spawn="ALL" maximumNpcs="1">
-		<npc id="32104" pos="11514;-23357;-3649;44323" total="1" respawnDelay="60s"/>
+		<npc id="32104" pos="11514;-23357;-3649;44323" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2597,7 +2597,7 @@ Rune Area
 		<node x="4947" y="-21070" />
 	</territory>
 	<npcmaker name="primeval_isle_9" territory="primeval_isle_9" spawn="ALL" maximumNpcs="7">
-		<npc id="22203" pos="5447;-21570;-3363;29285" total="1" respawnDelay="60s"/>
+		<npc id="22203" pos="5447;-21570;-3363;29285" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2608,7 +2608,7 @@ Rune Area
 		<node x="22327" y="-14198" />
 	</territory>
 	<npcmaker name="primeval_isle_90" territory="primeval_isle_90" spawn="ALL" maximumNpcs="1">
-		<npc id="22217" pos="22827;-14698;-3080;53946" total="1" respawnDelay="60s"/>
+		<npc id="22217" pos="22827;-14698;-3080;53946" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2619,7 +2619,7 @@ Rune Area
 		<node x="19397" y="-8587" />
 	</territory>
 	<npcmaker name="primeval_isle_91" territory="primeval_isle_91" spawn="ALL" maximumNpcs="1">
-		<npc id="22216" pos="19897;-9087;-2781;2686" total="1" respawnDelay="60s"/>
+		<npc id="22216" pos="19897;-9087;-2781;2686" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2630,7 +2630,7 @@ Rune Area
 		<node x="17729" y="-17475" />
 	</territory>
 	<npcmaker name="primeval_isle_92" territory="primeval_isle_92" spawn="ALL" maximumNpcs="1">
-		<npc id="22215" pos="18229;-17975;-3219;65140" total="1" respawnDelay="60s"/>
+		<npc id="22215" pos="18229;-17975;-3219;65140" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2641,7 +2641,7 @@ Rune Area
 		<node x="7210" y="-7760" />
 	</territory>
 	<npcmaker name="primeval_isle_93" territory="primeval_isle_93" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="7710;-8260;-3630;50966" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="7710;-8260;-3630;50966" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2652,7 +2652,7 @@ Rune Area
 		<node x="6605" y="-19622" />
 	</territory>
 	<npcmaker name="primeval_isle_94" territory="primeval_isle_94" spawn="ALL" maximumNpcs="7">
-		<npc id="22211" pos="7105;-20122;-3601;46327" total="1" respawnDelay="60s"/>
+		<npc id="22211" pos="7105;-20122;-3601;46327" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2663,7 +2663,7 @@ Rune Area
 		<node x="3689" y="-16593" />
 	</territory>
 	<npcmaker name="primeval_isle_95" territory="primeval_isle_95" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="4189;-17093;-3692;54824" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="4189;-17093;-3692;54824" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2674,7 +2674,7 @@ Rune Area
 		<node x="5908" y="-17839" />
 	</territory>
 	<npcmaker name="primeval_isle_96" territory="primeval_isle_96" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="6408;-18339;-3719;29564" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="6408;-18339;-3719;29564" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2685,7 +2685,7 @@ Rune Area
 		<node x="3721" y="-15688" />
 	</territory>
 	<npcmaker name="primeval_isle_97" territory="primeval_isle_97" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="4221;-16188;-3648;13843" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="4221;-16188;-3648;13843" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2696,7 +2696,7 @@ Rune Area
 		<node x="4717" y="-14404" />
 	</territory>
 	<npcmaker name="primeval_isle_98" territory="primeval_isle_98" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="5217;-14904;-3663;11689" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="5217;-14904;-3663;11689" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -2707,7 +2707,7 @@ Rune Area
 		<node x="2452" y="-17542" />
 	</territory>
 	<npcmaker name="primeval_isle_99" territory="primeval_isle_99" spawn="ALL" maximumNpcs="7">
-		<npc id="22208" pos="2952;-18042;-3587;20570" total="1" respawnDelay="60s"/>
+		<npc id="22208" pos="2952;-18042;-3587;20570" total="1" respawnDelay="10s"/>
 	</npcmaker>
 	
 	<!--  -->

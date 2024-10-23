@@ -2,390 +2,54 @@
 <locs>
 <configs>
 <atualstudio>Cache script by Atualstudio.com</atualstudio>
-<updated>1724838834</updated>
+<updated>1729700628</updated>
 <delay>5</delay>
 </configs>
 <line>
-<player>Nacaixa</player>
-<clan>Hu3</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Spoil</player>
-<clan></clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Hermiosvalda</player>
-<clan>Hu3</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>WhatsApp</player>
-<clan>OnlyFanS</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Artemis</player>
-<clan>Hu3</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>PowerWater</player>
-<clan>Hu3</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Princesinha</player>
-<clan>OnlyFanS</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Pak</player>
-<clan>Hu3</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OverDaShopee</player>
-<clan>OnlyFanS</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>XerecA</player>
-<clan>OnlyFanS</clan>
-<itemid>8191</itemid>
-<itemname>Necklace of Frintezza</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>TheKingOFMadona</player>
-<clan>OnlyFanS</clan>
+<player>xDavi</player>
+<clan>BRT</clan>
 <itemid>6662</itemid>
 <itemname>Ring of Core</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>BoLaDaO</player>
-<clan>Hu3</clan>
-<itemid>6662</itemid>
-<itemname>Ring of Core</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OnnJackTallBeck</player>
-<clan>Hu3</clan>
-<itemid>6662</itemid>
-<itemname>Ring of Core</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>IIILORDZAOIII</player>
-<clan>Hu3</clan>
-<itemid>6662</itemid>
-<itemname>Ring of Core</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Kimmy</player>
-<clan>Hu3</clan>
-<itemid>6662</itemid>
-<itemname>Ring of Core</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>NightWolF</player>
-<clan>OnlyFanS</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>TheKingOFMadona</player>
-<clan>OnlyFanS</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>TheOfGirl</player>
-<clan>OnlyFanS</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Vi</player>
-<clan>Hu3</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>DogDu</player>
-<clan>Hu3</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>iDudinhaBR</player>
-<clan>Hu3</clan>
-<itemid>6661</itemid>
-<itemname>Earring of Orfen</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>HoollyWood</player>
-<clan>Hu3</clan>
+<player>xDavi</player>
+<clan>BRT</clan>
 <itemid>6660</itemid>
 <itemname>Ring of Queen Ant</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>MaGrelinH0</player>
-<clan>Hu3</clan>
+<player>HighLander</player>
+<clan>L2Feel</clan>
 <itemid>6660</itemid>
 <itemname>Ring of Queen Ant</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>TheKingOFMadona</player>
-<clan>OnlyFanS</clan>
+<player>HighLander</player>
+<clan>L2Feel</clan>
 <itemid>6659</itemid>
 <itemname>Earring of Zaken</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>IBlacKPouLI</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OverDaShopee</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>TheOfGirl</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Morgana</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>GataDaFavela</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>XerecA</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Luffy</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Pak</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Behemoth</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Princesinha</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>YuSuKe</player>
-<clan>OnlyFanS</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OnnJackTallBeck</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>MaGrelinH0</player>
-<clan>Hu3</clan>
-<itemid>6659</itemid>
-<itemname>Earring of Zaken</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>qUARtER8ACk1</player>
-<clan>SoullOly</clan>
+<player>HighLander</player>
+<clan>L2Feel</clan>
 <itemid>6658</itemid>
 <itemname>Ring of Baium</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>OnJackTalBeck</player>
-<clan>Hu3</clan>
-<itemid>6658</itemid>
-<itemname>Ring of Baium</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OnnJackTallBeck</player>
-<clan>Hu3</clan>
-<itemid>6658</itemid>
-<itemname>Ring of Baium</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>MaGrelinH0</player>
-<clan>Hu3</clan>
-<itemid>6658</itemid>
-<itemname>Ring of Baium</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>WhatsApp</player>
-<clan>OnlyFanS</clan>
-<itemid>6658</itemid>
-<itemname>Ring of Baium</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Morgana</player>
-<clan>OnlyFanS</clan>
-<itemid>6658</itemid>
-<itemname>Ring of Baium</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>MaGrelinH0</player>
-<clan>Hu3</clan>
+<player>HighLander</player>
+<clan>L2Feel</clan>
 <itemid>6657</itemid>
 <itemname>Necklace of Valakas</itemname>
 <amount>1</amount>
 </line>
 <line>
-<player>Morgana</player>
-<clan>OnlyFanS</clan>
-<itemid>6657</itemid>
-<itemname>Necklace of Valakas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Behemoth</player>
-<clan>Hu3</clan>
-<itemid>6657</itemid>
-<itemname>Necklace of Valakas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OnnJackTallBeck</player>
-<clan>Hu3</clan>
-<itemid>6657</itemid>
-<itemname>Necklace of Valakas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>qUARtER8ACk1</player>
-<clan>SoullOly</clan>
-<itemid>6657</itemid>
-<itemname>Necklace of Valakas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Kimmy</player>
-<clan>Hu3</clan>
-<itemid>6657</itemid>
-<itemname>Necklace of Valakas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>MaGrelinH0</player>
-<clan>Hu3</clan>
-<itemid>6656</itemid>
-<itemname>Earring of Antharas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>OnnJackTallBeck</player>
-<clan>Hu3</clan>
-<itemid>6656</itemid>
-<itemname>Earring of Antharas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>TheOfGirl</player>
-<clan>OnlyFanS</clan>
-<itemid>6656</itemid>
-<itemname>Earring of Antharas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Morgana</player>
-<clan>OnlyFanS</clan>
-<itemid>6656</itemid>
-<itemname>Earring of Antharas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Kimmy</player>
-<clan>Hu3</clan>
-<itemid>6656</itemid>
-<itemname>Earring of Antharas</itemname>
-<amount>1</amount>
-</line>
-<line>
-<player>Rene</player>
-<clan>OnlyFanS</clan>
+<player>HighLander</player>
+<clan>L2Feel</clan>
 <itemid>6656</itemid>
 <itemname>Earring of Antharas</itemname>
 <amount>1</amount>

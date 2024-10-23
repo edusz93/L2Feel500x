@@ -86,74 +86,45 @@ if($genNew) {
 	
 }
 
-$selectedClan = isset($_GET['clan']) ? $_GET['clan'] : '';
 ?>
 
-<form method="get" action="">
-    <input type="hidden" name="page" value="toppvp" />
-    <label for="clan">Filtrar por clan:</label>
-    <select name="clan" id="clan">
-        <option value="">Todos</option>
-        <?php
-        $clans = [];
-        foreach ($xml->line as $line) {
-            $clanName = (string) $line->clan;
-            if (!in_array($clanName, $clans)) {
-                $clans[] = $clanName;
-                echo '<option value="'.htmlspecialchars($clanName).'"'.($selectedClan === $clanName ? ' selected' : '').'>'.htmlspecialchars($clanName).'</option>';
-            }
-        }
-        ?>
-    </select>
-    <button type="submit">Filtrar</button>
-</form>
 <div class='pddInner'>
 	<?php echo $LANG[30502]."<br />".$LANG[30500]." <b>".date('d/m/Y', $updated)."</b> ".$LANG[30501]." <b>".date('H:i', $updated)."</b>."; ?><br /><br />
 </div>
+
 <table cellspacing="0" cellpadding="0" border="0" class='default'>
-    <thead>
-        <tr>
-            <th class='pos'></th>
-            <th><?php echo htmlspecialchars($LANG[12013]); ?></th>
-            <th>Clan</th>
-            <th>PVP's</th>
-            <th>PK's</th>
-            <th title='<?php echo htmlspecialchars($LANG[29006]); ?>'><?php echo htmlspecialchars($LANG[12016]); ?></th>
-        </tr>
-    </thead>
-    <tbody>
-        <?php
-        $line = $xml->line;
-        $countView = (!empty($countTopPVP) ? intval($countTopPVP) : 100);
-        if (count($line) < $countView) { $countView = count($line); }
+	
+	<tr>
+		<th class='pos'></th>
+		<th><?php echo $LANG[12013]; ?></th>
+		<th>Clan</th>
+		<th>PVP's</th>
+		<th>PK's</th>
+		<th title='<?php echo $LANG[29006]; ?>'><?php echo $LANG[12016]; ?></th>
+	</tr>
+	
+	<?php
+	
+	$line = $xml->line;
+	
+	$countView = (!empty($countTopPVP) ? intval($countTopPVP) : 100);
+	if(count($line) < $countView) { $countView = count($line); }
+	for($i=0, $c=$countView; $i < $c; $i++) {
+		
+		echo "
+		<tr".(($i % 2 == 0) ? " class='two'" : "").">
+			<td class='pos'>".$line[$i]->pos."&ordm;</td>
+			<td><b>".$line[$i]->name."</b></td>
+			<td>".$line[$i]->clan."</td>
+			<td class='foco' style='color: #006202;'>".$line[$i]->pvp."</td>
+			<td style='color: #ba0d0d;'>".$line[$i]->pk."</td>
+			<td title='".$line[$i]->otdays." ".$LANG[12014]."s, " .$line[$i]->othrs." hrs ".$LANG[12015]." ".$line[$i]->otmin." min'>".$line[$i]->otdays."d, " .$line[$i]->othrs."h ".$line[$i]->otmin."m</td>
+		</tr>
+		";
+		
+	}
+	
+	?>
 
-        for ($i = 0; $i < $countView; $i++) {
-            $clan = (string) $line[$i]->clan;
-            if ($selectedClan && $clan !== $selectedClan) {
-                continue;
-            }
-            $row_class = ($i % 2 == 0) ? " class='two'" : "";
-            $pos = htmlspecialchars($line[$i]->pos);
-            $name = htmlspecialchars($line[$i]->name);
-            $pvp = htmlspecialchars($line[$i]->pvp);
-            $pk = htmlspecialchars($line[$i]->pk);
-            $otdays = htmlspecialchars($line[$i]->otdays);
-            $othrs = htmlspecialchars($line[$i]->othrs);
-            $otmin = htmlspecialchars($line[$i]->otmin);
-            $title = "{$otdays} {$LANG[12014]}s, {$othrs} hrs {$LANG[12015]} {$otmin} min";
-            $formatted_time = "{$otdays}d, {$othrs}h {$otmin}m";
-
-            echo "
-            <tr{$row_class}>
-                <td class='pos'>{$pos}&ordm;</td>
-                <td><b>{$name}</b></td>
-                <td><center>{$clan}</center></td>
-                <td class='foco' style='color: #32CD32;'><center>{$pvp}</center></td>
-                <td style='color: orange;'><center>{$pk}</center></td>
-                <td title='{$title}'><center>{$formatted_time}</center></td>
-            </tr>
-            ";
-        }
-        ?>
-    </tbody>
 </table>
+<br>

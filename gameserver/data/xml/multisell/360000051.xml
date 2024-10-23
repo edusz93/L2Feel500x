@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list maintainEnchantment="false">
 	<item id="4">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14020" count="1" enchant="0"/>
 	</item>
 	<item id="5">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14021" count="1" enchant="0"/>
 	</item>
 	<item id="6">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14022" count="1" enchant="0"/>
 	</item>
 	<item id="7">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14023" count="1" enchant="0"/>
 	</item>
 	<item id="8">
-		<ingredient id="13000" count="150"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14024" count="1" enchant="0"/>
 	</item>
 	<item id="9">
-		<ingredient id="13000" count="150"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14025" count="1" enchant="0"/>
 	</item>
 	<item id="10">
-		<ingredient id="13000" count="150"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14026" count="1" enchant="0"/>
 	</item>
 	<item id="11">
-		<ingredient id="13000" count="150"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14027" count="1" enchant="0"/>
 	</item>
 	<item id="12">
-		<ingredient id="13000" count="150"/>
+		<ingredient id="13000" count="100"/>
 		<production id="14028" count="1" enchant="0"/>
 	</item>
 </list>

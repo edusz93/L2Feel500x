@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
 	<item id="16000" type="Armor" name="Dusk Shield">
-		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="icon" val="L2JBrazuca.icons.nephelim_shield0" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -17,7 +17,7 @@
 		</for>
 	</item>
 	<item id="16001" type="Armor" name="Shield Of Imperial Warlord Zombie">
-		<set name="icon" val="icon.weapon_monster_i00" />
+		<set name="icon" val="L2JBrazuca.icons.bone_shield0" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -33,7 +33,7 @@
 		</for>
 	</item>
 	<item id="16002" type="Armor" name="Mystic Shield">
-		<set name="icon" val="bronze.bronze" />
+		<set name="icon" val="icon.shield_tower_shield_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -49,7 +49,7 @@
 		</for>
 	</item>
 	<item id="16003" type="Armor" name="Istina Shield">
-		<set name="icon" val="istina_shield_TheVainglorious_l2rr_la2.istina_shield_TheVainglorious_l2_1" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield4" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -65,7 +65,7 @@
 		</for>
 	</item>
 	<item id="16004" type="Armor" name="Helios Shield">
-		<set name="icon" val="helios_shield_TheVainglorious_l2rr_la2.helios_shield_TheVainglorious_l2rr_la2_1shader" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -81,7 +81,7 @@
 		</for>
 	</item>
 	<item id="16005" type="Armor" name="Hunchback Shield">
-		<set name="icon" val="hunchback_shield_TheVainglorious_l2rr_la2.hunchback_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -97,7 +97,7 @@
 		</for>
 	</item>
 	<item id="16006" type="Armor" name="Kelbim Shield">
-		<set name="icon" val="kelbim_shield_TheVainglorious_l2rr_la2.kelbim_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield2" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -113,7 +113,7 @@
 		</for>
 	</item>
 	<item id="16007" type="Armor" name="Kunda Shield">
-		<set name="icon" val="kunda_shield_TheVainglorious_l2rr_la2.kunda_shield_TheVainglorious_l2rr_la2_1shader" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield8" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -129,7 +129,7 @@
 		</for>
 	</item>
 	<item id="16008" type="Armor" name="Lael Shield">
-		<set name="icon" val="lael_mahum_shield_TheVainglorious_l2rr_la2.lael_mahum_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -145,7 +145,7 @@
 		</for>
 	</item>
 	<item id="16009" type="Armor" name="Anakazel Shield">
-		<set name="icon" val="anakazel_freya_l2rr.anakazel_freya_l2rra" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -161,7 +161,7 @@
 		</for>
 	</item>
 	<item id="16010" type="Armor" name="Freya Shield">
-		<set name="icon" val="anakazel_freya_l2rr.freya_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -177,7 +177,7 @@
 		</for>
 	</item>
 	<item id="16011" type="Armor" name="Marshal Shield">
-		<set name="icon" val="mask_marshal_l2rr.marshal_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield12" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -193,7 +193,7 @@
 		</for>
 	</item>
 	<item id="16012" type="Armor" name="Mask Shield">
-		<set name="icon" val="mask_marshal_l2rr.mask_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield10" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -209,7 +209,7 @@
 		</for>
 	</item>
 	<item id="16013" type="Armor" name="Pailaka Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_invader_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield1" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -225,7 +225,7 @@
 		</for>
 	</item>
 	<item id="16014" type="Armor" name="Scarab Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rra" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield14" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -241,7 +241,7 @@
 		</for>
 	</item>
 	<item id="16015" type="Armor" name="Scarab Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rraa" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield14" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -257,7 +257,7 @@
 		</for>
 	</item>
 	<item id="16016" type="Armor" name="Scarab Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rraaa" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield14" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -273,7 +273,7 @@
 		</for>
 	</item>
 	<item id="16017" type="Armor" name="Scarab Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rraaaa" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield14" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -289,7 +289,7 @@
 		</for>
 	</item>
 	<item id="16018" type="Armor" name="Tantaar Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rraaaaa" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield6" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -305,7 +305,7 @@
 		</for>
 	</item>
 	<item id="16019" type="Armor" name="Tigar Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.tigar_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -321,7 +321,7 @@
 		</for>
 	</item>
 	<item id="16020" type="Armor" name="Sacon Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Sacon_Shield_t02" />
+		<set name="icon" val="WilliamFS_i00.weapon_sacon_i21" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -337,7 +337,7 @@
 		</for>
 	</item>
 	<item id="16021" type="Armor" name="Eye Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Eye_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.weapon_akra_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -353,7 +353,7 @@
 		</for>
 	</item>
 	<item id="16022" type="Armor" name="Sumontes Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Sumontes_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.Weapon_Sumontes_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -369,7 +369,7 @@
 		</for>
 	</item>
 	<item id="16023" type="Armor" name="Night Lotus Shield">
-		<set name="icon" val="KOSshield.Lotus5_sh0" />
+		<set name="icon" val="KOSshield.icon489" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -385,7 +385,7 @@
 		</for>
 	</item>
 	<item id="16024" type="Armor" name="Beranka Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.beranka_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.beranka_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -401,7 +401,7 @@
 		</for>
 	</item>
 	<item id="16025" type="Armor" name="Proenixwing Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Phoenixwing_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.Phoenixwing_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -417,7 +417,7 @@
 		</for>
 	</item>
 	<item id="16026" type="Armor" name="Anasbell Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Anasbell_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.Anasbell_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -433,7 +433,7 @@
 		</for>
 	</item>
 	<item id="16027" type="Armor" name="Kratere Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.kratere_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.kratere_i21" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -449,7 +449,7 @@
 		</for>
 	</item>
 	<item id="16028" type="Armor" name="Venustum Shield">
-		<set name="icon" val="WilliamFS_ShieldTex.Venustum_Shield_t00" />
+		<set name="icon" val="WilliamFS_i00.Venustum_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -465,7 +465,7 @@
 		</for>
 	</item>
 	<item id="16029" type="Armor" name="Elemental Dark Shield">
-		<set name="icon" val="Elemental.Dark_t00_sh" />
+		<set name="icon" val="Elemental.Dark_Shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -481,7 +481,7 @@
 		</for>
 	</item>
 	<item id="16030" type="Armor" name="Elemental Fire Shield">
-		<set name="icon" val="Elemental.Fire_t00_sh" />
+		<set name="icon" val="Elemental.Fire_Shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -497,7 +497,7 @@
 		</for>
 	</item>
 	<item id="16031" type="Armor" name="Elemental Gold Shield">
-		<set name="icon" val="Elemental.Gold_t00_sh" />
+		<set name="icon" val="Elemental.Gold_Shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -513,7 +513,7 @@
 		</for>
 	</item>
 	<item id="16032" type="Armor" name="Elemental Ice Shield">
-		<set name="icon" val="Elemental.Ice_t00_sh" />
+		<set name="icon" val="Elemental.Ice_Shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -529,7 +529,7 @@
 		</for>
 	</item>
 	<item id="16033" type="Armor" name="Elemental Wind Shield">
-		<set name="icon" val="Elemental.Wind_t00_sh" />
+		<set name="icon" val="Elemental.Wind_Shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -545,7 +545,7 @@
 		</for>
 	</item>
 	<item id="16034" type="Armor" name="Dragon Face Shield">
-		<set name="icon" val="KSshield.dynastyb" />
+		<set name="icon" val="KSshieldIcons.dynastywing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -561,7 +561,7 @@
 		</for>
 	</item>
 	<item id="16035" type="Armor" name="Burning Shield">
-		<set name="icon" val="KSshield.hellfire_sh" />
+		<set name="icon" val="KSshieldIcons.bloodlustwing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -577,7 +577,7 @@
 		</for>
 	</item>
 	<item id="16036" type="Armor" name="Solar Wing Shield">
-		<set name="icon" val="KSshield.firewing2" />
+		<set name="icon" val="KSshieldIcons.firewing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -593,7 +593,7 @@
 		</for>
 	</item>
 	<item id="16037" type="Armor" name="Silver Wing Shield">
-		<set name="icon" val="KSshield.icewing2" />
+		<set name="icon" val="KSshieldIcons.icewing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -609,7 +609,7 @@
 		</for>
 	</item>
 	<item id="16038" type="Armor" name="Antharas Shield">
-		<set name="icon" val="KSshield.highguardwing" />
+		<set name="icon" val="KSshieldIcons.highguardwing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -625,7 +625,7 @@
 		</for>
 	</item>
 	<item id="16039" type="Armor" name="Valakas Shield">
-		<set name="icon" val="KSshield.Titaniumarm0" />
+		<set name="icon" val="KSshieldIcons.titaniumwing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -641,7 +641,7 @@
 		</for>
 	</item>
 	<item id="16040" type="Armor" name="Vulcano Shield">
-		<set name="icon" val="KSshield.hellwing" />
+		<set name="icon" val="KSshieldIcons.hellwing_sd" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -657,7 +657,7 @@
 		</for>
 	</item>
 	<item id="16041" type="Armor" name="Hunchback Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_scarab_tantaar_tigar_l2rraaaaa" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield6" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -673,7 +673,7 @@
 		</for>
 	</item>
 	<item id="16042" type="Armor" name="Kunda Shield">
-		<set name="icon" val="pailaka_scarab_tantaar_tigar_l2rr.pailaka_invader_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield1" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -689,7 +689,7 @@
 		</for>
 	</item>
 	<item id="16043" type="Armor" name="Lael Mahum Shield">
-		<set name="icon" val="mask_marshal_l2rr.mask_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield10" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -705,7 +705,7 @@
 		</for>
 	</item>
 	<item id="16044" type="Armor" name="Anakazel Shield">
-		<set name="icon" val="mask_marshal_l2rr.marshal_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield12" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -721,7 +721,7 @@
 		</for>
 	</item>
 	<item id="16045" type="Armor" name="Marshal Shield">
-		<set name="icon" val="anakazel_freya_l2rr.anakazel_freya_l2rra" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -737,7 +737,7 @@
 		</for>
 	</item>
 	<item id="16046" type="Armor" name="Mask Mahum Shield">
-		<set name="icon" val="lael_mahum_shield_TheVainglorious_l2rr_la2.lael_mahum_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -753,7 +753,7 @@
 		</for>
 	</item>
 	<item id="16047" type="Armor" name="Pailaka Shield">
-		<set name="icon" val="kunda_shield_TheVainglorious_l2rr_la2.kunda_shield_TheVainglorious_l2rr_la2_1shader" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.shapeshift_npc_shield8" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -769,7 +769,7 @@
 		</for>
 	</item>
 	<item id="16048" type="Armor" name="Tantaar Shield">
-		<set name="icon" val="hunchback_shield_TheVainglorious_l2rr_la2.hunchback_shield_t00_sp" />
+		<set name="icon" val="Icon_TheVainglorious_la2_l2rr.weapon_r110_shield" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -785,7 +785,7 @@
 		</for>
 	</item>
 	<item id="16049" type="Armor" name="Dynasty Shield">
-		<set name="icon" val="ct1LineageWeaponsTex.dynasty_shield_wp" />
+		<set name="icon" val="ct1icon.weapon_dynasty_shield_i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -801,7 +801,7 @@
 		</for>
 	</item>
 	<item id="16050" type="Armor" name="TMB Shield">
-		<set name="icon" val="LineageShield_BucksGame_byNevesOma.tmb_000.t01" />
+		<set name="icon" val="LineageShield_BucksGame_byNevesOma.tmb_000.tmb_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -817,7 +817,7 @@
 		</for>
 	</item>
 	<item id="16051" type="Armor" name="Bear Shield">
-		<set name="icon" val="LineageShield_BucksGame_byNevesOma.bear_000.t02" />
+		<set name="icon" val="LineageShield_BucksGame_byNevesOma.bear_000.bear_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -833,7 +833,7 @@
 		</for>
 	</item>
 	<item id="16052" type="Armor" name="Leaf Shield">
-		<set name="icon" val="LineageShield_BucksGame_byNevesOma.leaf_000.t03" />
+		<set name="icon" val="LineageShield_BucksGame_byNevesOma.leaf_000.leaf_i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -849,7 +849,7 @@
 		</for>
 	</item>
 	<item id="16053" type="Armor" name="Wind Dragon Shield">
-		<set name="icon" val="LineageShieldDragon_BucksGame_byNevesOma.tex_000.t00" />
+		<set name="icon" val="LineageShieldDragon_BucksGame_byNevesOma.icons.i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -865,7 +865,7 @@
 		</for>
 	</item>
 	<item id="16054" type="Armor" name="Fire Dragon Shield">
-		<set name="icon" val="LineageShieldDragonF_BucksGame_byNevesOma.tex_000.t00" />
+		<set name="icon" val="LineageShieldDragonF_BucksGame_byNevesOma.icons.i01" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -881,7 +881,7 @@
 		</for>
 	</item>
 	<item id="16055" type="Armor" name="Green Shield">
-		<set name="icon" val="LineageWeapons_GreenHellShield_byNevesOma.textures_000.t00" />
+		<set name="icon" val="LineageWeapons_GreenHellShield_byNevesOma.icons.i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -897,7 +897,7 @@
 		</for>
 	</item>
 	<item id="16056" type="Armor" name="Gold Shield">
-		<set name="icon" val="LineageWeapons_GoldHellShield_byNevesOma.textures_000.t00" />
+		<set name="icon" val="LineageWeapons_GoldHellShield_byNevesOma.icons.i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -913,7 +913,7 @@
 		</for>
 	</item>
 	<item id="16057" type="Armor" name="White Shield">
-		<set name="icon" val="LineageWeapons_WhiteHellShield_byNevesOma.textures_000.t00" />
+		<set name="icon" val="LineageWeapons_WhiteHellShield_byNevesOma.icons.i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />
@@ -929,7 +929,7 @@
 		</for>
 	</item>
 	<item id="16058" type="Armor" name="Dark Shield">
-		<set name="icon" val="LineageWeapons_DarkHellShield_byNevesOma.textures_000.t00" />
+		<set name="icon" val="LineageWeapons_DarkHellShield_byNevesOma.icons.i00" />
 		<set name="default_action" val="equip" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_type" val="S" />

@@ -10,7 +10,7 @@
 			<spawn type="BANISH" x="51952" y="111060" z="-1970"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="22" name="Moonstone Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35384;35385">
+	<clanhall id="22" name="Moonstone Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35384;35385">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-16029" y="123642" z="-3101"/>
@@ -20,7 +20,7 @@
 			<spawn type="BANISH" x="-15872" y="123824" z="-3116"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="23" name="Onyx Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35386;35387">
+	<clanhall id="23" name="Onyx Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35386;35387">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-14848" y="125552" z="-3128"/>
@@ -30,7 +30,7 @@
 			<spawn type="BANISH" x="-14684" y="125655" z="-3142"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="24" name="Topaz Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35388;35389">
+	<clanhall id="24" name="Topaz Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35388;35389">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-13879" y="125413" z="-3128"/>
@@ -40,7 +40,7 @@
 			<spawn type="BANISH" x="-14192" y="125584" z="-3139"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="25" name="Ruby Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35390;35391">
+	<clanhall id="25" name="Ruby Hall" desc="Clan hall located in the Town of Gludio" loc="Gludio" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35390;35391">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-12710" y="124029" z="-3096"/>
@@ -50,7 +50,7 @@
 			<spawn type="BANISH" x="-12688" y="123760" z="-3115"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="26" name="Crystal Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35392;35393">
+	<clanhall id="26" name="Crystal Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35392;35393">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-84416" y="152192" z="-3123"/>
@@ -60,7 +60,7 @@
 			<spawn type="BANISH" x="-84080" y="151744" z="-3127"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="27" name="Onyx Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35394;35395">
+	<clanhall id="27" name="Onyx Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35394;35395">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-84171" y="153385" z="-3159"/>
@@ -70,7 +70,7 @@
 			<spawn type="BANISH" x="-83860" y="153744" z="-3176"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="28" name="Sapphire Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35396;35397">
+	<clanhall id="28" name="Sapphire Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35396;35397">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-84236" y="155520" z="-3160"/>
@@ -80,7 +80,7 @@
 			<spawn type="BANISH" x="-83824" y="155216" z="-3176"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="29" name="Moonstone Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35398;35399">
+	<clanhall id="29" name="Moonstone Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35398;35399">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-79544" y="150181" z="-3038"/>
@@ -90,7 +90,7 @@
 			<spawn type="BANISH" x="-79856" y="150144" z="-3042"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="30" name="Emerald Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35400;35401">
+	<clanhall id="30" name="Emerald Hall" desc="Clan hall located in Gludin Village" loc="Gludin" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35400;35401">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="-79513" y="151506" z="-3041"/>
@@ -100,7 +100,7 @@
 			<spawn type="BANISH" x="-79854" y="151602" z="-3042"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="31" name="Atramental Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="50" relatedNpcIds="35402;35403">
+	<clanhall id="31" name="Atramental Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="30" relatedNpcIds="35402;35403">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="17760" y="145200" z="-3036"/>
@@ -110,7 +110,7 @@
 			<spawn type="BANISH" x="17552" y="145248" z="-3050"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="32" name="Scarlet Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="50" relatedNpcIds="35404;35405">
+	<clanhall id="32" name="Scarlet Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="30" relatedNpcIds="35404;35405">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="18800" y="143248" z="-3010"/>
@@ -120,7 +120,7 @@
 			<spawn type="BANISH" x="18976" y="143360" z="-3033"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="33" name="Viridian Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="50" relatedNpcIds="35406;35407">
+	<clanhall id="33" name="Viridian Barracks" desc="Clan hall located in the Town of Dion" loc="Dion" grade="1" lease="200000" defaultBid="30" relatedNpcIds="35406;35407">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="20096" y="146064" z="-3111"/>
@@ -214,7 +214,7 @@
 			<spawn type="BANISH" x="91359" y="-12094" z="-2436"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="36" name="Golden Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35439;35440">
+	<clanhall id="36" name="Golden Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35439;35440">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="149134" y="23140" z="-2160"/>
@@ -224,7 +224,7 @@
 			<spawn type="BANISH" x="149568" y="23024" z="-2128"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="37" name="Silver Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35441;35442">
+	<clanhall id="37" name="Silver Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35441;35442">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="150644" y="23653" z="-2150"/>
@@ -234,7 +234,7 @@
 			<spawn type="BANISH" x="150192" y="23808" z="-2128"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="38" name="Mithril Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35443;35444">
+	<clanhall id="38" name="Mithril Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35443;35444">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="145667" y="25356" z="-2150"/>
@@ -244,7 +244,7 @@
 			<spawn type="BANISH" x="150320" y="26368" z="-2256"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="39" name="Silver Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35445;35446">
+	<clanhall id="39" name="Silver Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35445;35446">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="150748" y="26540" z="-2280"/>
@@ -254,7 +254,7 @@
 			<spawn type="BANISH" x="145280" y="25184" z="-2128"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="40" name="Gold Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35447;35448">
+	<clanhall id="40" name="Gold Manor" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35447;35448">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="143992" y="27092" z="-2290"/>
@@ -264,7 +264,7 @@
 			<spawn type="BANISH" x="144432" y="26896" z="-2256"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="41" name="Bronze Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35449;35450">
+	<clanhall id="41" name="Bronze Chamber" desc="Clan hall located in the Town of Aden" loc="Aden" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35449;35450">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="144014" y="28202" z="-2280"/>
@@ -274,7 +274,7 @@
 			<spawn type="BANISH" x="144448" y="28384" z="-2256"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="42" name="Golden Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35451;35452">
+	<clanhall id="42" name="Golden Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35451;35452">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="78592" y="148080" z="-3581"/>
@@ -284,7 +284,7 @@
 			<spawn type="BANISH" x="83409" y="148578" z="-3300"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="43" name="Silver Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35453;35454">
+	<clanhall id="43" name="Silver Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35453;35454">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="82032" y="145328" z="-3520"/>
@@ -294,7 +294,7 @@
 			<spawn type="BANISH" x="83409" y="148578" z="-3300"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="44" name="Mithril Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35455;35456">
+	<clanhall id="44" name="Mithril Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35455;35456">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="83392" y="145328" z="-3389"/>
@@ -304,7 +304,7 @@
 			<spawn type="BANISH" x="83409" y="148578" z="-3300"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="45" name="Bronze Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35457;35458">
+	<clanhall id="45" name="Bronze Chamber" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35457;35458">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="80960" y="151600" z="-3517"/>
@@ -314,7 +314,7 @@
 			<spawn type="BANISH" x="83409" y="148578" z="-3300"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="46" name="Silver Manor" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35459;35460">
+	<clanhall id="46" name="Silver Manor" desc="Clan hall located in the Town of Giran" loc="Giran" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35459;35460">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="82064" y="151904" z="-3520"/>
@@ -324,7 +324,7 @@
 			<spawn type="BANISH" x="83409" y="148578" z="-3300"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="47" name="Moonstone Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35461;35462">
+	<clanhall id="47" name="Moonstone Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35461;35462">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="146022" y="-55560" z="-2765"/>
@@ -334,7 +334,7 @@
 			<spawn type="BANISH" x="147712" y="-58432" z="-2979"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="48" name="Onyx Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35463;35464">
+	<clanhall id="48" name="Onyx Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35463;35464">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="146960" y="-56768" z="-2765"/>
@@ -344,7 +344,7 @@
 			<spawn type="BANISH" x="147712" y="-58432" z="-2979"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="49" name="Emerald Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35465;35466">
+	<clanhall id="49" name="Emerald Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35465;35466">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="148480" y="-56848" z="-2765"/>
@@ -354,7 +354,7 @@
 			<spawn type="BANISH" x="147712" y="-58432" z="-2979"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="50" name="Sapphire Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35467;35468">
+	<clanhall id="50" name="Sapphire Hall" desc="Clan hall located in the Town of Goddard" loc="Goddard" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35467;35468">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="149376" y="-55568" z="-2765"/>
@@ -364,7 +364,7 @@
 			<spawn type="BANISH" x="147712" y="-58432" z="-2979"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="51" name="Mont Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35568;35569">
+	<clanhall id="51" name="Mont Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35568;35569">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="37727" y="-50811" z="896"/>
@@ -374,7 +374,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="52" name="Astaire Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35570;35571">
+	<clanhall id="52" name="Astaire Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35570;35571">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="38735" y="-50473" z="896"/>
@@ -384,7 +384,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="53" name="Aria Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35572;35573">
+	<clanhall id="53" name="Aria Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35572;35573">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="39483" y="-49685" z="896"/>
@@ -394,7 +394,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="54" name="Yiana Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35566;35567">
+	<clanhall id="54" name="Yiana Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35566;35567">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="39545" y="-48217" z="896"/>
@@ -404,7 +404,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="55" name="Roien Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35574;35575">
+	<clanhall id="55" name="Roien Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35574;35575">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="39450" y="-46814" z="896"/>
@@ -414,7 +414,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="56" name="Luna Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35576;35577">
+	<clanhall id="56" name="Luna Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35576;35577">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="38738" y="-46049" z="896"/>
@@ -424,7 +424,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="57" name="Traban Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="50" relatedNpcIds="35578;35579">
+	<clanhall id="57" name="Traban Chamber" desc="An upscale Clan hall located in the Rune Township" loc="Rune" grade="3" lease="1000000" defaultBid="30" relatedNpcIds="35578;35579">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="37737" y="-45711" z="896"/>
@@ -434,7 +434,7 @@
 			<spawn type="BANISH" x="38530" y="-48550" z="896"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="58" name="Eisen Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35580;35581">
+	<clanhall id="58" name="Eisen Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35580;35581">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="85734" y="-143146" z="-1328"/>
@@ -444,7 +444,7 @@
 			<spawn type="BANISH" x="87346" y="-140202" z="-1552"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="59" name="Heavy Metal Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35582;35583">
+	<clanhall id="59" name="Heavy Metal Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35582;35583">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="86603" y="-141894" z="-1328"/>
@@ -454,7 +454,7 @@
 			<spawn type="BANISH" x="87346" y="-140202" z="-1552"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="60" name="Molten Ore Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35584;35585">
+	<clanhall id="60" name="Molten Ore Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35584;35585">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="88143" y="-141903" z="-1328"/>
@@ -464,7 +464,7 @@
 			<spawn type="BANISH" x="87346" y="-140202" z="-1552"/>
 		</spawns>
 	</clanhall>
-	<clanhall id="61" name="Titan Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="50" relatedNpcIds="35586;35587">
+	<clanhall id="61" name="Titan Hall" desc="Clan hall located in the Town of Schuttgart" loc="Schuttgart" grade="2" lease="500000" defaultBid="30" relatedNpcIds="35586;35587">
 		<spawns>
 			<!-- owner_restart_point_list -->
 			<spawn type="OWNER" x="89087" y="-143140" z="-1328"/>

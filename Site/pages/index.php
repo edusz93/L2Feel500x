@@ -108,7 +108,18 @@ if($countBanners > 0) { ?>
 <?php } } ?>
 <!-- Countdown  FIM -->
 
-<center><iframe style=
+<center>
+
+<!-- Botão do grupo WhatsApp -->
+<div style="margin: 15px 0; width: 350px;">
+    <a class="default dbig" href="https://chat.whatsapp.com/IbwqkEyLpmd97xmgauF8No" target="_blank"
+       style="display: block; background-color: #25D366; color: #fff; padding: 15px 25px; border-radius: 5px; text-decoration: none; font-size: 18px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); transition: background-color 0.3s, transform 0.3s;">
+        <i class="fa fa-whatsapp" style="padding-right: 5px;"></i> Entrar no grupo do WhatsApp
+    </a>
+</div>
+<br>
+
+<iframe style=
 "
     border-radius: 10px;
     border: 2px solid #3B1404;

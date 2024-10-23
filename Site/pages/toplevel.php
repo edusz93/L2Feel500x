@@ -94,47 +94,37 @@ if($genNew) {
 </div>
 
 <table cellspacing="0" cellpadding="0" border="0" class='default'>
-    <thead>
-        <tr>
-            <th class='pos'></th>
-            <th><?php echo htmlspecialchars($LANG[12013]); ?></th>
-            <th>Clan</th>
-            <th>Level</th>
-            <th>PVP / PK</th>
-            <th title='<?php echo htmlspecialchars($LANG[29006]); ?>'><?php echo htmlspecialchars($LANG[12016]); ?></th>
-        </tr>
-    </thead>
-    <tbody>
-        <?php
-        $line = $xml->line;
-        $countView = (!empty($countTopPlayers) ? intval($countTopPlayers) : 100);
-        if (count($line) < $countView) { $countView = count($line); }
+	
+	<tr>
+		<th class='pos'></th>
+		<th><?php echo $LANG[12013]; ?></th>
+		<th>Clan</th>
+		<th>Level</th>
+		<th>PVP / PK</th>
+		<th title='<?php echo $LANG[29006]; ?>'><?php echo $LANG[12016]; ?></th>
+	</tr>
+	
+	<?php
+	
+	$line = $xml->line;
+	
+	$countView = (!empty($countTopPlayers) ? intval($countTopPlayers) : 100);
+	if(count($line) < $countView) { $countView = count($line); }
+	for($i=0, $c=$countView; $i < $c; $i++) {
+		
+		echo "
+		<tr".(($i % 2 == 0) ? " class='two'" : "").">
+			<td class='pos'>".$line[$i]->pos."&ordm;</td>
+			<td><b>".$line[$i]->name."</b></td>
+			<td>".$line[$i]->clan."</td>
+			<td class='foco'>".$line[$i]->level."</td>
+			<td><span style='color: #006202;'>".$line[$i]->pvp."</span> / <span style='color: #ba0d0d;'>".$line[$i]->pk."</span></td>
+			<td title='".$line[$i]->otdays." ".$LANG[12014]."s, " .$line[$i]->othrs." hrs ".$LANG[12015]." ".$line[$i]->otmin." min'>".$line[$i]->otdays."d, " .$line[$i]->othrs."h ".$line[$i]->otmin."m</td>
+		</tr>
+		";
+		
+	}
+	
+	?>
 
-        for ($i = 0; $i < $countView; $i++) {
-            $row_class = ($i % 2 == 0) ? " class='two'" : "";
-            $pos = htmlspecialchars($line[$i]->pos);
-            $name = htmlspecialchars($line[$i]->name);
-            $clan = htmlspecialchars($line[$i]->clan);
-            $level = htmlspecialchars($line[$i]->level);
-            $pvp = htmlspecialchars($line[$i]->pvp);
-            $pk = htmlspecialchars($line[$i]->pk);
-            $otdays = htmlspecialchars($line[$i]->otdays);
-            $othrs = htmlspecialchars($line[$i]->othrs);
-            $otmin = htmlspecialchars($line[$i]->otmin);
-            $title = "{$otdays} {$LANG[12014]}s, {$othrs} hrs {$LANG[12015]} {$otmin} min";
-            $formatted_time = "{$otdays}d, {$othrs}h {$otmin}m";
-
-            echo "
-            <tr{$row_class}>
-                <td class='pos'>{$pos}&ordm;</td>
-                <td><b>{$name}</b></td>
-                <td><center>{$clan}</center></td>
-                <td class='foco'><center>{$level}</center></td>
-                <td><center><span style='color: #32CD32;'>{$pvp}</span> / <span style='color: orange;'>{$pk}</span></center></td>
-                <td title='{$title}'><center>{$formatted_time}</center></td>
-            </tr>
-            ";
-        }
-        ?>
-    </tbody>
 </table>

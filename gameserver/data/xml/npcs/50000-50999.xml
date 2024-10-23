@@ -437,7 +437,7 @@
 			<!-- Drops configs -->
 		</drops>
 	</npc>
-	<npc id="50012" idTemplate="60010" name="Lady" title="Donate Shop">
+	<npc id="50012" idTemplate="60010" name="Lady" title="Donate Reward">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>
@@ -546,7 +546,7 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50015" idTemplate="60015" name="Headquarters" title="">
+	<npc id="50015" idTemplate="50015" name="Headquarters" title="">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="1"/>
@@ -729,7 +729,7 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50020" idTemplate="60002" name="Manager" title="Achievements">
+	<npc id="50020" idTemplate="60002" name="Manager" title=".mission">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="70"/>

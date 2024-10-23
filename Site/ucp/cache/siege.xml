@@ -2,26 +2,26 @@
 <siege>
 <configs>
 <atualstudio>Cache script by Atualstudio.com</atualstudio>
-<updated>1722808391</updated>
+<updated>1700618426</updated>
 </configs>
 <line>
 <castle>Giran</castle>
-<owner>OnlyFanS</owner>
-<leader>XerecA</leader>
-<ally>NorthTeaM</ally>
-<nextwar>04 August, 2024 18:00</nextwar>
-<tax>15</tax>
+<owner>BlackFlag</owner>
+<leader>Lopar0</leader>
+<ally>BlackFlag</ally>
+<nextwar>26 November, 2023 18:00</nextwar>
+<tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
-<defs>2</defs>
-<defsname>Hu3, TheWarrirorS</defsname>
+<defs>1</defs>
+<defsname>EsquadraoDaMorte</defsname>
 </line>
 <line>
 <castle>Gludio</castle>
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>10 August, 2024 18:00</nextwar>
+<nextwar>02 December, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -33,7 +33,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>10 August, 2024 18:00</nextwar>
+<nextwar>02 December, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -45,7 +45,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>18 August, 2024 18:00</nextwar>
+<nextwar>26 November, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -57,7 +57,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>10 August, 2024 18:00</nextwar>
+<nextwar>02 December, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -69,7 +69,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>18 August, 2024 18:00</nextwar>
+<nextwar>26 November, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -81,7 +81,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>18 August, 2024 18:00</nextwar>
+<nextwar>26 November, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -93,7 +93,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>10 August, 2024 18:00</nextwar>
+<nextwar>02 December, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>
@@ -105,7 +105,7 @@
 <owner>No Owner</owner>
 <leader>No Leader</leader>
 <ally>No Alliance</ally>
-<nextwar>10 August, 2024 18:00</nextwar>
+<nextwar>02 December, 2023 18:00</nextwar>
 <tax>0</tax>
 <attacks>0</attacks>
 <attacksname></attacksname>

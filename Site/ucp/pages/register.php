@@ -136,21 +136,9 @@
 		<?php } ?>
 
 		<input type='submit' class='default big' value='<?php echo $LANG[12077]; ?>' style='margin: 20px auto; display: table;<?php echo ($desativarReg == 1) ? " opacity: 0.6; cursor: default;' disabled" : "'"; ?> />
-			
+
 	</form>
-	<?php if($funct['regist'] == 1 || !empty($link_regist)) {
-		
-		echo "
-		<div class='grayArea'>
-			".$LANG[15006]." <a href='./'>".$LANG[15007]."</a>
-		</div>
-		<div class='grayArea'>
-			<a href='../'>".$server_url."</a>
-		</div>
-		";
-		
-	}
-	?>
+	
 </div>
 
 <?php

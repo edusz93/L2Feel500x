@@ -1,136 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list maintainEnchantment="true" applyTaxes="true"> 
-  <!-- Santa's Hat   -->
-  <item id="6">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="7836" count="1"/>
-  </item>
-  
-  <!--  Party Hat   -->
-  <item id="8">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8184" count="1"/>
-  </item>
-  
-  <!--  Blue Party Hat   -->
-  <item id="9">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8557" count="1"/>
-  </item>
-  
-  <!-- Artisan's Goggles   -->
-  <item id="10">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8186" count="1"/>
-  </item>
-  
-  <!--   Black Feather Mask (Event)  -->
-  <item id="13">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8910" count="1"/>
-  </item>
-  
-  <!--   Luxurious Gold Circlet  -->
-  <item id="14">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8914" count="1"/>
-  </item>
-  
-  <!--   Luxurious Silver Circlet  -->
-  <item id="15">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8915" count="1"/>
-  </item>
-  
-  <!--   Leather Cap -->
-  <item id="16">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8918" count="1"/>
-  </item>
-  
-  <!--   First Mate's Hat -->
-  <item id="17">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8919" count="1"/>
-  </item>
-  
-  <!--   Angel Halo -->
-  <item id="18">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8920" count="1"/>
-  </item>
-  
-  <!--   Demon Circlet -->
-  <item id="19">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8921" count="1"/>
-  </item>
-  
-  
-  <!--  Pirate Hat -->
-  <item id="20">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8922" count="1"/>
-  </item>
-  
-  <!-- Santa's Antlers -->
-  <item id="21">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8936" count="1"/>
-  </item>
-  
-  <!-- Teddy Bear Hat -->
-  <item id="22">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8560" count="1"/>
-  </item>
-  
-  <!-- Piggy Hat -->
-  <item id="23">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
-    <production id="8561" count="1"/>
-  </item>
-  
   <!-- Jester Hat -->
-  <item id="24">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
+  <item id="1">
+    <ingredient id="13001" count="100"/>
+	<ingredient id="13007" count="10"/>
     <production id="8562" count="1"/>
   </item>
   
   <!-- Wizard Hat -->
-  <item id="25">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
+  <item id="2">
+    <ingredient id="13001" count="100"/>
+	<ingredient id="13007" count="10"/>
     <production id="8563" count="1"/>
   </item>
   
   <!-- Dapper Cap -->
-  <item id="26">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
+  <item id="3">
+    <ingredient id="13001" count="100"/>
+	<ingredient id="13007" count="10"/>
     <production id="8564" count="1"/>
   </item>
   
   <!-- Romantic Chapeau -->
-  <item id="28">
-    <ingredient id="13001" count="200"/>
-	<ingredient id="13007" count="20"/>
+  <item id="4">
+    <ingredient id="13001" count="100"/>
+	<ingredient id="13007" count="10"/>
     <production id="8565" count="1"/>
   </item>
 </list>

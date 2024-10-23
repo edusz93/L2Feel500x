@@ -235,3 +235,7 @@
 14/08/2024 13:29:18 >>> HWID: [382C4A8CAD13] >>> Player: [PeneloPeCharmosa]
 14/08/2024 13:34:38 >>> HWID: [382C4A8CAD13] >>> Player: [GataDaFavela]
 14/08/2024 13:52:41 >>> HWID: [382C4A8CAD13] >>> Player: [PeneloPeCharmosa]
+16/10/2024 10:47:49 >>> HWID: [382C4A8CAD13] >>> Player: [GataDaFaveLa]
+16/10/2024 11:05:06 >>> HWID: [382C4A8CAD13] >>> Player: [Teste]
+16/10/2024 11:16:24 >>> HWID: [382C4A8CAD13] >>> Player: [GataDaFaveLa]
+20/10/2024 20:09:04 >>> HWID: [382C4A8CAD13] >>> Player: [GataDaFaveLa]

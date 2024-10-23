@@ -1,4 +1,28 @@
 <?php
+
+/*
+
+	Desenvolvido pela Atualstudio
+	www.atualstudio.com
+	
+	          ##########
+	       ################
+	    ######          ######
+	   #####              #####
+	  ####         ....    ####
+	 ####        ########  ####
+	 ####       ########## ####
+	  ####      ########## ####
+	  #####       ######## ####
+	   #####        ****** ####
+	     ######################
+	         ################		 
+	
+	Scripts Version 4.0
+	
+*/
+
+
 error_reporting(0);
 ini_set('error_reporting', 0);
 ini_set('display_errors', 0);
@@ -106,22 +130,6 @@ if(substr($dir_banners, -1) != '/') { $dir_banners .= '/'; }
 if(substr($dir_newsimg, -1) != '/') { $dir_newsimg .= '/'; }
 $asideRankCount = (!empty($asideRankCount) ? intval($asideRankCount) : 3);
 
-function getPreferredLanguage($availableLanguages, $default = 'pt') {
-    if (isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
-        $langs = explode(',', $_SERVER['HTTP_ACCEPT_LANGUAGE']);
-        foreach ($langs as $lang) {
-            $lang = substr($lang, 0, 2);
-            if (in_array($lang, $availableLanguages)) {
-                return $lang;
-            }
-        }
-    }
-    return $default;
-}
-
-// Idiomas disponíveis no site
-$availableLanguages = ['en', 'es', 'pt'];
-$language = getPreferredLanguage($availableLanguages);
 
 if(isset($_GET['changelang'])) {
 	switch(strtolower(vCode($_GET['changelang']))) {
