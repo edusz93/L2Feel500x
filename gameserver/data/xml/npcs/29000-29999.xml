@@ -3786,7 +3786,7 @@
 		<set name="str" val="60"/>
 		<set name="int" val="76"/>
 		<set name="dex" val="73"/>
-		<set name="wit" val="70"/>
+		<set name="wit" val="43"/>
 		<set name="con" val="57"/>
 		<set name="men" val="80"/>
 		<set name="corpseTime" val="7"/>
