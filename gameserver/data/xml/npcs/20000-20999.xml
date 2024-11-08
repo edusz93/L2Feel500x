@@ -53398,8 +53398,10 @@
 			<minion id="20766" min="1" max="1"/>
 		</minions>
 	</npc>
-	<npc id="20764" name="Shaman of the Plains" title="">
-		<set name="level" val="39"/>
+	<npc id="20764" name="Shaman of the Plains" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="13"/>
 		<set name="height" val="35"/>
 		<set name="rHand" val="179"/>
@@ -53407,14 +53409,14 @@
 		<set name="type" val="Monster"/>
 		<set name="exp" val="3457"/>
 		<set name="sp" val="220"/>
-		<set name="hp" val="925.85879"/>
-		<set name="mp" val="463.32"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="166.06476"/>
-		<set name="pDef" val="152.46752"/>
-		<set name="mAtk" val="113.4007"/>
-		<set name="mDef" val="101.514599764346"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
 		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
@@ -53437,54 +53439,133 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1825" min="1" max="1" chance="8.0925"/>
-				<drop itemid="1902" min="1" max="1" chance="11.4787"/>
-				<drop itemid="1903" min="1" max="1" chance="18.8982"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="479" max="955" chance="100.0"/>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.9437">
-				<drop itemid="437" min="1" max="1" chance="0.6735"/>
-				<drop itemid="470" min="1" max="1" chance="1.0796"/>
-				<drop itemid="1945" min="1" max="1" chance="59.8273"/>
-				<drop itemid="1944" min="1" max="1" chance="38.4196"/>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="29.3756">
-				<drop itemid="2149" min="1" max="1" chance="2.3734"/>
-				<drop itemid="1881" min="1" max="1" chance="4.4305"/>
-				<drop itemid="1875" min="1" max="1" chance="2.2154"/>
-				<drop itemid="1872" min="1" max="1" chance="44.3039"/>
-				<drop itemid="1867" min="1" max="1" chance="44.3035"/>
-				<drop itemid="5473" min="1" max="1" chance="2.3733"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
 			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
 			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
 			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
 			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
 			</category>
 		</drops>
 	</npc>
@@ -55053,24 +55134,26 @@
 			</category>
 		</drops>
 	</npc>
-	<npc id="20783" name="Dread Wolf" title="">
-		<set name="level" val="35"/>
+	<npc id="20783" name="Dread Wolf" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="13"/>
 		<set name="height" val="11"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Monster"/>
-		<set name="exp" val="818"/>
-		<set name="sp" val="48"/>
-		<set name="hp" val="772.73802"/>
-		<set name="mp" val="402.6"/>
+		<set name="exp" val="1152"/>
+		<set name="sp" val="68"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="129.32896"/>
-		<set name="pDef" val="136.72948"/>
-		<set name="mAtk" val="88.31491"/>
-		<set name="mDef" val="91.0360303625432"/>
-		<set name="crit" val="4"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -55083,174 +55166,164 @@
 		<set name="runSpd" val="140"/>
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="500" canMove="true" seedable="true"/>
 		<skills>
-			<skill id="4408" level="9"/>
-			<skill id="4410" level="14"/>
-			<skill id="4411" level="14"/>
-			<skill id="4412" level="8"/>
-			<skill id="4413" level="8"/>
-			<skill id="4416" level="4"/>
-		</skills>
-		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1900" min="1" max="1" chance="2.954"/>
-				<drop itemid="1935" min="1" max="1" chance="1.5084"/>
-				<drop itemid="2203" min="1" max="1" chance="5.8822"/>
-			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="114" max="228" chance="100.0"/>
-			</category>
-			<category type="DROP" chance="0.058">
-				<drop itemid="316" min="1" max="1" chance="1.7207"/>
-				<drop itemid="317" min="1" max="1" chance="1.7207"/>
-				<drop itemid="2030" min="1" max="1" chance="96.5586"/>
-			</category>
-			<category type="DROP" chance="3.0316">
-				<drop itemid="2977" min="1" max="1" chance="9.0578"/>
-				<drop itemid="2153" min="1" max="1" chance="10.5224"/>
-				<drop itemid="1889" min="1" max="1" chance="4.5124"/>
-				<drop itemid="1884" min="1" max="1" chance="41.6286"/>
-				<drop itemid="1878" min="1" max="1" chance="27.0582"/>
-				<drop itemid="1874" min="1" max="1" chance="4.5124"/>
-				<drop itemid="5220" min="1" max="1" chance="2.7082"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
-			</category>
-		</drops>
-	</npc>
-	<npc id="20784" name="Tasaba Lizardman" title="">
-		<set name="level" val="36"/>
-		<set name="radius" val="10"/>
-		<set name="height" val="22"/>
-		<set name="rHand" val="2507"/>
-		<set name="lHand" val="0"/>
-		<set name="type" val="Monster"/>
-		<set name="exp" val="926"/>
-		<set name="sp" val="56"/>
-		<set name="hp" val="809.52639"/>
-		<set name="mp" val="417.6"/>
-		<set name="hpRegen" val="4.5"/>
-		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="137.86467"/>
-		<set name="pDef" val="140.57278"/>
-		<set name="mAtk" val="94.1437"/>
-		<set name="mDef" val="93.5949427192352"/>
-		<set name="crit" val="8"/>
-		<set name="atkSpd" val="253"/>
-		<set name="str" val="40"/>
-		<set name="int" val="21"/>
-		<set name="dex" val="30"/>
-		<set name="wit" val="20"/>
-		<set name="con" val="43"/>
-		<set name="men" val="10"/>
-		<set name="corpseTime" val="7"/>
-		<set name="walkSpd" val="43"/>
-		<set name="runSpd" val="140"/>
-		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="lizardman_clan1" clanRange="300" canMove="true" seedable="true"/>
-		<skills>
-			<skill id="4093" level="1"/>
+			<skill id="4032" level="3"/>
 			<skill id="4408" level="9"/>
 			<skill id="4410" level="12"/>
 			<skill id="4411" level="12"/>
 			<skill id="4412" level="10"/>
 			<skill id="4413" level="10"/>
-			<skill id="4416" level="6"/>
+			<skill id="4416" level="4"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="2021" min="1" max="1" chance="0.3853"/>
-				<drop itemid="2153" min="1" max="1" chance="4.7454"/>
-				<drop itemid="2184" min="1" max="1" chance="3.2051"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="129" max="258" chance="100.0"/>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.036">
-				<drop itemid="83" min="1" max="1" chance="2.2189"/>
-				<drop itemid="124" min="1" max="1" chance="1.6668"/>
-				<drop itemid="127" min="1" max="1" chance="1.6668"/>
-				<drop itemid="130" min="1" max="1" chance="1.6668"/>
-				<drop itemid="144" min="1" max="1" chance="2.2189"/>
-				<drop itemid="2026" min="1" max="1" chance="90.5618"/>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.8389">
-				<drop itemid="5549" min="1" max="1" chance="14.7044"/>
-				<drop itemid="2250" min="1" max="1" chance="36.7614"/>
-				<drop itemid="1885" min="1" max="1" chance="12.2572"/>
-				<drop itemid="1879" min="1" max="1" chance="24.5092"/>
-				<drop itemid="1875" min="1" max="1" chance="9.8047"/>
-				<drop itemid="5550" min="1" max="1" chance="1.9631"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
 			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
 			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
 			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
 			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20785" name="Tasaba Lizardman Shaman" title="">
-		<set name="level" val="37"/>
+	<npc id="20784" name="Tasaba Lizardman" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="10"/>
-		<set name="height" val="29"/>
-		<set name="rHand" val="7"/>
+		<set name="height" val="22"/>
+		<set name="rHand" val="2507"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Monster"/>
-		<set name="exp" val="896"/>
-		<set name="sp" val="55"/>
-		<set name="hp" val="847.31754"/>
-		<set name="mp" val="432.72"/>
+		<set name="exp" val="1362"/>
+		<set name="sp" val="82"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="146.82587"/>
-		<set name="pDef" val="144.47758"/>
-		<set name="mAtk" val="100.26304"/>
-		<set name="mDef" val="96.1948088105753"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
 		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
@@ -55262,59 +55335,326 @@
 		<set name="corpseTime" val="7"/>
 		<set name="walkSpd" val="43"/>
 		<set name="runSpd" val="140"/>
-		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="lizardman_clan1" clanRange="300" canMove="true" seedable="true"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="lizardman_clan" clanRange="300" canMove="true" seedable="true"/>
 		<skills>
-			<skill id="4034" level="3"/>
+			<skill id="4124" level="3"/>
+			<skill id="4273" level="3"/>
+			<skill id="4274" level="1"/>
 			<skill id="4408" level="9"/>
-			<skill id="4410" level="12"/>
-			<skill id="4411" level="12"/>
-			<skill id="4412" level="10"/>
-			<skill id="4413" level="10"/>
+			<skill id="4410" level="10"/>
+			<skill id="4411" level="10"/>
+			<skill id="4412" level="12"/>
+			<skill id="4413" level="12"/>
+			<skill id="4416" level="6"/>
+			<skill id="4444" level="2"/>
+		</skills>
+		<drops>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
+			</category>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
+			</category>
+		</drops>
+	</npc>
+	<npc id="20785" name="Tasaba Lizardman Shaman" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
+		<set name="radius" val="10"/>
+		<set name="height" val="29"/>
+		<set name="rHand" val="7"/>
+		<set name="lHand" val="0"/>
+		<set name="type" val="Monster"/>
+		<set name="exp" val="1001"/>
+		<set name="sp" val="62"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
+		<set name="hpRegen" val="4.5"/>
+		<set name="mpRegen" val="1.8"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
+		<set name="crit" val="1"/>
+		<set name="atkSpd" val="253"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="corpseTime" val="7"/>
+		<set name="walkSpd" val="43"/>
+		<set name="runSpd" val="140"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" clan="lizardman_clan" clanRange="300" canMove="true" seedable="true"/>
+		<skills>
+			<skill id="4153" level="3"/>
+			<skill id="4160" level="3"/>
+			<skill id="4408" level="9"/>
+			<skill id="4410" level="14"/>
+			<skill id="4411" level="14"/>
+			<skill id="4412" level="8"/>
 			<skill id="4414" level="3"/>
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1875" min="1" max="1" chance="1.9616"/>
-				<drop itemid="1933" min="1" max="1" chance="3.4617"/>
-				<drop itemid="2022" min="1" max="1" chance="0.4583"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="124" max="248" chance="100.0"/>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.0487">
-				<drop itemid="2448" min="1" max="1" chance="0.2475"/>
-				<drop itemid="2449" min="1" max="1" chance="0.2475"/>
-				<drop itemid="2450" min="1" max="1" chance="0.2475"/>
-				<drop itemid="2923" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2924" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2925" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2926" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2927" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2928" min="1" max="1" chance="12.2525"/>
-				<drop itemid="2426" min="1" max="1" chance="0.2475"/>
-				<drop itemid="2425" min="1" max="1" chance="0.2475"/>
-				<drop itemid="2424" min="1" max="1" chance="0.2475"/>
-				<drop itemid="1948" min="1" max="1" chance="12.2525"/>
-				<drop itemid="1946" min="1" max="1" chance="12.2525"/>
-				<drop itemid="606" min="1" max="1" chance="0.2475"/>
-				<drop itemid="1124" min="1" max="1" chance="0.2475"/>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="7.9651">
-				<drop itemid="5550" min="1" max="1" chance="0.2837"/>
-				<drop itemid="5549" min="1" max="1" chance="2.123"/>
-				<drop itemid="2982" min="1" max="1" chance="2.7067"/>
-				<drop itemid="1341" min="10" max="30" chance="70.7276"/>
-				<drop itemid="1875" min="1" max="1" chance="1.4149"/>
-				<drop itemid="1879" min="1" max="1" chance="3.5367"/>
-				<drop itemid="1885" min="1" max="1" chance="1.7689"/>
-				<drop itemid="2185" min="1" max="1" chance="4.177"/>
-				<drop itemid="6667" min="1" max="1" chance="13.2615"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
+			</category>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
+			</category>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20786" name="Lienrik" title="">
-		<set name="level" val="39"/>
+	<npc id="20786" name="Lienrik" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="12"/>
 		<set name="height" val="50"/>
 		<set name="rHand" val="0"/>
@@ -55322,15 +55662,15 @@
 		<set name="type" val="Monster"/>
 		<set name="exp" val="995"/>
 		<set name="sp" val="63"/>
-		<set name="hp" val="925.85879"/>
-		<set name="mp" val="463.32"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="166.06476"/>
-		<set name="pDef" val="152.46752"/>
-		<set name="mAtk" val="113.4007"/>
-		<set name="mDef" val="101.514599764346"/>
-		<set name="crit" val="8"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -55352,61 +55692,140 @@
 			<skill id="4416" level="3"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="2026" min="1" max="1" chance="0.3925"/>
-				<drop itemid="2155" min="1" max="1" chance="5.2351"/>
-				<drop itemid="5550" min="1" max="1" chance="0.4349"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="138" max="275" chance="100.0"/>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.5597">
-				<drop itemid="1943" min="1" max="1" chance="59.8179"/>
-				<drop itemid="1942" min="1" max="1" chance="38.4136"/>
-				<drop itemid="417" min="1" max="1" chance="1.0898"/>
-				<drop itemid="395" min="1" max="1" chance="0.6787"/>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.2155">
-				<drop itemid="1875" min="1" max="1" chance="11.559"/>
-				<drop itemid="5549" min="1" max="1" chance="17.3426"/>
-				<drop itemid="2977" min="1" max="1" chance="23.2167"/>
-				<drop itemid="2286" min="1" max="1" chance="0.9708"/>
-				<drop itemid="2278" min="1" max="1" chance="1.2423"/>
-				<drop itemid="1885" min="1" max="1" chance="14.4548"/>
-				<drop itemid="1879" min="1" max="1" chance="28.902"/>
-				<drop itemid="5550" min="1" max="1" chance="2.3118"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
 			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
 			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
 			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
 			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20787" name="Lienrik Lad" title="">
-		<set name="level" val="40"/>
+	<npc id="20787" name="Lienrik Lad" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="12"/>
 		<set name="height" val="50"/>
 		<set name="rHand" val="0"/>
@@ -55414,15 +55833,15 @@
 		<set name="type" val="Monster"/>
 		<set name="exp" val="1210"/>
 		<set name="sp" val="78"/>
-		<set name="hp" val="966.57792"/>
-		<set name="mp" val="478.8"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="176.36077"/>
-		<set name="pDef" val="156.55035"/>
-		<set name="mAtk" val="120.43155"/>
-		<set name="mDef" val="104.232986928232"/>
-		<set name="crit" val="8"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -55442,61 +55861,135 @@
 			<skill id="4412" level="8"/>
 			<skill id="4413" level="8"/>
 			<skill id="4416" level="3"/>
-		</skills>
+		</skills>	
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1870" min="1" max="1" chance="39.547"/>
-				<drop itemid="2029" min="1" max="1" chance="0.4717"/>
-				<drop itemid="5549" min="1" max="1" chance="3.9547"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="166" max="331" chance="100.0"/>
+			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.2556">
-				<drop itemid="1903" min="1" max="1" chance="45.2707"/>
-				<drop itemid="1904" min="1" max="1" chance="25.3346"/>
-				<drop itemid="1902" min="1" max="1" chance="27.5012"/>
-				<drop itemid="913" min="1" max="1" chance="0.4374"/>
-				<drop itemid="881" min="1" max="1" chance="0.8757"/>
-				<drop itemid="850" min="1" max="1" chance="0.5804"/>
+			<category type="SPOIL" chance="100.0"> <!-- Primeval Seed -->
+				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="11.3971">
-				<drop itemid="5549" min="1" max="1" chance="1.9934"/>
-				<drop itemid="2188" min="1" max="1" chance="1.424"/>
-				<drop itemid="5473" min="1" max="1" chance="1.424"/>
-				<drop itemid="1885" min="1" max="1" chance="1.6609"/>
-				<drop itemid="1879" min="1" max="1" chance="3.3218"/>
-				<drop itemid="1875" min="1" max="1" chance="1.3292"/>
-				<drop itemid="1832" min="1" max="1" chance="22.145"/>
-				<drop itemid="1341" min="10" max="30" chance="66.4359"/>
-				<drop itemid="5550" min="1" max="1" chance="0.2658"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="6590" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Crt. Damage -->
+				<drop itemid="6591" min="1" max="1" chance="0.1"/> <!-- Angel Slayer HP Drain -->
+				<drop itemid="6592" min="1" max="1" chance="0.1"/> <!-- Angel Slayer Haste -->
+				<drop itemid="6593" min="1" max="1" chance="0.1"/> <!-- Shining Bow Cheap Shot -->
+				<drop itemid="6594" min="1" max="1" chance="0.1"/> <!-- Shining Bow Focus a -->
+				<drop itemid="6595" min="1" max="1" chance="0.1"/> <!-- Shining Bow Crt. Slow -->
+				<drop itemid="6581" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Haste -->
+				<drop itemid="6582" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Health -->
+				<drop itemid="6583" min="1" max="1" chance="0.1"/> <!-- Forgotten Blade Focus -->
 			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="2.0"> <!-- Weapon S -->
+				<drop itemid="7576" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Cheap Shot -->
+				<drop itemid="7577" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Focus -->
+				<drop itemid="7578" min="1" max="1" chance="0.1"/> <!-- Draconic Bow Critical Slow -->
+				<drop itemid="6580" min="1" max="1" chance="0.1"/> <!-- Tallum Blade*Dark Legion's Edge -->
+				<drop itemid="6608" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Acumen -->
+				<drop itemid="6609" min="1" max="1" chance="0.1"/> <!-- Arcana Mace MP Regeneration -->
+				<drop itemid="6610" min="1" max="1" chance="0.1"/> <!-- Arcana Mace Mana Up -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6599" min="1" max="1" chance="0.1"/> <!--  Saint Spear Health -->
+				<drop itemid="6600" min="1" max="1" chance="0.1"/> <!--  Saint Spear Guidance -->
+				<drop itemid="6601" min="1" max="1" chance="0.1"/> <!--  Saint Spear Haste -->
+				<drop itemid="6602" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Focus -->
+				<drop itemid="6603" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Health -->
+				<drop itemid="6604" min="1" max="1" chance="0.1"/> <!--  Demon Splinter Crt. Stun -->
+				<drop itemid="6605" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Haste -->
+				<drop itemid="6606" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Health -->
+				<drop itemid="6607" min="1" max="1" chance="0.1"/> <!--  Heavens Divider Focus -->
 			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
+			<category type="DROP" chance="3.0"> <!-- Weapon S -->
+				<drop itemid="6596" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe -->
+				<drop itemid="6597" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe Health -->
+				<drop itemid="6598" min="1" max="1" chance="0.1"/> <!--  Dragon Hunter Axe HP Drain -->
+				<drop itemid="6587" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Empower -->
+				<drop itemid="6588" min="1" max="1" chance="0.1"/> <!--  Imperial Staff MP Regeneration -->
+				<drop itemid="6589" min="1" max="1" chance="0.1"/> <!--  Imperial Staff Magic Hold -->
+				<drop itemid="6584" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Drain -->
+				<drop itemid="6585" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer Health -->
+				<drop itemid="6586" min="1" max="1" chance="0.1"/> <!--  Basalt Battlehammer HP Regeneration -->
 			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6373" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Breastplate -->
+				<drop itemid="6374" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gaiters -->
+				<drop itemid="6375" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Gauntlets -->
+				<drop itemid="6376" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Boots -->
+				<drop itemid="6377" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Shield -->
+				<drop itemid="6378" min="1" max="1" chance="0.1"/> <!-- Imperial Crusader Helmet -->
 			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
+			<category type="DROP" chance="3.0"> <!-- Armor S -->
+				<drop itemid="6379" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Armor -->
+				<drop itemid="6380" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Gloves -->
+				<drop itemid="6381" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Boots -->
+				<drop itemid="6382" min="1" max="1" chance="0.1"/> <!-- Draconic Leather Helmet -->
+				<drop itemid="6383" min="1" max="1" chance="0.1"/> <!-- Major Arcana Robe -->
+				<drop itemid="6384" min="1" max="1" chance="0.1"/> <!-- Major Arcana Gloves -->
+				<drop itemid="6385" min="1" max="1" chance="0.1"/> <!-- Major Arcana Boots -->
+				<drop itemid="6386" min="1" max="1" chance="0.1"/> <!-- Major Arcana Circlet -->
 			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="3.0"> <!-- Tateossian -->
+				<drop itemid="920" min="1" max="1" chance="0.1"/>
+				<drop itemid="889" min="1" max="1" chance="0.1"/>
+				<drop itemid="858" min="1" max="1" chance="0.1"/>
+			</category>
+			<category type="DROP" chance="1.0"> <!-- Titanium -->
+				<drop itemid="15000" min="1" max="1" chance="0.1"/>
+				<drop itemid="15001" min="1" max="1" chance="0.1"/>
+				<drop itemid="15002" min="1" max="1" chance="0.1"/>
+				<drop itemid="15003" min="1" max="1" chance="0.1"/>
+				<drop itemid="15004" min="1" max="1" chance="0.1"/>
+				<drop itemid="15005" min="1" max="1" chance="0.1"/>
+				<drop itemid="15006" min="1" max="1" chance="0.1"/>
+				<drop itemid="15007" min="1" max="1" chance="0.1"/>
+				<drop itemid="15008" min="1" max="1" chance="0.1"/>
+				<drop itemid="15009" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19000" min="1" max="1" chance="0.1"/>
+				<drop itemid="19001" min="1" max="1" chance="0.1"/>
+				<drop itemid="19002" min="1" max="1" chance="0.1"/>
+				<drop itemid="19003" min="1" max="1" chance="0.1"/>
+				<drop itemid="19004" min="1" max="1" chance="0.1"/>
+				<drop itemid="19005" min="1" max="1" chance="0.1"/>
+				<drop itemid="19006" min="1" max="1" chance="0.1"/>
+				<drop itemid="19007" min="1" max="1" chance="0.1"/>
+				<drop itemid="19008" min="1" max="1" chance="0.1"/>
+				<drop itemid="19009" min="1" max="1" chance="0.1"/>
+				<drop itemid="19010" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19011" min="1" max="1" chance="0.1"/>
+				<drop itemid="19012" min="1" max="1" chance="0.1"/>
+				<drop itemid="19013" min="1" max="1" chance="0.1"/>
+				<drop itemid="19014" min="1" max="1" chance="0.1"/>
+				<drop itemid="19015" min="1" max="1" chance="0.1"/>
+				<drop itemid="19016" min="1" max="1" chance="0.1"/>
+				<drop itemid="19017" min="1" max="1" chance="0.1"/>
+				<drop itemid="19018" min="1" max="1" chance="0.1"/>
+				<drop itemid="19019" min="1" max="1" chance="0.1"/>
+				<drop itemid="19020" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->	
+				<drop itemid="19021" min="1" max="1" chance="0.1"/>
+				<drop itemid="19022" min="1" max="1" chance="0.1"/>
+				<drop itemid="19023" min="1" max="1" chance="0.1"/>
+				<drop itemid="19024" min="1" max="1" chance="0.1"/>
+				<drop itemid="19025" min="1" max="1" chance="0.1"/>
+				<drop itemid="19026" min="1" max="1" chance="0.1"/>
+				<drop itemid="19027" min="1" max="1" chance="0.1"/>
+				<drop itemid="19028" min="1" max="1" chance="0.1"/>
+			</category>	
+			<category type="DROP" chance="1.0"> <!-- Weapon PvP -->
+				<drop itemid="19029" min="1" max="1" chance="0.1"/>
+				<drop itemid="19030" min="1" max="1" chance="0.1"/>
+				<drop itemid="19031" min="1" max="1" chance="0.1"/>
+				<drop itemid="19032" min="1" max="1" chance="0.1"/>
+				<drop itemid="19033" min="1" max="1" chance="0.1"/>
 			</category>
 		</drops>
 	</npc>

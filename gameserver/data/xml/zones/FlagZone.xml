@@ -218,4 +218,15 @@
 		<node x="6911" y="-22210"/>
 		<node x="4337" y="-23513"/>
 	</zone>
+	<!-- Field of Silence -->
+	<zone type="FlagZone" shape="NPoly" minZ="-9216" maxZ="5216">
+		<node x="89580" y="197778"/>
+		<node x="76563" y="196098"/>
+		<node x="73742" y="189786"/>
+		<node x="76172" y="180877"/>
+		<node x="85215" y="167763"/>
+		<node x="96390" y="186194"/>
+		<node x="93980" y="196023"/>
+		<node x="74364" y="194269"/>
+	</zone>
 </list>

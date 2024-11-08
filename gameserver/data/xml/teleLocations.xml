@@ -960,4 +960,7 @@
 
 	<!-- Primeval Plains 2 -->
 	<teleport id="60098" x="7557" y="-5513" z="-3216"/>
+	
+	<!-- Field of Silence -->
+	<teleport id="60099" x="81062" y="180218" z="-3496"/>
 </list>
