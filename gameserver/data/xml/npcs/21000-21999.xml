@@ -2572,6 +2572,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -6253,6 +6256,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -6421,6 +6427,9 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
@@ -48778,6 +48787,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -48952,6 +48964,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -49123,6 +49138,9 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
@@ -49300,6 +49318,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -49472,6 +49493,9 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
@@ -49648,6 +49672,9 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
 			</category>
@@ -49818,6 +49845,9 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>
@@ -49990,6 +50020,9 @@
 		<drops>
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Primeval Seed -->
 				<drop itemid="13010" min="1" max="1" chance="100.0"/>

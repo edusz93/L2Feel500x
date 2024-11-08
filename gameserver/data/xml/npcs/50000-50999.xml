@@ -74,7 +74,7 @@
 	</npc>
 	<npc id="50002" idTemplate="60007" name="Tryskell" title="Npc Buffer">
 		<set name="usingServerSideName" val="true"/>
-		<set name="usingServerSideTitle" val="true"/>							
+		<set name="usingServerSideTitle" val="true"/>
 		<set name="level" val="78"/>
 		<set name="radius" val="9"/>
 		<set name="height" val="26.5"/>
