@@ -1,0 +1,2 @@
+18/11/2024 13:42:33 >>> HWID: [570C9C50BADC] >>> Player: [XYZ]
+18/11/2024 18:27:46 >>> HWID: [570C9C50BADC] >>> Player: [XYZ]

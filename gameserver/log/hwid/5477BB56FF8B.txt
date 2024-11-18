@@ -1,0 +1,3 @@
+11/11/2024 14:05:34 >>> HWID: [5477BB56FF8B] >>> Player: [Lola]
+11/11/2024 14:05:44 >>> HWID: [5477BB56FF8B] >>> Player: [Laa]
+11/11/2024 14:05:56 >>> HWID: [5477BB56FF8B] >>> Player: [Laa]

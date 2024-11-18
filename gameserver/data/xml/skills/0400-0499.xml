@@ -418,10 +418,10 @@
 				<add stat="pAtk" val="#atk">
 					<using kind="BOW"/>
 				</add>
-				<mul stat="pAtkSpd" val="1.35">
+				<mul stat="pAtkSpd" val="1.20">
 					<using kind="BOW"/>
 				</mul>
-				<sub stat="pAtkRange" val="150">
+				<sub stat="pAtkRange" val="300">
 					<using kind="BOW"/>
 				</sub>
 			</effect>

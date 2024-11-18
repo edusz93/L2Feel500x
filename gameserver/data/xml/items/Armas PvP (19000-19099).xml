@@ -17,6 +17,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3047-2" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="225" />
 			<set stat="mAtk" val="175" />
@@ -47,6 +48,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3576-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="225" />
 			<set stat="mAtk" val="175" />
@@ -77,6 +79,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3014-2" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="225" />
 			<set stat="mAtk" val="175" />
@@ -109,6 +112,7 @@
 		<set name="mp_consume_reduce" val="26,1" />
 		<set name="reuse_delay" val="1500" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -140,6 +144,7 @@
 		<set name="mp_consume" val="11" />
 		<set name="reuse_delay" val="1500" />
 		<set name="item_skill" val="3567-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -173,6 +178,7 @@
 		<set name="oncrit_chance" val="16" />
 		<set name="oncrit_skill" val="3574-1" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -205,6 +211,7 @@
 		<set name="mp_consume_reduce" val="26,1" />
 		<set name="reuse_delay" val="1500" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -236,6 +243,7 @@
 		<set name="mp_consume" val="11" />
 		<set name="reuse_delay" val="1500" />
 		<set name="item_skill" val="3567-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -269,6 +277,7 @@
 		<set name="oncrit_chance" val="16" />
 		<set name="oncrit_skill" val="3574-1" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="581" />
 			<set stat="mAtk" val="132" />
@@ -298,6 +307,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3564-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -326,6 +336,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-3" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -354,6 +365,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3566-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -382,6 +394,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3572-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="246" />
 			<set stat="mAtk" val="132" />
@@ -411,6 +424,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3568-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="246" />
 			<set stat="mAtk" val="132" />
@@ -440,6 +454,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3564-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="246" />
 			<set stat="mAtk" val="132" />
@@ -469,6 +484,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3564-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -497,6 +513,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-3" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -525,6 +542,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3566-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -553,6 +571,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3568-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -582,6 +601,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-3" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -611,6 +631,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3569-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -641,6 +662,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3575-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="274" />
 			<set stat="mAtk" val="175" />
@@ -671,6 +693,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3576-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="274" />
 			<set stat="mAtk" val="175" />
@@ -703,6 +726,7 @@
 		<set name="oncast_chance" val="20" />
 		<set name="oncast_skill" val="3577-1" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="274" />
 			<set stat="mAtk" val="175" />
@@ -732,6 +756,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3569-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -761,6 +786,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-3" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -790,6 +816,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3568-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -819,6 +846,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-4" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -848,6 +876,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3602-9" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -877,6 +906,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3601-9" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="281" />
 			<set stat="mAtk" val="132" />
@@ -906,6 +936,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3565-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -935,6 +966,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="item_skill" val="3013-3" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -966,6 +998,7 @@
 		<set name="oncrit_chance" val="27" />
 		<set name="oncrit_skill" val="3571-1" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />
@@ -996,6 +1029,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="enchant4_skill" val="3570-1" />
 		<set name="item_skill" val="3552-1" />
+		<set name="is_oly_restricted" val="true" />
 		<for>
 			<set stat="pAtk" val="342" />
 			<set stat="mAtk" val="132" />

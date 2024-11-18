@@ -1,0 +1,5 @@
+08/11/2024 20:11:12 >>> HWID: [5D53B27D564C] >>> Player: [GF]
+08/11/2024 20:12:33 >>> HWID: [5D53B27D564C] >>> Player: [Gerson]
+08/11/2024 20:12:46 >>> HWID: [5D53B27D564C] >>> Player: [BrunoHenrique]
+08/11/2024 20:12:58 >>> HWID: [5D53B27D564C] >>> Player: [Anita]
+08/11/2024 20:13:07 >>> HWID: [5D53B27D564C] >>> Player: [Sura]

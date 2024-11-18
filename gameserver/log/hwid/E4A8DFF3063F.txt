@@ -1,0 +1,6 @@
+31/10/2024 14:09:55 >>> HWID: [E4A8DFF3063F] >>> Player: [SocaFofo]
+31/10/2024 14:53:40 >>> HWID: [E4A8DFF3063F] >>> Player: [Chica]
+31/10/2024 15:14:39 >>> HWID: [E4A8DFF3063F] >>> Player: [SocaFofo]
+31/10/2024 15:16:49 >>> HWID: [E4A8DFF3063F] >>> Player: [Chica]
+31/10/2024 15:17:36 >>> HWID: [E4A8DFF3063F] >>> Player: [SocaFofo]
+01/11/2024 20:06:48 >>> HWID: [E4A8DFF3063F] >>> Player: [Chica]

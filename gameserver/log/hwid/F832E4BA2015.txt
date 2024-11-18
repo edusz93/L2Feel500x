@@ -1,0 +1,5 @@
+13/11/2024 11:26:39 >>> HWID: [F832E4BA2015] >>> Player: [Squall]
+13/11/2024 14:19:14 >>> HWID: [F832E4BA2015] >>> Player: [Squall]
+13/11/2024 14:27:07 >>> HWID: [F832E4BA2015] >>> Player: [Squall]
+13/11/2024 15:08:36 >>> HWID: [F832E4BA2015] >>> Player: [Squall]
+13/11/2024 15:09:57 >>> HWID: [F832E4BA2015] >>> Player: [Squall]

@@ -1,2 +1,3 @@
 06/07/2024 22:04:36 >>> HWID: [AC5AFCC7940D] >>> Player: [SeteFacadas]
 24/07/2024 19:38:00 >>> HWID: [AC5AFCC7940D] >>> Player: [Hidan]
+02/11/2024 21:06:37 >>> HWID: [AC5AFCC7940D] >>> Player: [Zeus]

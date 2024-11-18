@@ -92,6 +92,7 @@
 		<npc>32096</npc> <!-- Helminter -->
 		<npc>32097</npc> <!-- Finker -->
 		<npc>32098</npc> <!-- Celes -->
+		<npc>50010</npc> <!-- Gm Shop -->
 	</npcs>
 	<!-- Shadow Weapon: Two Handed Sword for 1 D Grade Coupon -->
 	<item>
@@ -287,6 +288,10 @@
         <ingredient id="9300" count="1"/>
         <production id="9327" count="1"/>
     </item>
+	<item>
+        <ingredient id="9300" count="1"/>
+        <production id="9405" count="1"/>
+    </item>	
     <item>
         <ingredient id="9300" count="1"/>
         <production id="9328" count="1"/>

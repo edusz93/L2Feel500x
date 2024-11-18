@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="tasabalizardmanshaman_1731854111993" minZ="-3760" maxZ="-3744">
+		<node x="84444" y="180859" />
+		<node x="84344" y="180859" />
+		<node x="84344" y="180759" />
+		<node x="84444" y="180759" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289976852279566" territory="tasabalizardmanshaman_1731854111993" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84394;180809;-3760;2684" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854121033" minZ="-3744" maxZ="-3728">
+		<node x="84856" y="178813" />
+		<node x="84756" y="178813" />
+		<node x="84756" y="178713" />
+		<node x="84856" y="178713" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289985892868713" territory="tasabalizardmanshaman_1731854121033" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84806;178763;-3744;2765" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854123036" minZ="-3760" maxZ="-3744">
+		<node x="85273" y="179464" />
+		<node x="85173" y="179464" />
+		<node x="85173" y="179364" />
+		<node x="85273" y="179364" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289987900931754" territory="tasabalizardmanshaman_1731854123036" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85223;179414;-3760;15293" total="1" respawnDelay="21s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854127328" minZ="-3728" maxZ="-3712">
+		<node x="85464" y="181009" />
+		<node x="85364" y="181009" />
+		<node x="85364" y="180909" />
+		<node x="85464" y="180909" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289992187755581" territory="tasabalizardmanshaman_1731854127328" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85414;180959;-3728;8010" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854128162" minZ="-3672" maxZ="-3656">
+		<node x="85702" y="181238" />
+		<node x="85602" y="181238" />
+		<node x="85602" y="181138" />
+		<node x="85702" y="181138" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289993024954067" territory="tasabalizardmanshaman_1731854128162" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85652;181188;-3672;8010" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854130071" minZ="-3624" maxZ="-3608">
+		<node x="86136" y="181881" />
+		<node x="86036" y="181881" />
+		<node x="86036" y="181781" />
+		<node x="86136" y="181781" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289994931352736" territory="tasabalizardmanshaman_1731854130071" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86086;181831;-3624;12063" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854132246" minZ="-3632" maxZ="-3616">
+		<node x="85574" y="182404" />
+		<node x="85474" y="182404" />
+		<node x="85474" y="182304" />
+		<node x="85574" y="182304" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289997106535890" territory="tasabalizardmanshaman_1731854132246" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85524;182354;-3632;29998" total="1" respawnDelay="25s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854134593" minZ="-3672" maxZ="-3656">
+		<node x="84631" y="182550" />
+		<node x="84531" y="182550" />
+		<node x="84531" y="182450" />
+		<node x="84631" y="182450" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1289999451716064" territory="tasabalizardmanshaman_1731854134593" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84581;182500;-3672;32648" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854136428" minZ="-3704" maxZ="-3688">
+		<node x="83853" y="182488" />
+		<node x="83753" y="182488" />
+		<node x="83753" y="182388" />
+		<node x="83853" y="182388" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290001298499559" territory="tasabalizardmanshaman_1731854136428" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83803;182438;-3704;35097" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854138288" minZ="-3760" maxZ="-3744">
+		<node x="83231" y="182234" />
+		<node x="83131" y="182234" />
+		<node x="83131" y="182134" />
+		<node x="83231" y="182134" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290003148107044" territory="tasabalizardmanshaman_1731854138288" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83181;182184;-3760;31184" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854139353" minZ="-3760" maxZ="-3744">
+		<node x="82798" y="182139" />
+		<node x="82698" y="182139" />
+		<node x="82698" y="182039" />
+		<node x="82798" y="182039" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290004218893989" territory="tasabalizardmanshaman_1731854139353" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82748;182089;-3760;36145" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854142089" minZ="-3664" maxZ="-3648">
+		<node x="81891" y="182420" />
+		<node x="81791" y="182420" />
+		<node x="81791" y="182320" />
+		<node x="81891" y="182320" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290006948515902" territory="tasabalizardmanshaman_1731854142089" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81841;182370;-3664;18292" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854143117" minZ="-3616" maxZ="-3600">
+		<node x="82020" y="182836" />
+		<node x="81920" y="182836" />
+		<node x="81920" y="182736" />
+		<node x="82020" y="182736" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290007976842199" territory="tasabalizardmanshaman_1731854143117" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81970;182786;-3616;11791" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854144961" minZ="-3624" maxZ="-3608">
+		<node x="82601" y="183209" />
+		<node x="82501" y="183209" />
+		<node x="82501" y="183109" />
+		<node x="82601" y="183109" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290009821276508" territory="tasabalizardmanshaman_1731854144961" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82551;183159;-3624;387" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854146700" minZ="-3632" maxZ="-3616">
+		<node x="83280" y="183086" />
+		<node x="83180" y="183086" />
+		<node x="83180" y="182986" />
+		<node x="83280" y="182986" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290011559304877" territory="tasabalizardmanshaman_1731854146700" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83230;183036;-3632;61455" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854149540" minZ="-3600" maxZ="-3584">
+		<node x="83646" y="183543" />
+		<node x="83546" y="183543" />
+		<node x="83546" y="183443" />
+		<node x="83646" y="183443" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290014401274449" territory="tasabalizardmanshaman_1731854149540" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83596;183493;-3600;14352" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854151291" minZ="-3640" maxZ="-3624">
+		<node x="83975" y="184197" />
+		<node x="83875" y="184197" />
+		<node x="83875" y="184097" />
+		<node x="83975" y="184097" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290016150831322" territory="tasabalizardmanshaman_1731854151291" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83925;184147;-3640;13121" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854154230" minZ="-3688" maxZ="-3672">
+		<node x="84161" y="185117" />
+		<node x="84061" y="185117" />
+		<node x="84061" y="185017" />
+		<node x="84161" y="185017" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290019089502315" territory="tasabalizardmanshaman_1731854154230" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84111;185067;-3688;14592" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854155740" minZ="-3760" maxZ="-3744">
+		<node x="84266" y="185725" />
+		<node x="84166" y="185725" />
+		<node x="84166" y="185625" />
+		<node x="84266" y="185625" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290020601409871" territory="tasabalizardmanshaman_1731854155740" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84216;185675;-3760;14592" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854157123" minZ="-3752" maxZ="-3736">
+		<node x="84365" y="186295" />
+		<node x="84265" y="186295" />
+		<node x="84265" y="186195" />
+		<node x="84365" y="186195" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290021984600703" territory="tasabalizardmanshaman_1731854157123" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84315;186245;-3752;14592" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854158968" minZ="-3640" maxZ="-3624">
+		<node x="84421" y="186730" />
+		<node x="84321" y="186730" />
+		<node x="84321" y="186630" />
+		<node x="84421" y="186630" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290023829663165" territory="tasabalizardmanshaman_1731854158968" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84371;186680;-3640;16349" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854160342" minZ="-3600" maxZ="-3584">
+		<node x="84173" y="187213" />
+		<node x="84073" y="187213" />
+		<node x="84073" y="187113" />
+		<node x="84173" y="187113" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290025202905416" territory="tasabalizardmanshaman_1731854160342" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84123;187163;-3600;24229" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854189309" minZ="-3640" maxZ="-3624">
+		<node x="83687" y="187808" />
+		<node x="83587" y="187808" />
+		<node x="83587" y="187708" />
+		<node x="83687" y="187708" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290054169400183" territory="tasabalizardmanshaman_1731854189309" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83637;187758;-3640;57816" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854191098" minZ="-3608" maxZ="-3592">
+		<node x="84247" y="187318" />
+		<node x="84147" y="187318" />
+		<node x="84147" y="187218" />
+		<node x="84247" y="187218" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290055957150581" territory="tasabalizardmanshaman_1731854191098" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84197;187268;-3608;58538" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854195366" minZ="-3760" maxZ="-3744">
+		<node x="84608" y="185835" />
+		<node x="84508" y="185835" />
+		<node x="84508" y="185735" />
+		<node x="84608" y="185735" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290060227728453" territory="tasabalizardmanshaman_1731854195366" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84558;185785;-3760;45183" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854197126" minZ="-3728" maxZ="-3712">
+		<node x="84054" y="185533" />
+		<node x="83954" y="185533" />
+		<node x="83954" y="185433" />
+		<node x="84054" y="185433" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290061986024037" territory="tasabalizardmanshaman_1731854197126" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84004;185483;-3728;32249" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854198827" minZ="-3760" maxZ="-3744">
+		<node x="83392" y="185337" />
+		<node x="83292" y="185337" />
+		<node x="83292" y="185237" />
+		<node x="83392" y="185237" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290063689122039" territory="tasabalizardmanshaman_1731854198827" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83342;185287;-3760;38163" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854200450" minZ="-3760" maxZ="-3744">
+		<node x="82784" y="184995" />
+		<node x="82684" y="184995" />
+		<node x="82684" y="184895" />
+		<node x="82784" y="184895" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290065310984872" territory="tasabalizardmanshaman_1731854200450" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82734;184945;-3760;36398" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854202082" minZ="-3768" maxZ="-3752">
+		<node x="82298" y="185292" />
+		<node x="82198" y="185292" />
+		<node x="82198" y="185192" />
+		<node x="82298" y="185192" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290066941567698" territory="tasabalizardmanshaman_1731854202082" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82248;185242;-3768;20613" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854203639" minZ="-3760" maxZ="-3744">
+		<node x="82357" y="185932" />
+		<node x="82257" y="185932" />
+		<node x="82257" y="185832" />
+		<node x="82357" y="185832" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290068500274659" territory="tasabalizardmanshaman_1731854203639" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82307;185882;-3760;12228" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854205940" minZ="-3760" maxZ="-3744">
+		<node x="82473" y="186796" />
+		<node x="82373" y="186796" />
+		<node x="82373" y="186696" />
+		<node x="82473" y="186696" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290070800175235" territory="tasabalizardmanshaman_1731854205940" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82423;186746;-3760;18278" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854207592" minZ="-3752" maxZ="-3736">
+		<node x="81938" y="186551" />
+		<node x="81838" y="186551" />
+		<node x="81838" y="186451" />
+		<node x="81938" y="186451" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290072453215353" territory="tasabalizardmanshaman_1731854207592" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81888;186501;-3752;39947" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854209286" minZ="-3760" maxZ="-3744">
+		<node x="81452" y="186063" />
+		<node x="81352" y="186063" />
+		<node x="81352" y="185963" />
+		<node x="81452" y="185963" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290074144868725" territory="tasabalizardmanshaman_1731854209286" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81402;186013;-3760;38973" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854210977" minZ="-3736" maxZ="-3720">
+		<node x="80761" y="186033" />
+		<node x="80661" y="186033" />
+		<node x="80661" y="185933" />
+		<node x="80761" y="185933" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290075836413024" territory="tasabalizardmanshaman_1731854210977" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80711;185983;-3736;31081" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854212419" minZ="-3768" maxZ="-3752">
+		<node x="80484" y="185577" />
+		<node x="80384" y="185577" />
+		<node x="80384" y="185477" />
+		<node x="80484" y="185477" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290077279037244" territory="tasabalizardmanshaman_1731854212419" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80434;185527;-3768;46962" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854215425" minZ="-3760" maxZ="-3744">
+		<node x="80086" y="184401" />
+		<node x="79986" y="184401" />
+		<node x="79986" y="184301" />
+		<node x="80086" y="184301" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290080286033325" territory="tasabalizardmanshaman_1731854215425" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80036;184351;-3760;44340" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854217852" minZ="-3760" maxZ="-3744">
+		<node x="80163" y="183425" />
+		<node x="80063" y="183425" />
+		<node x="80063" y="183325" />
+		<node x="80163" y="183325" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290082713425275" territory="tasabalizardmanshaman_1731854217852" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80113;183375;-3760;51866" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854219535" minZ="-3760" maxZ="-3744">
+		<node x="80121" y="182772" />
+		<node x="80021" y="182772" />
+		<node x="80021" y="182672" />
+		<node x="80121" y="182672" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290084395458721" territory="tasabalizardmanshaman_1731854219535" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80071;182722;-3760;49892" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854221585" minZ="-3768" maxZ="-3752">
+		<node x="80352" y="181943" />
+		<node x="80252" y="181943" />
+		<node x="80252" y="181843" />
+		<node x="80352" y="181843" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290086444542517" territory="tasabalizardmanshaman_1731854221585" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80302;181893;-3768;53742" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854223109" minZ="-3760" maxZ="-3744">
+		<node x="80575" y="181365" />
+		<node x="80475" y="181365" />
+		<node x="80475" y="181265" />
+		<node x="80575" y="181265" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290087968890029" territory="tasabalizardmanshaman_1731854223109" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80525;181315;-3760;59753" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854224650" minZ="-3768" maxZ="-3752">
+		<node x="81167" y="181116" />
+		<node x="81067" y="181116" />
+		<node x="81067" y="181016" />
+		<node x="81167" y="181016" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290089508477370" territory="tasabalizardmanshaman_1731854224650" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81117;181066;-3768;740" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854226389" minZ="-3768" maxZ="-3752">
+		<node x="81845" y="181269" />
+		<node x="81745" y="181269" />
+		<node x="81745" y="181169" />
+		<node x="81845" y="181169" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290091248341603" territory="tasabalizardmanshaman_1731854226389" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81795;181219;-3768;1073" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854227877" minZ="-3760" maxZ="-3744">
+		<node x="82397" y="181474" />
+		<node x="82297" y="181474" />
+		<node x="82297" y="181374" />
+		<node x="82397" y="181374" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290092738040248" territory="tasabalizardmanshaman_1731854227877" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82347;181424;-3760;65066" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854229022" minZ="-3760" maxZ="-3744">
+		<node x="82846" y="181417" />
+		<node x="82746" y="181417" />
+		<node x="82746" y="181317" />
+		<node x="82846" y="181317" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290093883428054" territory="tasabalizardmanshaman_1731854229022" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82796;181367;-3760;63592" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854230630" minZ="-3760" maxZ="-3744">
+		<node x="83481" y="181285" />
+		<node x="83381" y="181285" />
+		<node x="83381" y="181185" />
+		<node x="83481" y="181185" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290095492831132" territory="tasabalizardmanshaman_1731854230630" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83431;181235;-3760;65176" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854231995" minZ="-3760" maxZ="-3744">
+		<node x="84026" y="181451" />
+		<node x="83926" y="181451" />
+		<node x="83926" y="181351" />
+		<node x="84026" y="181351" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290096854161147" territory="tasabalizardmanshaman_1731854231995" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83976;181401;-3760;5580" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854232870" minZ="-3752" maxZ="-3736">
+		<node x="84293" y="181700" />
+		<node x="84193" y="181700" />
+		<node x="84193" y="181600" />
+		<node x="84293" y="181600" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290097730610759" territory="tasabalizardmanshaman_1731854232870" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84243;181650;-3752;8645" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854233812" minZ="-3728" maxZ="-3712">
+		<node x="84617" y="181879" />
+		<node x="84517" y="181879" />
+		<node x="84517" y="181779" />
+		<node x="84617" y="181779" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290098673083790" territory="tasabalizardmanshaman_1731854233812" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84567;181829;-3728;1186" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854235573" minZ="-3704" maxZ="-3688">
+		<node x="85282" y="181671" />
+		<node x="85182" y="181671" />
+		<node x="85182" y="181571" />
+		<node x="85282" y="181571" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290100433271034" territory="tasabalizardmanshaman_1731854235573" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85232;181621;-3704;58229" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854236453" minZ="-3680" maxZ="-3664">
+		<node x="85578" y="181449" />
+		<node x="85478" y="181449" />
+		<node x="85478" y="181349" />
+		<node x="85578" y="181349" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290101313242264" territory="tasabalizardmanshaman_1731854236453" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85528;181399;-3680;59198" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854238184" minZ="-3632" maxZ="-3616">
+		<node x="86090" y="181779" />
+		<node x="85990" y="181779" />
+		<node x="85990" y="181679" />
+		<node x="86090" y="181679" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290103044777435" territory="tasabalizardmanshaman_1731854238184" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86040;181729;-3632;10086" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854239436" minZ="-3608" maxZ="-3592">
+		<node x="86472" y="181902" />
+		<node x="86372" y="181902" />
+		<node x="86372" y="181802" />
+		<node x="86472" y="181802" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290104295608614" territory="tasabalizardmanshaman_1731854239436" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86422;181852;-3608;60384" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854240946" minZ="-3632" maxZ="-3616">
+		<node x="86646" y="181337" />
+		<node x="86546" y="181337" />
+		<node x="86546" y="181237" />
+		<node x="86646" y="181237" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290105805562235" territory="tasabalizardmanshaman_1731854240946" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86596;181287;-3632;42508" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854242271" minZ="-3648" maxZ="-3632">
+		<node x="86715" y="181003" />
+		<node x="86615" y="181003" />
+		<node x="86615" y="180903" />
+		<node x="86715" y="180903" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290107130637181" territory="tasabalizardmanshaman_1731854242271" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86665;180953;-3648;60848" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854243643" minZ="-3608" maxZ="-3592">
+		<node x="87086" y="181210" />
+		<node x="86986" y="181210" />
+		<node x="86986" y="181110" />
+		<node x="87086" y="181110" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290108504549342" territory="tasabalizardmanshaman_1731854243643" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87036;181160;-3608;11322" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854244683" minZ="-3600" maxZ="-3584">
+		<node x="87025" y="181601" />
+		<node x="86925" y="181601" />
+		<node x="86925" y="181501" />
+		<node x="87025" y="181501" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290109543853744" territory="tasabalizardmanshaman_1731854244683" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86975;181551;-3600;19210" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854246625" minZ="-3656" maxZ="-3640">
+		<node x="86726" y="182331" />
+		<node x="86626" y="182331" />
+		<node x="86626" y="182231" />
+		<node x="86726" y="182231" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290111484106460" territory="tasabalizardmanshaman_1731854246625" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86676;182281;-3656;21751" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854248044" minZ="-3640" maxZ="-3624">
+		<node x="86424" y="182866" />
+		<node x="86324" y="182866" />
+		<node x="86324" y="182766" />
+		<node x="86424" y="182766" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290112902625429" territory="tasabalizardmanshaman_1731854248044" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86374;182816;-3640;21751" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854249533" minZ="-3616" maxZ="-3600">
+		<node x="86138" y="183371" />
+		<node x="86038" y="183371" />
+		<node x="86038" y="183271" />
+		<node x="86138" y="183271" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290114394335244" territory="tasabalizardmanshaman_1731854249533" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86088;183321;-3616;21751" total="1" respawnDelay="16s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854252503" minZ="-3624" maxZ="-3608">
+		<node x="86012" y="183786" />
+		<node x="85912" y="183786" />
+		<node x="85912" y="183686" />
+		<node x="86012" y="183686" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290117363788272" territory="tasabalizardmanshaman_1731854252503" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85962;183736;-3624;18650" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854257261" minZ="-3688" maxZ="-3672">
+		<node x="85734" y="184443" />
+		<node x="85634" y="184443" />
+		<node x="85634" y="184343" />
+		<node x="85734" y="184343" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290122121607252" territory="tasabalizardmanshaman_1731854257261" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85684;184393;-3688;47669" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854258828" minZ="-3592" maxZ="-3576">
+		<node x="85572" y="183806" />
+		<node x="85472" y="183806" />
+		<node x="85472" y="183706" />
+		<node x="85572" y="183706" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290123688873658" territory="tasabalizardmanshaman_1731854258828" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85522;183756;-3592;45931" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854260757" minZ="-3624" maxZ="-3608">
+		<node x="85348" y="183055" />
+		<node x="85248" y="183055" />
+		<node x="85248" y="182955" />
+		<node x="85348" y="182955" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290125617246175" territory="tasabalizardmanshaman_1731854260757" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85298;183005;-3624;46406" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854263081" minZ="-3704" maxZ="-3688">
+		<node x="84837" y="182257" />
+		<node x="84737" y="182257" />
+		<node x="84737" y="182157" />
+		<node x="84837" y="182157" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290127940847031" territory="tasabalizardmanshaman_1731854263081" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84787;182207;-3704;42137" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854273938" minZ="-3760" maxZ="-3744">
+		<node x="87927" y="183384" />
+		<node x="87827" y="183384" />
+		<node x="87827" y="183284" />
+		<node x="87927" y="183284" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290138796927916" territory="tasabalizardmanshaman_1731854273938" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87877;183334;-3760;11459" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854275944" minZ="-3760" maxZ="-3744">
+		<node x="88373" y="184076" />
+		<node x="88273" y="184076" />
+		<node x="88273" y="183976" />
+		<node x="88373" y="183976" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290140803050701" territory="tasabalizardmanshaman_1731854275944" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88323;184026;-3760;8837" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854277855" minZ="-3712" maxZ="-3696">
+		<node x="88927" y="184594" />
+		<node x="88827" y="184594" />
+		<node x="88827" y="184494" />
+		<node x="88927" y="184494" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290142717663240" territory="tasabalizardmanshaman_1731854277855" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88877;184544;-3712;11252" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854279431" minZ="-3584" maxZ="-3568">
+		<node x="89011" y="185232" />
+		<node x="88911" y="185232" />
+		<node x="88911" y="185132" />
+		<node x="89011" y="185132" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290144290314847" territory="tasabalizardmanshaman_1731854279431" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88961;185182;-3584;16790" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854280311" minZ="-3608" maxZ="-3592">
+		<node x="89048" y="185599" />
+		<node x="88948" y="185599" />
+		<node x="88948" y="185499" />
+		<node x="89048" y="185499" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290145172484074" territory="tasabalizardmanshaman_1731854280311" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88998;185549;-3608;14872" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854292384" minZ="-3608" maxZ="-3592">
+		<node x="90152" y="185810" />
+		<node x="90052" y="185810" />
+		<node x="90052" y="185710" />
+		<node x="90152" y="185710" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290157244682834" territory="tasabalizardmanshaman_1731854292384" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90102;185760;-3608;48634" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854294043" minZ="-3472" maxZ="-3456">
+		<node x="90560" y="185553" />
+		<node x="90460" y="185553" />
+		<node x="90460" y="185453" />
+		<node x="90560" y="185453" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290158906116450" territory="tasabalizardmanshaman_1731854294043" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90510;185503;-3472;58147" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854295672" minZ="-3448" maxZ="-3432">
+		<node x="90453" y="185086" />
+		<node x="90353" y="185086" />
+		<node x="90353" y="184986" />
+		<node x="90453" y="184986" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290160531830636" territory="tasabalizardmanshaman_1731854295672" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90403;185036;-3448;37714" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854298191" minZ="-3544" maxZ="-3528">
+		<node x="89516" y="185220" />
+		<node x="89416" y="185220" />
+		<node x="89416" y="185120" />
+		<node x="89516" y="185120" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290163049992008" territory="tasabalizardmanshaman_1731854298191" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="89466;185170;-3544;31380" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854300168" minZ="-3624" maxZ="-3608">
+		<node x="88907" y="185754" />
+		<node x="88807" y="185754" />
+		<node x="88807" y="185654" />
+		<node x="88907" y="185654" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290165028893615" territory="tasabalizardmanshaman_1731854300168" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88857;185704;-3624;23998" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854301712" minZ="-3680" maxZ="-3664">
+		<node x="88437" y="185898" />
+		<node x="88337" y="185898" />
+		<node x="88337" y="185798" />
+		<node x="88437" y="185798" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290166572719641" territory="tasabalizardmanshaman_1731854301712" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88387;185848;-3680;38061" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854303284" minZ="-3640" maxZ="-3624">
+		<node x="88043" y="185385" />
+		<node x="87943" y="185385" />
+		<node x="87943" y="185285" />
+		<node x="88043" y="185285" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290168143981031" territory="tasabalizardmanshaman_1731854303284" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87993;185335;-3640;43849" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854304821" minZ="-3640" maxZ="-3624">
+		<node x="87648" y="184945" />
+		<node x="87548" y="184945" />
+		<node x="87548" y="184845" />
+		<node x="87648" y="184845" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290169681097155" territory="tasabalizardmanshaman_1731854304821" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87598;184895;-3640;37311" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854306866" minZ="-3744" maxZ="-3728">
+		<node x="87016" y="185288" />
+		<node x="86916" y="185288" />
+		<node x="86916" y="185188" />
+		<node x="87016" y="185188" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290171726094174" territory="tasabalizardmanshaman_1731854306866" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86966;185238;-3744;20379" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854311703" minZ="-3632" maxZ="-3616">
+		<node x="88738" y="185048" />
+		<node x="88638" y="185048" />
+		<node x="88638" y="184948" />
+		<node x="88738" y="184948" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290176561617345" territory="tasabalizardmanshaman_1731854311703" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88688;184998;-3632;59399" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854313281" minZ="-3632" maxZ="-3616">
+		<node x="89291" y="184679" />
+		<node x="89191" y="184679" />
+		<node x="89191" y="184579" />
+		<node x="89291" y="184579" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290178141571009" territory="tasabalizardmanshaman_1731854313281" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="89241;184629;-3632;59399" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854314889" minZ="-3544" maxZ="-3528">
+		<node x="89928" y="184583" />
+		<node x="89828" y="184583" />
+		<node x="89828" y="184483" />
+		<node x="89928" y="184483" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290179749366447" territory="tasabalizardmanshaman_1731854314889" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="89878;184533;-3544;64379" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854316406" minZ="-3496" maxZ="-3480">
+		<node x="90526" y="184612" />
+		<node x="90426" y="184612" />
+		<node x="90426" y="184512" />
+		<node x="90526" y="184512" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290181268898597" territory="tasabalizardmanshaman_1731854316406" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90476;184562;-3496;5007" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854318002" minZ="-3432" maxZ="-3416">
+		<node x="91075" y="184971" />
+		<node x="90975" y="184971" />
+		<node x="90975" y="184871" />
+		<node x="91075" y="184871" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290182862457091" territory="tasabalizardmanshaman_1731854318002" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="91025;184921;-3432;7050" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854321017" minZ="-3704" maxZ="-3688">
+		<node x="91465" y="186121" />
+		<node x="91365" y="186121" />
+		<node x="91365" y="186021" />
+		<node x="91465" y="186021" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290185877471216" territory="tasabalizardmanshaman_1731854321017" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="91415;186071;-3704;10659" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854322868" minZ="-3760" maxZ="-3744">
+		<node x="91821" y="186813" />
+		<node x="91721" y="186813" />
+		<node x="91721" y="186713" />
+		<node x="91821" y="186713" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290187729493402" territory="tasabalizardmanshaman_1731854322868" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="91771;186763;-3760;14030" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854324660" minZ="-3648" maxZ="-3632">
+		<node x="92221" y="187215" />
+		<node x="92121" y="187215" />
+		<node x="92121" y="187115" />
+		<node x="92221" y="187115" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290189520143384" territory="tasabalizardmanshaman_1731854324660" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="92171;187165;-3648;59442" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854326579" minZ="-3640" maxZ="-3624">
+		<node x="92611" y="186633" />
+		<node x="92511" y="186633" />
+		<node x="92511" y="186533" />
+		<node x="92611" y="186533" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290191440027732" territory="tasabalizardmanshaman_1731854326579" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="92561;186583;-3640;45673" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854328469" minZ="-3664" maxZ="-3648">
+		<node x="92802" y="186165" />
+		<node x="92702" y="186165" />
+		<node x="92702" y="186065" />
+		<node x="92802" y="186065" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290193330330196" territory="tasabalizardmanshaman_1731854328469" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="92752;186115;-3664;62886" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854330542" minZ="-3648" maxZ="-3632">
+		<node x="93452" y="186456" />
+		<node x="93352" y="186456" />
+		<node x="93352" y="186356" />
+		<node x="93452" y="186356" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290195402009155" territory="tasabalizardmanshaman_1731854330542" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="93402;186406;-3648;13268" total="1" respawnDelay="25s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854334317" minZ="-3712" maxZ="-3696">
+		<node x="93433" y="187800" />
+		<node x="93333" y="187800" />
+		<node x="93333" y="187700" />
+		<node x="93433" y="187700" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290199177825358" territory="tasabalizardmanshaman_1731854334317" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="93383;187750;-3712;21704" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854339579" minZ="-3688" maxZ="-3672">
+		<node x="93806" y="188438" />
+		<node x="93706" y="188438" />
+		<node x="93706" y="188338" />
+		<node x="93806" y="188338" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290204437904610" territory="tasabalizardmanshaman_1731854339579" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="93756;188388;-3688;8134" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854343141" minZ="-3672" maxZ="-3656">
+		<node x="94299" y="189790" />
+		<node x="94199" y="189790" />
+		<node x="94199" y="189690" />
+		<node x="94299" y="189690" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290208000654791" territory="tasabalizardmanshaman_1731854343141" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="94249;189740;-3672;15051" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854346550" minZ="-3760" maxZ="-3744">
+		<node x="93349" y="190691" />
+		<node x="93249" y="190691" />
+		<node x="93249" y="190591" />
+		<node x="93349" y="190591" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290211411070042" territory="tasabalizardmanshaman_1731854346550" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="93299;190641;-3760;26662" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854348428" minZ="-3760" maxZ="-3744">
+		<node x="92834" y="191275" />
+		<node x="92734" y="191275" />
+		<node x="92734" y="191175" />
+		<node x="92834" y="191175" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290213287593449" territory="tasabalizardmanshaman_1731854348428" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="92784;191225;-3760;23542" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854350405" minZ="-3760" maxZ="-3744">
+		<node x="92079" y="191596" />
+		<node x="91979" y="191596" />
+		<node x="91979" y="191496" />
+		<node x="92079" y="191496" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290215264691949" territory="tasabalizardmanshaman_1731854350405" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="92029;191546;-3760;27487" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854352451" minZ="-3760" maxZ="-3744">
+		<node x="91422" y="192091" />
+		<node x="91322" y="192091" />
+		<node x="91322" y="191991" />
+		<node x="91422" y="191991" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290217311732896" territory="tasabalizardmanshaman_1731854352451" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="91372;192041;-3760;25458" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854357170" minZ="-3760" maxZ="-3744">
+		<node x="90919" y="192219" />
+		<node x="90819" y="192219" />
+		<node x="90819" y="192119" />
+		<node x="90919" y="192119" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290222028994407" territory="tasabalizardmanshaman_1731854357170" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90869;192169;-3760;53097" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854358800" minZ="-3768" maxZ="-3752">
+		<node x="90822" y="191634" />
+		<node x="90722" y="191634" />
+		<node x="90722" y="191534" />
+		<node x="90822" y="191534" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290223660404451" territory="tasabalizardmanshaman_1731854358800" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90772;191584;-3768;39710" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854360022" minZ="-3768" maxZ="-3752">
+		<node x="90351" y="191572" />
+		<node x="90251" y="191572" />
+		<node x="90251" y="191472" />
+		<node x="90351" y="191472" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290224889687269" territory="tasabalizardmanshaman_1731854360022" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90301;191522;-3768;32292" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854363862" minZ="-3760" maxZ="-3744">
+		<node x="90953" y="192877" />
+		<node x="90853" y="192877" />
+		<node x="90853" y="192777" />
+		<node x="90953" y="192777" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290228722482202" territory="tasabalizardmanshaman_1731854363862" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90903;192827;-3760;8332" total="1" respawnDelay="25s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854369281" minZ="-3760" maxZ="-3744">
+		<node x="90514" y="193445" />
+		<node x="90414" y="193445" />
+		<node x="90414" y="193345" />
+		<node x="90514" y="193345" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290234140051562" territory="tasabalizardmanshaman_1731854369281" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="90464;193395;-3760;32671" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854371021" minZ="-3760" maxZ="-3744">
+		<node x="89814" y="193452" />
+		<node x="89714" y="193452" />
+		<node x="89714" y="193352" />
+		<node x="89814" y="193352" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290235884872987" territory="tasabalizardmanshaman_1731854371021" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="89764;193402;-3760;32671" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854372732" minZ="-3760" maxZ="-3744">
+		<node x="89143" y="193343" />
+		<node x="89043" y="193343" />
+		<node x="89043" y="193243" />
+		<node x="89143" y="193243" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290237591136234" territory="tasabalizardmanshaman_1731854372732" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="89093;193293;-3760;38039" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854374925" minZ="-3760" maxZ="-3744">
+		<node x="88436" y="192774" />
+		<node x="88336" y="192774" />
+		<node x="88336" y="192674" />
+		<node x="88436" y="192674" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290239785152830" territory="tasabalizardmanshaman_1731854374925" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="88386;192724;-3760;39583" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854376962" minZ="-3760" maxZ="-3744">
+		<node x="87729" y="192361" />
+		<node x="87629" y="192361" />
+		<node x="87629" y="192261" />
+		<node x="87729" y="192261" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290241821835547" territory="tasabalizardmanshaman_1731854376962" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87679;192311;-3760;37083" total="1" respawnDelay="28s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854378764" minZ="-3760" maxZ="-3744">
+		<node x="87093" y="192539" />
+		<node x="86993" y="192539" />
+		<node x="86993" y="192439" />
+		<node x="87093" y="192439" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290243624547513" territory="tasabalizardmanshaman_1731854378764" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="87043;192489;-3760;26439" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854384263" minZ="-3760" maxZ="-3744">
+		<node x="86352" y="193053" />
+		<node x="86252" y="193053" />
+		<node x="86252" y="192953" />
+		<node x="86352" y="192953" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290249122700130" territory="tasabalizardmanshaman_1731854384263" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86302;193003;-3760;26439" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854386742" minZ="-3760" maxZ="-3744">
+		<node x="86385" y="193614" />
+		<node x="86285" y="193614" />
+		<node x="86285" y="193514" />
+		<node x="86385" y="193514" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290251603529034" territory="tasabalizardmanshaman_1731854386742" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86335;193564;-3760;16355" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854389337" minZ="-3760" maxZ="-3744">
+		<node x="86130" y="193333" />
+		<node x="86030" y="193333" />
+		<node x="86030" y="193233" />
+		<node x="86130" y="193233" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290254196933819" territory="tasabalizardmanshaman_1731854389337" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86080;193283;-3760;49898" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854392480" minZ="-3760" maxZ="-3744">
+		<node x="86282" y="192055" />
+		<node x="86182" y="192055" />
+		<node x="86182" y="191955" />
+		<node x="86282" y="191955" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290257339485396" territory="tasabalizardmanshaman_1731854392480" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86232;192005;-3760;44155" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854394746" minZ="-3736" maxZ="-3720">
+		<node x="85616" y="191624" />
+		<node x="85516" y="191624" />
+		<node x="85516" y="191524" />
+		<node x="85616" y="191524" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290259604168346" territory="tasabalizardmanshaman_1731854394746" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85566;191574;-3736;31744" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854396604" minZ="-3680" maxZ="-3664">
+		<node x="84853" y="191557" />
+		<node x="84753" y="191557" />
+		<node x="84753" y="191457" />
+		<node x="84853" y="191457" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290261464526073" territory="tasabalizardmanshaman_1731854396604" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84803;191507;-3680;36744" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854399118" minZ="-3760" maxZ="-3744">
+		<node x="84195" y="190836" />
+		<node x="84095" y="190836" />
+		<node x="84095" y="190736" />
+		<node x="84195" y="190736" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290263978362726" territory="tasabalizardmanshaman_1731854399118" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84145;190786;-3760;46277" total="1" respawnDelay="21s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854401056" minZ="-3736" maxZ="-3720">
+		<node x="83695" y="190276" />
+		<node x="83595" y="190276" />
+		<node x="83595" y="190176" />
+		<node x="83695" y="190176" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290265916243218" territory="tasabalizardmanshaman_1731854401056" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83645;190226;-3736;34869" total="1" respawnDelay="34s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854403098" minZ="-3696" maxZ="-3680">
+		<node x="83042" y="190689" />
+		<node x="82942" y="190689" />
+		<node x="82942" y="190589" />
+		<node x="83042" y="190589" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290267957553031" territory="tasabalizardmanshaman_1731854403098" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82992;190639;-3696;23171" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854407241" minZ="-3608" maxZ="-3592">
+		<node x="82425" y="192225" />
+		<node x="82325" y="192225" />
+		<node x="82325" y="192125" />
+		<node x="82425" y="192125" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290272101926073" territory="tasabalizardmanshaman_1731854407241" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82375;192175;-3608;15177" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854409808" minZ="-3512" maxZ="-3496">
+		<node x="81896" y="193109" />
+		<node x="81796" y="193109" />
+		<node x="81796" y="193009" />
+		<node x="81896" y="193009" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290274667387213" territory="tasabalizardmanshaman_1731854409808" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81846;193059;-3512;23881" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854412356" minZ="-3760" maxZ="-3744">
+		<node x="81104" y="192994" />
+		<node x="81004" y="192994" />
+		<node x="81004" y="192894" />
+		<node x="81104" y="192894" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290277216785265" territory="tasabalizardmanshaman_1731854412356" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81054;192944;-3760;41131" total="1" respawnDelay="33s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854414353" minZ="-3728" maxZ="-3712">
+		<node x="80512" y="192442" />
+		<node x="80412" y="192442" />
+		<node x="80412" y="192342" />
+		<node x="80512" y="192342" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290279213848963" territory="tasabalizardmanshaman_1731854414353" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80462;192392;-3728;35425" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854416396" minZ="-3712" maxZ="-3696">
+		<node x="80309" y="192151" />
+		<node x="80209" y="192151" />
+		<node x="80209" y="192051" />
+		<node x="80309" y="192051" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290281255764612" territory="tasabalizardmanshaman_1731854416396" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80259;192101;-3712;55335" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854418028" minZ="-3680" maxZ="-3664">
+		<node x="80476" y="191521" />
+		<node x="80376" y="191521" />
+		<node x="80376" y="191421" />
+		<node x="80476" y="191421" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290282897749591" territory="tasabalizardmanshaman_1731854418028" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80426;191471;-3680;51857" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854420134" minZ="-3656" maxZ="-3640">
+		<node x="80536" y="190663" />
+		<node x="80436" y="190663" />
+		<node x="80436" y="190563" />
+		<node x="80536" y="190563" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290284994181032" territory="tasabalizardmanshaman_1731854420134" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80486;190613;-3656;48749" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854426288" minZ="-3782" maxZ="-3766">
+		<node x="79203" y="190583" />
+		<node x="79103" y="190583" />
+		<node x="79103" y="190483" />
+		<node x="79203" y="190483" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290291147766149" territory="tasabalizardmanshaman_1731854426288" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79153;190533;-3782;18215" total="1" respawnDelay="21s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854429020" minZ="-3640" maxZ="-3624">
+		<node x="78727" y="190175" />
+		<node x="78627" y="190175" />
+		<node x="78627" y="190075" />
+		<node x="78727" y="190075" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290293879425511" territory="tasabalizardmanshaman_1731854429020" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="78677;190125;-3640;42882" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854430880" minZ="-3584" maxZ="-3568">
+		<node x="78420" y="189492" />
+		<node x="78320" y="189492" />
+		<node x="78320" y="189392" />
+		<node x="78420" y="189392" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290295739828235" territory="tasabalizardmanshaman_1731854430880" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="78370;189442;-3584;49903" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854432964" minZ="-3648" maxZ="-3632">
+		<node x="78671" y="188684" />
+		<node x="78571" y="188684" />
+		<node x="78571" y="188584" />
+		<node x="78671" y="188584" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290297825677541" territory="tasabalizardmanshaman_1731854432964" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="78621;188634;-3648;56073" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854435294" minZ="-3728" maxZ="-3712">
+		<node x="79121" y="187878" />
+		<node x="79021" y="187878" />
+		<node x="79021" y="187778" />
+		<node x="79121" y="187778" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290300153679431" territory="tasabalizardmanshaman_1731854435294" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79071;187828;-3728;51301" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854438197" minZ="-3760" maxZ="-3744">
+		<node x="79192" y="186687" />
+		<node x="79092" y="186687" />
+		<node x="79092" y="186587" />
+		<node x="79192" y="186587" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290303058365346" territory="tasabalizardmanshaman_1731854438197" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79142;186637;-3760;50591" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854548703" minZ="-3760" maxZ="-3744">
+		<node x="85641" y="185495" />
+		<node x="85541" y="185495" />
+		<node x="85541" y="185395" />
+		<node x="85641" y="185395" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290413563946372" territory="tasabalizardmanshaman_1731854548703" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85591;185445;-3760;64435" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854550470" minZ="-3760" maxZ="-3744">
+		<node x="86267" y="185738" />
+		<node x="86167" y="185738" />
+		<node x="86167" y="185638" />
+		<node x="86267" y="185638" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290415330340995" territory="tasabalizardmanshaman_1731854550470" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86217;185688;-3760;2697" total="1" respawnDelay="18s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854552225" minZ="-3760" maxZ="-3744">
+		<node x="86490" y="185173" />
+		<node x="86390" y="185173" />
+		<node x="86390" y="185073" />
+		<node x="86490" y="185073" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290417084499766" territory="tasabalizardmanshaman_1731854552225" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="86440;185123;-3760;48195" total="1" respawnDelay="25s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854554051" minZ="-3736" maxZ="-3720">
+		<node x="85948" y="184873" />
+		<node x="85848" y="184873" />
+		<node x="85848" y="184773" />
+		<node x="85948" y="184773" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290418912148882" territory="tasabalizardmanshaman_1731854554051" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85898;184823;-3736;30665" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854556132" minZ="-3760" maxZ="-3744">
+		<node x="85132" y="185155" />
+		<node x="85032" y="185155" />
+		<node x="85032" y="185055" />
+		<node x="85132" y="185055" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290420991492391" territory="tasabalizardmanshaman_1731854556132" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="85082;185105;-3760;30280" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854557898" minZ="-3752" maxZ="-3736">
+		<node x="84405" y="185285" />
+		<node x="84305" y="185285" />
+		<node x="84305" y="185185" />
+		<node x="84405" y="185185" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290422756813574" territory="tasabalizardmanshaman_1731854557898" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84355;185235;-3752;32371" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854559658" minZ="-3680" maxZ="-3664">
+		<node x="83906" y="184882" />
+		<node x="83806" y="184882" />
+		<node x="83806" y="184782" />
+		<node x="83906" y="184782" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290424519910121" territory="tasabalizardmanshaman_1731854559658" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83856;184832;-3680;44664" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854561365" minZ="-3640" maxZ="-3624">
+		<node x="83792" y="184193" />
+		<node x="83692" y="184193" />
+		<node x="83692" y="184093" />
+		<node x="83792" y="184093" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290426227052783" territory="tasabalizardmanshaman_1731854561365" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83742;184143;-3640;49091" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854563072" minZ="-3624" maxZ="-3608">
+		<node x="83360" y="183810" />
+		<node x="83260" y="183810" />
+		<node x="83260" y="183710" />
+		<node x="83360" y="183710" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290427931447409" territory="tasabalizardmanshaman_1731854563072" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83310;183760;-3624;30681" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854564791" minZ="-3600" maxZ="-3584">
+		<node x="83460" y="183439" />
+		<node x="83360" y="183439" />
+		<node x="83360" y="183339" />
+		<node x="83460" y="183339" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290429651643422" territory="tasabalizardmanshaman_1731854564791" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83410;183389;-3600;58149" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854566584" minZ="-3640" maxZ="-3624">
+		<node x="84114" y="183115" />
+		<node x="84014" y="183115" />
+		<node x="84014" y="183015" />
+		<node x="84114" y="183015" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290431442809605" territory="tasabalizardmanshaman_1731854566584" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="84064;183065;-3640;58335" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854568407" minZ="-3656" maxZ="-3640">
+		<node x="83721" y="182731" />
+		<node x="83621" y="182731" />
+		<node x="83621" y="182631" />
+		<node x="83721" y="182631" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290433266178998" territory="tasabalizardmanshaman_1731854568407" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83671;182681;-3656;34650" total="1" respawnDelay="21s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854569925" minZ="-3648" maxZ="-3632">
+		<node x="83128" y="182870" />
+		<node x="83028" y="182870" />
+		<node x="83028" y="182770" />
+		<node x="83128" y="182770" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290434785268381" territory="tasabalizardmanshaman_1731854569925" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83078;182820;-3648;30450" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854572452" minZ="-3640" maxZ="-3624">
+		<node x="82142" y="182802" />
+		<node x="82042" y="182802" />
+		<node x="82042" y="182702" />
+		<node x="82142" y="182702" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290437310372918" territory="tasabalizardmanshaman_1731854572452" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82092;182752;-3640;38160" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854573988" minZ="-3560" maxZ="-3544">
+		<node x="81550" y="182515" />
+		<node x="81450" y="182515" />
+		<node x="81450" y="182415" />
+		<node x="81550" y="182415" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290438848665435" territory="tasabalizardmanshaman_1731854573988" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81500;182465;-3560;36136" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854575621" minZ="-3512" maxZ="-3496">
+		<node x="80992" y="182742" />
+		<node x="80892" y="182742" />
+		<node x="80892" y="182642" />
+		<node x="80992" y="182642" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290440480652156" territory="tasabalizardmanshaman_1731854575621" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80942;182692;-3512;19862" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854577384" minZ="-3560" maxZ="-3544">
+		<node x="81141" y="183434" />
+		<node x="81041" y="183434" />
+		<node x="81041" y="183334" />
+		<node x="81141" y="183334" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290442246136766" territory="tasabalizardmanshaman_1731854577384" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81091;183384;-3560;11150" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854578932" minZ="-3592" maxZ="-3576">
+		<node x="81315" y="184020" />
+		<node x="81215" y="184020" />
+		<node x="81215" y="183920" />
+		<node x="81315" y="183920" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290443796442672" territory="tasabalizardmanshaman_1731854578932" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81265;183970;-3592;16026" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854580531" minZ="-3616" maxZ="-3600">
+		<node x="81646" y="184456" />
+		<node x="81546" y="184456" />
+		<node x="81546" y="184356" />
+		<node x="81646" y="184356" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290445391065967" territory="tasabalizardmanshaman_1731854580531" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81596;184406;-3616;64051" total="1" respawnDelay="24s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854582024" minZ="-3616" maxZ="-3600">
+		<node x="82014" y="184058" />
+		<node x="81914" y="184058" />
+		<node x="81914" y="183958" />
+		<node x="82014" y="183958" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290446887981716" territory="tasabalizardmanshaman_1731854582024" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81964;184008;-3616;49820" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854583781" minZ="-3608" maxZ="-3592">
+		<node x="81953" y="183337" />
+		<node x="81853" y="183337" />
+		<node x="81853" y="183237" />
+		<node x="81953" y="183237" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290448641599447" territory="tasabalizardmanshaman_1731854583781" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="81903;183287;-3608;51280" total="1" respawnDelay="35s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854585651" minZ="-3656" maxZ="-3640">
+		<node x="82513" y="182942" />
+		<node x="82413" y="182942" />
+		<node x="82413" y="182842" />
+		<node x="82513" y="182842" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290450513013393" territory="tasabalizardmanshaman_1731854585651" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82463;182892;-3656;59815" total="1" respawnDelay="26s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854625516" minZ="-3760" maxZ="-3744">
+		<node x="79093" y="181812" />
+		<node x="78993" y="181812" />
+		<node x="78993" y="181712" />
+		<node x="79093" y="181712" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290490375684309" territory="tasabalizardmanshaman_1731854625516" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79043;181762;-3760;24393" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854629890" minZ="-3760" maxZ="-3744">
+		<node x="79159" y="182086" />
+		<node x="79059" y="182086" />
+		<node x="79059" y="181986" />
+		<node x="79159" y="181986" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290494750182146" territory="tasabalizardmanshaman_1731854629890" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79109;182036;-3760;24067" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854634075" minZ="-3760" maxZ="-3744">
+		<node x="79173" y="182444" />
+		<node x="79073" y="182444" />
+		<node x="79073" y="182344" />
+		<node x="79173" y="182344" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290498934962548" territory="tasabalizardmanshaman_1731854634075" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79123;182394;-3760;24157" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854642293" minZ="-3760" maxZ="-3744">
+		<node x="80082" y="181500" />
+		<node x="79982" y="181500" />
+		<node x="79982" y="181400" />
+		<node x="80082" y="181400" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290507152657826" territory="tasabalizardmanshaman_1731854642293" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80032;181450;-3760;47698" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854685796" minZ="-3760" maxZ="-3744">
+		<node x="79550" y="182595" />
+		<node x="79450" y="182595" />
+		<node x="79450" y="182495" />
+		<node x="79550" y="182495" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290550656242080" territory="tasabalizardmanshaman_1731854685796" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79500;182545;-3760;21602" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854687287" minZ="-3760" maxZ="-3744">
+		<node x="79383" y="183105" />
+		<node x="79283" y="183105" />
+		<node x="79283" y="183005" />
+		<node x="79383" y="183005" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290552146090834" territory="tasabalizardmanshaman_1731854687287" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79333;183055;-3760;12702" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854688703" minZ="-3760" maxZ="-3744">
+		<node x="79806" y="183465" />
+		<node x="79706" y="183465" />
+		<node x="79706" y="183365" />
+		<node x="79806" y="183365" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290553562853493" territory="tasabalizardmanshaman_1731854688703" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79756;183415;-3760;3943" total="1" respawnDelay="30s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854690309" minZ="-3760" maxZ="-3744">
+		<node x="80162" y="183712" />
+		<node x="80062" y="183712" />
+		<node x="80062" y="183612" />
+		<node x="80162" y="183612" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290555168120478" territory="tasabalizardmanshaman_1731854690309" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80112;183662;-3760;20560" total="1" respawnDelay="21s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854691854" minZ="-3760" maxZ="-3744">
+		<node x="79716" y="183751" />
+		<node x="79616" y="183751" />
+		<node x="79616" y="183651" />
+		<node x="79716" y="183651" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290556717023568" territory="tasabalizardmanshaman_1731854691854" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79666;183701;-3760;42531" total="1" respawnDelay="31s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854694208" minZ="-3760" maxZ="-3744">
+		<node x="79993" y="182860" />
+		<node x="79893" y="182860" />
+		<node x="79893" y="182760" />
+		<node x="79993" y="182760" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290559068905724" territory="tasabalizardmanshaman_1731854694208" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="79943;182810;-3760;52940" total="1" respawnDelay="27s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854697479" minZ="-3760" maxZ="-3744">
+		<node x="80259" y="181719" />
+		<node x="80159" y="181719" />
+		<node x="80159" y="181619" />
+		<node x="80259" y="181619" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290562337736286" territory="tasabalizardmanshaman_1731854697479" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80209;181669;-3760;50510" total="1" respawnDelay="23s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731854700289" minZ="-3760" maxZ="-3744">
+		<node x="80898" y="181528" />
+		<node x="80798" y="181528" />
+		<node x="80798" y="181428" />
+		<node x="80898" y="181428" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1290565147805747" territory="tasabalizardmanshaman_1731854700289" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="80848;181478;-3760;6342" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855198889" minZ="-3760" maxZ="-3744">
+		<node x="83770" y="180131" />
+		<node x="83670" y="180131" />
+		<node x="83670" y="180031" />
+		<node x="83770" y="180031" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291063749996040" territory="tasabalizardmanshaman_1731855198889" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83720;180081;-3760;27307" total="1" respawnDelay="17s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855200224" minZ="-3768" maxZ="-3752">
+		<node x="83487" y="180338" />
+		<node x="83387" y="180338" />
+		<node x="83387" y="180238" />
+		<node x="83487" y="180238" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291065083370170" territory="tasabalizardmanshaman_1731855200224" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83437;180288;-3768;23722" total="1" respawnDelay="20s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855202127" minZ="-3760" maxZ="-3744">
+		<node x="83718" y="180491" />
+		<node x="83618" y="180491" />
+		<node x="83618" y="180391" />
+		<node x="83718" y="180391" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291066988463576" territory="tasabalizardmanshaman_1731855202127" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83668;180441;-3760;65388" total="1" respawnDelay="22s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855204374" minZ="-3760" maxZ="-3744">
+		<node x="83633" y="180942" />
+		<node x="83533" y="180942" />
+		<node x="83533" y="180842" />
+		<node x="83633" y="180842" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291069233831800" territory="tasabalizardmanshaman_1731855204374" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83583;180892;-3760;12606" total="1" respawnDelay="19s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855207528" minZ="-3760" maxZ="-3744">
+		<node x="83318" y="181518" />
+		<node x="83218" y="181518" />
+		<node x="83218" y="181418" />
+		<node x="83318" y="181418" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291072388775457" territory="tasabalizardmanshaman_1731855207528" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83268;181468;-3760;14216" total="1" respawnDelay="29s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855209051" minZ="-3760" maxZ="-3744">
+		<node x="83680" y="181498" />
+		<node x="83580" y="181498" />
+		<node x="83580" y="181398" />
+		<node x="83680" y="181398" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291073912950542" territory="tasabalizardmanshaman_1731855209051" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="83630;181448;-3760;64967" total="1" respawnDelay="15s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855215012" minZ="-3760" maxZ="-3744">
+		<node x="82712" y="181781" />
+		<node x="82612" y="181781" />
+		<node x="82612" y="181681" />
+		<node x="82712" y="181681" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291079873605103" territory="tasabalizardmanshaman_1731855215012" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82662;181731;-3760;42315" total="1" respawnDelay="32s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+	<territory name="tasabalizardmanshaman_1731855221103" minZ="-3760" maxZ="-3744">
+		<node x="82890" y="180676" />
+		<node x="82790" y="180676" />
+		<node x="82790" y="180576" />
+		<node x="82890" y="180576" />
+	</territory>
+	<npcmaker name="tasabalizardmanshaman_1291085962219004" territory="tasabalizardmanshaman_1731855221103" spawn="ALL" maximumNpcs="1">
+		<npc id="21640" pos="82840;180626;-3760;57911" total="1" respawnDelay="25s" /> <!-- Tasaba Lizardman Shaman -->
+	</npcmaker>
+</list>

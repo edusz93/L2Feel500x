@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="heartofvolcano_1730491096962" minZ="-1576" maxZ="-1560">
+		<node x="186699" y="-116050" />
+		<node x="186599" y="-116050" />
+		<node x="186599" y="-116150" />
+		<node x="186699" y="-116150" />
+	</territory>
+	<npcmaker name="heartofvolcano_454195826171785" territory="heartofvolcano_1730491096962" spawn="ALL" maximumNpcs="1">
+		<npc id="31385" pos="186649;-116100;-1576;34175" total="1" respawnDelay="60s" /> <!-- Heart of Volcano -->
+	</npcmaker>
+</list>

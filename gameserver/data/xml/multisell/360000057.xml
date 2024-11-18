@@ -3,206 +3,211 @@
 <!-- A Grade -->
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9301" count="1"/>
+        <production id="9301" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9302" count="1"/>
+        <production id="9302" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9303" count="1"/>
+        <production id="9303" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9304" count="1"/>
+        <production id="9304" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9305" count="1"/>
+        <production id="9305" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9306" count="1"/>
+        <production id="9306" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9307" count="1"/>
+        <production id="9307" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9308" count="1"/>
+        <production id="9308" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9309" count="1"/>
+        <production id="9309" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9310" count="1"/>
+        <production id="9310" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9311" count="1"/>
+        <production id="9311" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9312" count="1"/>
+        <production id="9312" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9313" count="1"/>
+        <production id="9313" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9314" count="1"/>
+        <production id="9314" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9315" count="1"/>
+        <production id="9315" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9316" count="1"/>
+        <production id="9316" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9317" count="1"/>
+        <production id="9317" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9318" count="1"/>
+        <production id="9318" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9319" count="1"/>
+        <production id="9319" count="1" enchant="6"/>
 		<production id="1344" count="9000"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9320" count="1"/>
+        <production id="9320" count="1" enchant="6"/>
 		<production id="1344" count="9000"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9321" count="1"/>
+        <production id="9321" count="1" enchant="6"/>
 		<production id="1344" count="9000"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9322" count="1"/>
+        <production id="9322" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9323" count="1"/>
+        <production id="9323" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9324" count="1"/>
+        <production id="9324" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9325" count="1"/>
+        <production id="9325" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9326" count="1"/>
+        <production id="9326" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9327" count="1"/>
+        <production id="9327" count="1" enchant="6"/>
+		<production id="1466" count="9000"/>
+    </item>
+	<item>
+        <ingredient id="9300" count="1"/>
+        <production id="9405" count="1" enchant="6"/>
 		<production id="1466" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9328" count="1"/>
+        <production id="9328" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9329" count="1"/>
+        <production id="9329" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9330" count="1"/>
+        <production id="9330" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9331" count="1"/>
+        <production id="9331" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9332" count="1"/>
+        <production id="9332" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9333" count="1"/>
+        <production id="9333" count="1" enchant="6"/>
 		<production id="3951" count="9000"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-		<production id="9370" count="1"/>
-		<production id="9369" count="1"/>
-		<production id="9371" count="1"/>
-		<production id="9372" count="1"/>
+		<production id="9370" count="1" enchant="6"/>
+		<production id="9369" count="1" enchant="6"/>
+		<production id="9371" count="1" enchant="6"/>
+		<production id="9372" count="1" enchant="6"/>
 		<production id="9404" count="1"/>
-		<production id="9397" count="1"/>
-		<production id="9398" count="2"/>
-		<production id="9399" count="2"/>
+		<production id="9397" count="1" enchant="6"/>
+		<production id="9398" count="2" enchant="6"/>
+		<production id="9399" count="2" enchant="6"/>
 		<production id="9395" count="1"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9387" count="1"/>
-		<production id="9388" count="1"/>
-		<production id="9389" count="1"/>
-		<production id="9390" count="1"/>
+        <production id="9387" count="1" enchant="6"/>
+		<production id="9388" count="1" enchant="6"/>
+		<production id="9389" count="1" enchant="6"/>
+		<production id="9390" count="1" enchant="6"/>
 		<production id="9403" count="1"/>
-		<production id="9397" count="1"/>
-		<production id="9398" count="2"/>
-		<production id="9399" count="2"/>
+		<production id="9397" count="1" enchant="6"/>
+		<production id="9398" count="2" enchant="6"/>
+		<production id="9399" count="2" enchant="6"/>
 		<production id="9396" count="1"/>
     </item>
     <item>
         <ingredient id="9300" count="1"/>
-        <production id="9391" count="1"/>
-		<production id="9392" count="1"/>
-		<production id="9393" count="1"/>
-		<production id="9394" count="1"/>
+        <production id="9391" count="1" enchant="6"/>
+		<production id="9392" count="1" enchant="6"/>
+		<production id="9393" count="1" enchant="6"/>
+		<production id="9394" count="1" enchant="6"/>
 		<production id="9404" count="1"/>
-		<production id="9397" count="1"/>
-		<production id="9398" count="2"/>
-		<production id="9399" count="2"/>
+		<production id="9397" count="1" enchant="6"/>
+		<production id="9398" count="2" enchant="6"/>
+		<production id="9399" count="2" enchant="6"/>
 		<production id="9395" count="1"/>
     </item>
 </list>

@@ -74,7 +74,7 @@
 	</npc>
 	<npc id="50002" idTemplate="60007" name="Tryskell" title="Npc Buffer">
 		<set name="usingServerSideName" val="true"/>
-		<set name="usingServerSideTitle" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>							
 		<set name="level" val="78"/>
 		<set name="radius" val="9"/>
 		<set name="height" val="26.5"/>
@@ -765,12 +765,12 @@
 			<skill id="4416" level="14"/>
 		</skills>
 	</npc>
-	<npc id="50021" idTemplate="30097" name="Ronaldo" title="Enchant Skill">
+	<npc id="50021" idTemplate="60005" name="Ronaldo" title="+10 Enchant Skill">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>						
 		<set name="level" val="70"/>
-		<set name="radius" val="8"/>
-		<set name="height" val="17"/>
+		<set name="radius" val="9"/>
+		<set name="height" val="18"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Trainer"/>

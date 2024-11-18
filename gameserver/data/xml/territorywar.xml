@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<!-- Territorys War -->
-	<territory id="0" locX="6642" locY="-23785" locZ="-3712" startTimes="13:00,18:00,23:00" npcName="Primveal Isle"/> <!-- Primveal Isle -->
+	<territory id="0" locX="6642" locY="-23785" locZ="-3712" startTimes="09:30,13:30,18:30,23:30" npcName="Primveal Isle"/> <!-- Primveal Isle -->
+	<territory id="1" locX="78743" locY="177966" locZ="-2912" startTimes="10:35,14:35,19:35,00:35" npcName="Field of Silence"/> <!-- Field of Silence -->
 </list>

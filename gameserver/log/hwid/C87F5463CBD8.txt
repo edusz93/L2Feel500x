@@ -277,3 +277,5 @@
 11/08/2024 21:12:51 >>> HWID: [C87F5463CBD8] >>> Player: [Limao]
 11/08/2024 21:13:22 >>> HWID: [C87F5463CBD8] >>> Player: [Tyrion]
 13/08/2024 20:54:16 >>> HWID: [C87F5463CBD8] >>> Player: [Nina]
+16/11/2024 20:33:00 >>> HWID: [C87F5463CBD8] >>> Player: [Limao]
+16/11/2024 20:55:04 >>> HWID: [C87F5463CBD8] >>> Player: [Pipizinho]

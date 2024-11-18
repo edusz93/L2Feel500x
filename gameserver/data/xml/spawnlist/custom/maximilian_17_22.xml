@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="maximilian_1730934135362" minZ="-3640" maxZ="-3624">
+		<node x="-87030" y="142152" />
+		<node x="-87130" y="142152" />
+		<node x="-87130" y="142052" />
+		<node x="-87030" y="142052" />
+	</territory>
+	<npcmaker name="maximilian_370000225398346" territory="maximilian_1730934135362" spawn="ALL" maximumNpcs="1">
+		<npc id="30120" pos="-87080;142102;-3640;15066" total="1" respawnDelay="60s" /> <!-- Maximilian -->
+	</npcmaker>
+</list>

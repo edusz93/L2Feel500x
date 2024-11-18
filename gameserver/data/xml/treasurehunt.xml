@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
     <!-- Treasure Hunt -->
-    <treasure id="0" geodata="20_17" npcId="52000" weaponId="17000" chance="40" territoryName="Primveal Isle"/> <!-- Red Stone Miner -->
-	<treasure id="1" geodata="20_17" npcId="52001" weaponId="17000" chance="40" territoryName="Primveal Isle"/> <!-- Green Stone Miner -->
-	<treasure id="2" geodata="20_17" npcId="52002" weaponId="17000" chance="40" territoryName="Primveal Isle"/> <!-- Blue Stone Miner -->
-	<treasure id="3" geodata="20_17" npcId="52003" weaponId="17000" chance="40" territoryName="Primveal Isle"/> <!-- Yellow Stone Miner -->
+    <treasure id="0" geodata="20_17" npcId="52000" weaponId="17000" chance="60" territoryName="Primveal Isle"/> <!-- Red Stone Miner -->
+	<treasure id="1" geodata="20_17" npcId="52001" weaponId="17000" chance="60" territoryName="Primveal Isle"/> <!-- Green Stone Miner -->
+	<treasure id="2" geodata="20_17" npcId="52002" weaponId="17000" chance="60" territoryName="Primveal Isle"/> <!-- Blue Stone Miner -->
+	<treasure id="3" geodata="20_17" npcId="52003" weaponId="17000" chance="60" territoryName="Primveal Isle"/> <!-- Yellow Stone Miner -->
 </list>

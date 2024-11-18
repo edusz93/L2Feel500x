@@ -1,265 +1,1213 @@
-[23-10-2024 05:02:06]	INFO	-----------------------------------------------=[ Config ]
-[23-10-2024 05:02:06]	INFO	Loading gameserver configuration files.
-[23-10-2024 05:02:06]	INFO	Loaded 1155 Filter Words.
-[23-10-2024 05:02:06]	INFO	Loaded 46 classes Damages configurations
-[23-10-2024 05:02:06]	INFO	Loaded 31 Olympiad Damages configurations
-[23-10-2024 05:02:06]	INFO	Loading auto farm configuration files.
-[23-10-2024 05:02:06]	INFO	----------------------------------------------=[ Poolers ]
-[23-10-2024 05:02:06]	INFO	Initializing ConnectionPool.
-[23-10-2024 05:02:07]	INFO	Initializing ThreadPool.
-[23-10-2024 05:02:07]	INFO	--------------------------------------------=[ IdFactory ]
-[23-10-2024 05:02:08]	INFO	Updated characters online status.
-[23-10-2024 05:02:08]	INFO	Cleaned 0 elements from database.
-[23-10-2024 05:02:08]	INFO	Cleaned 0 expired timestamps from database.
-[23-10-2024 05:02:08]	INFO	Initializing 102912 objectIds pool, with 940 used ids.
-[23-10-2024 05:02:08]	INFO	------------------------------------------------=[ Cache ]
-[23-10-2024 05:02:08]	INFO	Loaded 42 crests.
-[23-10-2024 05:02:08]	INFO	------------------------------------------------=[ World ]
-[23-10-2024 05:02:08]	INFO	World grid (176 by 256) is now set up.
-[23-10-2024 05:02:08]	INFO	Loaded regions.
-[23-10-2024 05:02:08]	INFO	Loaded 5 announcements.
-[23-10-2024 05:02:08]	INFO	Loaded 1 server variables.
-[23-10-2024 05:02:08]	INFO	-----------------------------------------------=[ Skills ]
-[23-10-2024 05:02:09]	INFO	SkillTable: Loaded 29813 skills.
-[23-10-2024 05:02:09]	INFO	Loaded 117 fishing skills.
-[23-10-2024 05:02:09]	INFO	Loaded 64 clan skills.
-[23-10-2024 05:02:09]	INFO	Loaded 14550 enchant skills.
-[23-10-2024 05:02:09]	INFO	------------------------------------------------=[ Items ]
-[23-10-2024 05:02:09]	INFO	Loaded items.
-[23-10-2024 05:02:09]	INFO	Loaded 29 summon items.
-[23-10-2024 05:02:09]	INFO	Loaded 180 hennas.
-[23-10-2024 05:02:09]	INFO	Loaded 689 buyLists.
-[23-10-2024 05:02:10]	INFO	Loaded 158 multisell.
-[23-10-2024 05:02:10]	INFO	Loaded 871 recipes.
-[23-10-2024 05:02:10]	INFO	Loaded 60 armor sets.
-[23-10-2024 05:02:10]	INFO	Loaded 270 fish.
-[23-10-2024 05:02:10]	INFO	Loaded 334 spellbooks.
-[23-10-2024 05:02:10]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[23-10-2024 05:02:10]	INFO	Loaded 4 sets of augmentation stats.
-[23-10-2024 05:02:10]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[23-10-2024 05:02:10]	INFO	Loaded 2 cursed weapons.
-[23-10-2024 05:02:10]	INFO	Loaded 334 skipping item(s).
-[23-10-2024 05:02:10]	INFO	-----------------------------------------------=[ Admins ]
-[23-10-2024 05:02:10]	INFO	Loaded 10 access levels.
-[23-10-2024 05:02:10]	INFO	Loaded 154 admin command rights.
-[23-10-2024 05:02:10]	INFO	Loaded 0 bookmarks.
-[23-10-2024 05:02:10]	INFO	Loaded 0 petitions.
-[23-10-2024 05:02:10]	INFO	-------------------------------------------=[ Characters ]
-[23-10-2024 05:02:10]	INFO	Loaded 89 player classes templates.
-[23-10-2024 05:02:10]	INFO	Loaded 21 player infos.
-[23-10-2024 05:02:10]	INFO	Loaded 81 player levels.
-[23-10-2024 05:02:10]	INFO	Loaded 10 RaidPoints entries.
-[23-10-2024 05:02:10]	INFO	Loaded 29 healSps entries.
-[23-10-2024 05:02:10]	INFO	-------------------------------------=[ Community server ]
-[23-10-2024 05:02:10]	INFO	Loaded 56 forums.
-[23-10-2024 05:02:10]	INFO	Loaded 18 command mappings.
-[23-10-2024 05:02:10]	INFO	------------------------------------------------=[ Clans ]
-[23-10-2024 05:02:10]	INFO	Loaded 5 clans.
-[23-10-2024 05:02:10]	INFO	--------------------------------=[ Geodata & Pathfinding ]
-[23-10-2024 05:02:11]	INFO	Loaded 139 L2J region files.
-[23-10-2024 05:02:11]	INFO	Loaded 31 node buffers.
-[23-10-2024 05:02:11]	INFO	------------------------------------------------=[ Zones ]
-[23-10-2024 05:02:16]	INFO	Loaded 27 zones classes and total 1096 zones.
-[23-10-2024 05:02:16]	INFO	---------------------------------=[ Castles & Clan Halls ]
-[23-10-2024 05:02:16]	INFO	Loaded 9 castles.
-[23-10-2024 05:02:16]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
-[23-10-2024 05:02:16]	INFO	----------------------------------------=[ Task Managers ]
-[23-10-2024 05:02:16]	INFO	Restored 0 items on ground.
-[23-10-2024 05:02:16]	INFO	------------------------------------------=[ Seven Signs ]
-[23-10-2024 05:02:16]	INFO	Currently on Seal Validation period.
-[23-10-2024 05:02:16]	INFO	The Seal of Gnosis remains unclaimed.
-[23-10-2024 05:02:16]	INFO	The Seal of Strife remains unclaimed.
-[23-10-2024 05:02:16]	INFO	The Seal of Avarice remains unclaimed.
-[23-10-2024 05:02:16]	INFO	Next Seven Signs period change set to Mon Oct 28 18:00:00 BRT 2024.
-[23-10-2024 05:02:16]	INFO	Next Seven Signs period begins in 5 days, 12 hours and 57 mins.
-[23-10-2024 05:02:16]	INFO	Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
-[23-10-2024 05:02:16]	INFO	----------------------------------------=[ Manor Manager ]
-[23-10-2024 05:02:16]	INFO	Loaded 121 manor areas.
-[23-10-2024 05:02:16]	INFO	Loaded 247 seeds.
-[23-10-2024 05:02:16]	INFO	-------------------------------------------------=[ NPCs ]
-[23-10-2024 05:02:16]	INFO	Loaded 67 available buffs.
-[23-10-2024 05:02:16]	INFO	Loaded 0 ready to use schemes.
-[23-10-2024 05:02:16]	INFO	Loaded 6532 NPC templates.
-[23-10-2024 05:02:16]	INFO	Loaded 16 walking routes.
-[23-10-2024 05:02:17]	INFO	Loaded 547 doors templates.
-[23-10-2024 05:02:17]	INFO	Loaded 6 Tournament Arenas.
-[23-10-2024 05:02:17]	INFO	[Tournament]: Next Event time: Wed Oct 23 10:00:00 BRT 2024
-[23-10-2024 05:02:17]	INFO	Loaded 29 static objects.
-[23-10-2024 05:02:17]	INFO	Loaded 199 spawn data.
-[23-10-2024 05:02:20]	INFO	Loaded 11628 territories.
-[23-10-2024 05:02:20]	INFO	Loaded 12030 NPC makers.
-[23-10-2024 05:02:20]	INFO	Loaded 11 GrandBosses instances.
-[23-10-2024 05:02:20]	INFO	Loaded 7 Dimensional Rift rooms.
-[23-10-2024 05:02:20]	INFO	Loaded 14 newbie buffs.
-[23-10-2024 05:02:20]	INFO	Loaded 72 instant teleport positions.
-[23-10-2024 05:02:20]	INFO	Loaded 117 teleport positions.
-[23-10-2024 05:02:20]	INFO	Loaded 793 teleport locations.
-[23-10-2024 05:02:20]	INFO	Loaded 13 observer groups and 25 spawns.
-[23-10-2024 05:02:20]	INFO	Loaded 30 Raid boss info instances.
-[23-10-2024 05:02:20]	INFO	-----------------------------------=[ Olympiads & Heroes ]
-[23-10-2024 05:02:20]	INFO	Loaded 22 stadiums.
-[23-10-2024 05:02:20]	INFO	7617 minutes until Olympiad period ends.
-[23-10-2024 05:02:20]	INFO	Next weekly Olympiad change is in 9011 minutes.
-[23-10-2024 05:02:20]	INFO	Loaded 0 nobles.
-[23-10-2024 05:02:20]	INFO	Olympiad competition period starts in 0 days, 14 hours and 57 mins.
-[23-10-2024 05:02:20]	INFO	Olympiad event starts/started @ Wed Oct 23 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Loaded 0 heroes and 0 all time heroes.
-[23-10-2024 05:02:20]	INFO	-------------------------------------=[ Quests & Scripts ]
-[23-10-2024 05:02:20]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
-[23-10-2024 05:02:20]	INFO	Updated Sailren (id: 49999) status to 0.
-[23-10-2024 05:02:20]	INFO	Spawned 11 "start_weapon" NPCs.
-[23-10-2024 05:02:20]	INFO	Bandit Stronghold siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Devastated Castle siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Fortress of Resistance siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Fortress of the Dead siege scheduled for Tue Oct 29 20:01:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Rainbow Springs Chateau siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Wild Beast Reserve siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 05:02:20]	INFO	Loaded 419 regular scripts and 6 scheduled scripts.
-[23-10-2024 05:02:20]	INFO	-----------------------------------------------=[ Events ]
-[23-10-2024 05:02:20]	INFO	Loaded 8715 Derby Track records, currently on race #8716.
-[23-10-2024 05:02:20]	INFO	Loaded 0 couples.
-[23-10-2024 05:02:20]	INFO	OfflineTradersTable: loaded 0 offline traders.
-[23-10-2024 05:02:20]	INFO	Capture The Flag Engine: is disabled.
-[23-10-2024 05:02:20]	INFO	Deathmatch Engine: Engine is disabled.
-[23-10-2024 05:02:20]	INFO	Last Man Engine: Engine is disabled.
-[23-10-2024 05:02:20]	INFO	Team vs Team Engine: is Started.
-[23-10-2024 05:02:20]	INFO	-----------------------------------------------=[ Spawns ]
-[23-10-2024 05:02:20]	INFO	AntiBotTask started.
-[23-10-2024 05:02:20]	INFO	Updated Core (id: 29006) status to 0.
-[23-10-2024 05:02:21]	INFO	Updated Queen Ant (id: 29001) status to 0.
-[23-10-2024 05:02:22]	INFO	Updated Orfen (id: 29014) status to 0.
-[23-10-2024 05:02:22]	INFO	Updated Zaken (id: 29022) status to 0.
-[23-10-2024 05:02:23]	INFO	Spawned 44935 NPCs.
-[23-10-2024 05:02:23]	INFO	Spawned 688 day NPCs, despawned 0 night NPCs.
-[23-10-2024 05:02:23]	INFO	Spawned 2148 Seven Signs - Seal of Avarice NPCs, winning cabal none.
-[23-10-2024 05:02:23]	INFO	Spawned 1779 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
-[23-10-2024 05:02:23]	INFO	---------------------------------------------=[ Handlers ]
-[23-10-2024 05:02:23]	INFO	Loaded 151 admin command handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 13 chat handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 29 item handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 74 skill handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 25 target handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 16 user command handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 41 voiced command handlers.
-[23-10-2024 05:02:23]	INFO	Loaded 16 bypass command handlers.
-[23-10-2024 05:02:23]	INFO	-------------------------------------------=[ L2JBrazuca ]
-[23-10-2024 05:02:23]	INFO	Auto Restart is enabled.
-[23-10-2024 05:02:23]	INFO	Custom Starter Items is enabled.
-[23-10-2024 05:02:23]	INFO	Custom Spawn Char is enabled.
-[23-10-2024 05:02:23]	INFO	Custom Title Char Start is enabled.
-[23-10-2024 05:02:23]	INFO	Custom Level Char Start is enabled.
-[23-10-2024 05:02:23]	INFO	Bs limit in party is enabled.
-[23-10-2024 05:02:23]	INFO	Party Farm is disabled.
-[23-10-2024 05:02:23]	INFO	AutoFarm task started.
-[23-10-2024 05:02:23]	INFO	Agathions tasks started.
-[23-10-2024 05:02:23]	INFO	RaidBossReturnTask started.
-[23-10-2024 05:02:23]	INFO	PixMsgTask started.
-[23-10-2024 05:02:23]	INFO	Loaded 41 Roulette rewards.
-[23-10-2024 05:02:23]	INFO	StatusRealTimeTask started.
-[23-10-2024 05:02:23]	INFO	Loaded 2 Skills Sellers.
-[23-10-2024 05:02:23]	INFO	Loaded 1 Territory Wars.
-[23-10-2024 05:02:23]	WARNING	Next schedule for Territory Primveal Isle: 13:00
-[23-10-2024 05:02:23]	INFO	Territory Wars Update Clan Task started.
-[23-10-2024 05:02:23]	INFO	Loaded 4 Treasure Hunts.
-[23-10-2024 05:02:23]	INFO	Loaded 4 Treasure Hunts Weapons.
-[23-10-2024 05:02:23]	INFO	Treasure Hunt Task started.
-[23-10-2024 05:02:23]	INFO	FlagZoneController task started.
-[23-10-2024 05:02:23]	INFO	Loaded 34 Armor exchanges.
-[23-10-2024 05:02:23]	INFO	Loaded 13 Epic Boss Configs.
-[23-10-2024 05:02:23]	INFO	Castle Buff Task started.
-[23-10-2024 05:02:23]	INFO	------------------------------------------=[ VDS Manager ]
-[23-10-2024 05:02:23]	INFO	Initializing Threads.
-[23-10-2024 05:02:23]	INFO	Configurations: VDSystem settings loaded.
-[23-10-2024 05:02:23]	INFO	VDSystem: System initialized.
-[23-10-2024 05:02:23]	INFO	AchievementsTask started.
-[23-10-2024 05:02:23]	INFO	AuctionTable: Loaded 2 items.
-[23-10-2024 05:02:23]	INFO	-----------------------------------------------=[ System ]
-[23-10-2024 05:02:23]	INFO	Deadlock detector is disabled.
-[23-10-2024 05:02:23]	INFO	Gameserver has started, used memory: 1634 / 6144 Mo.
-[23-10-2024 05:02:23]	INFO	Maximum allowed players: 1000.
-[23-10-2024 05:02:23]	INFO	Server loaded in 17 seconds
-[23-10-2024 05:02:23]	INFO	-----------------------------------------=[ Hwid Manager ]
-[23-10-2024 05:02:23]	INFO	Loaded 0 banned(s) HWID(s)
-[23-10-2024 05:02:23]	INFO	Loaded 15 player(s) HWID(s)
-[23-10-2024 05:02:23]	INFO	Loaded HWID KEY RUSaCis Project
-[23-10-2024 05:02:23]	INFO	Loaded HWID IP *
-[23-10-2024 05:02:23]	INFO	Loaded Anti Leech key...assigned 
-[23-10-2024 05:02:23]	INFO	Loaded Restriction Leech...assigned 
-[23-10-2024 05:02:23]	INFO	Loaded Licensed to Max Players : 1000
-[23-10-2024 05:02:24]	INFO	------------------------------------------------=[ Login ]
-[23-10-2024 05:02:24]	INFO	Connecting to login on auth.l2feel.net:9014.
-[23-10-2024 05:02:24]	INFO	Registered as server: [1] Feel.
-[23-10-2024 05:03:20]	INFO	Updated Sailren (id: 49999) status to 1.
-[23-10-2024 05:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 05:32:24]	INFO	Server Time: 5:32.
-[23-10-2024 05:32:24]	INFO	Players Online: 0
-[23-10-2024 05:32:24]	INFO	Agathioms: 0
-[23-10-2024 05:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 05:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 05:32:24]	INFO	Used memory: 1996 MB
-[23-10-2024 05:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 06:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 06:32:24]	INFO	Server Time: 6:32.
-[23-10-2024 06:32:24]	INFO	Players Online: 0
-[23-10-2024 06:32:24]	INFO	Agathioms: 0
-[23-10-2024 06:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 06:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 06:32:24]	INFO	Used memory: 1734 MB
-[23-10-2024 06:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 07:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 07:32:24]	INFO	Server Time: 7:32.
-[23-10-2024 07:32:24]	INFO	Players Online: 0
-[23-10-2024 07:32:24]	INFO	Agathioms: 0
-[23-10-2024 07:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 07:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 07:32:24]	INFO	Used memory: 1533 MB
-[23-10-2024 07:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 08:00:06]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
-[23-10-2024 08:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 08:32:24]	INFO	Server Time: 8:32.
-[23-10-2024 08:32:24]	INFO	Players Online: 0
-[23-10-2024 08:32:24]	INFO	Agathioms: 0
-[23-10-2024 08:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 08:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 08:32:24]	INFO	Used memory: 2300 MB
-[23-10-2024 08:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 09:00:06]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
-[23-10-2024 09:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 09:32:24]	INFO	Server Time: 9:32.
-[23-10-2024 09:32:24]	INFO	Players Online: 0
-[23-10-2024 09:32:24]	INFO	Agathioms: 0
-[23-10-2024 09:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 09:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 09:32:24]	INFO	Used memory: 1852 MB
-[23-10-2024 09:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 10:00:00]	INFO	[Tournament]: Event Started.
-[23-10-2024 10:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 10:32:24]	INFO	Server Time: 10:32.
-[23-10-2024 10:32:24]	INFO	Players Online: 0
-[23-10-2024 10:32:24]	INFO	Agathioms: 0
-[23-10-2024 10:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 10:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 10:32:24]	INFO	Used memory: 2652 MB
-[23-10-2024 10:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 10:40:00]	INFO	[Tournament]: Event Finished.
-[23-10-2024 10:40:00]	INFO	[Tournament]: Next Event time: Wed Oct 23 15:00:00 BRT 2024
-[23-10-2024 11:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 11:32:24]	INFO	Server Time: 11:32.
-[23-10-2024 11:32:24]	INFO	Players Online: 0
-[23-10-2024 11:32:24]	INFO	Agathioms: 0
-[23-10-2024 11:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 11:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 11:32:24]	INFO	Used memory: 1971 MB
-[23-10-2024 11:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 11:46:49]	WARNING	HWID: [IP: 188.119.66.112] is trying to loggin server without client side hwid.
-[23-10-2024 12:00:06]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
-[23-10-2024 12:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 12:32:24]	INFO	Server Time: 12:32.
-[23-10-2024 12:32:24]	INFO	Players Online: 0
-[23-10-2024 12:32:24]	INFO	Agathioms: 0
-[23-10-2024 12:32:24]	INFO	Auto Farms actives: 0
-[23-10-2024 12:32:24]	INFO	Free Memory: 6144 MB
-[23-10-2024 12:32:24]	INFO	Used memory: 2776 MB
-[23-10-2024 12:32:24]	INFO	----------------------------------------=[ Server Status ]
-[23-10-2024 13:00:00]	WARNING	Territory War: Primveal Isle is Started.
-[23-10-2024 13:00:06]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[17-11-2024 02:35:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:35:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:36:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:37:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:06]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:07]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:08]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:09]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:10]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:11]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:12]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:13]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:14]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:15]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:16]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:17]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:18]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:19]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:47]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:48]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:49]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:50]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:51]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:52]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:53]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:54]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:55]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:57]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:38:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:39:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: TenebriioO - Account: agatha1 - IP: 131.196.6.215]. 
+[17-11-2024 02:42:29]	INFO	HWID: [ECF4BB370522], character: [BlackPanther]
+[17-11-2024 02:45:45]	WARNING	Ketra's Hero Hekaton is alive!
+[17-11-2024 02:47:53]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 02:50:37]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 06:18)
+[17-11-2024 02:50:51]	WARNING	Cherub Galaxia is alive!
+[17-11-2024 02:54:34]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 07:11)
+[17-11-2024 03:01:16]	WARNING	Varka Chief Horus is alive!
+[17-11-2024 03:04:06]	WARNING	HWID: [IP: 187.40.34.59] is trying to loggin server without client side hwid.
+[17-11-2024 03:04:44]	INFO	HWID: [D85ED3F39AB9], character: [Meeee]
+[17-11-2024 03:07:52]	WARNING	Baylor is alive!
+[17-11-2024 03:09:00]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 03:11:29]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 17, 06:42)
+[17-11-2024 03:14:11]	INFO	HWID: [D4AE52FF1F23], character: [Testedagger]
+[17-11-2024 03:15:49]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 03:16:08]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 03:16:08]	INFO	Server Time: 3:16.
+[17-11-2024 03:16:08]	INFO	Players Online: 65
+[17-11-2024 03:16:08]	INFO	Agathioms: 30
+[17-11-2024 03:16:08]	INFO	Auto Farms actives: 40
+[17-11-2024 03:16:08]	INFO	Free Memory: 6144 MB
+[17-11-2024 03:16:08]	INFO	Used memory: 1636 MB
+[17-11-2024 03:16:08]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 03:18:02]	INFO	HWID: [D4AE52FF1F23], character: [Testedagger]
+[17-11-2024 03:19:17]	INFO	HWID: [00E00CB36028], character: [MeupopoNOseuPIPI]
+[17-11-2024 03:19:21]	WARNING	Baylor was killed! Respawn: (nov. 17, 07:17)
+[17-11-2024 03:21:59]	INFO	HWID: [6D2207FB25C6], character: [Bau]
+[17-11-2024 03:21:59]	WARNING	HWID: [IP: 45.5.7.12] is trying to loggin server without client side hwid.
+[17-11-2024 03:22:06]	INFO	HWID: [C4E98418B6A9], character: [Drogon]
+[17-11-2024 03:29:22]	INFO	HWID: [6D2207FB25C6], character: [Lock]
+[17-11-2024 03:30:29]	INFO	HWID: [95AB7A4BCB67], character: [Lug]
+[17-11-2024 03:31:04]	INFO	HWID: [6105FF91CBFF], character: [Jessica]
+[17-11-2024 03:32:46]	INFO	HWID: [434A006F9B1F], character: [Butico]
+[17-11-2024 03:47:07]	WARNING	Hestia Guardian Deity of the Hot Springs is alive!
+[17-11-2024 03:48:15]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 03:51:32]	WARNING	Shuriel Fire Of Wrath is alive!
+[17-11-2024 03:51:34]	WARNING	Hestia Guardian Deity of the Hot Springs was killed! Respawn: (nov. 17, 17:54)
+[17-11-2024 03:57:12]	WARNING	Shuriel Fire Of Wrath was killed! Respawn: (nov. 17, 15:56)
+[17-11-2024 04:00:09]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[17-11-2024 04:06:35]	INFO	HWID: [5CC9D3800A1E], character: [Hinnata]
+[17-11-2024 04:16:08]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 04:16:08]	INFO	Server Time: 4:16.
+[17-11-2024 04:16:08]	INFO	Players Online: 60
+[17-11-2024 04:16:08]	INFO	Agathioms: 28
+[17-11-2024 04:16:08]	INFO	Auto Farms actives: 40
+[17-11-2024 04:16:08]	INFO	Free Memory: 6144 MB
+[17-11-2024 04:16:08]	INFO	Used memory: 2692 MB
+[17-11-2024 04:16:08]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 04:39:14]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 04:50:12]	INFO	HWID: [D4AE52FF1F23], character: [Agatha]
+[17-11-2024 04:51:06]	WARNING	Domb Death Cabrio is alive!
+[17-11-2024 04:57:36]	WARNING	Ketra's Chief Brakki is alive!
+[17-11-2024 05:00:00]	INFO	Initiating automatic restart.
+[17-11-2024 05:00:09]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[17-11-2024 05:02:00]	INFO	-----------------------------=[ Under restarting process ]
+[17-11-2024 05:02:00]	INFO	OfflineTradersTable: offline traders stored.
+[17-11-2024 05:02:01]	INFO	Players have been disconnected.
+[17-11-2024 05:02:01]	INFO	ThreadPool: Shutting down.
+[17-11-2024 05:02:01]	INFO	FestivalOfDarknessManager has been saved.
+[17-11-2024 05:02:01]	INFO	SevenSignsManager has been saved.
+[17-11-2024 05:02:01]	INFO	Running scripts has been stopped.
+[17-11-2024 05:02:01]	INFO	Saved boss zones data.
+[17-11-2024 05:02:01]	INFO	ZoneManager has been saved.
+[17-11-2024 05:02:01]	INFO	GrandBossManager has been saved.
+[17-11-2024 05:02:01]	INFO	SpawnManager has been saved.
+[17-11-2024 05:02:01]	INFO	Olympiad has been saved.
+[17-11-2024 05:02:01]	INFO	HeroManager has been saved.
+[17-11-2024 05:02:01]	INFO	CastleManorManager has been saved.
+[17-11-2024 05:02:01]	INFO	FishingChampionshipManager has been saved.
+[17-11-2024 05:02:02]	INFO	BufferManager has been saved.
+[17-11-2024 05:02:02]	INFO	PetitionManager has been saved.
+[17-11-2024 05:02:02]	INFO	ClanHallManager has been saved.
+[17-11-2024 05:02:02]	INFO	CoupleManager has been saved.
+[17-11-2024 05:02:02]	INFO	No items on ground to save.
+[17-11-2024 05:02:02]	INFO	ItemsOnGroundTaskManager has been saved.

@@ -1,198 +1,1623 @@
-[23-10-2024 13:04:29]	INFO	-----------------------------------------------=[ Config ]
-[23-10-2024 13:04:29]	INFO	Loading gameserver configuration files.
-[23-10-2024 13:04:29]	INFO	Loaded 1155 Filter Words.
-[23-10-2024 13:04:29]	INFO	Loaded 46 classes Damages configurations
-[23-10-2024 13:04:29]	INFO	Loaded 31 Olympiad Damages configurations
-[23-10-2024 13:04:29]	INFO	Loading auto farm configuration files.
-[23-10-2024 13:04:29]	INFO	----------------------------------------------=[ Poolers ]
-[23-10-2024 13:04:29]	INFO	Initializing ConnectionPool.
-[23-10-2024 13:04:29]	INFO	Initializing ThreadPool.
-[23-10-2024 13:04:29]	INFO	--------------------------------------------=[ IdFactory ]
-[23-10-2024 13:04:30]	INFO	Updated characters online status.
-[23-10-2024 13:04:30]	INFO	Cleaned 0 elements from database.
-[23-10-2024 13:04:30]	INFO	Cleaned 0 expired timestamps from database.
-[23-10-2024 13:04:30]	INFO	Initializing 102912 objectIds pool, with 940 used ids.
-[23-10-2024 13:04:30]	INFO	------------------------------------------------=[ Cache ]
-[23-10-2024 13:04:30]	INFO	Loaded 42 crests.
-[23-10-2024 13:04:30]	INFO	------------------------------------------------=[ World ]
-[23-10-2024 13:04:30]	INFO	World grid (176 by 256) is now set up.
-[23-10-2024 13:04:30]	INFO	Loaded regions.
-[23-10-2024 13:04:30]	INFO	Loaded 5 announcements.
-[23-10-2024 13:04:30]	INFO	Loaded 1 server variables.
-[23-10-2024 13:04:30]	INFO	-----------------------------------------------=[ Skills ]
-[23-10-2024 13:04:31]	INFO	SkillTable: Loaded 29813 skills.
-[23-10-2024 13:04:31]	INFO	Loaded 117 fishing skills.
-[23-10-2024 13:04:31]	INFO	Loaded 64 clan skills.
-[23-10-2024 13:04:31]	INFO	Loaded 14550 enchant skills.
-[23-10-2024 13:04:31]	INFO	------------------------------------------------=[ Items ]
-[23-10-2024 13:04:32]	INFO	Loaded items.
-[23-10-2024 13:04:32]	INFO	Loaded 29 summon items.
-[23-10-2024 13:04:32]	INFO	Loaded 180 hennas.
-[23-10-2024 13:04:32]	INFO	Loaded 689 buyLists.
-[23-10-2024 13:04:32]	INFO	Loaded 158 multisell.
-[23-10-2024 13:04:32]	INFO	Loaded 871 recipes.
-[23-10-2024 13:04:32]	INFO	Loaded 60 armor sets.
-[23-10-2024 13:04:32]	INFO	Loaded 270 fish.
-[23-10-2024 13:04:32]	INFO	Loaded 334 spellbooks.
-[23-10-2024 13:04:32]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[23-10-2024 13:04:32]	INFO	Loaded 4 sets of augmentation stats.
-[23-10-2024 13:04:32]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[23-10-2024 13:04:32]	INFO	Loaded 2 cursed weapons.
-[23-10-2024 13:04:32]	INFO	Loaded 334 skipping item(s).
-[23-10-2024 13:04:32]	INFO	-----------------------------------------------=[ Admins ]
-[23-10-2024 13:04:32]	INFO	Loaded 10 access levels.
-[23-10-2024 13:04:32]	INFO	Loaded 154 admin command rights.
-[23-10-2024 13:04:32]	INFO	Loaded 0 bookmarks.
-[23-10-2024 13:04:32]	INFO	Loaded 0 petitions.
-[23-10-2024 13:04:32]	INFO	-------------------------------------------=[ Characters ]
-[23-10-2024 13:04:32]	INFO	Loaded 89 player classes templates.
-[23-10-2024 13:04:32]	INFO	Loaded 21 player infos.
-[23-10-2024 13:04:32]	INFO	Loaded 81 player levels.
-[23-10-2024 13:04:32]	INFO	Loaded 10 RaidPoints entries.
-[23-10-2024 13:04:32]	INFO	Loaded 29 healSps entries.
-[23-10-2024 13:04:32]	INFO	-------------------------------------=[ Community server ]
-[23-10-2024 13:04:32]	INFO	Loaded 56 forums.
-[23-10-2024 13:04:32]	INFO	Loaded 18 command mappings.
-[23-10-2024 13:04:32]	INFO	------------------------------------------------=[ Clans ]
-[23-10-2024 13:04:32]	INFO	Loaded 5 clans.
-[23-10-2024 13:04:32]	INFO	--------------------------------=[ Geodata & Pathfinding ]
-[23-10-2024 13:04:34]	INFO	Loaded 139 L2J region files.
-[23-10-2024 13:04:34]	INFO	Loaded 31 node buffers.
-[23-10-2024 13:04:34]	INFO	------------------------------------------------=[ Zones ]
-[23-10-2024 13:04:37]	INFO	Loaded 27 zones classes and total 1096 zones.
-[23-10-2024 13:04:37]	INFO	---------------------------------=[ Castles & Clan Halls ]
-[23-10-2024 13:04:37]	INFO	Loaded 9 castles.
-[23-10-2024 13:04:37]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
-[23-10-2024 13:04:37]	INFO	----------------------------------------=[ Task Managers ]
-[23-10-2024 13:04:37]	INFO	Restored 0 items on ground.
-[23-10-2024 13:04:37]	INFO	------------------------------------------=[ Seven Signs ]
-[23-10-2024 13:04:37]	INFO	Currently on Seal Validation period.
-[23-10-2024 13:04:37]	INFO	The Seal of Gnosis remains unclaimed.
-[23-10-2024 13:04:37]	INFO	The Seal of Strife remains unclaimed.
-[23-10-2024 13:04:37]	INFO	The Seal of Avarice remains unclaimed.
-[23-10-2024 13:04:37]	INFO	Next Seven Signs period change set to Mon Oct 28 18:00:00 BRT 2024.
-[23-10-2024 13:04:37]	INFO	Next Seven Signs period begins in 5 days, 4 hours and 55 mins.
-[23-10-2024 13:04:37]	INFO	Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
-[23-10-2024 13:04:37]	INFO	----------------------------------------=[ Manor Manager ]
-[23-10-2024 13:04:37]	INFO	Loaded 121 manor areas.
-[23-10-2024 13:04:37]	INFO	Loaded 247 seeds.
-[23-10-2024 13:04:37]	INFO	-------------------------------------------------=[ NPCs ]
-[23-10-2024 13:04:37]	INFO	Loaded 67 available buffs.
-[23-10-2024 13:04:37]	INFO	Loaded 0 ready to use schemes.
-[23-10-2024 13:04:38]	INFO	Loaded 6532 NPC templates.
-[23-10-2024 13:04:38]	INFO	Loaded 16 walking routes.
-[23-10-2024 13:04:38]	INFO	Loaded 547 doors templates.
-[23-10-2024 13:04:38]	INFO	Loaded 6 Tournament Arenas.
-[23-10-2024 13:04:38]	INFO	[Tournament]: Next Event time: Wed Oct 23 15:00:00 BRT 2024
-[23-10-2024 13:04:38]	INFO	Loaded 29 static objects.
-[23-10-2024 13:04:38]	INFO	Loaded 199 spawn data.
-[23-10-2024 13:04:40]	INFO	Loaded 11628 territories.
-[23-10-2024 13:04:40]	INFO	Loaded 12030 NPC makers.
-[23-10-2024 13:04:40]	INFO	Loaded 11 GrandBosses instances.
-[23-10-2024 13:04:40]	INFO	Loaded 7 Dimensional Rift rooms.
-[23-10-2024 13:04:40]	INFO	Loaded 14 newbie buffs.
-[23-10-2024 13:04:40]	INFO	Loaded 72 instant teleport positions.
-[23-10-2024 13:04:40]	INFO	Loaded 117 teleport positions.
-[23-10-2024 13:04:40]	INFO	Loaded 793 teleport locations.
-[23-10-2024 13:04:40]	INFO	Loaded 13 observer groups and 25 spawns.
-[23-10-2024 13:04:40]	INFO	Loaded 30 Raid boss info instances.
-[23-10-2024 13:04:40]	INFO	-----------------------------------=[ Olympiads & Heroes ]
-[23-10-2024 13:04:40]	INFO	Loaded 22 stadiums.
-[23-10-2024 13:04:40]	INFO	7135 minutes until Olympiad period ends.
-[23-10-2024 13:04:40]	INFO	Next weekly Olympiad change is in 8529 minutes.
-[23-10-2024 13:04:40]	INFO	Loaded 0 nobles.
-[23-10-2024 13:04:40]	INFO	Olympiad competition period starts in 0 days, 6 hours and 55 mins.
-[23-10-2024 13:04:40]	INFO	Olympiad event starts/started @ Wed Oct 23 20:00:00 BRT 2024.
-[23-10-2024 13:04:40]	INFO	Loaded 0 heroes and 0 all time heroes.
-[23-10-2024 13:04:40]	INFO	-------------------------------------=[ Quests & Scripts ]
-[23-10-2024 13:04:41]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
-[23-10-2024 13:04:41]	INFO	Updated Sailren (id: 49999) status to 0.
-[23-10-2024 13:04:41]	INFO	Spawned 11 "start_weapon" NPCs.
-[23-10-2024 13:04:41]	INFO	Bandit Stronghold siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Devastated Castle siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Fortress of Resistance siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Fortress of the Dead siege scheduled for Tue Oct 29 20:01:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Rainbow Springs Chateau siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Wild Beast Reserve siege scheduled for Tue Oct 29 20:00:00 BRT 2024.
-[23-10-2024 13:04:41]	INFO	Loaded 419 regular scripts and 6 scheduled scripts.
-[23-10-2024 13:04:41]	INFO	-----------------------------------------------=[ Events ]
-[23-10-2024 13:04:41]	INFO	Loaded 8739 Derby Track records, currently on race #8740.
-[23-10-2024 13:04:41]	INFO	Loaded 0 couples.
-[23-10-2024 13:04:41]	INFO	OfflineTradersTable: loaded 0 offline traders.
-[23-10-2024 13:04:41]	INFO	Capture The Flag Engine: is disabled.
-[23-10-2024 13:04:41]	INFO	Deathmatch Engine: Engine is disabled.
-[23-10-2024 13:04:41]	INFO	Last Man Engine: Engine is disabled.
-[23-10-2024 13:04:41]	INFO	Team vs Team Engine: is Started.
-[23-10-2024 13:04:41]	INFO	-----------------------------------------------=[ Spawns ]
-[23-10-2024 13:04:41]	INFO	AntiBotTask started.
-[23-10-2024 13:04:41]	INFO	Updated Core (id: 29006) status to 0.
-[23-10-2024 13:04:41]	INFO	Updated Queen Ant (id: 29001) status to 0.
-[23-10-2024 13:04:42]	INFO	Updated Orfen (id: 29014) status to 0.
-[23-10-2024 13:04:43]	INFO	Updated Zaken (id: 29022) status to 0.
-[23-10-2024 13:04:44]	INFO	Spawned 44935 NPCs.
-[23-10-2024 13:04:44]	INFO	Spawned 688 day NPCs, despawned 0 night NPCs.
-[23-10-2024 13:04:44]	INFO	Spawned 2148 Seven Signs - Seal of Avarice NPCs, winning cabal none.
-[23-10-2024 13:04:44]	INFO	Spawned 1779 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
-[23-10-2024 13:04:44]	INFO	---------------------------------------------=[ Handlers ]
-[23-10-2024 13:04:44]	INFO	Loaded 151 admin command handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 13 chat handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 29 item handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 74 skill handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 25 target handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 16 user command handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 41 voiced command handlers.
-[23-10-2024 13:04:44]	INFO	Loaded 16 bypass command handlers.
-[23-10-2024 13:04:44]	INFO	-------------------------------------------=[ L2JBrazuca ]
-[23-10-2024 13:04:44]	INFO	Auto Restart is enabled.
-[23-10-2024 13:04:44]	INFO	Custom Starter Items is enabled.
-[23-10-2024 13:04:44]	INFO	Custom Spawn Char is enabled.
-[23-10-2024 13:04:44]	INFO	Custom Title Char Start is enabled.
-[23-10-2024 13:04:44]	INFO	Custom Level Char Start is enabled.
-[23-10-2024 13:04:44]	INFO	Bs limit in party is enabled.
-[23-10-2024 13:04:44]	INFO	Party Farm is disabled.
-[23-10-2024 13:04:44]	INFO	AutoFarm task started.
-[23-10-2024 13:04:44]	INFO	Agathions tasks started.
-[23-10-2024 13:04:44]	INFO	RaidBossReturnTask started.
-[23-10-2024 13:04:44]	INFO	PixMsgTask started.
-[23-10-2024 13:04:44]	INFO	Loaded 41 Roulette rewards.
-[23-10-2024 13:04:44]	INFO	StatusRealTimeTask started.
-[23-10-2024 13:04:44]	INFO	Loaded 2 Skills Sellers.
-[23-10-2024 13:04:44]	INFO	Loaded 1 Territory Wars.
-[23-10-2024 13:04:44]	WARNING	Next schedule for Territory Primveal Isle: 18:00
-[23-10-2024 13:04:44]	INFO	Territory Wars Update Clan Task started.
-[23-10-2024 13:04:44]	INFO	Loaded 4 Treasure Hunts.
-[23-10-2024 13:04:44]	INFO	Loaded 4 Treasure Hunts Weapons.
-[23-10-2024 13:04:44]	INFO	Treasure Hunt Task started.
-[23-10-2024 13:04:44]	INFO	FlagZoneController task started.
-[23-10-2024 13:04:44]	INFO	Loaded 34 Armor exchanges.
-[23-10-2024 13:04:44]	INFO	Loaded 13 Epic Boss Configs.
-[23-10-2024 13:04:44]	INFO	Castle Buff Task started.
-[23-10-2024 13:04:44]	INFO	------------------------------------------=[ VDS Manager ]
-[23-10-2024 13:04:44]	INFO	Initializing Threads.
-[23-10-2024 13:04:44]	INFO	Configurations: VDSystem settings loaded.
-[23-10-2024 13:04:44]	INFO	VDSystem: System initialized.
-[23-10-2024 13:04:44]	INFO	AchievementsTask started.
-[23-10-2024 13:04:44]	INFO	AuctionTable: Loaded 2 items.
-[23-10-2024 13:04:44]	INFO	-----------------------------------------------=[ System ]
-[23-10-2024 13:04:44]	INFO	Deadlock detector is disabled.
-[23-10-2024 13:04:44]	INFO	Gameserver has started, used memory: 1592 / 6144 Mo.
-[23-10-2024 13:04:44]	INFO	Maximum allowed players: 1000.
-[23-10-2024 13:04:44]	INFO	Server loaded in 15 seconds
-[23-10-2024 13:04:44]	INFO	-----------------------------------------=[ Hwid Manager ]
-[23-10-2024 13:04:44]	INFO	Loaded 0 banned(s) HWID(s)
-[23-10-2024 13:04:44]	INFO	Loaded 15 player(s) HWID(s)
-[23-10-2024 13:04:44]	INFO	Loaded HWID KEY RUSaCis Project
-[23-10-2024 13:04:44]	INFO	Loaded HWID IP *
-[23-10-2024 13:04:44]	INFO	Loaded Anti Leech key...assigned 
-[23-10-2024 13:04:44]	INFO	Loaded Restriction Leech...assigned 
-[23-10-2024 13:04:44]	INFO	Loaded Licensed to Max Players : 1000
-[23-10-2024 13:04:44]	INFO	------------------------------------------------=[ Login ]
-[23-10-2024 13:04:44]	INFO	Connecting to login on auth.l2feel.net:9014.
-[23-10-2024 13:04:44]	INFO	Registered as server: [1] Feel.
-[23-10-2024 13:04:57]	WARNING	HWID: [IP: 177.128.104.225] is trying to loggin server without client side hwid.
-[23-10-2024 13:05:01]	INFO	HWID: [9C6B002B444F], character: [HighLander]
-[23-10-2024 13:05:01]	INFO	Achievements: Successfully loaded: 7 achievements from XML.
-[23-10-2024 13:05:41]	INFO	Updated Sailren (id: 49999) status to 1.
-[23-10-2024 13:05:45]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 1.
-[23-10-2024 13:05:45]	WARNING	Flame Splendor Barakiel was killed! Respawn: (out. 24, 02:05)
-[23-10-2024 13:08:14]	INFO	Loaded 6532 NPC templates.
+[17-11-2024 05:02:08]	INFO	-----------------------------------------------=[ Config ]
+[17-11-2024 05:02:08]	INFO	Loading gameserver configuration files.
+[17-11-2024 05:02:08]	INFO	Loaded 1155 Filter Words.
+[17-11-2024 05:02:08]	INFO	Loaded 46 classes Damages configurations
+[17-11-2024 05:02:08]	INFO	Loaded 31 Olympiad Damages configurations
+[17-11-2024 05:02:08]	INFO	Loading auto farm configuration files.
+[17-11-2024 05:02:08]	INFO	----------------------------------------------=[ Poolers ]
+[17-11-2024 05:02:08]	INFO	Initializing ConnectionPool.
+[17-11-2024 05:02:08]	INFO	Initializing ThreadPool.
+[17-11-2024 05:02:08]	INFO	--------------------------------------------=[ IdFactory ]
+[17-11-2024 05:02:09]	INFO	Updated characters online status.
+[17-11-2024 05:02:10]	INFO	Cleaned 0 elements from database.
+[17-11-2024 05:02:10]	INFO	Cleaned 113 expired timestamps from database.
+[17-11-2024 05:02:10]	INFO	Initializing 3293184 objectIds pool, with 81612 used ids.
+[17-11-2024 05:02:10]	INFO	------------------------------------------------=[ Cache ]
+[17-11-2024 05:02:10]	INFO	Loaded 99 crests.
+[17-11-2024 05:02:10]	INFO	------------------------------------------------=[ World ]
+[17-11-2024 05:02:10]	INFO	World grid (176 by 256) is now set up.
+[17-11-2024 05:02:10]	INFO	Loaded regions.
+[17-11-2024 05:02:10]	INFO	Loaded 6 announcements.
+[17-11-2024 05:02:10]	INFO	Loaded 1 server variables.
+[17-11-2024 05:02:10]	INFO	-----------------------------------------------=[ Skills ]
+[17-11-2024 05:02:11]	INFO	SkillTable: Loaded 29813 skills.
+[17-11-2024 05:02:11]	INFO	Loaded 117 fishing skills.
+[17-11-2024 05:02:11]	INFO	Loaded 64 clan skills.
+[17-11-2024 05:02:11]	INFO	Loaded 14550 enchant skills.
+[17-11-2024 05:02:11]	INFO	------------------------------------------------=[ Items ]
+[17-11-2024 05:02:12]	INFO	Loaded items.
+[17-11-2024 05:02:12]	INFO	Loaded 29 summon items.
+[17-11-2024 05:02:12]	INFO	Loaded 180 hennas.
+[17-11-2024 05:02:12]	INFO	Loaded 689 buyLists.
+[17-11-2024 05:02:12]	INFO	Loaded 159 multisell.
+[17-11-2024 05:02:12]	INFO	Loaded 871 recipes.
+[17-11-2024 05:02:12]	INFO	Loaded 60 armor sets.
+[17-11-2024 05:02:12]	INFO	Loaded 270 fish.
+[17-11-2024 05:02:12]	INFO	Loaded 334 spellbooks.
+[17-11-2024 05:02:12]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[17-11-2024 05:02:12]	INFO	Loaded 4 sets of augmentation stats.
+[17-11-2024 05:02:12]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[17-11-2024 05:02:12]	INFO	Loaded 2 cursed weapons.
+[17-11-2024 05:02:12]	INFO	Loaded 334 skipping item(s).
+[17-11-2024 05:02:12]	INFO	-----------------------------------------------=[ Admins ]
+[17-11-2024 05:02:12]	INFO	Loaded 10 access levels.
+[17-11-2024 05:02:12]	INFO	Loaded 154 admin command rights.
+[17-11-2024 05:02:12]	INFO	Loaded 0 bookmarks.
+[17-11-2024 05:02:12]	INFO	Loaded 1 petitions.
+[17-11-2024 05:02:12]	INFO	-------------------------------------------=[ Characters ]
+[17-11-2024 05:02:12]	INFO	Loaded 89 player classes templates.
+[17-11-2024 05:02:12]	INFO	Loaded 1727 player infos.
+[17-11-2024 05:02:12]	INFO	Loaded 81 player levels.
+[17-11-2024 05:02:12]	INFO	Loaded 373 RaidPoints entries.
+[17-11-2024 05:02:12]	INFO	Loaded 29 healSps entries.
+[17-11-2024 05:02:12]	INFO	-------------------------------------=[ Community server ]
+[17-11-2024 05:02:12]	INFO	Loaded 310 forums.
+[17-11-2024 05:02:12]	INFO	Loaded 18 command mappings.
+[17-11-2024 05:02:12]	INFO	------------------------------------------------=[ Clans ]
+[17-11-2024 05:02:14]	INFO	Loaded 74 clans.
+[17-11-2024 05:02:14]	INFO	--------------------------------=[ Geodata & Pathfinding ]
+[17-11-2024 05:02:15]	INFO	Loaded 93 L2J region files.
+[17-11-2024 05:02:15]	INFO	Loaded 28 node buffers.
+[17-11-2024 05:02:15]	INFO	------------------------------------------------=[ Zones ]
+[17-11-2024 05:02:19]	INFO	Loaded 27 zones classes and total 1097 zones.
+[17-11-2024 05:02:19]	INFO	---------------------------------=[ Castles & Clan Halls ]
+[17-11-2024 05:02:19]	INFO	Loaded 9 castles.
+[17-11-2024 05:02:20]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
+[17-11-2024 05:02:20]	INFO	----------------------------------------=[ Task Managers ]
+[17-11-2024 05:02:20]	INFO	Restored 0 items on ground.
+[17-11-2024 05:02:20]	INFO	------------------------------------------=[ Seven Signs ]
+[17-11-2024 05:02:20]	INFO	Currently on Competition (Quest Event) period.
+[17-11-2024 05:02:20]	INFO	The Seal of Gnosis remains unclaimed.
+[17-11-2024 05:02:20]	INFO	The Seal of Strife remains unclaimed.
+[17-11-2024 05:02:20]	INFO	The Seal of Avarice remains unclaimed.
+[17-11-2024 05:02:20]	INFO	Next Seven Signs period change set to Mon Nov 18 18:00:00 BRT 2024.
+[17-11-2024 05:02:20]	INFO	Next Seven Signs period begins in 1 days, 12 hours and 57 mins.
+[17-11-2024 05:02:20]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
+[17-11-2024 05:02:20]	INFO	----------------------------------------=[ Manor Manager ]
+[17-11-2024 05:02:20]	INFO	Loaded 121 manor areas.
+[17-11-2024 05:02:20]	INFO	Loaded 247 seeds.
+[17-11-2024 05:02:20]	INFO	-------------------------------------------------=[ NPCs ]
+[17-11-2024 05:02:20]	INFO	Loaded 68 available buffs.
+[17-11-2024 05:02:20]	INFO	Loaded 0 ready to use schemes.
+[17-11-2024 05:02:20]	INFO	Loaded 6532 NPC templates.
+[17-11-2024 05:02:20]	INFO	Loaded 16 walking routes.
+[17-11-2024 05:02:21]	INFO	Loaded 547 doors templates.
+[17-11-2024 05:02:21]	INFO	Loaded 6 Tournament Arenas.
+[17-11-2024 05:02:21]	INFO	[Tournament]: Next Event time: Sun Nov 17 09:00:00 BRT 2024
+[17-11-2024 05:02:21]	INFO	Loaded 29 static objects.
+[17-11-2024 05:02:21]	INFO	Loaded 199 spawn data.
+[17-11-2024 05:02:25]	INFO	Loaded 13239 territories.
+[17-11-2024 05:02:25]	INFO	Loaded 13641 NPC makers.
+[17-11-2024 05:02:25]	INFO	Loaded 11 GrandBosses instances.
+[17-11-2024 05:02:25]	INFO	Loaded 7 Dimensional Rift rooms.
+[17-11-2024 05:02:25]	INFO	Loaded 14 newbie buffs.
+[17-11-2024 05:02:25]	INFO	Loaded 72 instant teleport positions.
+[17-11-2024 05:02:25]	INFO	Loaded 117 teleport positions.
+[17-11-2024 05:02:25]	INFO	Loaded 795 teleport locations.
+[17-11-2024 05:02:25]	INFO	Loaded 13 observer groups and 25 spawns.
+[17-11-2024 05:02:25]	INFO	Loaded 30 Raid boss info instances.
+[17-11-2024 05:02:25]	INFO	-----------------------------------=[ Olympiads & Heroes ]
+[17-11-2024 05:02:26]	INFO	Loaded 22 stadiums.
+[17-11-2024 05:02:26]	INFO	7617 minutes until Olympiad period ends.
+[17-11-2024 05:02:26]	INFO	Next weekly Olympiad change is in 4017 minutes.
+[17-11-2024 05:02:26]	INFO	Loaded 27 nobles.
+[17-11-2024 05:02:26]	INFO	Olympiad competition period starts in 0 days, 14 hours and 57 mins.
+[17-11-2024 05:02:26]	INFO	Olympiad event starts/started @ Sun Nov 17 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: High.
+[17-11-2024 05:02:26]	INFO	Loaded 838 diary entries for hero: High.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: WANTED.
+[17-11-2024 05:02:26]	INFO	Loaded 68 diary entries for hero: WANTED.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: BiziBizi.
+[17-11-2024 05:02:26]	INFO	Loaded 39 diary entries for hero: BiziBizi.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: XerecO.
+[17-11-2024 05:02:26]	INFO	Loaded 75 diary entries for hero: XerecO.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: QUEEN.
+[17-11-2024 05:02:26]	INFO	Loaded 2 diary entries for hero: QUEEN.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: LN.
+[17-11-2024 05:02:26]	INFO	Loaded 2 diary entries for hero: LN.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Allan.
+[17-11-2024 05:02:26]	INFO	Loaded 929 diary entries for hero: Allan.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: SAKURA.
+[17-11-2024 05:02:26]	INFO	Loaded 74 diary entries for hero: SAKURA.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Vando.
+[17-11-2024 05:02:26]	INFO	Loaded 48 diary entries for hero: Vando.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Shurupita.
+[17-11-2024 05:02:26]	INFO	Loaded 15 diary entries for hero: Shurupita.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: VPN.
+[17-11-2024 05:02:26]	INFO	Loaded 2 diary entries for hero: VPN.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: AllanVieira.
+[17-11-2024 05:02:26]	INFO	Loaded 119 diary entries for hero: AllanVieira.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: LolyPoP.
+[17-11-2024 05:02:26]	INFO	Loaded 28 diary entries for hero: LolyPoP.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Pipizinho.
+[17-11-2024 05:02:26]	INFO	Loaded 59 diary entries for hero: Pipizinho.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: TH3xL0RDxMG.
+[17-11-2024 05:02:26]	INFO	Loaded 18 diary entries for hero: TH3xL0RDxMG.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: KeeeP.
+[17-11-2024 05:02:26]	INFO	Loaded 28 diary entries for hero: KeeeP.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: OverDeVagabundo.
+[17-11-2024 05:02:26]	INFO	Loaded 6 diary entries for hero: OverDeVagabundo.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: BlackPanther.
+[17-11-2024 05:02:26]	INFO	Loaded 18 diary entries for hero: BlackPanther.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Macc.
+[17-11-2024 05:02:26]	INFO	Loaded 46 diary entries for hero: Macc.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: 4P0LL0.
+[17-11-2024 05:02:26]	INFO	Loaded 76 diary entries for hero: 4P0LL0.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Poppy.
+[17-11-2024 05:02:26]	INFO	Loaded 2 diary entries for hero: Poppy.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: acerNitro.
+[17-11-2024 05:02:26]	INFO	Loaded 18 diary entries for hero: acerNitro.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Kimmy.
+[17-11-2024 05:02:26]	INFO	Loaded 40 diary entries for hero: Kimmy.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: LW.
+[17-11-2024 05:02:26]	INFO	Loaded 19 diary entries for hero: LW.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Petter.
+[17-11-2024 05:02:26]	INFO	Loaded 19 diary entries for hero: Petter.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: Sought.
+[17-11-2024 05:02:26]	INFO	Loaded 6 diary entries for hero: Sought.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: xSobrenaturaL.
+[17-11-2024 05:02:26]	INFO	Loaded 12 diary entries for hero: xSobrenaturaL.
+[17-11-2024 05:02:26]	INFO	Loaded 0 fights for: V.
+[17-11-2024 05:02:26]	INFO	Loaded 18 diary entries for hero: V.
+[17-11-2024 05:02:26]	INFO	Loaded 28 heroes and 38 all time heroes.
+[17-11-2024 05:02:26]	INFO	-------------------------------------=[ Quests & Scripts ]
+[17-11-2024 05:02:26]	INFO	Spawned 11 "start_weapon" NPCs.
+[17-11-2024 05:02:26]	INFO	Bandit Stronghold siege scheduled for Tue Nov 26 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Devastated Castle siege scheduled for Tue Nov 26 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Fortress of Resistance siege scheduled for Tue Nov 26 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Fortress of the Dead siege scheduled for Tue Nov 26 20:01:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Rainbow Springs Chateau siege scheduled for Tue Nov 26 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Wild Beast Reserve siege scheduled for Tue Nov 26 20:00:00 BRT 2024.
+[17-11-2024 05:02:26]	INFO	Loaded 419 regular scripts and 6 scheduled scripts.
+[17-11-2024 05:02:26]	INFO	-----------------------------------------------=[ Events ]
+[17-11-2024 05:02:26]	INFO	Loaded 10465 Derby Track records, currently on race #10466.
+[17-11-2024 05:02:26]	INFO	Loaded 0 couples.
+[17-11-2024 05:02:27]	INFO	OfflineTradersTable: loaded 4 offline traders.
+[17-11-2024 05:02:27]	INFO	Capture The Flag Engine: is disabled.
+[17-11-2024 05:02:27]	INFO	Deathmatch Engine: Engine is disabled.
+[17-11-2024 05:02:27]	INFO	Last Man Engine: Engine is disabled.
+[17-11-2024 05:02:27]	INFO	Team vs Team Engine: is Started.
+[17-11-2024 05:02:27]	INFO	-----------------------------------------------=[ Spawns ]
+[17-11-2024 05:02:27]	INFO	AntiBotTask started.
+[17-11-2024 05:02:27]	WARNING	Varka's Commnder Mos was killed! Respawn: (nov. 17, 05:15)
+[17-11-2024 05:02:27]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 07:18)
+[17-11-2024 05:02:27]	WARNING	Ketra's Commander Tayr was killed! Respawn: (nov. 17, 06:12)
+[17-11-2024 05:02:27]	WARNING	Queen Ant was killed! Respawn: (nov. 17, 22:15)
+[17-11-2024 05:02:27]	WARNING	Hallate The Death Lord was killed! Respawn: (nov. 17, 11:10)
+[17-11-2024 05:02:27]	WARNING	Palatanos of Horrific Power was killed! Respawn: (nov. 17, 12:18)
+[17-11-2024 05:02:27]	WARNING	Kernon was killed! Respawn: (nov. 17, 06:52)
+[17-11-2024 05:02:27]	WARNING	Shuriel Fire Of Wrath was killed! Respawn: (nov. 17, 14:58)
+[17-11-2024 05:02:27]	WARNING	Queen Shyeed was killed! Respawn: (nov. 17, 09:10)
+[17-11-2024 05:02:28]	WARNING	Core was killed! Respawn: (nov. 17, 21:15)
+[17-11-2024 05:02:28]	WARNING	Ember was killed! Respawn: (nov. 17, 12:54)
+[17-11-2024 05:02:28]	WARNING	Krokian Padisha Sobekk was killed! Respawn: (nov. 17, 07:01)
+[17-11-2024 05:02:28]	WARNING	Shax The Death Lord was killed! Respawn: (nov. 17, 09:56)
+[17-11-2024 05:02:28]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 06:29)
+[17-11-2024 05:02:28]	WARNING	Uruka was killed! Respawn: (nov. 17, 09:48)
+[17-11-2024 05:02:29]	WARNING	Fafurion's Herald Lokness was killed! Respawn: (nov. 17, 13:35)
+[17-11-2024 05:02:29]	WARNING	Varka's Hero Shadith was killed! Respawn: (nov. 17, 05:29)
+[17-11-2024 05:02:29]	WARNING	Golkonda Longhorn was killed! Respawn: (nov. 17, 11:15)
+[17-11-2024 05:02:29]	WARNING	Zaken was killed! Respawn: (nov. 17, 19:30)
+[17-11-2024 05:02:29]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 17, 07:38)
+[17-11-2024 05:02:29]	WARNING	Last Lesser Olkuth was killed! Respawn: (nov. 17, 13:25)
+[17-11-2024 05:02:29]	WARNING	Orfen was killed! Respawn: (nov. 17, 20:15)
+[17-11-2024 05:02:29]	WARNING	Last Lesser Glaki was killed! Respawn: (nov. 17, 11:36)
+[17-11-2024 05:02:29]	WARNING	Storm Winged Naga was killed! Respawn: (nov. 17, 10:53)
+[17-11-2024 05:02:29]	WARNING	Bloody Empress Decarbia was killed! Respawn: (nov. 17, 12:26)
+[17-11-2024 05:02:30]	WARNING	Hestia Guardian Deity of the Hot Springs was killed! Respawn: (nov. 17, 19:29)
+[17-11-2024 05:02:30]	WARNING	Baylor was killed! Respawn: (nov. 17, 07:20)
+[17-11-2024 05:02:30]	WARNING	Ipos The Death Lord was killed! Respawn: (nov. 17, 13:09)
+[17-11-2024 05:02:30]	WARNING	Water Dragon Seer Sheshark was killed! Respawn: (nov. 17, 07:42)
+[17-11-2024 05:02:30]	WARNING	Ocean Flame Ashakiel was killed! Respawn: (nov. 17, 09:23)
+[17-11-2024 05:02:30]	WARNING	Flamestone Giant was killed! Respawn: (nov. 17, 12:15)
+[17-11-2024 05:02:30]	INFO	Spawned 46515 NPCs.
+[17-11-2024 05:02:30]	INFO	Spawned 688 day NPCs, despawned 0 night NPCs.
+[17-11-2024 05:02:30]	INFO	Spawned 3918 Seven Signs - Event NPCs.
+[17-11-2024 05:02:30]	INFO	---------------------------------------------=[ Handlers ]
+[17-11-2024 05:02:30]	INFO	Loaded 153 admin command handlers.
+[17-11-2024 05:02:30]	INFO	Loaded 13 chat handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 29 item handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 74 skill handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 25 target handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 16 user command handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 41 voiced command handlers.
+[17-11-2024 05:02:31]	INFO	Loaded 16 bypass command handlers.
+[17-11-2024 05:02:31]	INFO	-------------------------------------------=[ L2JBrazuca ]
+[17-11-2024 05:02:31]	INFO	Auto Restart is enabled.
+[17-11-2024 05:02:31]	INFO	Custom Starter Items is enabled.
+[17-11-2024 05:02:31]	INFO	Custom Spawn Char is enabled.
+[17-11-2024 05:02:31]	INFO	Custom Title Char Start is enabled.
+[17-11-2024 05:02:31]	INFO	Custom Level Char Start is enabled.
+[17-11-2024 05:02:31]	INFO	Bs limit in party is enabled.
+[17-11-2024 05:02:31]	INFO	Party Farm is disabled.
+[17-11-2024 05:02:31]	INFO	AutoFarm task started.
+[17-11-2024 05:02:31]	INFO	Agathions tasks started.
+[17-11-2024 05:02:31]	INFO	RaidBossReturnTask started.
+[17-11-2024 05:02:31]	INFO	PixMsgTask started.
+[17-11-2024 05:02:31]	INFO	Loaded 48 Roulette rewards.
+[17-11-2024 05:02:31]	INFO	StatusRealTimeTask started.
+[17-11-2024 05:02:31]	INFO	Loaded 2 Skills Sellers.
+[17-11-2024 05:02:31]	INFO	Loaded 2 Territory Wars.
+[17-11-2024 05:02:31]	WARNING	Next schedule for Territory Primveal Isle: 09:30
+[17-11-2024 05:02:31]	WARNING	Next schedule for Territory Field of Silence: 10:35
+[17-11-2024 05:02:31]	INFO	Territory Wars Update Clan Task started.
+[17-11-2024 05:02:31]	INFO	Loaded 4 Treasure Hunts.
+[17-11-2024 05:02:31]	INFO	Loaded 4 Treasure Hunts Weapons.
+[17-11-2024 05:02:31]	INFO	Treasure Hunt Task started.
+[17-11-2024 05:02:31]	INFO	FlagZoneController task started.
+[17-11-2024 05:02:31]	INFO	Loaded 34 Armor exchanges.
+[17-11-2024 05:02:31]	INFO	Loaded 13 Epic Boss Configs.
+[17-11-2024 05:02:31]	INFO	Castle Buff Task started.
+[17-11-2024 05:02:31]	INFO	------------------------------------------=[ VDS Manager ]
+[17-11-2024 05:02:31]	INFO	Initializing Threads.
+[17-11-2024 05:02:31]	INFO	Configurations: VDSystem settings loaded.
+[17-11-2024 05:02:31]	INFO	VDSystem: System initialized.
+[17-11-2024 05:02:31]	INFO	AchievementsTask started.
+[17-11-2024 05:02:31]	INFO	AuctionTable: Loaded 170 items.
+[17-11-2024 05:02:31]	INFO	-----------------------------------------------=[ System ]
+[17-11-2024 05:02:31]	INFO	Deadlock detector is disabled.
+[17-11-2024 05:02:31]	INFO	Gameserver has started, used memory: 1427 / 6144 Mo.
+[17-11-2024 05:02:31]	INFO	Maximum allowed players: 1000.
+[17-11-2024 05:02:31]	INFO	Server loaded in 22 seconds
+[17-11-2024 05:02:31]	INFO	-----------------------------------------=[ Hwid Manager ]
+[17-11-2024 05:02:31]	INFO	Loaded 0 banned(s) HWID(s)
+[17-11-2024 05:02:31]	INFO	Loaded 1865 player(s) HWID(s)
+[17-11-2024 05:02:31]	INFO	Loaded HWID KEY RUSaCis Project
+[17-11-2024 05:02:31]	INFO	Loaded HWID IP *
+[17-11-2024 05:02:31]	INFO	Loaded Anti Leech key...assigned 
+[17-11-2024 05:02:31]	INFO	Loaded Restriction Leech...assigned 
+[17-11-2024 05:02:31]	INFO	Loaded Licensed to Max Players : 1000
+[17-11-2024 05:02:31]	INFO	------------------------------------------------=[ Login ]
+[17-11-2024 05:02:31]	INFO	Connecting to login on auth.l2feel.net:9014.
+[17-11-2024 05:02:31]	INFO	Registered as server: [1] Feel.
+[17-11-2024 05:03:30]	INFO	HWID: [107D1A0A06D3], character: [RAIANE]
+[17-11-2024 05:04:12]	INFO	Achievements: Successfully loaded: 7 achievements from XML.
+[17-11-2024 05:04:37]	INFO	HWID: [00E04F1251AD], character: [Knnuupp]
+[17-11-2024 05:06:07]	INFO	HWID: [D4AE52FF1F23], character: [Agatha]
+[17-11-2024 05:06:16]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 05:07:23]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 05:07:26]	INFO	HWID: [EA6AC2A3F220], character: [AllanVieira]
+[17-11-2024 05:08:19]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 05:08:24]	INFO	HWID: [547836ECA4E3], character: [Lug]
+[17-11-2024 05:09:03]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 05:09:07]	INFO	HWID: [B9F0924AF958], character: [Jessica]
+[17-11-2024 05:10:54]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 05:13:24]	INFO	HWID: [00E04F1251AD], character: [ZoOMoO]
+[17-11-2024 05:13:37]	INFO	HWID: [F4B5205AE475], character: [Semear]
+[17-11-2024 05:15:01]	WARNING	Varka's Commnder Mos is alive!
+[17-11-2024 05:15:02]	INFO	HWID: [F4B5205AE475], character: [Kellly]
+[17-11-2024 05:16:48]	WARNING	HWID: [IP: 15.204.97.215] is trying to loggin server without client side hwid.
+[17-11-2024 05:16:56]	INFO	HWID: [DDE3ECAF41AB], character: [Lock]
+[17-11-2024 05:17:43]	WARNING	HWID: [IP: 15.204.97.215] is trying to loggin server without client side hwid.
+[17-11-2024 05:17:50]	INFO	HWID: [7103DD50E48C], character: [Butico]
+[17-11-2024 05:20:47]	INFO	HWID: [00E04F1251AD], character: [ZoOMoO]
+[17-11-2024 05:21:27]	WARNING	HWID: [IP: 15.204.97.215] is trying to loggin server without client side hwid.
+[17-11-2024 05:21:36]	INFO	HWID: [183AAE74AB9B], character: [acerNitro]
+[17-11-2024 05:23:19]	INFO	HWID: [00E04C6822B2], character: [MiTsuBiShI]
+[17-11-2024 05:24:43]	INFO	HWID: [F02F74F2990B], character: [BrotaXota]
+[17-11-2024 05:26:15]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
+[17-11-2024 05:27:04]	INFO	HWID: [F4B5205AE475], character: [Kellly]
+[17-11-2024 05:27:30]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 1.
+[17-11-2024 05:27:30]	WARNING	Flame Splendor Barakiel was killed! Respawn: (nov. 17, 17:27)
+[17-11-2024 05:29:41]	WARNING	Varka's Hero Shadith is alive!
+[17-11-2024 05:31:31]	INFO	HWID: [F4B5205AE475], character: [CautioN]
+[17-11-2024 05:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 05:32:31]	INFO	Server Time: 5:32.
+[17-11-2024 05:32:31]	INFO	Players Online: 13
+[17-11-2024 05:32:31]	INFO	Agathioms: 3
+[17-11-2024 05:32:31]	INFO	Auto Farms actives: 5
+[17-11-2024 05:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 05:32:31]	INFO	Used memory: 1509 MB
+[17-11-2024 05:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 05:34:12]	WARNING	Domb Death Cabrio was killed! Respawn: (nov. 17, 17:37)
+[17-11-2024 05:34:18]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 05:34:55]	INFO	HWID: [D85ED3F5C453], character: [3SP3C14L]
+[17-11-2024 05:37:34]	WARNING	Varka's Hero Shadith was killed! Respawn: (nov. 17, 09:29)
+[17-11-2024 05:41:45]	WARNING	Varka's Commnder Mos was killed! Respawn: (nov. 17, 10:15)
+[17-11-2024 05:41:52]	WARNING	Ketra's Chief Brakki was killed! Respawn: (nov. 17, 10:30)
+[17-11-2024 05:43:30]	INFO	HWID: [02504252E7FE], character: [NegraoRaiz]
+[17-11-2024 05:43:42]	INFO	HWID: [02504252E7FE], character: [OverDeVagabundo]
+[17-11-2024 05:44:25]	INFO	HWID: [204747FEC1E9], character: [GLE]
+[17-11-2024 05:46:09]	INFO	HWID: [F02F74F2990B], character: [Thay]
+[17-11-2024 05:49:18]	INFO	HWID: [F4B5205AE475], character: [Semear]
+[17-11-2024 05:54:57]	INFO	HWID: [F4B5205AE475], character: [MiBaZa]
+[17-11-2024 05:55:48]	INFO	HWID: [00E04F1251AD], character: [HoollyWood]
+[17-11-2024 05:56:33]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 06:01:26]	INFO	HWID: [D85ED3F5C453], character: [DowN]
+[17-11-2024 06:06:15]	INFO	HWID: [001E8CF5A245], character: [StepOfTheDeath]
+[17-11-2024 06:08:51]	INFO	HWID: [9C6B00568003], character: [melissa]
+[17-11-2024 06:10:46]	INFO	HWID: [2D2847EA713B], character: [Red]
+[17-11-2024 06:11:08]	INFO	HWID: [5F64F4191BF5], character: [Negona]
+[17-11-2024 06:12:39]	WARNING	Ketra's Commander Tayr is alive!
+[17-11-2024 06:12:53]	WARNING	HWID: [IP: 181.232.130.42] is trying to loggin server without client side hwid.
+[17-11-2024 06:13:03]	INFO	HWID: [408D5C07A489], character: [WANTED]
+[17-11-2024 06:14:11]	INFO	HWID: [0C9AADB29600], character: [blue2]
+[17-11-2024 06:15:50]	INFO	HWID: [00E04F1251AD], character: [ZoOMoO]
+[17-11-2024 06:17:21]	INFO	HWID: [9C6B00568003], character: [Steve]
+[17-11-2024 06:17:29]	INFO	HWID: [402F0B2D9C00], character: [VPN]
+[17-11-2024 06:19:07]	WARNING	Ketra's Commander Tayr was killed! Respawn: (nov. 17, 09:36)
+[17-11-2024 06:20:37]	INFO	HWID: [9C6B00568003], character: [DawrfKiller]
+[17-11-2024 06:20:50]	WARNING	HWID: [IP: 45.178.146.250] is trying to loggin server without client side hwid.
+[17-11-2024 06:21:15]	INFO	HWID: [C87F54D0BBB2], character: [DOG]
+[17-11-2024 06:29:40]	WARNING	Ketra's Hero Hekaton is alive!
+[17-11-2024 06:31:01]	WARNING	HWID: [IP: 138.204.36.140] is trying to loggin server without client side hwid.
+[17-11-2024 06:31:07]	INFO	HWID: [22334D056FCB], character: [Fps]
+[17-11-2024 06:31:59]	INFO	HWID: [408D5C07A489], character: [Sought]
+[17-11-2024 06:32:25]	INFO	HWID: [46574930BB0B], character: [Stifanov]
+[17-11-2024 06:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 06:32:31]	INFO	Server Time: 6:32.
+[17-11-2024 06:32:31]	INFO	Players Online: 31
+[17-11-2024 06:32:31]	INFO	Agathioms: 11
+[17-11-2024 06:32:31]	INFO	Auto Farms actives: 17
+[17-11-2024 06:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 06:32:31]	INFO	Used memory: 2343 MB
+[17-11-2024 06:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 06:33:58]	INFO	HWID: [9CD21E89F2BF], character: [AndreNormando]
+[17-11-2024 06:34:04]	INFO	HWID: [408D5C07A489], character: [Sought]
+[17-11-2024 06:37:01]	WARNING	HWID: [IP: 201.148.113.54] is trying to loggin server without client side hwid.
+[17-11-2024 06:37:06]	INFO	HWID: [847BEBE5A04F], character: [PureSteel]
+[17-11-2024 06:37:24]	WARNING	HWID: [IP: 189.113.192.69] is trying to loggin server without client side hwid.
+[17-11-2024 06:37:30]	INFO	HWID: [0090F59C74DE], character: [VIP]
+[17-11-2024 06:38:25]	INFO	HWID: [0090F59C74DE], character: [INDIANARA]
+[17-11-2024 06:38:49]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 09:39)
+[17-11-2024 06:46:38]	INFO	HWID: [22334D056FCB], character: [RaFinha]
+[17-11-2024 06:52:51]	WARNING	Kernon is alive!
+[17-11-2024 06:57:20]	WARNING	HWID: [IP: 187.111.132.55] is trying to loggin server without client side hwid.
+[17-11-2024 06:57:41]	INFO	HWID: [22235C040225], character: [SouThBr]
+[17-11-2024 07:01:45]	WARNING	Krokian Padisha Sobekk is alive!
+[17-11-2024 07:03:38]	WARNING	Kernon was killed! Respawn: (nov. 17, 18:31)
+[17-11-2024 07:07:43]	WARNING	Krokian Padisha Sobekk was killed! Respawn: (nov. 17, 18:48)
+[17-11-2024 07:07:49]	INFO	HWID: [0090F5E56925], character: [Buiu]
+[17-11-2024 07:08:04]	INFO	HWID: [0090F5E56925], character: [Carla]
+[17-11-2024 07:10:06]	INFO	HWID: [0090F5E56925], character: [Buiu]
+[17-11-2024 07:11:29]	INFO	HWID: [0090F5E56925], character: [Buiu]
+[17-11-2024 07:18:04]	WARNING	Cherub Galaxia is alive!
+[17-11-2024 07:20:28]	WARNING	HWID: [IP: 109.48.26.65] is trying to loggin server without client side hwid.
+[17-11-2024 07:20:28]	WARNING	HWID: [IP: 109.48.26.65] is trying to loggin server without client side hwid.
+[17-11-2024 07:20:34]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 07:20:41]	WARNING	Baylor is alive!
+[17-11-2024 07:20:45]	WARNING	HWID: [IP: 187.15.181.136] is trying to loggin server without client side hwid.
+[17-11-2024 07:20:49]	INFO	HWID: [00E04CC4A1FB], character: [Shurupita]
+[17-11-2024 07:22:27]	INFO	HWID: [9C6B00568003], character: [melissa]
+[17-11-2024 07:23:46]	WARNING	HWID: [IP: 187.15.181.136] is trying to loggin server without client side hwid.
+[17-11-2024 07:23:50]	INFO	HWID: [00E04CC4A1FB], character: [ThomazTurbano]
+[17-11-2024 07:24:01]	INFO	HWID: [9C6B00568003], character: [DawrfKiller]
+[17-11-2024 07:25:30]	WARNING	HWID: [IP: 186.2.251.177] is trying to loggin server without client side hwid.
+[17-11-2024 07:25:43]	INFO	HWID: [0023AEB7769C], character: [AQUILES]
+[17-11-2024 07:28:31]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 11:58)
+[17-11-2024 07:28:47]	INFO	HWID: [C87F54D0BBB2], character: [DOG]
+[17-11-2024 07:29:41]	INFO	HWID: [00E0660351F5], character: [SantaCatarina]
+[17-11-2024 07:31:11]	INFO	HWID: [0023AEB7769C], character: [Oracolo]
+[17-11-2024 07:32:07]	WARNING	HWID: [IP: 109.48.26.65] is trying to loggin server without client side hwid.
+[17-11-2024 07:32:12]	INFO	HWID: [00E2695BE38F], character: [DIEGO]
+[17-11-2024 07:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 07:32:31]	INFO	Server Time: 7:32.
+[17-11-2024 07:32:31]	INFO	Players Online: 45
+[17-11-2024 07:32:31]	INFO	Agathioms: 14
+[17-11-2024 07:32:31]	INFO	Auto Farms actives: 22
+[17-11-2024 07:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 07:32:31]	INFO	Used memory: 2940 MB
+[17-11-2024 07:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 07:33:37]	INFO	HWID: [00E0660351F5], character: [SantaCatarina]
+[17-11-2024 07:33:51]	INFO	HWID: [00E0660351F5], character: [AMAZING]
+[17-11-2024 07:35:04]	WARNING	Baylor was killed! Respawn: (nov. 17, 11:25)
+[17-11-2024 07:35:45]	INFO	HWID: [0090F5E56925], character: [Carla]
+[17-11-2024 07:38:28]	WARNING	Varka Chief Horus is alive!
+[17-11-2024 07:39:46]	INFO	HWID: [00E05B112482], character: [C0L0SS4L]
+[17-11-2024 07:39:51]	WARNING	HWID: [IP: 201.48.76.70] is trying to loggin server without client side hwid.
+[17-11-2024 07:40:08]	INFO	HWID: [68A3C4684D55], character: [DeathN0t]
+[17-11-2024 07:41:07]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 17, 12:08)
+[17-11-2024 07:42:04]	INFO	HWID: [201A0672EBCA], character: [GORAN]
+[17-11-2024 07:42:17]	WARNING	Water Dragon Seer Sheshark is alive!
+[17-11-2024 07:44:35]	WARNING	Water Dragon Seer Sheshark was killed! Respawn: (nov. 17, 19:14)
+[17-11-2024 07:47:25]	WARNING	HWID: [IP: 179.151.124.188] is trying to loggin server without client side hwid.
+[17-11-2024 07:47:30]	INFO	HWID: [22305C0844BF], character: [DeathPT]
+[17-11-2024 07:50:07]	INFO	HWID: [22305C0844BF], character: [apus]
+[17-11-2024 07:52:59]	INFO	HWID: [00E00CB36028], character: [MeupopoNOseuPIPI]
+[17-11-2024 08:00:00]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[17-11-2024 08:06:36]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 08:06:41]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 08:09:18]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 08:13:04]	WARNING	HWID: [IP: 201.26.113.108] is trying to loggin server without client side hwid.
+[17-11-2024 08:13:09]	INFO	HWID: [0AE0AFB30EAE], character: [69hitarea69]
+[17-11-2024 08:13:36]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 08:16:01]	INFO	HWID: [ECF4BB370522], character: [BlackPanther]
+[17-11-2024 08:21:23]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 08:23:02]	INFO	HWID: [0AE0AFB30EAE], character: [SABESP]
+[17-11-2024 08:31:45]	INFO	HWID: [74563CB879A4], character: [Alinemendes]
+[17-11-2024 08:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 08:32:31]	INFO	Server Time: 8:32.
+[17-11-2024 08:32:31]	INFO	Players Online: 50
+[17-11-2024 08:32:31]	INFO	Agathioms: 25
+[17-11-2024 08:32:31]	INFO	Auto Farms actives: 31
+[17-11-2024 08:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 08:32:31]	INFO	Used memory: 1270 MB
+[17-11-2024 08:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 08:35:23]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 08:36:36]	WARNING	HWID: [IP: 45.239.180.147] is trying to loggin server without client side hwid.
+[17-11-2024 08:36:45]	WARNING	HWID: [IP: 45.239.180.147] is trying to loggin server without client side hwid.
+[17-11-2024 08:36:49]	INFO	HWID: [ECF4BB370522], character: [Adventurer]
+[17-11-2024 08:36:51]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 08:37:07]	INFO	HWID: [74867AF56F75], character: [lBharbo]
+[17-11-2024 08:43:26]	WARNING	HWID: [IP: 131.108.86.203] is trying to loggin server without client side hwid.
+[17-11-2024 08:43:42]	INFO	HWID: [B42E99F0ABE2], character: [SirWhite]
+[17-11-2024 08:45:45]	INFO	HWID: [ECF4BB370522], character: [Adventurer]
+[17-11-2024 08:46:42]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 08:49:10]	WARNING	HWID: [IP: 189.127.31.21] is trying to loggin server without client side hwid.
+[17-11-2024 08:49:16]	INFO	HWID: [001E8CF5A245], character: [NecroPower]
+[17-11-2024 08:55:58]	INFO	HWID: [001E8CF5A245], character: [StepOfTheDeath]
+[17-11-2024 08:56:41]	INFO	HWID: [22305C0844BF], character: [DeathPT]
+[17-11-2024 09:00:00]	INFO	[Tournament]: Event Started.
+[17-11-2024 09:00:00]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[17-11-2024 09:02:51]	INFO	HWID: [22305C0844BF], character: [apus]
+[17-11-2024 09:03:36]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:03:36]	INFO	[Tournament]: A new fight (ID: 268666861) [F1X1] started: Fps's Team vs C0L0SS4L's Team
+[17-11-2024 09:05:26]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:05:26]	INFO	[Tournament]: A new fight (ID: 268669078) [F1X1] started: C0L0SS4L's Team vs Fps's Team
+[17-11-2024 09:06:58]	WARNING	HWID: [IP: 189.127.31.21] is trying to loggin server without client side hwid.
+[17-11-2024 09:07:05]	INFO	HWID: [001E8CF5A245], character: [NecroPower]
+[17-11-2024 09:07:06]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 09:07:13]	INFO	HWID: [3085A9B4459E], character: [F1shMonneY]
+[17-11-2024 09:07:31]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:07:31]	INFO	[Tournament]: A new fight (ID: 268671781) [F1X1] started: Fps's Team vs C0L0SS4L's Team
+[17-11-2024 09:08:50]	INFO	HWID: [F4B5205A3540], character: [HighLander]
+[17-11-2024 09:09:32]	INFO	Agathions tasks started.
+[17-11-2024 09:09:41]	WARNING	HWID: [IP: 200.176.1.22] is trying to loggin server without client side hwid.
+[17-11-2024 09:09:58]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 09:10:27]	WARNING	Queen Shyeed is alive!
+[17-11-2024 09:10:51]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:10:51]	INFO	[Tournament]: A new fight (ID: 268675909) [F1X1] started: Fps's Team vs C0L0SS4L's Team
+[17-11-2024 09:11:21]	INFO	HWID: [48E7DA7BAE60], character: [AmorimxD]
+[17-11-2024 09:11:32]	INFO	HWID: [3085A9B4459E], character: [BIGBIG]
+[17-11-2024 09:11:38]	WARNING	HWID: [IP: 177.72.55.58] is trying to loggin server without client side hwid.
+[17-11-2024 09:11:50]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 09:12:05]	WARNING	Queen Shyeed was killed! Respawn: (nov. 17, 21:00)
+[17-11-2024 09:12:06]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:12:06]	INFO	[Tournament]: A new fight (ID: 268677389) [F1X1] started: C0L0SS4L's Team vs Fps's Team
+[17-11-2024 09:12:25]	INFO	HWID: [48E7DA7BAE60], character: [S4T4N4S]
+[17-11-2024 09:12:52]	INFO	HWID: [0023AEB7769C], character: [AQUILES]
+[17-11-2024 09:13:24]	INFO	HWID: [00E05B112482], character: [C0L0SS4L]
+[17-11-2024 09:14:21]	INFO	HWID: [48E7DA7BAE60], character: [Androgeno]
+[17-11-2024 09:18:32]	WARNING	HWID: [IP: 186.194.199.132] is trying to loggin server without client side hwid.
+[17-11-2024 09:18:36]	INFO	HWID: [78A54C7D6C48], character: [emptinessmachine]
+[17-11-2024 09:18:41]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:18:41]	INFO	[Tournament]: A new fight (ID: 268684990) [F1X1] started: C0L0SS4L's Team vs Fps's Team
+[17-11-2024 09:20:18]	WARNING	HWID: [IP: 186.194.199.132] is trying to loggin server without client side hwid.
+[17-11-2024 09:20:21]	INFO	HWID: [356EEBEDAA9A], character: [nicetry]
+[17-11-2024 09:20:57]	INFO	HWID: [F4B5205A3540], character: [Link]
+[17-11-2024 09:22:11]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 09:22:11]	INFO	[Tournament]: A new fight (ID: 268689248) [F1X1] started: GORAN's Team vs C0L0SS4L's Team
+[17-11-2024 09:23:10]	WARNING	Ocean Flame Ashakiel is alive!
+[17-11-2024 09:24:31]	WARNING	Ocean Flame Ashakiel was killed! Respawn: (nov. 17, 20:52)
+[17-11-2024 09:29:10]	WARNING	Varka's Hero Shadith is alive!
+[17-11-2024 09:30:00]	WARNING	Territory War: Primveal Isle is Started.
+[17-11-2024 09:30:00]	INFO	[Tournament]: Event Finished.
+[17-11-2024 09:30:00]	INFO	[Tournament]: Next Event time: Sun Nov 17 15:00:00 BRT 2024
+[17-11-2024 09:30:21]	WARNING	Varka's Hero Shadith was killed! Respawn: (nov. 17, 13:54)
+[17-11-2024 09:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 09:32:31]	INFO	Server Time: 9:32.
+[17-11-2024 09:32:31]	INFO	Players Online: 59
+[17-11-2024 09:32:31]	INFO	Agathioms: 24
+[17-11-2024 09:32:31]	INFO	Auto Farms actives: 39
+[17-11-2024 09:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 09:32:31]	INFO	Used memory: 1991 MB
+[17-11-2024 09:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 09:32:45]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 09:36:38]	INFO	HWID: [0AE0AFA21374], character: [xXMaNuXx]
+[17-11-2024 09:36:44]	WARNING	Ketra's Commander Tayr is alive!
+[17-11-2024 09:38:22]	WARNING	Ketra's Commander Tayr was killed! Respawn: (nov. 17, 13:40)
+[17-11-2024 09:39:44]	WARNING	Ketra's Hero Hekaton is alive!
+[17-11-2024 09:40:26]	INFO	HWID: [0CCC47E03D32], character: [Petter]
+[17-11-2024 09:41:58]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 14:12)
+[17-11-2024 09:43:26]	INFO	HWID: [74563CB879A4], character: [Alinemendes]
+[17-11-2024 09:45:42]	WARNING	HWID: [IP: 177.155.203.83] is trying to loggin server without client side hwid.
+[17-11-2024 09:45:51]	INFO	HWID: [F4B5202B9F34], character: [PowerWater]
+[17-11-2024 09:46:42]	INFO	HWID: [22334D0600FE], character: [RaPiDShoT]
+[17-11-2024 09:48:42]	WARNING	Uruka is alive!
+[17-11-2024 09:51:15]	WARNING	Uruka was killed! Respawn: (nov. 17, 22:44)
+[17-11-2024 09:56:02]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 09:56:52]	WARNING	Shax The Death Lord is alive!
+[17-11-2024 09:58:19]	INFO	HWID: [48E7DA7BAE60], character: [Bruce]
+[17-11-2024 09:58:30]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 10:00:00]	WARNING	Next schedule for Territory Primveal Isle: 13:30
+[17-11-2024 10:00:32]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 10:02:44]	WARNING	Shax The Death Lord was killed! Respawn: (nov. 17, 22:12)
+[17-11-2024 10:04:08]	INFO	HWID: [00E04C239987], character: [DaMainha]
+[17-11-2024 10:04:35]	INFO	HWID: [001E8CF5A245], character: [StepOfTheDeath]
+[17-11-2024 10:04:47]	INFO	HWID: [2203063D0481], character: [Nike]
+[17-11-2024 10:08:52]	WARNING	HWID: [IP: 177.72.55.58] is trying to loggin server without client side hwid.
+[17-11-2024 10:08:59]	INFO	HWID: [3085A9B4459E], character: [BIGBIG]
+[17-11-2024 10:09:12]	WARNING	HWID: [IP: 179.125.243.122] is trying to loggin server without client side hwid.
+[17-11-2024 10:09:17]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 10:10:37]	INFO	HWID: [D85ED3F64D77], character: [TheBroken]
+[17-11-2024 10:12:31]	INFO	HWID: [3085A9B4459E], character: [xManuellax]
+[17-11-2024 10:13:14]	WARNING	HWID: [IP: 186.224.72.82] is trying to loggin server without client side hwid.
+[17-11-2024 10:13:18]	INFO	HWID: [4CEDFB7542C6], character: [22]
+[17-11-2024 10:15:14]	INFO	HWID: [4CEDFB7542C6], character: [LW]
+[17-11-2024 10:15:17]	WARNING	Varka's Commnder Mos is alive!
+[17-11-2024 10:15:43]	INFO	HWID: [F4B5202B9F34], character: [Bank1]
+[17-11-2024 10:16:17]	WARNING	Varka's Commnder Mos was killed! Respawn: (nov. 17, 13:40)
+[17-11-2024 10:19:57]	WARNING	HWID: [IP: 45.5.195.13] is trying to loggin server without client side hwid.
+[17-11-2024 10:20:05]	INFO	HWID: [706979A87869], character: [XerecA]
+[17-11-2024 10:20:09]	INFO	HWID: [0AE0AFB30EAE], character: [SABESP]
+[17-11-2024 10:20:23]	INFO	HWID: [0AE0AFB30EAE], character: [PickUP]
+[17-11-2024 10:20:38]	WARNING	HWID: [IP: 201.94.145.219] is trying to loggin server without client side hwid.
+[17-11-2024 10:20:44]	INFO	HWID: [241895C142E1], character: [Allan]
+[17-11-2024 10:21:46]	WARNING	HWID: [IP: 45.5.195.13] is trying to loggin server without client side hwid.
+[17-11-2024 10:21:51]	INFO	HWID: [706979A87869], character: [SirOwneR]
+[17-11-2024 10:22:29]	INFO	HWID: [3085A9B4459E], character: [xManuellax]
+[17-11-2024 10:23:48]	INFO	HWID: [0023AEB7769C], character: [Oracolo]
+[17-11-2024 10:24:13]	WARNING	HWID: [IP: 187.110.233.6] is trying to loggin server without client side hwid.
+[17-11-2024 10:24:23]	INFO	HWID: [00E01E7C51E3], character: [Rein3r]
+[17-11-2024 10:27:37]	WARNING	HWID: [IP: 179.67.57.62] is trying to loggin server without client side hwid.
+[17-11-2024 10:27:48]	INFO	HWID: [22015C062E0D], character: [Maya]
+[17-11-2024 10:28:14]	INFO	HWID: [F4B5205A3540], character: [HighLander]
+[17-11-2024 10:29:12]	INFO	Agathions tasks started.
+[17-11-2024 10:29:14]	INFO	HWID: [CAD67C1BB9DB], character: [BeshopE]
+[17-11-2024 10:30:25]	WARNING	Ketra's Chief Brakki is alive!
+[17-11-2024 10:32:08]	WARNING	Ketra's Chief Brakki was killed! Respawn: (nov. 17, 13:44)
+[17-11-2024 10:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 10:32:31]	INFO	Server Time: 10:32.
+[17-11-2024 10:32:31]	INFO	Players Online: 69
+[17-11-2024 10:32:31]	INFO	Agathioms: 35
+[17-11-2024 10:32:31]	INFO	Auto Farms actives: 38
+[17-11-2024 10:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 10:32:31]	INFO	Used memory: 2848 MB
+[17-11-2024 10:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 10:33:15]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 10:33:38]	WARNING	HWID: [IP: 177.72.55.58] is trying to loggin server without client side hwid.
+[17-11-2024 10:33:49]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 10:34:40]	WARNING	HWID: [IP: 170.80.103.249] is trying to loggin server without client side hwid.
+[17-11-2024 10:34:44]	INFO	HWID: [0CCC47E03D32], character: [Macc]
+[17-11-2024 10:35:00]	WARNING	Territory War: Field of Silence is Started.
+[17-11-2024 10:36:16]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 10:36:18]	INFO	HWID: [2203063D0481], character: [Nike]
+[17-11-2024 10:36:43]	WARNING	No handler registered for admin command 'admin_setclass'.
+[17-11-2024 10:40:52]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 10:41:16]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 10:42:11]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 10:44:46]	INFO	HWID: [8CDCD49F351C], character: [KINDZADZA]
+[17-11-2024 10:46:35]	WARNING	HWID: [IP: 177.101.32.100] is trying to loggin server without client side hwid.
+[17-11-2024 10:46:38]	INFO	HWID: [9C6B00568003], character: [DawrfKiller]
+[17-11-2024 10:47:50]	INFO	HWID: [48E7DA7BAE60], character: [Gambit]
+[17-11-2024 10:48:40]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 10:49:30]	INFO	Loading gameserver configuration files.
+[17-11-2024 10:49:30]	INFO	Loaded 1155 Filter Words.
+[17-11-2024 10:49:30]	INFO	Loaded 46 classes Damages configurations
+[17-11-2024 10:49:30]	INFO	Loaded 31 Olympiad Damages configurations
+[17-11-2024 10:49:30]	INFO	Loading auto farm configuration files.
+[17-11-2024 10:49:30]	INFO	Configurations: VDSystem settings loaded.
+[17-11-2024 10:50:03]	INFO	Saved boss zones data.
+[17-11-2024 10:50:07]	INFO	Loaded 27 zones classes and total 1097 zones.
+[17-11-2024 10:52:55]	INFO	HWID: [00E04C8A6CAC], character: [LW]
+[17-11-2024 10:52:57]	INFO	HWID: [408D5C07A489], character: [WANTED]
+[17-11-2024 10:53:53]	WARNING	Storm Winged Naga is alive!
+[17-11-2024 10:54:11]	INFO	HWID: [F4B5205A3540], character: [HighLander]
+[17-11-2024 10:56:05]	WARNING	Storm Winged Naga was killed! Respawn: (nov. 17, 23:55)
+[17-11-2024 10:56:40]	WARNING	HWID: [IP: 181.189.50.77] is trying to loggin server without client side hwid.
+[17-11-2024 10:56:51]	INFO	HWID: [0090F5E56925], character: [Buiu]
+[17-11-2024 10:57:03]	INFO	HWID: [00E04C8A6CAC], character: [N6]
+[17-11-2024 10:58:00]	WARNING	HWID: [IP: 181.189.50.77] is trying to loggin server without client side hwid.
+[17-11-2024 10:58:34]	INFO	HWID: [0090F5E56925], character: [Carla]
+[17-11-2024 10:59:37]	WARNING	HWID: [IP: 179.125.214.49] is trying to loggin server without client side hwid.
+[17-11-2024 10:59:42]	INFO	HWID: [00FF59E8BD7B], character: [AMAZING]
+[17-11-2024 10:59:44]	INFO	HWID: [22305C0844BF], character: [apus]
+[17-11-2024 11:01:00]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 11:01:48]	WARNING	HWID: [IP: 177.39.38.77] is trying to loggin server without client side hwid.
+[17-11-2024 11:02:17]	INFO	HWID: [50EBF637986B], character: [TiagoN]
+[17-11-2024 11:02:30]	INFO	HWID: [22334D0600FE], character: [RaPiDShoT]
+[17-11-2024 11:05:00]	WARNING	Next schedule for Territory Field of Silence: 14:35
+[17-11-2024 11:05:58]	INFO	HWID: [204747FEC1E9], character: [GLE]
+[17-11-2024 11:06:38]	INFO	Demonic Sword Zariche has been removed from world.
+[17-11-2024 11:06:39]	WARNING	HWID: [IP: 45.186.133.221] is trying to loggin server without client side hwid.
+[17-11-2024 11:06:56]	INFO	HWID: [48E7DA7BAE60], character: [Androgeno]
+[17-11-2024 11:06:58]	INFO	HWID: [00E01E760B6E], character: [BlacKPouL]
+[17-11-2024 11:07:48]	INFO	HWID: [48E7DA7BAE60], character: [Bruce]
+[17-11-2024 11:07:50]	WARNING	HWID: [IP: 45.186.133.221] is trying to loggin server without client side hwid.
+[17-11-2024 11:07:57]	INFO	HWID: [00E01E760B6E], character: [Penetra]
+[17-11-2024 11:08:27]	WARNING	HWID: [IP: 177.39.38.77] is trying to loggin server without client side hwid.
+[17-11-2024 11:08:30]	INFO	HWID: [50EBF637986B], character: [EoFranK]
+[17-11-2024 11:10:03]	WARNING	Hallate The Death Lord is alive!
+[17-11-2024 11:10:14]	INFO	HWID: [48E7DA7BAE60], character: [Gambit]
+[17-11-2024 11:10:30]	INFO	HWID: [48E7DA7BAE60], character: [Androgeno]
+[17-11-2024 11:11:51]	WARNING	Hallate The Death Lord was killed! Respawn: (nov. 17, 22:26)
+[17-11-2024 11:12:47]	INFO	HWID: [48E7DA7BAE60], character: [010100101]
+[17-11-2024 11:13:42]	INFO	HWID: [382C4A8CAD13], character: [GataDaFavela]
+[17-11-2024 11:14:14]	INFO	HWID: [48E7DA7BAE60], character: [ciu]
+[17-11-2024 11:15:08]	INFO	HWID: [48E7DA7BAE60], character: [Gambit]
+[17-11-2024 11:15:34]	INFO	HWID: [382C4A8CAD13], character: [MaRaBo]
+[17-11-2024 11:15:38]	WARNING	Golkonda Longhorn is alive!
+[17-11-2024 11:16:07]	WARNING	HWID: [IP: 138.0.189.101] is trying to loggin server without client side hwid.
+[17-11-2024 11:16:13]	INFO	HWID: [48E7DA7BAE60], character: [ciu]
+[17-11-2024 11:16:14]	INFO	HWID: [382C4A8CAD13], character: [MaRaBo]
+[17-11-2024 11:18:30]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 11:18:59]	INFO	HtmCache has been cleared (110 entries).
+[17-11-2024 11:22:48]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 11:23:41]	INFO	Golkonda Longhorn returned to spawn location.
+[17-11-2024 11:25:07]	INFO	Loaded 72 instant teleport positions.
+[17-11-2024 11:25:07]	INFO	Loaded 117 teleport positions.
+[17-11-2024 11:25:07]	INFO	Loaded 795 teleport locations.
+[17-11-2024 11:25:48]	WARNING	Baylor is alive!
+[17-11-2024 11:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 11:32:31]	INFO	Server Time: 11:32.
+[17-11-2024 11:32:31]	INFO	Players Online: 70
+[17-11-2024 11:32:31]	INFO	Agathioms: 31
+[17-11-2024 11:32:31]	INFO	Auto Farms actives: 40
+[17-11-2024 11:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 11:32:31]	INFO	Used memory: 1901 MB
+[17-11-2024 11:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 11:36:04]	WARNING	Last Lesser Glaki is alive!
+[17-11-2024 11:36:28]	INFO	HWID: [2A134C060BD4], character: [Hannah]
+[17-11-2024 11:36:35]	WARNING	HWID: [IP: 45.181.22.43] is trying to loggin server without client side hwid.
+[17-11-2024 11:36:41]	INFO	HWID: [2A134C060BD4], character: [Dirty]
+[17-11-2024 11:36:43]	INFO	HWID: [7DFA0C6CF8FB], character: [Archer]
+[17-11-2024 11:36:59]	INFO	HWID: [00E04F1251AD], character: [ZoOMoO]
+[17-11-2024 11:37:01]	WARNING	Golkonda Longhorn was killed! Respawn: (nov. 17, 22:50)
+[17-11-2024 11:37:09]	INFO	HWID: [3085A9B4459E], character: [BIGBIG]
+[17-11-2024 11:38:47]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 11:39:49]	INFO	HWID: [00E04F1251AD], character: [Knnuupp]
+[17-11-2024 11:41:04]	WARNING	Last Lesser Glaki was killed! Respawn: (nov. 18, 00:40)
+[17-11-2024 11:44:20]	WARNING	Baylor was killed! Respawn: (nov. 17, 14:46)
+[17-11-2024 11:44:48]	WARNING	HWID: [IP: 170.239.254.161] is trying to loggin server without client side hwid.
+[17-11-2024 11:44:54]	INFO	HWID: [0AE0AFD60607], character: [7Copa]
+[17-11-2024 11:45:45]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 11:47:38]	INFO	HWID: [00E04F1251AD], character: [HoollyWood]
+[17-11-2024 11:47:47]	WARNING	HWID: [IP: 131.196.6.215] is trying to loggin server without client side hwid.
+[17-11-2024 11:47:54]	INFO	HWID: [22305C0844BF], character: [apus]
+[17-11-2024 11:48:02]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 11:48:08]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 11:52:12]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 11:52:15]	WARNING	HWID: [IP: 31.48.127.77] is trying to loggin server without client side hwid.
+[17-11-2024 11:52:17]	INFO	HWID: [902B34FB4879], character: [BlackPanther]
+[17-11-2024 11:52:20]	INFO	HWID: [D8BBC13A90B7], character: [Twelve]
+[17-11-2024 11:55:04]	INFO	HWID: [D8BBC13A90B7], character: [DaC]
+[17-11-2024 11:55:44]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 11:58:47]	WARNING	Cherub Galaxia is alive!
+[17-11-2024 12:00:00]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[17-11-2024 12:00:08]	WARNING	No handler registered for admin command 'admin_admnin'.
+[17-11-2024 12:00:53]	INFO	HWID: [48E7DA7BAE60], character: [iPxd]
+[17-11-2024 12:02:40]	INFO	HWID: [0AE0AFD60607], character: [7Copa]
+[17-11-2024 12:02:50]	INFO	HWID: [8CDCD49F351C], character: [KINDZADZA]
+[17-11-2024 12:03:42]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 15:17)
+[17-11-2024 12:08:17]	WARNING	Varka Chief Horus is alive!
+[17-11-2024 12:10:24]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 17, 17:08)
+[17-11-2024 12:10:29]	WARNING	HWID: [IP: 45.168.147.203] is trying to loggin server without client side hwid.
+[17-11-2024 12:10:38]	INFO	HWID: [1206E6DF11CD], character: [B1G0D]
+[17-11-2024 12:10:59]	WARNING	HWID: [IP: 201.78.133.105] is trying to loggin server without client side hwid.
+[17-11-2024 12:11:08]	INFO	HWID: [BC5FF4AEEF4A], character: [WhatsApp]
+[17-11-2024 12:12:08]	INFO	HWID: [48E7DA7BAE60], character: [Androgeno]
+[17-11-2024 12:12:09]	WARNING	HWID: [IP: 201.78.133.105] is trying to loggin server without client side hwid.
+[17-11-2024 12:12:16]	INFO	HWID: [BC5FF4AEEF4A], character: [Otanix]
+[17-11-2024 12:13:55]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 12:14:15]	WARNING	HWID: [IP: 45.168.147.203] is trying to loggin server without client side hwid.
+[17-11-2024 12:14:22]	INFO	HWID: [1206E6DF11CD], character: [LaraCraft]
+[17-11-2024 12:14:26]	INFO	HWID: [48E7DA7BAE60], character: [Bruce]
+[17-11-2024 12:14:55]	INFO	HWID: [48E7DA7BAE60], character: [010100101]
+[17-11-2024 12:15:14]	WARNING	Flamestone Giant is alive!
+[17-11-2024 12:15:52]	WARNING	HWID: [IP: 201.7.218.66] is trying to loggin server without client side hwid.
+[17-11-2024 12:15:54]	INFO	HWID: [48E7DA7BAE60], character: [ciu]
+[17-11-2024 12:17:12]	INFO	HWID: [2203063D0481], character: [AlliBaba]
+[17-11-2024 12:17:52]	INFO	HWID: [0AE0AFA21374], character: [Nutella]
+[17-11-2024 12:18:06]	INFO	HWID: [48E7DA7BAE60], character: [S4T4N4S]
+[17-11-2024 12:18:07]	WARNING	Palatanos of Horrific Power is alive!
+[17-11-2024 12:18:17]	WARNING	Flamestone Giant was killed! Respawn: (nov. 18, 02:31)
+[17-11-2024 12:18:38]	INFO	Loading gameserver configuration files.
+[17-11-2024 12:18:38]	INFO	Loaded 1155 Filter Words.
+[17-11-2024 12:18:38]	INFO	Loaded 46 classes Damages configurations
+[17-11-2024 12:18:38]	INFO	Loaded 31 Olympiad Damages configurations
+[17-11-2024 12:18:38]	INFO	Loading auto farm configuration files.
+[17-11-2024 12:18:38]	INFO	Configurations: VDSystem settings loaded.
+[17-11-2024 12:18:43]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 12:18:59]	INFO	HWID: [00E2695BE38F], character: [DIEGO]
+[17-11-2024 12:21:51]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 12:23:42]	INFO	HWID: [48E7DA7BAE60], character: [AmorimxD]
+[17-11-2024 12:24:25]	WARNING	HWID: [IP: 200.225.229.207] is trying to loggin server without client side hwid.
+[17-11-2024 12:24:30]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 12:25:37]	INFO	HWID: [2203063D0481], character: [Nike]
+[17-11-2024 12:26:22]	WARNING	HWID: [IP: 200.225.229.207] is trying to loggin server without client side hwid.
+[17-11-2024 12:26:25]	INFO	HWID: [08BFB8004836], character: [Macc]
+[17-11-2024 12:26:51]	WARNING	Bloody Empress Decarbia is alive!
+[17-11-2024 12:27:17]	WARNING	Palatanos of Horrific Power was killed! Respawn: (nov. 18, 02:50)
+[17-11-2024 12:28:16]	INFO	Agathions tasks started.
+[17-11-2024 12:28:34]	INFO	HWID: [5F04A6FD6F27], character: [emptinessmachine]
+[17-11-2024 12:28:45]	INFO	HWID: [2203063D0481], character: [AlliBaba]
+[17-11-2024 12:30:00]	INFO	Updated Sailren (id: 49999) status to 0.
+[17-11-2024 12:30:19]	INFO	HWID: [2203063D0481], character: [Nike]
+[17-11-2024 12:30:45]	WARNING	Bloody Empress Decarbia was killed! Respawn: (nov. 18, 04:16)
+[17-11-2024 12:31:00]	INFO	Updated Sailren (id: 49999) status to 1.
+[17-11-2024 12:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 12:32:31]	INFO	Server Time: 12:32.
+[17-11-2024 12:32:31]	INFO	Players Online: 90
+[17-11-2024 12:32:31]	INFO	Agathioms: 40
+[17-11-2024 12:32:31]	INFO	Auto Farms actives: 48
+[17-11-2024 12:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 12:32:31]	INFO	Used memory: 2692 MB
+[17-11-2024 12:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 12:35:26]	WARNING	HWID: [IP: 187.182.53.105] is trying to loggin server without client side hwid.
+[17-11-2024 12:35:34]	INFO	HWID: [641C67AC2D98], character: [Chato]
+[17-11-2024 12:35:35]	INFO	Updated Sailren (id: 49999) status to 2.
+[17-11-2024 12:35:35]	WARNING	Sailren was killed! Respawn: (nov. 17, 16:00)
+[17-11-2024 12:37:54]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 12:39:20]	INFO	HWID: [641C67AC2D98], character: [Chato]
+[17-11-2024 12:39:42]	WARNING	HWID: [IP: 45.239.239.65] is trying to loggin server without client side hwid.
+[17-11-2024 12:39:48]	INFO	HWID: [18C04DF1ED74], character: [Vando]
+[17-11-2024 12:40:30]	WARNING	HWID: [IP: 45.226.118.35] is trying to loggin server without client side hwid.
+[17-11-2024 12:40:33]	INFO	HWID: [00E2696D4CC5], character: [Kron]
+[17-11-2024 12:40:34]	INFO	HWID: [D4AE52FF1F23], character: [Agatha]
+[17-11-2024 12:40:51]	WARNING	HWID: [IP: 177.75.63.244] is trying to loggin server without client side hwid.
+[17-11-2024 12:40:55]	INFO	HWID: [8CDCD49F351C], character: [KINDZADZA]
+[17-11-2024 12:41:43]	INFO	HWID: [22324D06A34C], character: [AnjoDarCK]
+[17-11-2024 12:43:30]	INFO	Demonic Sword Zariche has been removed from world.
+[17-11-2024 12:43:45]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 12:43:50]	INFO	HWID: [9C6B00568003], character: [DawrfKiller]
+[17-11-2024 12:44:35]	INFO	HWID: [9C6B00568003], character: [Steve]
+[17-11-2024 12:44:43]	INFO	HWID: [18C04DF1ED74], character: [Hulk]
+[17-11-2024 12:46:37]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 12:47:04]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 12:47:15]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 12:48:05]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 12:48:16]	INFO	HWID: [641C67AC2D98], character: [Coveiro]
+[17-11-2024 12:48:57]	INFO	HWID: [00E01E760B6E], character: [WhitePouL]
+[17-11-2024 12:53:19]	WARNING	HWID: [IP: 187.108.212.126] is trying to loggin server without client side hwid.
+[17-11-2024 12:53:35]	INFO	HWID: [00E01E760B6E], character: [Penetra]
+[17-11-2024 12:53:36]	INFO	HWID: [2089840571EE], character: [High]
+[17-11-2024 12:53:37]	WARNING	HWID: [IP: 177.101.189.230] is trying to loggin server without client side hwid.
+[17-11-2024 12:53:42]	WARNING	HWID: [IP: 186.233.195.237] is trying to loggin server without client side hwid.
+[17-11-2024 12:53:47]	INFO	HWID: [8CB0E9EBDCC0], character: [HADUCK]
+[17-11-2024 12:53:48]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 12:53:52]	INFO	HWID: [7085C2FAB276], character: [WWW]
+[17-11-2024 12:54:19]	WARNING	Ember is alive!
+[17-11-2024 12:54:37]	WARNING	HWID: [IP: 177.37.255.223] is trying to loggin server without client side hwid.
+[17-11-2024 12:54:44]	INFO	HWID: [34EC2974FBE1], character: [VPN]
+[17-11-2024 12:54:49]	INFO	HWID: [3085A9B4459E], character: [F1shMonneY]
+[17-11-2024 12:55:15]	WARNING	HWID: [IP: 170.231.142.23] is trying to loggin server without client side hwid.
+[17-11-2024 12:55:26]	INFO	HWID: [48E7DA69A1D6], character: [OverLord]
+[17-11-2024 12:56:08]	INFO	HWID: [00E01E760B6E], character: [WhitePouL]
+[17-11-2024 12:59:42]	INFO	HWID: [37085795081A], character: [Stifanov]
+[17-11-2024 13:00:00]	INFO	Spawned 688 day NPCs, despawned 933 night NPCs.
+[17-11-2024 13:00:16]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 13:00:21]	WARNING	HWID: [IP: 191.37.148.31] is trying to loggin server without client side hwid.
+[17-11-2024 13:00:24]	INFO	HWID: [22324D06A34C], character: [Anjinho]
+[17-11-2024 13:01:04]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 13:03:49]	WARNING	Ember was killed! Respawn: (nov. 18, 00:32)
+[17-11-2024 13:04:47]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 13:05:12]	INFO	HWID: [00E01E760B6E], character: [Penetra]
+[17-11-2024 13:05:18]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 13:05:28]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 13:09:22]	WARNING	Ipos The Death Lord is alive!
+[17-11-2024 13:10:55]	WARNING	HWID: [IP: 201.7.218.66] is trying to loggin server without client side hwid.
+[17-11-2024 13:11:04]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 13:12:40]	WARNING	Ipos The Death Lord was killed! Respawn: (nov. 18, 01:00)
+[17-11-2024 13:14:25]	INFO	HWID: [641C67AC2D98], character: [Coveiro]
+[17-11-2024 13:16:32]	INFO	HWID: [204747FEC1E9], character: [20]
+[17-11-2024 13:16:38]	INFO	HWID: [F4B5202B9F34], character: [Bank1]
+[17-11-2024 13:17:08]	INFO	HWID: [204747FEC1E9], character: [3]
+[17-11-2024 13:17:28]	INFO	HWID: [204747FEC1E9], character: [17]
+[17-11-2024 13:17:48]	INFO	HWID: [204747FEC1E9], character: [19]
+[17-11-2024 13:18:07]	INFO	HWID: [204747FEC1E9], character: [19]
+[17-11-2024 13:18:27]	INFO	HWID: [204747FEC1E9], character: [17]
+[17-11-2024 13:19:46]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 13:19:52]	INFO	HWID: [902B34FB4879], character: [GameBoy]
+[17-11-2024 13:20:33]	INFO	HWID: [902B34FB4879], character: [XBox]
+[17-11-2024 13:21:13]	INFO	HWID: [902B34FB4879], character: [Invoker]
+[17-11-2024 13:21:36]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 13:21:59]	INFO	HWID: [204747FEC1E9], character: [20]
+[17-11-2024 13:23:22]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 13:24:21]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 13:25:27]	WARNING	Last Lesser Olkuth is alive!
+[17-11-2024 13:25:47]	WARNING	HWID: [IP: 138.0.146.47] is trying to loggin server without client side hwid.
+[17-11-2024 13:25:57]	INFO	HWID: [02504252E7FE], character: [GFBPA]
+[17-11-2024 13:27:04]	INFO	HWID: [204747FEC1E9], character: [GAB]
+[17-11-2024 13:28:13]	INFO	HWID: [48E7DA7BAE60], character: [ciu]
+[17-11-2024 13:28:23]	WARNING	Last Lesser Olkuth was killed! Respawn: (nov. 18, 01:34)
+[17-11-2024 13:29:02]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 13:30:00]	WARNING	Territory War: Primveal Isle is Started.
+[17-11-2024 13:30:00]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 13:31:07]	WARNING	HWID: [IP: 179.125.243.122] is trying to loggin server without client side hwid.
+[17-11-2024 13:31:09]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 13:32:27]	INFO	HWID: [86D9C8376ABD], character: [Allan]
+[17-11-2024 13:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 13:32:31]	INFO	Server Time: 13:32.
+[17-11-2024 13:32:31]	INFO	Players Online: 92
+[17-11-2024 13:32:31]	INFO	Agathioms: 40
+[17-11-2024 13:32:31]	INFO	Auto Farms actives: 58
+[17-11-2024 13:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 13:32:31]	INFO	Used memory: 1889 MB
+[17-11-2024 13:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 13:33:28]	INFO	HWID: [D85ED3F64D77], character: [TheBroken]
+[17-11-2024 13:35:32]	WARNING	Fafurion's Herald Lokness is alive!
+[17-11-2024 13:37:01]	WARNING	Fafurion's Herald Lokness was killed! Respawn: (nov. 18, 00:59)
+[17-11-2024 13:37:39]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 13:40:12]	WARNING	Ketra's Commander Tayr is alive!
+[17-11-2024 13:40:27]	WARNING	Varka's Commnder Mos is alive!
+[17-11-2024 13:41:19]	WARNING	Ketra's Commander Tayr was killed! Respawn: (nov. 17, 18:29)
+[17-11-2024 13:42:35]	WARNING	HWID: [IP: 45.65.195.145] is trying to loggin server without client side hwid.
+[17-11-2024 13:42:41]	INFO	HWID: [FC34977AC753], character: [Lewandowski]
+[17-11-2024 13:43:46]	WARNING	Varka's Commnder Mos was killed! Respawn: (nov. 17, 17:17)
+[17-11-2024 13:43:47]	WARNING	HWID: [IP: 45.70.60.186] is trying to loggin server without client side hwid.
+[17-11-2024 13:44:00]	INFO	HWID: [F8A9635E2927], character: [Gabizinha]
+[17-11-2024 13:44:42]	WARNING	Ketra's Chief Brakki is alive!
+[17-11-2024 13:45:24]	WARNING	HWID: [IP: 143.202.191.199] is trying to loggin server without client side hwid.
+[17-11-2024 13:45:29]	INFO	HWID: [FC34977AC753], character: [LordOfHell]
+[17-11-2024 13:46:05]	INFO	HWID: [F44D308C9CD1], character: [TiKToK]
+[17-11-2024 13:46:12]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 13:46:39]	WARNING	Ketra's Chief Brakki was killed! Respawn: (nov. 17, 17:13)
+[17-11-2024 13:47:10]	INFO	HWID: [204747FEC1E9], character: [GAB]
+[17-11-2024 13:47:23]	INFO	HWID: [F8A9635E2927], character: [Dei]
+[17-11-2024 13:51:22]	INFO	HWID: [00FF59E8BD7B], character: [AMAZING]
+[17-11-2024 13:51:44]	INFO	HWID: [F4B520639851], character: [SentaKika]
+[17-11-2024 13:51:58]	INFO	HWID: [F4B520639851], character: [puxailha]
+[17-11-2024 13:52:35]	INFO	HWID: [6CCD1C4E09D3], character: [VPN]
+[17-11-2024 13:54:07]	INFO	HWID: [00FF59E8BD7B], character: [Sought]
+[17-11-2024 13:54:19]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 13:54:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:20]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:21]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:22]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:23]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:24]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:25]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:26]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:27]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:28]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:29]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:30]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:31]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:32]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:33]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:34]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:35]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:36]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:37]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:38]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:39]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:40]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:41]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:42]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:43]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:48]	WARNING	Varka's Hero Shadith is alive!
+[17-11-2024 13:54:55]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 13:54:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:56]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:58]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:54:59]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:00]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:01]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:02]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:03]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:04]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:05]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: ZeroH - Account: derp - IP: 200.176.1.22]. 
+[17-11-2024 13:55:55]	WARNING	Varka's Hero Shadith was killed! Respawn: (nov. 17, 17:23)
+[17-11-2024 13:57:04]	INFO	HWID: [0090F59C74DE], character: [VIP]
+[17-11-2024 13:59:21]	WARNING	HWID: [IP: 186.208.146.78] is trying to loggin server without client side hwid.
+[17-11-2024 13:59:30]	INFO	HWID: [00E04F29B964], character: [SpaMM]
+[17-11-2024 14:00:00]	WARNING	Next schedule for Territory Primveal Isle: 18:30
+[17-11-2024 14:00:37]	INFO	HWID: [0090F59C74DE], character: [INDIANARA]
+[17-11-2024 14:01:44]	WARNING	HWID: [IP: 186.208.243.170] is trying to loggin server without client side hwid.
+[17-11-2024 14:01:59]	INFO	HWID: [7085C289B759], character: [FarinO]
+[17-11-2024 14:03:10]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 14:04:12]	WARNING	HWID: [IP: 143.202.127.191] is trying to loggin server without client side hwid.
+[17-11-2024 14:04:24]	INFO	HWID: [1879CCDE3961], character: [acerNitro]
+[17-11-2024 14:05:46]	INFO	HWID: [0023AEB7769C], character: [AQUILES]
+[17-11-2024 14:06:00]	WARNING	HWID: [IP: 177.38.108.6] is trying to loggin server without client side hwid.
+[17-11-2024 14:06:06]	INFO	HWID: [0AE0AFA625C8], character: [LuisInacioOLula]
+[17-11-2024 14:06:06]	INFO	HWID: [00FF59E8BD7B], character: [AMAZING]
+[17-11-2024 14:06:16]	INFO	HWID: [3085A9B4459E], character: [DuDuFodaO]
+[17-11-2024 14:06:42]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 14:10:15]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 14:11:04]	WARNING	HWID: [IP: 138.97.197.252] is trying to loggin server without client side hwid.
+[17-11-2024 14:11:09]	INFO	HWID: [74563C994490], character: [rafoxy]
+[17-11-2024 14:12:41]	WARNING	Ketra's Hero Hekaton is alive!
+[17-11-2024 14:14:57]	INFO	HWID: [FC34977AC753], character: [DudaXD]
+[17-11-2024 14:17:02]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 18:21)
+[17-11-2024 14:17:29]	WARNING	HWID: [IP: 186.208.146.78] is trying to loggin server without client side hwid.
+[17-11-2024 14:17:36]	INFO	HWID: [00E04F29B964], character: [kEEX]
+[17-11-2024 14:19:36]	INFO	HWID: [50EBF637986B], character: [TiagoN]
+[17-11-2024 14:20:01]	INFO	HWID: [00E04F29B964], character: [Unstoppable]
+[17-11-2024 14:23:14]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 14:23:27]	WARNING	HWID: [IP: 177.87.32.200] is trying to loggin server without client side hwid.
+[17-11-2024 14:23:29]	INFO	HWID: [74867AF56F75], character: [lBharbo]
+[17-11-2024 14:23:34]	INFO	HWID: [D017C28E3E61], character: [Troniic]
+[17-11-2024 14:24:51]	INFO	HWID: [204747FEC1E9], character: [GLE]
+[17-11-2024 14:25:16]	INFO	HWID: [7A39C6755423], character: [AllanVieira]
+[17-11-2024 14:29:43]	INFO	HWID: [08BFB8004836], character: [Pk4Noob]
+[17-11-2024 14:32:02]	WARNING	HWID: [IP: 177.144.91.209] is trying to loggin server without client side hwid.
+[17-11-2024 14:32:05]	INFO	HWID: [74563CB879A4], character: [Alinemendes]
+[17-11-2024 14:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 14:32:31]	INFO	Server Time: 14:32.
+[17-11-2024 14:32:31]	INFO	Players Online: 98
+[17-11-2024 14:32:31]	INFO	Agathioms: 42
+[17-11-2024 14:32:31]	INFO	Auto Farms actives: 67
+[17-11-2024 14:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 14:32:31]	INFO	Used memory: 1683 MB
+[17-11-2024 14:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 14:34:15]	INFO	HWID: [8CDCD49F351C], character: [ViuvaNegra]
+[17-11-2024 14:35:00]	WARNING	Territory War: Field of Silence is Started.
+[17-11-2024 14:35:40]	WARNING	HWID: [IP: 190.216.239.136] is trying to loggin server without client side hwid.
+[17-11-2024 14:36:23]	INFO	HWID: [0092C3845B8D], character: [NoTeVeo]
+[17-11-2024 14:39:35]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 14:39:53]	INFO	HWID: [08BFB8004836], character: [Macc]
+[17-11-2024 14:40:54]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 14:43:38]	INFO	HWID: [ECF4BB370522], character: [Shaka]
+[17-11-2024 14:46:28]	WARNING	Baylor is alive!
+[17-11-2024 14:50:19]	INFO	HWID: [02504252E7FE], character: [NegraoRaiz]
+[17-11-2024 14:58:25]	INFO	Blood Sword Akamanah is being removed online.
+[17-11-2024 14:58:31]	WARNING	HWID: [IP: 45.181.252.62] is trying to loggin server without client side hwid.
+[17-11-2024 14:58:38]	INFO	HWID: [448763722603], character: [BiziBizi]
+[17-11-2024 14:58:39]	WARNING	HWID: [IP: 138.117.190.4] is trying to loggin server without client side hwid.
+[17-11-2024 14:58:42]	WARNING	Shuriel Fire Of Wrath is alive!
+[17-11-2024 14:58:44]	INFO	HWID: [00E00CB36028], character: [MeupopoNOseuPIPI]
+[17-11-2024 15:00:00]	INFO	[Tournament]: Event Started.
+[17-11-2024 15:00:15]	INFO	HWID: [448763722603], character: [BiziBizi]
+[17-11-2024 15:02:07]	INFO	HWID: [18C04DF1ED74], character: [Flowers]
+[17-11-2024 15:03:44]	INFO	HWID: [448763722603], character: [XYZ]
+[17-11-2024 15:03:49]	INFO	HWID: [18C04DF1ED74], character: [Dell]
+[17-11-2024 15:03:49]	WARNING	HWID: [IP: 187.40.50.45] is trying to loggin server without client side hwid.
+[17-11-2024 15:04:58]	INFO	HWID: [18C04DF1ED74], character: [Poppy]
+[17-11-2024 15:05:00]	WARNING	Next schedule for Territory Field of Silence: 19:35
+[17-11-2024 15:05:03]	INFO	HWID: [D050994BD7C5], character: [xMaraNGaTaiA]
+[17-11-2024 15:05:16]	INFO	HWID: [02504252E7FE], character: [OverDeVagabundo]
+[17-11-2024 15:05:35]	WARNING	Baylor was killed! Respawn: (nov. 17, 19:40)
+[17-11-2024 15:07:08]	INFO	HWID: [448763722603], character: [XISYZ]
+[17-11-2024 15:08:01]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 15:08:06]	INFO	HWID: [7DFA0C6CF8FB], character: [Archer]
+[17-11-2024 15:10:39]	WARNING	Shuriel Fire Of Wrath was killed! Respawn: (nov. 18, 03:55)
+[17-11-2024 15:13:14]	WARNING	HWID: [IP: 177.195.106.153] is trying to loggin server without client side hwid.
+[17-11-2024 15:14:39]	INFO	HWID: [047C16CA67D2], character: [Perverso]
+[17-11-2024 15:14:53]	INFO	HWID: [D050994BD7C5], character: [brendinhashow]
+[17-11-2024 15:15:02]	INFO	HWID: [74867AF56F75], character: [lBharbo]
+[17-11-2024 15:17:15]	WARNING	Cherub Galaxia is alive!
+[17-11-2024 15:17:49]	INFO	HWID: [448763722603], character: [BiziBizi]
+[17-11-2024 15:18:01]	WARNING	HWID: [IP: 179.67.1.233] is trying to loggin server without client side hwid.
+[17-11-2024 15:18:15]	INFO	HWID: [9CD21E89F2BF], character: [AndreNormando]
+[17-11-2024 15:18:21]	WARNING	HWID: [IP: 177.195.106.153] is trying to loggin server without client side hwid.
+[17-11-2024 15:18:26]	INFO	HWID: [047C16CA67D2], character: [Perverso]
+[17-11-2024 15:18:30]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 18:51)
+[17-11-2024 15:22:51]	WARNING	HWID: [IP: 189.48.121.36] is trying to loggin server without client side hwid.
+[17-11-2024 15:22:57]	INFO	HWID: [00E01D79020C], character: [BB]
+[17-11-2024 15:24:31]	INFO	HWID: [ECF4BB370522], character: [Shaka]
+[17-11-2024 15:25:58]	WARNING	HWID: [IP: 189.48.121.36] is trying to loggin server without client side hwid.
+[17-11-2024 15:26:10]	INFO	HWID: [00E01D79020C], character: [Dry]
+[17-11-2024 15:29:06]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 15:29:11]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 15:30:00]	INFO	[Tournament]: Event Finished.
+[17-11-2024 15:30:00]	INFO	[Tournament]: Next Event time: Sun Nov 17 20:30:00 BRT 2024
+[17-11-2024 15:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 15:32:31]	INFO	Server Time: 15:32.
+[17-11-2024 15:32:31]	INFO	Players Online: 97
+[17-11-2024 15:32:31]	INFO	Agathioms: 46
+[17-11-2024 15:32:31]	INFO	Auto Farms actives: 65
+[17-11-2024 15:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 15:32:31]	INFO	Used memory: 1912 MB
+[17-11-2024 15:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 15:35:20]	WARNING	HWID: [IP: 86.30.203.164] is trying to loggin server without client side hwid.
+[17-11-2024 15:35:39]	INFO	HWID: [088FC36C57F1], character: [Melanie]
+[17-11-2024 15:37:37]	INFO	HWID: [0AE0AFA625C8], character: [LuisInacioOLula]
+[17-11-2024 15:37:45]	INFO	HWID: [D050994BD7C5], character: [xMaraNGaTaiA]
+[17-11-2024 15:40:40]	INFO	HWID: [047C16CA67D2], character: [BRUTO]
+[17-11-2024 15:41:55]	WARNING	HWID: [IP: 62.74.25.130] is trying to loggin server without client side hwid.
+[17-11-2024 15:42:06]	INFO	HWID: [4CD5772EEB0A], character: [MrVaRiNoS]
+[17-11-2024 15:43:30]	INFO	HWID: [18C04DF1ED74], character: [Darui]
+[17-11-2024 15:45:57]	WARNING	HWID: [IP: 187.85.50.3] is trying to loggin server without client side hwid.
+[17-11-2024 15:46:02]	INFO	HWID: [3085A9B4459E], character: [DuDuFodaO]
+[17-11-2024 15:47:07]	INFO	HWID: [18C04DF1ED74], character: [Poppy]
+[17-11-2024 15:47:20]	INFO	HWID: [088FC36C57F1], character: [Melanie]
+[17-11-2024 15:49:16]	INFO	HWID: [1EC63CDA4349], character: [FEI0]
+[17-11-2024 15:50:16]	INFO	HWID: [18C04DF1ED74], character: [Darui]
+[17-11-2024 15:50:58]	INFO	HWID: [18C04DF1ED74], character: [Poppy]
+[17-11-2024 15:53:31]	INFO	HWID: [18C04DF1ED74], character: [Hulk]
+[17-11-2024 15:54:36]	INFO	HWID: [18C04DF1ED74], character: [Darui]
+[17-11-2024 15:55:04]	INFO	HWID: [F4B520639851], character: [puxailha]
+[17-11-2024 15:55:07]	INFO	HWID: [047C16CA67D2], character: [INSTAGRAM]
+[17-11-2024 15:55:22]	WARNING	HWID: [IP: 177.22.183.6] is trying to loggin server without client side hwid.
+[17-11-2024 15:55:28]	INFO	HWID: [706979AAD738], character: [MrDead]
+[17-11-2024 15:55:33]	INFO	HWID: [18C04DF1ED74], character: [Vando]
+[17-11-2024 15:56:08]	INFO	HWID: [847BEBE5A04F], character: [Leatherface]
+[17-11-2024 15:56:18]	INFO	HWID: [00E04CF603BA], character: [RugaL]
+[17-11-2024 15:56:30]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 15:57:11]	INFO	HWID: [18C04DF1ED74], character: [Weapon]
+[17-11-2024 16:00:00]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[17-11-2024 16:00:00]	INFO	Updated Sailren (id: 49999) status to 0.
+[17-11-2024 16:01:00]	INFO	Updated Sailren (id: 49999) status to 1.
+[17-11-2024 16:03:14]	INFO	HWID: [00E04CF603BA], character: [BIGBIG]
+[17-11-2024 16:04:15]	INFO	Updated Sailren (id: 49999) status to 2.
+[17-11-2024 16:04:15]	WARNING	Sailren was killed! Respawn: (nov. 17, 20:00)
+[17-11-2024 16:05:02]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 16:05:06]	WARNING	HWID: [IP: 95.92.28.152] is trying to loggin server without client side hwid.
+[17-11-2024 16:05:27]	INFO	HWID: [18C04DF1ED74], character: [Armor]
+[17-11-2024 16:05:37]	WARNING	HWID: [IP: 95.92.28.152] is trying to loggin server without client side hwid.
+[17-11-2024 16:05:43]	INFO	HWID: [B3FF8D81FDEF], character: [Kimmy]
+[17-11-2024 16:07:00]	INFO	HWID: [18C04DF1ED74], character: [GFBPA]
+[17-11-2024 16:07:23]	INFO	HWID: [00E04CF603BA], character: [RugaL]
+[17-11-2024 16:08:02]	INFO	HWID: [BA5723420B31], character: [Stifanov]
+[17-11-2024 16:08:22]	INFO	HWID: [18C04DF1ED74], character: [Vando]
+[17-11-2024 16:10:35]	WARNING	HWID: [IP: 95.92.28.152] is trying to loggin server without client side hwid.
+[17-11-2024 16:10:39]	INFO	HWID: [E02D36FBFA46], character: [km]
+[17-11-2024 16:11:30]	INFO	HWID: [047C16CA67D2], character: [INSTAGRAM]
+[17-11-2024 16:12:48]	WARNING	HWID: [IP: 189.107.202.227] is trying to loggin server without client side hwid.
+[17-11-2024 16:12:51]	INFO	HWID: [E89C257AF704], character: [GALAXY]
+[17-11-2024 16:13:06]	INFO	HWID: [BA5723420B31], character: [Stifanov]
+[17-11-2024 16:14:51]	INFO	HWID: [E89C257AF704], character: [R22]
+[17-11-2024 16:16:11]	INFO	HWID: [03C7E114E753], character: [hfx]
+[17-11-2024 16:16:59]	INFO	HWID: [BA5723420B31], character: [Stifanov]
+[17-11-2024 16:19:01]	INFO	HWID: [D050994BD7C5], character: [brendinhashow]
+[17-11-2024 16:19:17]	INFO	HWID: [D4AE52FF1F23], character: [TenebriioO]
+[17-11-2024 16:19:27]	INFO	HWID: [4A1B70C6B73B], character: [BeshopE]
+[17-11-2024 16:19:43]	INFO	HWID: [F4B520639851], character: [Pkilha]
+[17-11-2024 16:21:38]	INFO	HWID: [50EBF637986B], character: [Bishopim]
+[17-11-2024 16:21:38]	WARNING	Dualbox Protection: 50EBF637986B was trying to use over 3 clients!
+[17-11-2024 16:22:01]	INFO	HWID: [50EBF637986B], character: [Bishopim]
+[17-11-2024 16:22:01]	WARNING	Dualbox Protection: 50EBF637986B was trying to use over 3 clients!
+[17-11-2024 16:22:04]	INFO	HWID: [D050994BD7C5], character: [xMaraNGaTaiA]
+[17-11-2024 16:22:47]	INFO	HWID: [50EBF637986B], character: [Bishopim]
+[17-11-2024 16:22:47]	WARNING	Dualbox Protection: 50EBF637986B was trying to use over 3 clients!
+[17-11-2024 16:23:28]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 16:25:08]	INFO	HWID: [50EBF637986B], character: [Bishopim]
+[17-11-2024 16:25:08]	WARNING	Dualbox Protection: 50EBF637986B was trying to use over 3 clients!
+[17-11-2024 16:25:37]	INFO	HWID: [D050994BD7C5], character: [brendinhashow]
+[17-11-2024 16:28:20]	INFO	HWID: [3BD21CFB56D2], character: [AllanVieira]
+[17-11-2024 16:28:51]	INFO	HWID: [D85ED3F64D77], character: [4P0LL0]
+[17-11-2024 16:29:01]	INFO	HWID: [D017C28E3E61], character: [SrDosAneis]
+[17-11-2024 16:31:46]	INFO	HWID: [50EBF637986B], character: [bibi]
+[17-11-2024 16:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 16:32:31]	INFO	Server Time: 16:32.
+[17-11-2024 16:32:31]	INFO	Players Online: 107
+[17-11-2024 16:32:31]	INFO	Agathioms: 48
+[17-11-2024 16:32:31]	INFO	Auto Farms actives: 80
+[17-11-2024 16:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 16:32:31]	INFO	Used memory: 2762 MB
+[17-11-2024 16:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 16:32:38]	INFO	HWID: [50EBF637986B], character: [bibi]
+[17-11-2024 16:35:24]	INFO	HWID: [088FC36C57F1], character: [Melanie]
+[17-11-2024 16:35:39]	INFO	HWID: [00E04F29B964], character: [SpaMM]
+[17-11-2024 16:35:45]	INFO	HWID: [F4B5202B9F34], character: [PowerWater]
+[17-11-2024 16:36:29]	INFO	HWID: [F4B5202B9F34], character: [Bank1]
+[17-11-2024 16:36:59]	WARNING	HWID: [IP: 177.221.10.217] is trying to loggin server without client side hwid.
+[17-11-2024 16:37:14]	INFO	HWID: [22265C070A47], character: [LolyPoP]
+[17-11-2024 16:38:25]	INFO	HWID: [C3D504339EEC], character: [acerNitro]
+[17-11-2024 16:38:56]	INFO	HWID: [04421A25BB80], character: [Kimmy]
+[17-11-2024 16:40:32]	INFO	HWID: [00E04F29B964], character: [Unstoppable]
+[17-11-2024 16:40:39]	INFO	HWID: [1D5093A58D69], character: [saco3]
+[17-11-2024 16:42:40]	WARNING	HWID: [IP: 177.134.135.144] is trying to loggin server without client side hwid.
+[17-11-2024 16:43:16]	INFO	HWID: [641C67A68EA9], character: [Poiuytrewq]
+[17-11-2024 16:45:56]	INFO	HWID: [F4B5202B9F34], character: [Bank1]
+[17-11-2024 16:46:48]	INFO	HWID: [00E04CF603BA], character: [RugaL]
+[17-11-2024 16:49:39]	WARNING	HWID: [IP: 138.204.36.140] is trying to loggin server without client side hwid.
+[17-11-2024 16:49:43]	INFO	HWID: [22334D056FCB], character: [Fps]
+[17-11-2024 16:53:52]	WARNING	HWID: [IP: 104.28.200.244] is trying to loggin server without client side hwid.
+[17-11-2024 16:53:56]	INFO	HWID: [EA3D3D044FBE], character: [BeshopE]
+[17-11-2024 16:53:59]	INFO	HWID: [0963FB30C7C9], character: [TH3xL0RDxMG]
+[17-11-2024 16:54:03]	INFO	HWID: [42F64DA18D47], character: [Allan]
+[17-11-2024 16:54:34]	INFO	HWID: [0AE0AFB30EAE], character: [69hitarea69]
+[17-11-2024 16:54:46]	INFO	HWID: [ECF4BB370522], character: [Nintendo]
+[17-11-2024 16:55:24]	INFO	HWID: [0AE0AFB30EAE], character: [PickUP]
+[17-11-2024 16:57:39]	INFO	HWID: [2ECF405F6131], character: [NUMERO3]
+[17-11-2024 16:59:09]	INFO	HWID: [F4B520639851], character: [BossDown]
+[17-11-2024 17:00:00]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[17-11-2024 17:01:19]	INFO	HWID: [ECF4BB370522], character: [Ps2]
+[17-11-2024 17:01:40]	INFO	HWID: [ECF4BB370522], character: [Ps3]
+[17-11-2024 17:04:33]	INFO	HWID: [5757C12F1353], character: [Lug]
+[17-11-2024 17:05:23]	INFO	HWID: [3E9AA982966F], character: [Jessica]
+[17-11-2024 17:06:48]	INFO	HWID: [5DAF58F02195], character: [Butico]
+[17-11-2024 17:07:11]	INFO	HWID: [2203063D0481], character: [Nike]
+[17-11-2024 17:08:24]	WARNING	Varka Chief Horus is alive!
+[17-11-2024 17:09:00]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 17:09:24]	INFO	HWID: [22334D056FCB], character: [Fps]
+[17-11-2024 17:10:06]	INFO	HWID: [0AE0AFB30EAE], character: [LaVendetta]
+[17-11-2024 17:12:36]	INFO	HWID: [00E04F1251AD], character: [HoollyWood]
+[17-11-2024 17:13:08]	WARNING	HWID: [IP: 177.128.109.218] is trying to loggin server without client side hwid.
+[17-11-2024 17:13:17]	INFO	HWID: [9C6B002B444F], character: [HighLander]
+[17-11-2024 17:13:19]	WARNING	Ketra's Chief Brakki is alive!
+[17-11-2024 17:13:55]	INFO	HWID: [00E04F1251AD], character: [Knnuupp]
+[17-11-2024 17:14:09]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 17, 20:45)
+[17-11-2024 17:15:46]	WARNING	HWID: [IP: 177.129.55.229] is trying to loggin server without client side hwid.
+[17-11-2024 17:15:50]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 17:17:31]	WARNING	Varka's Commnder Mos is alive!
+[17-11-2024 17:18:44]	WARNING	HWID: [IP: 177.128.109.218] is trying to loggin server without client side hwid.
+[17-11-2024 17:18:49]	INFO	HWID: [9C6B002B444F], character: [testeserver]
+[17-11-2024 17:19:01]	INFO	Varka's Commnder Mos returned to spawn location.
+[17-11-2024 17:19:04]	WARNING	Ketra's Chief Brakki was killed! Respawn: (nov. 17, 21:03)
+[17-11-2024 17:20:16]	INFO	HWID: [06896D6BA5C8], character: [BrotaXota]
+[17-11-2024 17:23:21]	WARNING	Varka's Commnder Mos was killed! Respawn: (nov. 17, 21:43)
+[17-11-2024 17:23:53]	WARNING	Varka's Hero Shadith is alive!
+[17-11-2024 17:24:11]	INFO	HWID: [F4B520639851], character: [BossDown]
+[17-11-2024 17:24:47]	INFO	HWID: [2A04A0461566], character: [Link]
+[17-11-2024 17:26:08]	INFO	HWID: [5AF6F728E7E1], character: [Stifanov]
+[17-11-2024 17:27:30]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 0.
+[17-11-2024 17:28:01]	WARNING	HWID: [IP: 138.97.197.252] is trying to loggin server without client side hwid.
+[17-11-2024 17:28:06]	INFO	HWID: [74563C994490], character: [rafoxy]
+[17-11-2024 17:28:08]	INFO	Updated Flame Splendor Barakiel (id: 39999) status to 1.
+[17-11-2024 17:28:08]	WARNING	Flame Splendor Barakiel was killed! Respawn: (nov. 18, 04:28)
+[17-11-2024 17:28:19]	INFO	HWID: [0090F59C74DE], character: [CroosReD]
+[17-11-2024 17:29:08]	INFO	HWID: [0090F59C74DE], character: [INDIANARA]
+[17-11-2024 17:29:23]	INFO	HWID: [50EBF637986B], character: [EoFranK]
+[17-11-2024 17:30:27]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 17:30:37]	INFO	HWID: [2089840571EE], character: [High]
+[17-11-2024 17:31:07]	WARNING	HWID: [IP: 177.223.22.148] is trying to loggin server without client side hwid.
+[17-11-2024 17:31:29]	INFO	HWID: [ECF4BB370522], character: [XBox]
+[17-11-2024 17:31:53]	INFO	HWID: [74563C994490], character: [onlyfarming]
+[17-11-2024 17:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 17:32:31]	INFO	Server Time: 17:32.
+[17-11-2024 17:32:31]	INFO	Players Online: 124
+[17-11-2024 17:32:31]	INFO	Agathioms: 52
+[17-11-2024 17:32:31]	INFO	Auto Farms actives: 75
+[17-11-2024 17:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 17:32:31]	INFO	Used memory: 2799 MB
+[17-11-2024 17:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 17:33:04]	INFO	HWID: [2A134C060BD4], character: [Dirty]
+[17-11-2024 17:33:17]	WARNING	Varka's Hero Shadith was killed! Respawn: (nov. 17, 21:44)
+[17-11-2024 17:33:36]	INFO	HWID: [ECF4BB370522], character: [MiniGame]
+[17-11-2024 17:34:03]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 17:34:06]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 17:34:18]	INFO	HWID: [2A134C060BD4], character: [Hannah]
+[17-11-2024 17:34:22]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 17:34:50]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 17:37:53]	WARNING	Domb Death Cabrio is alive!
+[17-11-2024 17:38:02]	INFO	HWID: [74867AF56F75], character: [MercenarioHabil]
+[17-11-2024 17:38:19]	INFO	HWID: [74867AF56F75], character: [lBharbo]
+[17-11-2024 17:38:57]	WARNING	HWID: [IP: 177.130.20.50] is trying to loggin server without client side hwid.
+[17-11-2024 17:39:24]	WARNING	Domb Death Cabrio was killed! Respawn: (nov. 18, 06:13)
+[17-11-2024 17:40:00]	INFO	HWID: [009EEE09E372], character: [CoOllBecK]
+[17-11-2024 17:41:52]	INFO	HWID: [50EBF637986B], character: [bibi]
+[17-11-2024 17:41:59]	INFO	HWID: [8CF22F5AA8FD], character: [Stifanov]
+[17-11-2024 17:42:21]	INFO	HWID: [204747FEC1E9], character: [GLE]
+[17-11-2024 17:42:29]	INFO	HWID: [2A04A0461566], character: [ELPapito]
+[17-11-2024 17:46:26]	INFO	HWID: [04199EB0CCF2], character: [Stifanov]
+[17-11-2024 17:46:31]	INFO	HWID: [74867AF56F75], character: [Khalessi]
+[17-11-2024 17:48:26]	INFO	HWID: [847BEBE5A04F], character: [Fantasma1]
+[17-11-2024 17:49:00]	INFO	HWID: [74563C994490], character: [MALDITAXANINHA]
+[17-11-2024 17:51:28]	INFO	HWID: [847BEBE5A04F], character: [Leatherface]
+[17-11-2024 17:54:43]	WARNING	HWID: [IP: 186.224.187.79] is trying to loggin server without client side hwid.
+[17-11-2024 17:54:48]	INFO	HWID: [743AF4A8907F], character: [Franzinha]
+[17-11-2024 17:55:16]	INFO	HWID: [ECF4BB370522], character: [Shaka]
+[17-11-2024 18:00:50]	INFO	HWID: [F4B520639851], character: [puxailha]
+[17-11-2024 18:01:19]	INFO	HWID: [9C6B00568003], character: [DawrfKiller]
+[17-11-2024 18:01:56]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 18:03:40]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 18:05:00]	INFO	HWID: [F4B5202B9F34], character: [PowerWater]
+[17-11-2024 18:07:05]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 18:07:10]	INFO	HWID: [B7D04597C14E], character: [saco3]
+[17-11-2024 18:10:13]	WARNING	No handler registered for admin command 'admin_survey_stop'.
+[17-11-2024 18:10:16]	WARNING	No handler registered for admin command 'admin_survey'.
+[17-11-2024 18:10:20]	INFO	HWID: [204747FEC1E9], character: [GAB]
+[17-11-2024 18:10:21]	WARNING	No handler registered for admin command 'admin_stopsurvey'.
+[17-11-2024 18:10:26]	WARNING	No handler registered for admin command 'admin_stop_survey'.
+[17-11-2024 18:10:57]	WARNING	No handler registered for admin command 'admin_survey'.
+[17-11-2024 18:11:36]	WARNING	HWID: [IP: 179.25.78.240] is trying to loggin server without client side hwid.
+[17-11-2024 18:11:57]	INFO	HWID: [A8A159214C1B], character: [Emilia]
+[17-11-2024 18:12:10]	INFO	HWID: [24FAE702804B], character: [VPN]
+[17-11-2024 18:12:47]	WARNING	HWID: [IP: 138.204.36.140] is trying to loggin server without client side hwid.
+[17-11-2024 18:12:50]	INFO	HWID: [22334D056FCB], character: [RaFinha]
+[17-11-2024 18:13:09]	WARNING	HWID: [IP: 179.189.73.125] is trying to loggin server without client side hwid.
+[17-11-2024 18:13:35]	INFO	HWID: [0CCC47E24ED0], character: [TOJI]
+[17-11-2024 18:14:37]	INFO	HWID: [22334D056FCB], character: [Fps]
+[17-11-2024 18:15:43]	WARNING	HWID: [IP: 177.162.126.85] is trying to loggin server without client side hwid.
+[17-11-2024 18:15:51]	INFO	HWID: [107D1A0A06D3], character: [RAIANE]
+[17-11-2024 18:16:04]	INFO	HWID: [08BFB8004836], character: [Macc]
+[17-11-2024 18:17:08]	INFO	HWID: [0CCC47E24ED0], character: [Freeccs]
+[17-11-2024 18:18:07]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 18:20:01]	WARNING	HWID: [IP: 201.71.146.225] is trying to loggin server without client side hwid.
+[17-11-2024 18:21:08]	INFO	HWID: [80C16EAB20AA], character: [oBoTiCaRio]
+[17-11-2024 18:21:41]	WARNING	Ketra's Hero Hekaton is alive!
+[17-11-2024 18:23:46]	WARNING	Ketra's Hero Hekaton was killed! Respawn: (nov. 17, 22:47)
+[17-11-2024 18:23:48]	INFO	HWID: [8E41D0179885], character: [emptinessmachine]
+[17-11-2024 18:28:03]	INFO	HWID: [80C16EAB20AA], character: [oBoTiCaRio]
+[17-11-2024 18:28:57]	INFO	Demonic Sword Zariche has been removed from world.
+[17-11-2024 18:29:08]	INFO	HWID: [00E04C239987], character: [ExplosaoRox]
+[17-11-2024 18:29:15]	WARNING	Ketra's Commander Tayr is alive!
+[17-11-2024 18:30:00]	WARNING	Territory War: Primveal Isle is Started.
+[17-11-2024 18:30:21]	WARNING	Ketra's Commander Tayr was killed! Respawn: (nov. 17, 21:31)
+[17-11-2024 18:30:57]	INFO	HWID: [80C16EAB20AA], character: [PIQUEDECUIABA]
+[17-11-2024 18:31:07]	WARNING	Kernon is alive!
+[17-11-2024 18:31:07]	WARNING	HWID: [IP: 170.244.3.64] is trying to loggin server without client side hwid.
+[17-11-2024 18:31:12]	INFO	HWID: [5CC9D3800A1E], character: [Hinnata]
+[17-11-2024 18:31:33]	INFO	HWID: [80C16EAB20AA], character: [oBoTiCaRio]
+[17-11-2024 18:31:48]	INFO	HWID: [00E04C239987], character: [DonaFlorinda]
+[17-11-2024 18:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 18:32:31]	INFO	Server Time: 18:32.
+[17-11-2024 18:32:31]	INFO	Players Online: 125
+[17-11-2024 18:32:31]	INFO	Agathioms: 49
+[17-11-2024 18:32:31]	INFO	Auto Farms actives: 75
+[17-11-2024 18:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 18:32:31]	INFO	Used memory: 2890 MB
+[17-11-2024 18:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 18:33:45]	WARNING	Kernon was killed! Respawn: (nov. 18, 05:44)
+[17-11-2024 18:34:11]	INFO	HWID: [0CCC47E24ED0], character: [ConfiG]
+[17-11-2024 18:34:57]	INFO	HWID: [00E04F1251AD], character: [Knnuupp]
+[17-11-2024 18:35:18]	INFO	HWID: [68A3C4684D55], character: [Deathnot]
+[17-11-2024 18:35:33]	INFO	HWID: [00E04F1251AD], character: [HoollyWood]
+[17-11-2024 18:36:35]	INFO	HWID: [80C16EAB20AA], character: [PIQUETREMBALA]
+[17-11-2024 18:37:25]	WARNING	HWID: [IP: 186.225.70.34] is trying to loggin server without client side hwid.
+[17-11-2024 18:37:33]	INFO	HWID: [74D02BCC3C2B], character: [Jurandim]
+[17-11-2024 18:38:51]	WARNING	HWID: [IP: 187.79.88.85] is trying to loggin server without client side hwid.
+[17-11-2024 18:38:57]	INFO	HWID: [641C67E8D728], character: [Life]
+[17-11-2024 18:39:06]	INFO	HWID: [80C16EAB20AA], character: [MAGALU]
+[17-11-2024 18:39:48]	INFO	HWID: [641C67E8D728], character: [SemNick]
+[17-11-2024 18:40:20]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 18:40:22]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 18:41:58]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 18:42:22]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 18:43:26]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 18:43:57]	INFO	HWID: [80C16EAB20AA], character: [PIQUEDECUIABA]
+[17-11-2024 18:44:47]	INFO	HWID: [868A89DAACD5], character: [emptinessmachine]
+[17-11-2024 18:48:05]	WARNING	Krokian Padisha Sobekk is alive!
+[17-11-2024 18:49:32]	INFO	HWID: [02504252E7FE], character: [GFBPA]
+[17-11-2024 18:50:33]	WARNING	Krokian Padisha Sobekk was killed! Respawn: (nov. 18, 07:17)
+[17-11-2024 18:51:27]	WARNING	Cherub Galaxia is alive!
+[17-11-2024 18:51:48]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 18:53:24]	WARNING	Cherub Galaxia was killed! Respawn: (nov. 17, 23:44)
+[17-11-2024 18:54:25]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 18:54:53]	INFO	HWID: [D1BCC38239EA], character: [Kimmy]
+[17-11-2024 18:55:11]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 18:58:35]	INFO	HWID: [902B34FB4879], character: [Shaka]
+[17-11-2024 18:59:56]	INFO	HWID: [00E2695BE38F], character: [DIEGO]
+[17-11-2024 19:00:00]	WARNING	Next schedule for Territory Primveal Isle: 23:30
+[17-11-2024 19:00:03]	INFO	HWID: [641C67E8D728], character: [Life]
+[17-11-2024 19:00:43]	INFO	HWID: [18C04DF1ED74], character: [Hulk]
+[17-11-2024 19:01:44]	INFO	HWID: [74867AF56F75], character: [Khalessi]
+[17-11-2024 19:01:51]	INFO	HWID: [ECF4BB370522], character: [Pentelinha]
+[17-11-2024 19:03:08]	INFO	HWID: [00E04CF603BA], character: [RugaL]
+[17-11-2024 19:03:23]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 19:05:06]	INFO	HWID: [9C6B002B444F], character: [Link]
+[17-11-2024 19:05:24]	INFO	HWID: [641C67E8D728], character: [Life]
+[17-11-2024 19:06:36]	INFO	HWID: [22334D056FCB], character: [Fps]
+[17-11-2024 19:08:58]	INFO	HWID: [74867AF56F75], character: [Khalessi]
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:44]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:45]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:09:46]	SEVERE	Failed reading [C] RequestExEnchantSkill for [Character: BlacKPouL - Account: higol871 - IP: 45.186.133.221]. 
+[17-11-2024 19:12:15]	INFO	HWID: [7A86BBBEC3B5], character: [Kimmy]
+[17-11-2024 19:12:38]	INFO	HWID: [02504252E7FE], character: [OverDeVagabundo]
+[17-11-2024 19:12:46]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 19:13:59]	INFO	HWID: [00FF59E8BD7B], character: [AMAZING]
+[17-11-2024 19:14:23]	INFO	HWID: [48E7DA69A1D6], character: [OverLord]
+[17-11-2024 19:14:29]	WARNING	Water Dragon Seer Sheshark is alive!
+[17-11-2024 19:14:39]	INFO	HWID: [56CDD526E1D9], character: [Allan]
+[17-11-2024 19:18:00]	INFO	HWID: [74563C994490], character: [rafoxy]
+[17-11-2024 19:19:00]	INFO	HWID: [F02F74F2990B], character: [BrotaXota]
+[17-11-2024 19:19:25]	INFO	HWID: [74563C994490], character: [MALDITAXANINHA]
+[17-11-2024 19:20:11]	WARNING	Water Dragon Seer Sheshark was killed! Respawn: (nov. 18, 08:01)
+[17-11-2024 19:21:47]	INFO	HWID: [80C16EAB20AA], character: [BalacoBaco]
+[17-11-2024 19:21:47]	WARNING	Dualbox Protection: 80C16EAB20AA was trying to use over 3 clients!
+[17-11-2024 19:21:57]	INFO	HWID: [641C67A68EA9], character: [Poiuytrewq]
+[17-11-2024 19:22:26]	INFO	HWID: [08BFB8004836], character: [s1]
+[17-11-2024 19:23:52]	WARNING	HWID: [IP: 201.32.68.168] is trying to loggin server without client side hwid.
+[17-11-2024 19:24:06]	INFO	HWID: [00E04C8A6CAC], character: [LW]
+[17-11-2024 19:25:20]	INFO	HWID: [F4B5202B9F34], character: [PowerWater]
+[17-11-2024 19:25:57]	INFO	HWID: [2A04A0461566], character: [Pipizinho]
+[17-11-2024 19:26:04]	INFO	HWID: [641C67A68EA9], character: [Poiuytrewq]
+[17-11-2024 19:27:11]	INFO	HWID: [82DA4422E961], character: [Kimmy]
+[17-11-2024 19:28:10]	WARNING	HWID: [IP: 138.204.72.41] is trying to loggin server without client side hwid.
+[17-11-2024 19:28:20]	INFO	HWID: [C89CDCC58F54], character: [STAR]
+[17-11-2024 19:29:56]	WARNING	Hestia Guardian Deity of the Hot Springs is alive!
+[17-11-2024 19:30:00]	INFO	Updated Zaken (id: 29022) status to 0.
+[17-11-2024 19:30:00]	WARNING	Zaken is alive!
+[17-11-2024 19:30:59]	INFO	HWID: [9C6B00568003], character: [Steve]
+[17-11-2024 19:32:01]	INFO	Demonic Sword Zariche has been removed from world.
+[17-11-2024 19:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 19:32:31]	INFO	Server Time: 19:32.
+[17-11-2024 19:32:31]	INFO	Players Online: 127
+[17-11-2024 19:32:31]	INFO	Agathioms: 61
+[17-11-2024 19:32:31]	INFO	Auto Farms actives: 69
+[17-11-2024 19:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 19:32:31]	INFO	Used memory: 1985 MB
+[17-11-2024 19:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 19:34:21]	WARNING	Hestia Guardian Deity of the Hot Springs was killed! Respawn: (nov. 18, 10:36)
+[17-11-2024 19:35:00]	WARNING	Territory War: Field of Silence is Started.
+[17-11-2024 19:40:37]	WARNING	Baylor is alive!
+[17-11-2024 19:44:23]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 19:45:50]	INFO	HWID: [00E04F1251AD], character: [ZoOMoO]
+[17-11-2024 19:46:29]	WARNING	HWID: [IP: 186.194.148.182] is trying to loggin server without client side hwid.
+[17-11-2024 19:46:42]	INFO	HWID: [0AE0AFF90692], character: [MariaJose]
+[17-11-2024 19:46:45]	INFO	HWID: [7085C2FAB276], character: [WWW]
+[17-11-2024 19:48:12]	WARNING	HWID: [IP: 186.194.148.182] is trying to loggin server without client side hwid.
+[17-11-2024 19:48:16]	INFO	HWID: [0AE0AFF90692], character: [p]
+[17-11-2024 19:48:56]	INFO	HWID: [7085C2FAB276], character: [AK47]
+[17-11-2024 19:50:15]	INFO	HWID: [08BFB8004836], character: [LuisInacioOLula]
+[17-11-2024 19:50:48]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 19:51:16]	INFO	HWID: [0AE0AFF90692], character: [p]
+[17-11-2024 19:51:57]	WARNING	HWID: [IP: 45.186.174.110] is trying to loggin server without client side hwid.
+[17-11-2024 19:52:03]	INFO	HWID: [0040A72C77BF], character: [SrTheDarkMascara]
+[17-11-2024 19:53:16]	INFO	HWID: [7085C2FAB276], character: [AK47]
+[17-11-2024 19:53:21]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 19:55:20]	WARNING	HWID: [IP: 191.189.26.28] is trying to loggin server without client side hwid.
+[17-11-2024 19:55:31]	INFO	HWID: [001CC025B5A6], character: [22]
+[17-11-2024 19:58:43]	WARNING	HWID: [IP: 177.55.205.40] is trying to loggin server without client side hwid.
+[17-11-2024 19:58:46]	INFO	HWID: [230D2E9F7B4B], character: [AllanVieira]
+[17-11-2024 20:00:00]	INFO	Olympiad game started.
+[17-11-2024 20:00:00]	INFO	Updated Sailren (id: 49999) status to 0.
+[17-11-2024 20:00:00]	INFO	Spawned 934 night NPCs, despawned 688 day NPCs.
+[17-11-2024 20:00:02]	WARNING	HWID: [IP: 45.70.60.186] is trying to loggin server without client side hwid.
+[17-11-2024 20:00:08]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 20:01:00]	INFO	Updated Sailren (id: 49999) status to 1.
+[17-11-2024 20:04:46]	INFO	HWID: [FA444553EB0C], character: [Allan]
+[17-11-2024 20:04:58]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 20:05:00]	WARNING	Next schedule for Territory Field of Silence: 00:35
+[17-11-2024 20:08:05]	WARNING	Baylor was killed! Respawn: (nov. 18, 00:15)
+[17-11-2024 20:12:36]	WARNING	HWID: [IP: 191.223.117.84] is trying to loggin server without client side hwid.
+[17-11-2024 20:13:05]	INFO	HWID: [00E56CAA026C], character: [SergioR0X]
+[17-11-2024 20:14:49]	INFO	HWID: [22324D06A34C], character: [Anjinho]
+[17-11-2024 20:15:00]	INFO	Updated Orfen (id: 29014) status to 0.
+[17-11-2024 20:15:00]	WARNING	Orfen is alive!
+[17-11-2024 20:16:09]	INFO	HWID: [22324D06A34C], character: [AnjoDarCK]
+[17-11-2024 20:18:18]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 20:20:42]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 20:21:41]	INFO	Updated Zaken (id: 29022) status to 1.
+[17-11-2024 20:22:55]	INFO	HWID: [7085C2FAB276], character: [AK47]
+[17-11-2024 20:26:36]	INFO	HWID: [EC8E17A04C60], character: [acerNitro]
+[17-11-2024 20:26:42]	WARNING	Zaken was killed! Respawn: (nov. 19, 19:30)
+[17-11-2024 20:26:59]	INFO	HWID: [48E7DA7BAE60], character: [ZeroH]
+[17-11-2024 20:29:35]	INFO	Updated Sailren (id: 49999) status to 2.
+[17-11-2024 20:29:35]	WARNING	Sailren was killed! Respawn: (nov. 17, 22:00)
+[17-11-2024 20:30:00]	INFO	[Tournament]: Event Started.
+[17-11-2024 20:31:52]	INFO	HWID: [74563C994490], character: [SMALLVILLE]
+[17-11-2024 20:32:08]	INFO	HWID: [0CCC47E24ED0], character: [Freeccs]
+[17-11-2024 20:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 20:32:31]	INFO	Server Time: 20:32.
+[17-11-2024 20:32:31]	INFO	Players Online: 126
+[17-11-2024 20:32:31]	INFO	Agathioms: 63
+[17-11-2024 20:32:31]	INFO	Auto Farms actives: 59
+[17-11-2024 20:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 20:32:31]	INFO	Used memory: 2588 MB
+[17-11-2024 20:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 20:32:34]	INFO	HWID: [74563C994490], character: [MALDITAXANINHA]
+[17-11-2024 20:35:09]	INFO	Updated Orfen (id: 29014) status to 1.
+[17-11-2024 20:35:20]	WARNING	Orfen was killed! Respawn: (nov. 18, 20:15)
+[17-11-2024 20:35:58]	INFO	HWID: [204747FEC1E9], character: [GAB]
+[17-11-2024 20:36:08]	INFO	HWID: [204747FEC1E9], character: [GLE]
+[17-11-2024 20:37:23]	INFO	HWID: [02504252E7FE], character: [lllllllllllllll]
+[17-11-2024 20:37:31]	INFO	[Tournament]: Tournament is Searching for F1X1 fights.
+[17-11-2024 20:37:31]	INFO	[Tournament]: A new fight (ID: 269828698) [F1X1] started: SUMATRODOL's Team vs C0L0SS4L's Team
+[17-11-2024 20:37:32]	INFO	HWID: [A238941CE1E6], character: [AllanVieira]
+[17-11-2024 20:37:47]	INFO	HWID: [8E10945AC251], character: [x0x]
+[17-11-2024 20:38:05]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 20:38:51]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 20:39:04]	INFO	HWID: [02504252E7FE], character: [NegraoRaiz]
+[17-11-2024 20:39:15]	INFO	HWID: [204747FEC1E9], character: [GAB]
+[17-11-2024 20:40:03]	INFO	HWID: [02504252E7FE], character: [GFBPA]
+[17-11-2024 20:40:10]	INFO	HWID: [ECF4BB370522], character: [Invoker]
+[17-11-2024 20:41:00]	WARNING	HWID: [IP: 186.2.251.177] is trying to loggin server without client side hwid.
+[17-11-2024 20:41:13]	INFO	HWID: [0023AEB7769C], character: [AQUILES]
+[17-11-2024 20:41:40]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 20:41:45]	INFO	HWID: [902B34FB4879], character: [Shaka]
+[17-11-2024 20:44:00]	INFO	HWID: [50EBF637986B], character: [EoFranK]
+[17-11-2024 20:44:28]	INFO	HWID: [0B36DCA58DC1], character: [A]
+[17-11-2024 20:45:12]	INFO	HWID: [02504252E7FE], character: [OverDeVagabundo]
+[17-11-2024 20:45:14]	WARNING	Varka Chief Horus is alive!
+[17-11-2024 20:45:18]	INFO	HWID: [F4B520639851], character: [puxailha]
+[17-11-2024 20:46:24]	INFO	HWID: [F8FECE257F45], character: [GEEKA]
+[17-11-2024 20:46:58]	INFO	HWID: [F4B520639851], character: [Hariel]
+[17-11-2024 20:49:28]	WARNING	HWID: [IP: 170.246.110.169] is trying to loggin server without client side hwid.
+[17-11-2024 20:49:41]	INFO	HWID: [D85ED3F5C453], character: [3SP3C14L]
+[17-11-2024 20:50:44]	INFO	HWID: [176C2DDD65B1], character: [x0x]
+[17-11-2024 20:51:03]	INFO	HWID: [D85ED3F5C453], character: [DowN]
+[17-11-2024 20:51:37]	INFO	HWID: [00E00CB36028], character: [MeupopoNOseuPIPI]
+[17-11-2024 20:52:29]	INFO	HWID: [93CF05D38BAE], character: [acerNitro]
+[17-11-2024 20:52:50]	WARNING	Ocean Flame Ashakiel is alive!
+[17-11-2024 20:54:14]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 20:54:33]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 20:55:34]	INFO	HWID: [902B34FB4879], character: [Shaka]
+[17-11-2024 20:56:00]	WARNING	HWID: [IP: 82.132.214.9] is trying to loggin server without client side hwid.
+[17-11-2024 20:56:48]	INFO	HWID: [902B34FB4879], character: [Shaka]
+[17-11-2024 20:57:17]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 20:58:02]	INFO	HWID: [BEA4F081203E], character: [C]
+[17-11-2024 20:59:33]	WARNING	Ocean Flame Ashakiel was killed! Respawn: (nov. 18, 08:59)
+[17-11-2024 21:00:00]	INFO	[Tournament]: Event Finished.
+[17-11-2024 21:00:00]	INFO	[Tournament]: Next Event time: Mon Nov 18 01:00:00 BRT 2024
+[17-11-2024 21:00:00]	INFO	Spawned 688 day NPCs, despawned 934 night NPCs.
+[17-11-2024 21:00:05]	WARNING	Queen Shyeed is alive!
+[17-11-2024 21:00:07]	INFO	HWID: [00E04CF603BA], character: [RugaL]
+[17-11-2024 21:00:18]	INFO	HWID: [2A04A0461566], character: [Batore]
+[17-11-2024 21:00:49]	WARNING	HWID: [IP: 186.225.70.138] is trying to loggin server without client side hwid.
+[17-11-2024 21:00:56]	INFO	HWID: [48E7DA7BAE60], character: [Kirara]
+[17-11-2024 21:01:16]	INFO	HWID: [54764F3A862C], character: [km]
+[17-11-2024 21:01:19]	INFO	HWID: [107D1A0A06D3], character: [RAIANE]
+[17-11-2024 21:02:15]	WARNING	HWID: [IP: 87.236.176.125] is trying to loggin server without client side hwid.
+[17-11-2024 21:02:27]	INFO	HWID: [ECA86BBB348E], character: [zDuDu]
+[17-11-2024 21:02:50]	WARNING	HWID: [IP: 82.132.213.72] is trying to loggin server without client side hwid.
+[17-11-2024 21:02:56]	INFO	HWID: [8F7361B495D7], character: [hfx]
+[17-11-2024 21:03:36]	INFO	HWID: [18C04DF1ED74], character: [Flowers]
+[17-11-2024 21:03:47]	WARNING	Ketra's Chief Brakki is alive!
+[17-11-2024 21:04:05]	WARNING	HWID: [IP: 87.236.176.127] is trying to loggin server without client side hwid.
+[17-11-2024 21:04:23]	WARNING	Queen Shyeed was killed! Respawn: (nov. 18, 08:52)
+[17-11-2024 21:04:48]	WARNING	HWID: [IP: 109.48.26.65] is trying to loggin server without client side hwid.
+[17-11-2024 21:04:52]	INFO	HWID: [ECA86BBB348E], character: [zDuDu]
+[17-11-2024 21:04:54]	INFO	HWID: [00E2695BE38F], character: [SUMATRODOL]
+[17-11-2024 21:07:27]	INFO	HWID: [00E04C239987], character: [DasArabias]
+[17-11-2024 21:08:43]	INFO	HWID: [22265C070A47], character: [xLolyPoPx]
+[17-11-2024 21:10:37]	INFO	HWID: [2445B2EDEE44], character: [AllanVieira]
+[17-11-2024 21:15:00]	WARNING	Varka Chief Horus was killed! Respawn: (nov. 18, 01:13)
+[17-11-2024 21:15:00]	INFO	Updated Core (id: 29006) status to 0.
+[17-11-2024 21:15:00]	WARNING	Core is alive!
+[17-11-2024 21:18:14]	INFO	HWID: [00E04CF603BA], character: [XerecO]
+[17-11-2024 21:19:40]	INFO	Updated Core (id: 29006) status to 1.
+[17-11-2024 21:19:51]	WARNING	Core was killed! Respawn: (nov. 18, 21:15)
+[17-11-2024 21:20:23]	INFO	HWID: [001A3F97E036], character: [WAYKIKIX]
+[17-11-2024 21:21:58]	WARNING	Ketra's Chief Brakki was killed! Respawn: (nov. 18, 00:59)
+[17-11-2024 21:22:36]	INFO	HWID: [C1C94931B138], character: [Bau]
+[17-11-2024 21:22:51]	INFO	HWID: [5CC9D3800A1E], character: [Alinemendes]
+[17-11-2024 21:23:44]	WARNING	HWID: [IP: 191.6.126.80] is trying to loggin server without client side hwid.
+[17-11-2024 21:23:52]	INFO	HWID: [ECF4BB370522], character: [Invoker]
+[17-11-2024 21:29:45]	INFO	HWID: [0023AEB7769C], character: [Oracolo]
+[17-11-2024 21:31:34]	INFO	HWID: [DABFD6AA9493], character: [GEEKA]
+[17-11-2024 21:31:42]	WARNING	Ketra's Commander Tayr is alive!
+[17-11-2024 21:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 21:32:31]	INFO	Server Time: 21:32.
+[17-11-2024 21:32:31]	INFO	Players Online: 128
+[17-11-2024 21:32:31]	INFO	Agathioms: 56
+[17-11-2024 21:32:31]	INFO	Auto Farms actives: 75
+[17-11-2024 21:32:31]	INFO	Free Memory: 6144 MB
+[17-11-2024 21:32:31]	INFO	Used memory: 2732 MB
+[17-11-2024 21:32:31]	INFO	----------------------------------------=[ Server Status ]
+[17-11-2024 21:35:36]	INFO	GM: HighLander (268491653) issued restarting process in 300 seconds.
+[17-11-2024 21:38:51]	INFO	HWID: [204747FEC1E9], character: [GVG]
+[17-11-2024 21:40:39]	INFO	-----------------------------=[ Under restarting process ]
+[17-11-2024 21:40:39]	INFO	OfflineTradersTable: offline traders stored.
+[17-11-2024 21:40:41]	INFO	Players have been disconnected.
+[17-11-2024 21:40:41]	INFO	ThreadPool: Shutting down.
+[17-11-2024 21:40:41]	INFO	FestivalOfDarknessManager has been saved.
+[17-11-2024 21:40:41]	INFO	SevenSignsManager has been saved.
+[17-11-2024 21:40:41]	INFO	Running scripts has been stopped.
+[17-11-2024 21:40:41]	INFO	Saved boss zones data.
+[17-11-2024 21:40:41]	INFO	ZoneManager has been saved.
+[17-11-2024 21:40:41]	INFO	GrandBossManager has been saved.
+[17-11-2024 21:40:41]	INFO	SpawnManager has been saved.
+[17-11-2024 21:40:41]	INFO	Olympiad has been saved.
+[17-11-2024 21:40:41]	INFO	HeroManager has been saved.
+[17-11-2024 21:40:41]	INFO	CastleManorManager has been saved.
+[17-11-2024 21:40:41]	INFO	FishingChampionshipManager has been saved.
+[17-11-2024 21:40:41]	INFO	BufferManager has been saved.
+[17-11-2024 21:40:41]	INFO	PetitionManager has been saved.
+[17-11-2024 21:40:41]	INFO	ClanHallManager has been saved.
+[17-11-2024 21:40:41]	INFO	CoupleManager has been saved.
+[17-11-2024 21:40:41]	INFO	Saved 123 items on ground.
+[17-11-2024 21:40:41]	INFO	ItemsOnGroundTaskManager has been saved.

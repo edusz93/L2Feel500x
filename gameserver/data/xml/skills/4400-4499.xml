@@ -738,7 +738,7 @@
 		<set name="effectRange" val="1100" />
 		<set name="mpConsume" val="#mpConsume" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_water">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_water">
 				<addMul stat="fireRes" val="#fire" />
 				<subDiv stat="waterRes" val="#water" />
 			</effect>
@@ -763,7 +763,7 @@
 		<set name="effectRange" val="1100" />
 		<set name="mpConsume" val="#mpConsume" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_wind">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_wind">
 				<subDiv stat="windRes" val="#wind" />
 				<addMul stat="earthRes" val="#earth" />
 			</effect>
@@ -788,7 +788,7 @@
 		<set name="effectRange" val="1100" />
 		<set name="mpConsume" val="#mpConsume" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_earth">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_earth">
 				<subDiv stat="earthRes" val="#earth" />
 				<addMul stat="windRes" val="#wind" />
 			</effect>
@@ -814,7 +814,7 @@
 		<set name="effectRange" val="1100" />
 		<set name="mpConsume" val="#mpConsume" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_unholy">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_unholy">
 				<subDiv stat="darkRes" val="#dark" />
 				<addMul stat="holyRes" val="#holy" />
 			</effect>
@@ -840,7 +840,7 @@
 		<set name="effectRange" val="1100" />
 		<set name="mpConsume" val="#mpConsume" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_holy">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_holy">
 				<subDiv stat="holyRes" val="#holy" />
 				<addMul stat="darkRes" val="#dark" />
 			</effect>

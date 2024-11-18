@@ -2,7 +2,7 @@
 <list maintainEnchantment="true" applyTaxes="true">
 	<!-- GOLD BAR -->
 	<item id="1">
-		<ingredient id="13000" count="10"/>
+		<ingredient id="13000" count="5"/>
 		<production id="13007" count="1"/>
 	</item>
 	<!-- Elixir hp/cp -->
@@ -29,7 +29,7 @@
 	</item>
 	<!-- Roulette -->
 	<item id="8">
-		<ingredient id="13000" count="25"/>
+		<ingredient id="13000" count="20"/>
 		<production id="11017" count="1"/>
 	</item>
 	<!-- 7 days Premium Status -->
@@ -39,17 +39,17 @@
 	</item>
 	<!-- 15 days Premium Status -->
 	<item id="11">
-		<ingredient id="13000" count="20"/>
+		<ingredient id="13000" count="15"/>
 		<production id="11004" count="1"/>
 	</item>
 	<!-- 1 Month Premium Status -->
 	<item id="12">
-		<ingredient id="13000" count="30"/>
+		<ingredient id="13000" count="20"/>
 		<production id="11005" count="1"/>
 	</item>
 	<!-- Change Name -->
 	<item id="13">
-		<ingredient id="13000" count="20"/>
+		<ingredient id="13000" count="10"/>
 		<production id="11010" count="1"/>
 	</item>
 	<!-- Change Sexy -->
@@ -80,8 +80,8 @@
 	<!--  CP Potion -->
 	<item id="19">
 		<ingredient id="13000" count="10"/>
-		<production id="5592" count="500"/>
-		<production id="5591" count="500"/>
+		<production id="5592" count="1000"/>
+		<production id="5591" count="1000"/>
 	</item>
 	<!--  Hair Style Change Potion - A -->
 	<item id="20">
@@ -153,4 +153,90 @@
 		<ingredient id="13000" count="5"/>
 		<production id="8073" count="1"/>
 	</item>
+	<!-- Primeval Seed -->
+	<item id="35">
+		<ingredient id="13000" count="5"/>
+		<production id="13010" count="1000"/>
+	</item>
+	<!-- Scroll: Enchant Armor (B) -->
+	<item id="36">
+		<ingredient id="13000" count="1"/>
+		<production id="948" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Armor (A) -->
+	<item id="37">
+		<ingredient id="13000" count="1"/>
+		<production id="730" count="1"/>
+	</item>   
+	<!-- Scroll: Enchant Armor (S) -->
+	<item id="38">
+		<ingredient id="13000" count="1"/>
+		<production id="960" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (B) -->
+	<item id="39">
+		<ingredient id="13000" count="1"/>
+		<production id="6572" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (A) -->
+	<item id="40">
+		<ingredient id="13000" count="1"/>
+		<production id="6570" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Armor (S) -->
+	<item id="41">
+		<ingredient id="13000" count="1"/>
+		<production id="6578" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (B) -->
+	<item id="42">
+		<ingredient id="13000" count="1"/>
+		<production id="947" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (A) -->
+	<item id="43">
+		<ingredient id="13000" count="1"/>
+		<production id="729" count="1"/>
+	</item>
+	<!-- Scroll: Enchant Weapon (S) -->
+	<item id="44">
+		<ingredient id="13000" count="1"/>
+		<production id="959" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (B) -->
+	<item id="45">
+		<ingredient id="13000" count="1"/>
+		<production id="6571" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (A) -->
+	<item id="46">
+		<ingredient id="13000" count="1"/>
+		<production id="6569" count="1"/>
+	</item>
+	<!-- Blessed Scroll: Enchant Weapon (S) -->
+	<item id="47">
+		<ingredient id="13000" count="1"/>
+		<production id="6577" count="1"/>
+	</item>
+	<!-- Crystal Scroll Armor A -->
+	<item id="48">
+		<ingredient id="13000" count="2"/>
+		<production id="732" count="1"/>
+	</item>
+	<!-- Crystal Scroll Armor S -->
+	<item id="49">
+		<ingredient id="13000" count="2"/>
+		<production id="962" count="1"/>
+	</item>
+	<!-- Crystal Scroll Weapon A -->
+	<item id="50">
+		<ingredient id="13000" count="2"/>
+		<production id="731" count="1"/>
+	</item>
+	<!-- Crystal Scroll Weapon S -->
+	<item id="51">
+		<ingredient id="13000" count="2"/>
+		<production id="961" count="1"/>
+	</item>
+
 </list>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+	<item>
+		<ingredient id="13008" count="180"/>
+		<production id="6656" count="1"/> <!-- Antharas -->
+    </item>
+	<item>
+		<ingredient id="13008" count="200"/>
+		<production id="6657" count="1"/> <!-- Valakas -->
+    </item>
+	<item>
+		<ingredient id="13008" count="150"/>
+		<production id="6658" count="1"/> <!-- Baium -->
+    </item>
+	<item>
+		<ingredient id="13008" count="100"/>
+		<production id="6660" count="1"/> <!-- Zaken -->
+    </item>
+	<item>
+		<ingredient id="13008" count="100"/>
+		<production id="6659" count="1"/> <!-- Queen Ant -->
+    </item>
+	<item>
+		<ingredient id="13008" count="50"/>
+		<production id="6661" count="1"/> <!-- Orfen -->
+    </item>
+	<item>
+		<ingredient id="13008" count="50"/>
+		<production id="6662" count="1"/> <!-- Core -->
+    </item>
+	<item>
+		<ingredient id="13008" count="150"/>
+		<production id="8191" count="1"/> <!-- Frintezza -->
+    </item>
+</list>

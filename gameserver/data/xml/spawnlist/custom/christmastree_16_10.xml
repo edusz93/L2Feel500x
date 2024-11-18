@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="christmastree_1731244976098" minZ="-2992" maxZ="-2976">
+		<node x="-115917" y="-250930" />
+		<node x="-116017" y="-250930" />
+		<node x="-116017" y="-251030" />
+		<node x="-115917" y="-251030" />
+	</territory>
+	<npcmaker name="christmastree_680840958910850" territory="christmastree_1731244976098" spawn="ALL" maximumNpcs="1">
+		<npc id="13006" pos="-115967;-250980;-2992;48058" total="1" respawnDelay="60s" /> <!-- Christmas Tree -->
+	</npcmaker>
+</list>

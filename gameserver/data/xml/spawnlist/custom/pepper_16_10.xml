@@ -9,4 +9,13 @@
 	<npcmaker name="pepper_508553741879359" territory="pepper_1720567755742" spawn="ALL" maximumNpcs="1">
 		<npc id="31049" pos="-116035;-251212;-2992;7710" total="1" respawnDelay="60s" /> <!-- Pepper -->
 	</npcmaker>
+	<territory name="pepper_1731109085095" minZ="-2992" maxZ="-2976">
+		<node x="-112951" y="-250981" />
+		<node x="-113051" y="-250981" />
+		<node x="-113051" y="-251081" />
+		<node x="-112951" y="-251081" />
+	</territory>
+	<npcmaker name="pepper_544949957133302" territory="pepper_1731109085095" spawn="ALL" maximumNpcs="1">
+		<npc id="31049" pos="-113001;-251031;-2992;32408" total="1" respawnDelay="60s" /> <!-- Pepper -->
+	</npcmaker>
 </list>

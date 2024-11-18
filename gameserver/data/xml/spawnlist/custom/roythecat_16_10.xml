@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="roythecat_1730767327546" minZ="-2992" maxZ="-2976">
+		<node x="-112976" y="-251184" />
+		<node x="-113076" y="-251184" />
+		<node x="-113076" y="-251284" />
+		<node x="-112976" y="-251284" />
+	</territory>
+	<npcmaker name="roythecat_203192409531516" territory="roythecat_1730767327546" spawn="ALL" maximumNpcs="1">
+		<npc id="50000" pos="-113026;-251234;-2992;55063" total="1" respawnDelay="60s" /> <!-- Roy the Cat -->
+	</npcmaker>
+</list>

@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="ogre_1731854107613" minZ="-3760" maxZ="-3744">
+		<node x="82840" y="180480" />
+		<node x="82740" y="180480" />
+		<node x="82740" y="180380" />
+		<node x="82840" y="180380" />
+	</territory>
+	<npcmaker name="ogre_1289972472960967" territory="ogre_1731854107613" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82790;180430;-3760;7396" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854109465" minZ="-3760" maxZ="-3744">
+		<node x="83392" y="180622" />
+		<node x="83292" y="180622" />
+		<node x="83292" y="180522" />
+		<node x="83392" y="180522" />
+	</territory>
+	<npcmaker name="ogre_1289974327862219" territory="ogre_1731854109465" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83342;180572;-3760;2266" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854110786" minZ="-3760" maxZ="-3744">
+		<node x="83967" y="180738" />
+		<node x="83867" y="180738" />
+		<node x="83867" y="180638" />
+		<node x="83967" y="180638" />
+	</territory>
+	<npcmaker name="ogre_1289975645239137" territory="ogre_1731854110786" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83917;180688;-3760;2016" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854113493" minZ="-3760" maxZ="-3744">
+		<node x="84744" y="180884" />
+		<node x="84644" y="180884" />
+		<node x="84644" y="180784" />
+		<node x="84744" y="180784" />
+	</territory>
+	<npcmaker name="ogre_1289978352377119" territory="ogre_1731854113493" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84694;180834;-3760;63172" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854115475" minZ="-3760" maxZ="-3744">
+		<node x="84768" y="180179" />
+		<node x="84668" y="180179" />
+		<node x="84668" y="180079" />
+		<node x="84768" y="180079" />
+	</territory>
+	<npcmaker name="ogre_1289980335880264" territory="ogre_1731854115475" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84718;180129;-3760;45268" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854116843" minZ="-3760" maxZ="-3744">
+		<node x="84381" y="179797" />
+		<node x="84281" y="179797" />
+		<node x="84281" y="179697" />
+		<node x="84381" y="179697" />
+	</territory>
+	<npcmaker name="ogre_1289981702260344" territory="ogre_1731854116843" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84331;179747;-3760;37865" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854117880" minZ="-3720" maxZ="-3704">
+		<node x="84135" y="179537" />
+		<node x="84035" y="179537" />
+		<node x="84035" y="179437" />
+		<node x="84135" y="179437" />
+	</territory>
+	<npcmaker name="ogre_1289982740938392" territory="ogre_1731854117880" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84085;179487;-3720;49209" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854118893" minZ="-3640" maxZ="-3624">
+		<node x="84191" y="179126" />
+		<node x="84091" y="179126" />
+		<node x="84091" y="179026" />
+		<node x="84191" y="179026" />
+	</territory>
+	<npcmaker name="ogre_1289983752419380" territory="ogre_1731854118893" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84141;179076;-3640;52327" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854120000" minZ="-3672" maxZ="-3656">
+		<node x="84434" y="178775" />
+		<node x="84334" y="178775" />
+		<node x="84334" y="178675" />
+		<node x="84434" y="178675" />
+	</territory>
+	<npcmaker name="ogre_1289984858958151" territory="ogre_1731854120000" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84384;178725;-3672;58921" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854122029" minZ="-3760" maxZ="-3744">
+		<node x="85135" y="179089" />
+		<node x="85035" y="179089" />
+		<node x="85035" y="178989" />
+		<node x="85135" y="178989" />
+	</territory>
+	<npcmaker name="ogre_1289986893451150" territory="ogre_1731854122029" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85085;179039;-3760;10534" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854124103" minZ="-3760" maxZ="-3744">
+		<node x="85159" y="179839" />
+		<node x="85059" y="179839" />
+		<node x="85059" y="179739" />
+		<node x="85159" y="179739" />
+	</territory>
+	<npcmaker name="ogre_1289988961832033" territory="ogre_1731854124103" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85109;179789;-3760;22433" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854125043" minZ="-3760" maxZ="-3744">
+		<node x="85057" y="180222" />
+		<node x="84957" y="180222" />
+		<node x="84957" y="180122" />
+		<node x="85057" y="180122" />
+	</territory>
+	<npcmaker name="ogre_1289989912124043" territory="ogre_1731854125043" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85007;180172;-3760;16371" total="1" respawnDelay="26s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854126295" minZ="-3760" maxZ="-3744">
+		<node x="85143" y="180680" />
+		<node x="85043" y="180680" />
+		<node x="85043" y="180580" />
+		<node x="85143" y="180580" />
+	</territory>
+	<npcmaker name="ogre_1289991154567125" territory="ogre_1731854126295" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85093;180630;-3760;8702" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854129112" minZ="-3640" maxZ="-3624">
+		<node x="85940" y="181515" />
+		<node x="85840" y="181515" />
+		<node x="85840" y="181415" />
+		<node x="85940" y="181415" />
+	</territory>
+	<npcmaker name="ogre_1289993972227341" territory="ogre_1731854129112" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85890;181465;-3640;9832" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854131148" minZ="-3616" maxZ="-3600">
+		<node x="86001" y="182253" />
+		<node x="85901" y="182253" />
+		<node x="85901" y="182153" />
+		<node x="86001" y="182153" />
+	</territory>
+	<npcmaker name="ogre_1289996008349220" territory="ogre_1731854131148" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85951;182203;-3616;28407" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854133286" minZ="-3664" maxZ="-3648">
+		<node x="85165" y="182484" />
+		<node x="85065" y="182484" />
+		<node x="85065" y="182384" />
+		<node x="85165" y="182384" />
+	</territory>
+	<npcmaker name="ogre_1289998144981756" territory="ogre_1731854133286" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85115;182434;-3664;31053" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854135514" minZ="-3688" maxZ="-3672">
+		<node x="84263" y="182550" />
+		<node x="84163" y="182550" />
+		<node x="84163" y="182450" />
+		<node x="84263" y="182450" />
+	</territory>
+	<npcmaker name="ogre_1290000373773571" territory="ogre_1731854135514" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84213;182500;-3688;32859" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854137439" minZ="-3768" maxZ="-3752">
+		<node x="83541" y="182234" />
+		<node x="83441" y="182234" />
+		<node x="83441" y="182134" />
+		<node x="83541" y="182134" />
+	</territory>
+	<npcmaker name="ogre_1290002301345508" territory="ogre_1731854137439" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83491;182184;-3768;41029" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854140233" minZ="-3760" maxZ="-3744">
+		<node x="82438" y="182060" />
+		<node x="82338" y="182060" />
+		<node x="82338" y="181960" />
+		<node x="82438" y="181960" />
+	</territory>
+	<npcmaker name="ogre_1290005093076850" territory="ogre_1731854140233" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82388;182010;-3760;34180" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854141271" minZ="-3760" maxZ="-3744">
+		<node x="82055" y="182171" />
+		<node x="81955" y="182171" />
+		<node x="81955" y="182071" />
+		<node x="82055" y="182071" />
+	</territory>
+	<npcmaker name="ogre_1290006130229691" territory="ogre_1731854141271" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82005;182121;-3760;27738" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854144002" minZ="-3640" maxZ="-3624">
+		<node x="82228" y="183089" />
+		<node x="82128" y="183089" />
+		<node x="82128" y="182989" />
+		<node x="82228" y="182989" />
+	</territory>
+	<npcmaker name="ogre_1290008862215549" territory="ogre_1731854144002" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82178;183039;-3640;7828" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854145843" minZ="-3624" maxZ="-3608">
+		<node x="82969" y="183177" />
+		<node x="82869" y="183177" />
+		<node x="82869" y="183077" />
+		<node x="82969" y="183077" />
+	</territory>
+	<npcmaker name="ogre_1290010702641195" territory="ogre_1731854145843" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82919;183127;-3624;64139" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854147561" minZ="-3624" maxZ="-3608">
+		<node x="83604" y="183059" />
+		<node x="83504" y="183059" />
+		<node x="83504" y="182959" />
+		<node x="83604" y="182959" />
+	</territory>
+	<npcmaker name="ogre_1290012425095680" territory="ogre_1731854147561" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83554;183009;-3624;2957" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854148693" minZ="-3616" maxZ="-3600">
+		<node x="83609" y="183215" />
+		<node x="83509" y="183215" />
+		<node x="83509" y="183115" />
+		<node x="83609" y="183115" />
+	</territory>
+	<npcmaker name="ogre_1290013552301237" territory="ogre_1731854148693" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83559;183165;-3616;16030" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854150440" minZ="-3624" maxZ="-3608">
+		<node x="83807" y="183869" />
+		<node x="83707" y="183869" />
+		<node x="83707" y="183769" />
+		<node x="83807" y="183769" />
+	</territory>
+	<npcmaker name="ogre_1290015300581284" territory="ogre_1731854150440" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83757;183819;-3624;10234" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854151826" minZ="-3656" maxZ="-3640">
+		<node x="84039" y="184396" />
+		<node x="83939" y="184396" />
+		<node x="83939" y="184296" />
+		<node x="84039" y="184296" />
+	</territory>
+	<npcmaker name="ogre_1290016687267457" territory="ogre_1731854151826" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83989;184346;-3656;13121" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854153468" minZ="-3664" maxZ="-3648">
+		<node x="84105" y="184793" />
+		<node x="84005" y="184793" />
+		<node x="84005" y="184693" />
+		<node x="84105" y="184693" />
+	</territory>
+	<npcmaker name="ogre_1290018329486419" territory="ogre_1731854153468" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84055;184743;-3664;14592" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854154966" minZ="-3728" maxZ="-3712">
+		<node x="84211" y="185404" />
+		<node x="84111" y="185404" />
+		<node x="84111" y="185304" />
+		<node x="84211" y="185304" />
+	</territory>
+	<npcmaker name="ogre_1290019825735497" territory="ogre_1731854154966" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84161;185354;-3728;14592" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854156464" minZ="-3760" maxZ="-3744">
+		<node x="84316" y="186013" />
+		<node x="84216" y="186013" />
+		<node x="84216" y="185913" />
+		<node x="84316" y="185913" />
+	</territory>
+	<npcmaker name="ogre_1290021325291650" territory="ogre_1731854156464" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84266;185963;-3760;14592" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854157816" minZ="-3656" maxZ="-3640">
+		<node x="84415" y="186584" />
+		<node x="84315" y="186584" />
+		<node x="84315" y="186484" />
+		<node x="84415" y="186484" />
+	</territory>
+	<npcmaker name="ogre_1290022677044216" territory="ogre_1731854157816" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84365;186534;-3656;14592" total="1" respawnDelay="26s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854159965" minZ="-3616" maxZ="-3600">
+		<node x="84289" y="187090" />
+		<node x="84189" y="187090" />
+		<node x="84189" y="186990" />
+		<node x="84289" y="186990" />
+	</territory>
+	<npcmaker name="ogre_1290024826878412" territory="ogre_1731854159965" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84239;187040;-3616;24229" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854188338" minZ="-3672" maxZ="-3656">
+		<node x="83405" y="188055" />
+		<node x="83305" y="188055" />
+		<node x="83305" y="187955" />
+		<node x="83405" y="187955" />
+	</territory>
+	<npcmaker name="ogre_1290053197876949" territory="ogre_1731854188338" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83355;188005;-3672;58294" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854190101" minZ="-3624" maxZ="-3608">
+		<node x="83929" y="187586" />
+		<node x="83829" y="187586" />
+		<node x="83829" y="187486" />
+		<node x="83929" y="187486" />
+	</territory>
+	<npcmaker name="ogre_1290054962017419" territory="ogre_1731854190101" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83879;187536;-3624;57816" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854192025" minZ="-3632" maxZ="-3616">
+		<node x="84556" y="187116" />
+		<node x="84456" y="187116" />
+		<node x="84456" y="187016" />
+		<node x="84556" y="187016" />
+	</territory>
+	<npcmaker name="ogre_1290056888835213" territory="ogre_1731854192025" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84506;187066;-3632;60740" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854192907" minZ="-3656" maxZ="-3640">
+		<node x="84758" y="186833" />
+		<node x="84658" y="186833" />
+		<node x="84658" y="186733" />
+		<node x="84758" y="186733" />
+	</territory>
+	<npcmaker name="ogre_1290057766891745" territory="ogre_1731854192907" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84708;186783;-3656;53085" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854193752" minZ="-3704" maxZ="-3688">
+		<node x="84801" y="186463" />
+		<node x="84701" y="186463" />
+		<node x="84701" y="186363" />
+		<node x="84801" y="186363" />
+	</territory>
+	<npcmaker name="ogre_1290058613382942" territory="ogre_1731854193752" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84751;186413;-3704;49604" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854194734" minZ="-3760" maxZ="-3744">
+		<node x="84709" y="186111" />
+		<node x="84609" y="186111" />
+		<node x="84609" y="186011" />
+		<node x="84709" y="186011" />
+	</territory>
+	<npcmaker name="ogre_1290059595883201" territory="ogre_1731854194734" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84659;186061;-3760;46122" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854196279" minZ="-3760" maxZ="-3744">
+		<node x="84362" y="185588" />
+		<node x="84262" y="185588" />
+		<node x="84262" y="185488" />
+		<node x="84362" y="185488" />
+	</territory>
+	<npcmaker name="ogre_1290061138794536" territory="ogre_1731854196279" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84312;185538;-3760;37674" total="1" respawnDelay="19s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854198002" minZ="-3760" maxZ="-3744">
+		<node x="83691" y="185485" />
+		<node x="83591" y="185485" />
+		<node x="83591" y="185385" />
+		<node x="83691" y="185385" />
+	</territory>
+	<npcmaker name="ogre_1290062862807345" territory="ogre_1731854198002" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83641;185435;-3760;36904" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854199703" minZ="-3760" maxZ="-3744">
+		<node x="83083" y="185138" />
+		<node x="82983" y="185138" />
+		<node x="82983" y="185038" />
+		<node x="83083" y="185038" />
+	</territory>
+	<npcmaker name="ogre_1290064562062632" territory="ogre_1731854199703" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83033;185088;-3760;39332" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854201297" minZ="-3760" maxZ="-3744">
+		<node x="82469" y="185044" />
+		<node x="82369" y="185044" />
+		<node x="82369" y="184944" />
+		<node x="82469" y="184944" />
+	</territory>
+	<npcmaker name="ogre_1290066156717605" territory="ogre_1731854201297" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82419;184994;-3760;29606" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854202814" minZ="-3760" maxZ="-3744">
+		<node x="82267" y="185584" />
+		<node x="82167" y="185584" />
+		<node x="82167" y="185484" />
+		<node x="82267" y="185484" />
+	</territory>
+	<npcmaker name="ogre_1290067673777098" territory="ogre_1731854202814" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82217;185534;-3760;16217" total="1" respawnDelay="26s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854204427" minZ="-3760" maxZ="-3744">
+		<node x="82522" y="186169" />
+		<node x="82422" y="186169" />
+		<node x="82422" y="186069" />
+		<node x="82522" y="186069" />
+	</territory>
+	<npcmaker name="ogre_1290069287999139" territory="ogre_1731854204427" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82472;186119;-3760;8865" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854205186" minZ="-3760" maxZ="-3744">
+		<node x="82533" y="186470" />
+		<node x="82433" y="186470" />
+		<node x="82433" y="186370" />
+		<node x="82533" y="186370" />
+	</territory>
+	<npcmaker name="ogre_1290070048553555" territory="ogre_1731854205186" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82483;186420;-3760;18278" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854206721" minZ="-3760" maxZ="-3744">
+		<node x="82243" y="186758" />
+		<node x="82143" y="186758" />
+		<node x="82143" y="186658" />
+		<node x="82243" y="186658" />
+	</territory>
+	<npcmaker name="ogre_1290071580815440" territory="ogre_1731854206721" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82193;186708;-3760;36791" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854208402" minZ="-3760" maxZ="-3744">
+		<node x="81729" y="186301" />
+		<node x="81629" y="186301" />
+		<node x="81629" y="186201" />
+		<node x="81729" y="186201" />
+	</territory>
+	<npcmaker name="ogre_1290073263520236" territory="ogre_1731854208402" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81679;186251;-3760;42846" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854210118" minZ="-3760" maxZ="-3744">
+		<node x="81131" y="186002" />
+		<node x="81031" y="186002" />
+		<node x="81031" y="185902" />
+		<node x="81131" y="185902" />
+	</territory>
+	<npcmaker name="ogre_1290074978360926" territory="ogre_1731854210118" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81081;185952;-3760;33956" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854211658" minZ="-3736" maxZ="-3720">
+		<node x="80558" y="185851" />
+		<node x="80458" y="185851" />
+		<node x="80458" y="185751" />
+		<node x="80558" y="185751" />
+	</territory>
+	<npcmaker name="ogre_1290076519887083" territory="ogre_1731854211658" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80508;185801;-3736;41660" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854214686" minZ="-3760" maxZ="-3744">
+		<node x="80193" y="184672" />
+		<node x="80093" y="184672" />
+		<node x="80093" y="184572" />
+		<node x="80193" y="184572" />
+	</territory>
+	<npcmaker name="ogre_1290079546056420" territory="ogre_1731854214686" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80143;184622;-3760;45817" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854217665" minZ="-3760" maxZ="-3744">
+		<node x="80143" y="183500" />
+		<node x="80043" y="183500" />
+		<node x="80043" y="183400" />
+		<node x="80143" y="183400" />
+	</territory>
+	<npcmaker name="ogre_1290082527241337" territory="ogre_1731854217665" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80093;183450;-3760;51866" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854218561" minZ="-3760" maxZ="-3744">
+		<node x="80128" y="183138" />
+		<node x="80028" y="183138" />
+		<node x="80028" y="183038" />
+		<node x="80128" y="183038" />
+	</territory>
+	<npcmaker name="ogre_1290083422951320" territory="ogre_1731854218561" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80078;183088;-3760;47372" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854220301" minZ="-3760" maxZ="-3744">
+		<node x="80155" y="182442" />
+		<node x="80055" y="182442" />
+		<node x="80055" y="182342" />
+		<node x="80155" y="182342" />
+	</territory>
+	<npcmaker name="ogre_1290085160985808" territory="ogre_1731854220301" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80105;182392;-3760;50359" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854222409" minZ="-3760" maxZ="-3744">
+		<node x="80478" y="181638" />
+		<node x="80378" y="181638" />
+		<node x="80378" y="181538" />
+		<node x="80478" y="181538" />
+	</territory>
+	<npcmaker name="ogre_1290087268780165" territory="ogre_1731854222409" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80428;181588;-3760;52711" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854223866" minZ="-3760" maxZ="-3744">
+		<node x="80861" y="181196" />
+		<node x="80761" y="181196" />
+		<node x="80761" y="181096" />
+		<node x="80861" y="181096" />
+	</territory>
+	<npcmaker name="ogre_1290088728507075" territory="ogre_1731854223866" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80811;181146;-3760;60299" total="1" respawnDelay="26s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854225538" minZ="-3760" maxZ="-3744">
+		<node x="81525" y="181186" />
+		<node x="81425" y="181186" />
+		<node x="81425" y="181086" />
+		<node x="81525" y="181086" />
+	</territory>
+	<npcmaker name="ogre_1290090397511648" territory="ogre_1731854225538" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81475;181136;-3760;3517" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854227188" minZ="-3760" maxZ="-3744">
+		<node x="82142" y="181377" />
+		<node x="82042" y="181377" />
+		<node x="82042" y="181277" />
+		<node x="82142" y="181277" />
+	</territory>
+	<npcmaker name="ogre_1290092048024754" territory="ogre_1731854227188" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82092;181327;-3760;7147" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854228675" minZ="-3760" maxZ="-3744">
+		<node x="82725" y="181440" />
+		<node x="82625" y="181440" />
+		<node x="82625" y="181340" />
+		<node x="82725" y="181340" />
+	</territory>
+	<npcmaker name="ogre_1290093534716902" territory="ogre_1731854228675" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82675;181390;-3760;63592" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854230097" minZ="-3760" maxZ="-3744">
+		<node x="83280" y="181292" />
+		<node x="83180" y="181292" />
+		<node x="83180" y="181192" />
+		<node x="83280" y="181192" />
+	</territory>
+	<npcmaker name="ogre_1290094955817600" territory="ogre_1731854230097" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83230;181242;-3760;65176" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854231258" minZ="-3760" maxZ="-3744">
+		<node x="83769" y="181320" />
+		<node x="83669" y="181320" />
+		<node x="83669" y="181220" />
+		<node x="83769" y="181220" />
+	</territory>
+	<npcmaker name="ogre_1290096118191105" territory="ogre_1731854231258" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83719;181270;-3760;1776" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854232280" minZ="-3760" maxZ="-3744">
+		<node x="84128" y="181520" />
+		<node x="84028" y="181520" />
+		<node x="84028" y="181420" />
+		<node x="84128" y="181420" />
+	</territory>
+	<npcmaker name="ogre_1290097140447893" territory="ogre_1731854232280" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84078;181470;-3760;8645" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854233437" minZ="-3728" maxZ="-3712">
+		<node x="84497" y="181831" />
+		<node x="84397" y="181831" />
+		<node x="84397" y="181731" />
+		<node x="84497" y="181731" />
+	</territory>
+	<npcmaker name="ogre_1290098297549590" territory="ogre_1731854233437" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84447;181781;-3728;4347" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854234726" minZ="-3736" maxZ="-3720">
+		<node x="84975" y="181872" />
+		<node x="84875" y="181872" />
+		<node x="84875" y="181772" />
+		<node x="84975" y="181772" />
+	</territory>
+	<npcmaker name="ogre_1290099585383501" territory="ogre_1731854234726" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84925;181822;-3736;60298" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854236265" minZ="-3704" maxZ="-3688">
+		<node x="85514" y="181493" />
+		<node x="85414" y="181493" />
+		<node x="85414" y="181393" />
+		<node x="85514" y="181393" />
+	</territory>
+	<npcmaker name="ogre_1290101124825053" territory="ogre_1731854236265" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85464;181443;-3704;59198" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854237576" minZ="-3640" maxZ="-3624">
+		<node x="85977" y="181562" />
+		<node x="85877" y="181562" />
+		<node x="85877" y="181462" />
+		<node x="85977" y="181462" />
+	</territory>
+	<npcmaker name="ogre_1290102435616620" territory="ogre_1731854237576" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85927;181512;-3640;11582" total="1" respawnDelay="19s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854238747" minZ="-3616" maxZ="-3600">
+		<node x="86233" y="181986" />
+		<node x="86133" y="181986" />
+		<node x="86133" y="181886" />
+		<node x="86233" y="181886" />
+	</territory>
+	<npcmaker name="ogre_1290103608977589" territory="ogre_1731854238747" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86183;181936;-3616;10086" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854240065" minZ="-3616" maxZ="-3600">
+		<node x="86612" y="181702" />
+		<node x="86512" y="181702" />
+		<node x="86512" y="181602" />
+		<node x="86612" y="181602" />
+	</territory>
+	<npcmaker name="ogre_1290104924578399" territory="ogre_1731854240065" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86562;181652;-3616;55021" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854241426" minZ="-3640" maxZ="-3624">
+		<node x="86548" y="181205" />
+		<node x="86448" y="181205" />
+		<node x="86448" y="181105" />
+		<node x="86548" y="181105" />
+	</territory>
+	<npcmaker name="ogre_1290106284905528" territory="ogre_1731854241426" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86498;181155;-3640;42508" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854243173" minZ="-3632" maxZ="-3616">
+		<node x="86989" y="181027" />
+		<node x="86889" y="181027" />
+		<node x="86889" y="180927" />
+		<node x="86989" y="180927" />
+	</territory>
+	<npcmaker name="ogre_1290108033539070" territory="ogre_1731854243173" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86939;180977;-3632;11322" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854244525" minZ="-3608" maxZ="-3592">
+		<node x="87046" y="181526" />
+		<node x="86946" y="181526" />
+		<node x="86946" y="181426" />
+		<node x="87046" y="181426" />
+	</territory>
+	<npcmaker name="ogre_1290109385149446" territory="ogre_1731854244525" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86996;181476;-3608;19210" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854245872" minZ="-3624" maxZ="-3608">
+		<node x="86854" y="182068" />
+		<node x="86754" y="182068" />
+		<node x="86754" y="181968" />
+		<node x="86854" y="181968" />
+	</territory>
+	<npcmaker name="ogre_1290110731544170" territory="ogre_1731854245872" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86804;182018;-3624;20821" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854247044" minZ="-3664" maxZ="-3648">
+		<node x="86646" y="182473" />
+		<node x="86546" y="182473" />
+		<node x="86546" y="182373" />
+		<node x="86646" y="182373" />
+	</territory>
+	<npcmaker name="ogre_1290111908932160" territory="ogre_1731854247044" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86596;182423;-3664;21751" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854248807" minZ="-3624" maxZ="-3608">
+		<node x="86279" y="183121" />
+		<node x="86179" y="183121" />
+		<node x="86179" y="183021" />
+		<node x="86279" y="183021" />
+	</territory>
+	<npcmaker name="ogre_1290113666712623" territory="ogre_1731854248807" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86229;183071;-3624;21751" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854251984" minZ="-3608" maxZ="-3592">
+		<node x="86057" y="183583" />
+		<node x="85957" y="183583" />
+		<node x="85957" y="183483" />
+		<node x="86057" y="183483" />
+	</territory>
+	<npcmaker name="ogre_1290116844403351" territory="ogre_1731854251984" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86007;183533;-3608;18650" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854258072" minZ="-3624" maxZ="-3608">
+		<node x="85672" y="184120" />
+		<node x="85572" y="184120" />
+		<node x="85572" y="184020" />
+		<node x="85672" y="184020" />
+	</territory>
+	<npcmaker name="ogre_1290122932550007" territory="ogre_1731854258072" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85622;184070;-3624;45931" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854259780" minZ="-3600" maxZ="-3584">
+		<node x="85459" y="183449" />
+		<node x="85359" y="183449" />
+		<node x="85359" y="183349" />
+		<node x="85459" y="183349" />
+	</territory>
+	<npcmaker name="ogre_1290124641851788" territory="ogre_1731854259780" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85409;183399;-3600;45931" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854261605" minZ="-3624" maxZ="-3608">
+		<node x="85185" y="182726" />
+		<node x="85085" y="182726" />
+		<node x="85085" y="182626" />
+		<node x="85185" y="182626" />
+	</territory>
+	<npcmaker name="ogre_1290126465194183" territory="ogre_1731854261605" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85135;182676;-3624;43760" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854274855" minZ="-3760" maxZ="-3744">
+		<node x="88096" y="183716" />
+		<node x="87996" y="183716" />
+		<node x="87996" y="183616" />
+		<node x="88096" y="183616" />
+	</territory>
+	<npcmaker name="ogre_1290139716230547" territory="ogre_1731854274855" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88046;183666;-3760;11459" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854276900" minZ="-3760" maxZ="-3744">
+		<node x="88655" y="184306" />
+		<node x="88555" y="184306" />
+		<node x="88555" y="184206" />
+		<node x="88655" y="184206" />
+	</territory>
+	<npcmaker name="ogre_1290141759123522" territory="ogre_1731854276900" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88605;184256;-3760;5125" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854278782" minZ="-3616" maxZ="-3600">
+		<node x="89022" y="184938" />
+		<node x="88922" y="184938" />
+		<node x="88922" y="184838" />
+		<node x="89022" y="184838" />
+	</territory>
+	<npcmaker name="ogre_1290143643251005" territory="ogre_1731854278782" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88972;184888;-3616;16790" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854280248" minZ="-3608" maxZ="-3592">
+		<node x="89043" y="185561" />
+		<node x="88943" y="185561" />
+		<node x="88943" y="185461" />
+		<node x="89043" y="185461" />
+	</territory>
+	<npcmaker name="ogre_1290145107661887" territory="ogre_1731854280248" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88993;185511;-3608;14872" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854293261" minZ="-3544" maxZ="-3528">
+		<node x="90297" y="185746" />
+		<node x="90197" y="185746" />
+		<node x="90197" y="185646" />
+		<node x="90297" y="185646" />
+	</territory>
+	<npcmaker name="ogre_1290158122984149" territory="ogre_1731854293261" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90247;185696;-3544;61222" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854294860" minZ="-3432" maxZ="-3416">
+		<node x="90678" y="185282" />
+		<node x="90578" y="185282" />
+		<node x="90578" y="185182" />
+		<node x="90678" y="185182" />
+	</territory>
+	<npcmaker name="ogre_1290159719786723" territory="ogre_1731854294860" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90628;185232;-3432;48482" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854296739" minZ="-3488" maxZ="-3472">
+		<node x="90052" y="185029" />
+		<node x="89952" y="185029" />
+		<node x="89952" y="184929" />
+		<node x="90052" y="184929" />
+	</territory>
+	<npcmaker name="ogre_1290161611265219" territory="ogre_1731854296739" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90002;184979;-3488;27313" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854299045" minZ="-3592" maxZ="-3576">
+		<node x="89221" y="185431" />
+		<node x="89121" y="185431" />
+		<node x="89121" y="185331" />
+		<node x="89221" y="185331" />
+	</territory>
+	<npcmaker name="ogre_1290163906856195" territory="ogre_1731854299045" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="89171;185381;-3592;25102" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854300828" minZ="-3648" maxZ="-3632">
+		<node x="88739" y="185942" />
+		<node x="88639" y="185942" />
+		<node x="88639" y="185842" />
+		<node x="88739" y="185842" />
+	</territory>
+	<npcmaker name="ogre_1290165686838729" territory="ogre_1731854300828" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88689;185892;-3648;23998" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854302438" minZ="-3680" maxZ="-3664">
+		<node x="88214" y="185665" />
+		<node x="88114" y="185665" />
+		<node x="88114" y="185565" />
+		<node x="88214" y="185565" />
+	</territory>
+	<npcmaker name="ogre_1290167299291860" territory="ogre_1731854302438" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88164;185615;-3680;42150" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854304007" minZ="-3632" maxZ="-3616">
+		<node x="87907" y="185127" />
+		<node x="87807" y="185127" />
+		<node x="87807" y="185027" />
+		<node x="87907" y="185027" />
+	</territory>
+	<npcmaker name="ogre_1290168866684977" territory="ogre_1731854304007" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="87857;185077;-3632;44242" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854305701" minZ="-3680" maxZ="-3664">
+		<node x="87289" y="184942" />
+		<node x="87189" y="184942" />
+		<node x="87189" y="184842" />
+		<node x="87289" y="184842" />
+	</territory>
+	<npcmaker name="ogre_1290170560679255" territory="ogre_1731854305701" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="87239;184892;-3680;31307" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854310920" minZ="-3616" maxZ="-3600">
+		<node x="88463" y="185231" />
+		<node x="88363" y="185231" />
+		<node x="88363" y="185131" />
+		<node x="88463" y="185131" />
+	</territory>
+	<npcmaker name="ogre_1290175780884627" territory="ogre_1731854310920" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88413;185181;-3616;59399" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854312495" minZ="-3648" maxZ="-3632">
+		<node x="89015" y="184863" />
+		<node x="88915" y="184863" />
+		<node x="88915" y="184763" />
+		<node x="89015" y="184763" />
+	</territory>
+	<npcmaker name="ogre_1290177354234941" territory="ogre_1731854312495" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88965;184813;-3648;59399" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854314133" minZ="-3624" maxZ="-3608">
+		<node x="89596" y="184605" />
+		<node x="89496" y="184605" />
+		<node x="89496" y="184505" />
+		<node x="89596" y="184505" />
+	</territory>
+	<npcmaker name="ogre_1290178994105797" territory="ogre_1731854314133" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="89546;184555;-3624;65071" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854315515" minZ="-3496" maxZ="-3480">
+		<node x="90172" y="184556" />
+		<node x="90072" y="184556" />
+		<node x="90072" y="184456" />
+		<node x="90172" y="184456" />
+	</territory>
+	<npcmaker name="ogre_1290180376248747" territory="ogre_1731854315515" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90122;184506;-3496;64379" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854317430" minZ="-3464" maxZ="-3448">
+		<node x="90880" y="184815" />
+		<node x="90780" y="184815" />
+		<node x="90780" y="184715" />
+		<node x="90880" y="184715" />
+	</territory>
+	<npcmaker name="ogre_1290182290664381" territory="ogre_1731854317430" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90830;184765;-3464;7050" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854319419" minZ="-3504" maxZ="-3488">
+		<node x="91262" y="185502" />
+		<node x="91162" y="185502" />
+		<node x="91162" y="185402" />
+		<node x="91262" y="185402" />
+	</territory>
+	<npcmaker name="ogre_1290184278227304" territory="ogre_1731854319419" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="91212;185452;-3504;15291" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854321895" minZ="-3760" maxZ="-3744">
+		<node x="91662" y="186442" />
+		<node x="91562" y="186442" />
+		<node x="91562" y="186342" />
+		<node x="91662" y="186342" />
+	</territory>
+	<npcmaker name="ogre_1290186754077417" territory="ogre_1731854321895" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="91612;186392;-3760;10659" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854323624" minZ="-3696" maxZ="-3680">
+		<node x="91908" y="187088" />
+		<node x="91808" y="187088" />
+		<node x="91808" y="186988" />
+		<node x="91908" y="186988" />
+	</territory>
+	<npcmaker name="ogre_1290188483119773" territory="ogre_1731854323624" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="91858;187038;-3696;9731" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854325386" minZ="-3640" maxZ="-3624">
+		<node x="92447" y="187042" />
+		<node x="92347" y="187042" />
+		<node x="92347" y="186942" />
+		<node x="92447" y="186942" />
+	</territory>
+	<npcmaker name="ogre_1290190244812785" territory="ogre_1731854325386" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="92397;186992;-3640;56645" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854327522" minZ="-3672" maxZ="-3656">
+		<node x="92573" y="186374" />
+		<node x="92473" y="186374" />
+		<node x="92473" y="186274" />
+		<node x="92573" y="186274" />
+	</territory>
+	<npcmaker name="ogre_1290192381624228" territory="ogre_1731854327522" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="92523;186324;-3672;50400" total="1" respawnDelay="33s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854329284" minZ="-3656" maxZ="-3640">
+		<node x="93122" y="186132" />
+		<node x="93022" y="186132" />
+		<node x="93022" y="186032" />
+		<node x="93122" y="186032" />
+	</territory>
+	<npcmaker name="ogre_1290194142862954" territory="ogre_1731854329284" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93072;186082;-3656;1889" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854333377" minZ="-3760" maxZ="-3744">
+		<node x="93557" y="187418" />
+		<node x="93457" y="187418" />
+		<node x="93457" y="187318" />
+		<node x="93557" y="187318" />
+	</territory>
+	<npcmaker name="ogre_1290198237309142" territory="ogre_1731854333377" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93507;187368;-3760;16233" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854335544" minZ="-3672" maxZ="-3656">
+		<node x="93944" y="188574" />
+		<node x="93844" y="188574" />
+		<node x="93844" y="188474" />
+		<node x="93944" y="188474" />
+	</territory>
+	<npcmaker name="ogre_1290200403413770" territory="ogre_1731854335544" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93894;188524;-3672;65416" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854338349" minZ="-3704" maxZ="-3688">
+		<node x="93661" y="188306" />
+		<node x="93561" y="188306" />
+		<node x="93561" y="188206" />
+		<node x="93661" y="188206" />
+	</territory>
+	<npcmaker name="ogre_1290203208726904" territory="ogre_1731854338349" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93611;188256;-3704;55031" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854341556" minZ="-3696" maxZ="-3680">
+		<node x="94132" y="189156" />
+		<node x="94032" y="189156" />
+		<node x="94032" y="189056" />
+		<node x="94132" y="189056" />
+	</territory>
+	<npcmaker name="ogre_1290206419202198" territory="ogre_1731854341556" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="94082;189106;-3696;12290" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854345230" minZ="-3760" maxZ="-3744">
+		<node x="93803" y="190401" />
+		<node x="93703" y="190401" />
+		<node x="93703" y="190301" />
+		<node x="93803" y="190301" />
+	</territory>
+	<npcmaker name="ogre_1290210090088711" territory="ogre_1731854345230" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93753;190351;-3760;27080" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854347561" minZ="-3760" maxZ="-3744">
+		<node x="93069" y="190988" />
+		<node x="92969" y="190988" />
+		<node x="92969" y="190888" />
+		<node x="93069" y="190888" />
+	</territory>
+	<npcmaker name="ogre_1290212422504593" territory="ogre_1731854347561" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="93019;190938;-3760;23542" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854349397" minZ="-3760" maxZ="-3744">
+		<node x="92453" y="191419" />
+		<node x="92353" y="191419" />
+		<node x="92353" y="191319" />
+		<node x="92453" y="191319" />
+	</territory>
+	<npcmaker name="ogre_1290214259221075" territory="ogre_1731854349397" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="92403;191369;-3760;29773" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854351509" minZ="-3760" maxZ="-3744">
+		<node x="91709" y="191848" />
+		<node x="91609" y="191848" />
+		<node x="91609" y="191748" />
+		<node x="91709" y="191748" />
+	</territory>
+	<npcmaker name="ogre_1290216369150434" territory="ogre_1731854351509" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="91659;191798;-3760;25458" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854356261" minZ="-3760" maxZ="-3744">
+		<node x="90800" y="192549" />
+		<node x="90700" y="192549" />
+		<node x="90700" y="192449" />
+		<node x="90800" y="192449" />
+	</territory>
+	<npcmaker name="ogre_1290221121768160" territory="ogre_1731854356261" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90750;192499;-3760;52281" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854358019" minZ="-3760" maxZ="-3744">
+		<node x="90967" y="191899" />
+		<node x="90867" y="191899" />
+		<node x="90867" y="191799" />
+		<node x="90967" y="191799" />
+	</territory>
+	<npcmaker name="ogre_1290222884600127" territory="ogre_1731854358019" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90917;191849;-3760;48269" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854359709" minZ="-3768" maxZ="-3752">
+		<node x="90474" y="191566" />
+		<node x="90374" y="191566" />
+		<node x="90374" y="191466" />
+		<node x="90474" y="191466" />
+	</territory>
+	<npcmaker name="ogre_1290224568863247" territory="ogre_1731854359709" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90424;191516;-3768;32292" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854362069" minZ="-3704" maxZ="-3688">
+		<node x="90492" y="192286" />
+		<node x="90392" y="192286" />
+		<node x="90392" y="192186" />
+		<node x="90492" y="192186" />
+	</territory>
+	<npcmaker name="ogre_1290226929056106" territory="ogre_1731854362069" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90442;192236;-3704;10325" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854364739" minZ="-3760" maxZ="-3744">
+		<node x="91210" y="193141" />
+		<node x="91110" y="193141" />
+		<node x="91110" y="193041" />
+		<node x="91210" y="193041" />
+	</territory>
+	<npcmaker name="ogre_1290229600647088" territory="ogre_1731854364739" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="91160;193091;-3760;8332" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854368328" minZ="-3768" maxZ="-3752">
+		<node x="90927" y="193442" />
+		<node x="90827" y="193442" />
+		<node x="90827" y="193342" />
+		<node x="90927" y="193342" />
+	</territory>
+	<npcmaker name="ogre_1290233188079557" territory="ogre_1731854368328" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90877;193392;-3768;32671" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854370413" minZ="-3760" maxZ="-3744">
+		<node x="90058" y="193450" />
+		<node x="89958" y="193450" />
+		<node x="89958" y="193350" />
+		<node x="90058" y="193350" />
+	</territory>
+	<npcmaker name="ogre_1290235272431014" territory="ogre_1731854370413" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="90008;193400;-3760;32671" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854373890" minZ="-3760" maxZ="-3744">
+		<node x="88753" y="193041" />
+		<node x="88653" y="193041" />
+		<node x="88653" y="192941" />
+		<node x="88753" y="192941" />
+	</territory>
+	<npcmaker name="ogre_1290238749431962" territory="ogre_1731854373890" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88703;192991;-3760;40558" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854375995" minZ="-3760" maxZ="-3744">
+		<node x="88059" y="192522" />
+		<node x="87959" y="192522" />
+		<node x="87959" y="192422" />
+		<node x="88059" y="192422" />
+	</territory>
+	<npcmaker name="ogre_1290240855467490" territory="ogre_1731854375995" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="88009;192472;-3760;38078" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854379528" minZ="-3760" maxZ="-3744">
+		<node x="86817" y="192730" />
+		<node x="86717" y="192730" />
+		<node x="86717" y="192630" />
+		<node x="86817" y="192630" />
+	</territory>
+	<npcmaker name="ogre_1290244388938525" territory="ogre_1731854379528" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86767;192680;-3760;26439" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854385644" minZ="-3760" maxZ="-3744">
+		<node x="86365" y="193168" />
+		<node x="86265" y="193168" />
+		<node x="86265" y="193068" />
+		<node x="86365" y="193068" />
+	</territory>
+	<npcmaker name="ogre_1290250506642946" territory="ogre_1731854385644" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86315;193118;-3760;15180" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854387685" minZ="-3760" maxZ="-3744">
+		<node x="86161" y="193929" />
+		<node x="86061" y="193929" />
+		<node x="86061" y="193829" />
+		<node x="86161" y="193829" />
+	</territory>
+	<npcmaker name="ogre_1290252545886153" territory="ogre_1731854387685" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86111;193879;-3760;25230" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854391415" minZ="-3760" maxZ="-3744">
+		<node x="86273" y="192484" />
+		<node x="86173" y="192484" />
+		<node x="86173" y="192384" />
+		<node x="86273" y="192384" />
+	</territory>
+	<npcmaker name="ogre_1290256273934263" territory="ogre_1731854391415" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86223;192434;-3760;52107" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854393736" minZ="-3768" maxZ="-3752">
+		<node x="86024" y="191663" />
+		<node x="85924" y="191663" />
+		<node x="85924" y="191563" />
+		<node x="86024" y="191563" />
+	</territory>
+	<npcmaker name="ogre_1290258596434320" territory="ogre_1731854393736" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85974;191613;-3768;33898" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854395690" minZ="-3712" maxZ="-3696">
+		<node x="85201" y="191664" />
+		<node x="85101" y="191664" />
+		<node x="85101" y="191564" />
+		<node x="85201" y="191564" />
+	</territory>
+	<npcmaker name="ogre_1290260549259103" territory="ogre_1731854395690" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85151;191614;-3712;31744" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854397881" minZ="-3704" maxZ="-3688">
+		<node x="84408" y="191254" />
+		<node x="84308" y="191254" />
+		<node x="84308" y="191154" />
+		<node x="84408" y="191154" />
+	</territory>
+	<npcmaker name="ogre_1290262739860992" territory="ogre_1731854397881" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84358;191204;-3704;39597" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854400217" minZ="-3768" maxZ="-3752">
+		<node x="84005" y="190428" />
+		<node x="83905" y="190428" />
+		<node x="83905" y="190328" />
+		<node x="84005" y="190328" />
+	</territory>
+	<npcmaker name="ogre_1290265079119606" territory="ogre_1731854400217" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83955;190378;-3768;43517" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854401963" minZ="-3712" maxZ="-3696">
+		<node x="83348" y="190365" />
+		<node x="83248" y="190365" />
+		<node x="83248" y="190265" />
+		<node x="83348" y="190265" />
+	</territory>
+	<npcmaker name="ogre_1290266825375524" territory="ogre_1731854401963" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83298;190315;-3712;28085" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854405923" minZ="-3648" maxZ="-3632">
+		<node x="82519" y="191715" />
+		<node x="82419" y="191715" />
+		<node x="82419" y="191615" />
+		<node x="82519" y="191615" />
+	</territory>
+	<npcmaker name="ogre_1290270783536910" territory="ogre_1731854405923" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82469;191665;-3648;20767" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854408611" minZ="-3552" maxZ="-3536">
+		<node x="82229" y="192733" />
+		<node x="82129" y="192733" />
+		<node x="82129" y="192633" />
+		<node x="82229" y="192633" />
+	</territory>
+	<npcmaker name="ogre_1290273470665777" territory="ogre_1731854408611" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82179;192683;-3552;23997" total="1" respawnDelay="26s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854410627" minZ="-3528" maxZ="-3512">
+		<node x="81681" y="193354" />
+		<node x="81581" y="193354" />
+		<node x="81581" y="193254" />
+		<node x="81681" y="193254" />
+	</territory>
+	<npcmaker name="ogre_1290275486081993" territory="ogre_1731854410627" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81631;193304;-3528;23881" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854413368" minZ="-3760" maxZ="-3744">
+		<node x="80823" y="192693" />
+		<node x="80723" y="192693" />
+		<node x="80723" y="192593" />
+		<node x="80823" y="192593" />
+	</territory>
+	<npcmaker name="ogre_1290278228031191" territory="ogre_1731854413368" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80773;192643;-3760;41549" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854415233" minZ="-3704" maxZ="-3688">
+		<node x="80195" y="192433" />
+		<node x="80095" y="192433" />
+		<node x="80095" y="192333" />
+		<node x="80195" y="192333" />
+	</territory>
+	<npcmaker name="ogre_1290280092842147" territory="ogre_1731854415233" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80145;192383;-3704;28912" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854419071" minZ="-3664" maxZ="-3648">
+		<node x="80528" y="191076" />
+		<node x="80428" y="191076" />
+		<node x="80428" y="190976" />
+		<node x="80528" y="190976" />
+	</territory>
+	<npcmaker name="ogre_1290283930380808" territory="ogre_1731854419071" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80478;191026;-3664;49826" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854421137" minZ="-3656" maxZ="-3640">
+		<node x="80520" y="190248" />
+		<node x="80420" y="190248" />
+		<node x="80420" y="190148" />
+		<node x="80520" y="190148" />
+	</territory>
+	<npcmaker name="ogre_1290285997587819" territory="ogre_1731854421137" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80470;190198;-3656;48749" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854428173" minZ="-3744" maxZ="-3728">
+		<node x="78904" y="190462" />
+		<node x="78804" y="190462" />
+		<node x="78804" y="190362" />
+		<node x="78904" y="190362" />
+	</territory>
+	<npcmaker name="ogre_1290293034410205" territory="ogre_1731854428173" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="78854;190412;-3744;43870" total="1" respawnDelay="23s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854429839" minZ="-3592" maxZ="-3576">
+		<node x="78544" y="189906" />
+		<node x="78444" y="189906" />
+		<node x="78444" y="189806" />
+		<node x="78544" y="189806" />
+	</territory>
+	<npcmaker name="ogre_1290294700558030" territory="ogre_1731854429839" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="78494;189856;-3592;42978" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854432009" minZ="-3600" maxZ="-3584">
+		<node x="78486" y="189046" />
+		<node x="78386" y="189046" />
+		<node x="78386" y="188946" />
+		<node x="78486" y="188946" />
+	</territory>
+	<npcmaker name="ogre_1290296869262745" territory="ogre_1731854432009" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="78436;188996;-3600;52197" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854434162" minZ="-3656" maxZ="-3640">
+		<node x="78986" y="188301" />
+		<node x="78886" y="188301" />
+		<node x="78886" y="188201" />
+		<node x="78986" y="188201" />
+	</territory>
+	<npcmaker name="ogre_1290299023916984" territory="ogre_1731854434162" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="78936;188251;-3656;56534" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854436721" minZ="-3760" maxZ="-3744">
+		<node x="79140" y="187305" />
+		<node x="79040" y="187305" />
+		<node x="79040" y="187205" />
+		<node x="79140" y="187205" />
+	</territory>
+	<npcmaker name="ogre_1290301582292050" territory="ogre_1731854436721" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79090;187255;-3760;48848" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854547673" minZ="-3760" maxZ="-3744">
+		<node x="85362" y="185616" />
+		<node x="85262" y="185616" />
+		<node x="85262" y="185516" />
+		<node x="85362" y="185516" />
+	</territory>
+	<npcmaker name="ogre_1290412533446197" territory="ogre_1731854547673" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85312;185566;-3760;58158" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854549707" minZ="-3760" maxZ="-3744">
+		<node x="86003" y="185635" />
+		<node x="85903" y="185635" />
+		<node x="85903" y="185535" />
+		<node x="86003" y="185535" />
+	</territory>
+	<npcmaker name="ogre_1290414566836238" territory="ogre_1731854549707" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85953;185585;-3760;6798" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854551416" minZ="-3760" maxZ="-3744">
+		<node x="86465" y="185495" />
+		<node x="86365" y="185495" />
+		<node x="86365" y="185395" />
+		<node x="86465" y="185395" />
+	</territory>
+	<npcmaker name="ogre_1290416276281288" territory="ogre_1731854551416" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86415;185445;-3760;51986" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854553136" minZ="-3768" maxZ="-3752">
+		<node x="86287" y="184876" />
+		<node x="86187" y="184876" />
+		<node x="86187" y="184776" />
+		<node x="86287" y="184776" />
+	</territory>
+	<npcmaker name="ogre_1290417995642883" territory="ogre_1731854553136" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="86237;184826;-3768;41138" total="1" respawnDelay="32s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854555124" minZ="-3760" maxZ="-3744">
+		<node x="85521" y="185009" />
+		<node x="85421" y="185009" />
+		<node x="85421" y="184909" />
+		<node x="85521" y="184909" />
+	</territory>
+	<npcmaker name="ogre_1290419983356275" territory="ogre_1731854555124" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="85471;184959;-3760;28333" total="1" respawnDelay="34s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854557014" minZ="-3760" maxZ="-3744">
+		<node x="84772" y="185242" />
+		<node x="84672" y="185242" />
+		<node x="84672" y="185142" />
+		<node x="84772" y="185142" />
+	</territory>
+	<npcmaker name="ogre_1290421874377246" territory="ogre_1731854557014" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84722;185192;-3760;30280" total="1" respawnDelay="35s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854558715" minZ="-3696" maxZ="-3680">
+		<node x="84105" y="185179" />
+		<node x="84005" y="185179" />
+		<node x="84005" y="185079" />
+		<node x="84105" y="185079" />
+	</territory>
+	<npcmaker name="ogre_1290423573968388" territory="ogre_1731854558715" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84055;185129;-3696;38618" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854560519" minZ="-3672" maxZ="-3656">
+		<node x="83818" y="184521" />
+		<node x="83718" y="184521" />
+		<node x="83718" y="184421" />
+		<node x="83818" y="184421" />
+	</territory>
+	<npcmaker name="ogre_1290425378371509" territory="ogre_1731854560519" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83768;184471;-3672;47632" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854562230" minZ="-3624" maxZ="-3608">
+		<node x="83640" y="183881" />
+		<node x="83540" y="183881" />
+		<node x="83540" y="183781" />
+		<node x="83640" y="183781" />
+	</territory>
+	<npcmaker name="ogre_1290427089651344" territory="ogre_1731854562230" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83590;183831;-3624;41260" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854563942" minZ="-3608" maxZ="-3592">
+		<node x="83225" y="183717" />
+		<node x="83125" y="183717" />
+		<node x="83125" y="183617" />
+		<node x="83225" y="183617" />
+	</territory>
+	<npcmaker name="ogre_1290428802012898" territory="ogre_1731854563942" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83175;183667;-3608;54490" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854565704" minZ="-3616" maxZ="-3600">
+		<node x="83794" y="183284" />
+		<node x="83694" y="183284" />
+		<node x="83694" y="183184" />
+		<node x="83794" y="183184" />
+	</territory>
+	<npcmaker name="ogre_1290430562651188" territory="ogre_1731854565704" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83744;183234;-3616;62840" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854567434" minZ="-3632" maxZ="-3616">
+		<node x="84096" y="182854" />
+		<node x="83996" y="182854" />
+		<node x="83996" y="182754" />
+		<node x="84096" y="182754" />
+	</territory>
+	<npcmaker name="ogre_1290432293368140" territory="ogre_1731854567434" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84046;182804;-3632;43623" total="1" respawnDelay="27s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854569196" minZ="-3656" maxZ="-3640">
+		<node x="83407" y="182801" />
+		<node x="83307" y="182801" />
+		<node x="83307" y="182701" />
+		<node x="83407" y="182701" />
+	</territory>
+	<npcmaker name="ogre_1290434056105794" territory="ogre_1731854569196" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83357;182751;-3656;29617" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854570710" minZ="-3648" maxZ="-3632">
+		<node x="82805" y="182943" />
+		<node x="82705" y="182943" />
+		<node x="82705" y="182843" />
+		<node x="82805" y="182843" />
+	</territory>
+	<npcmaker name="ogre_1290435570166710" territory="ogre_1731854570710" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82755;182893;-3648;30450" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854573237" minZ="-3616" maxZ="-3600">
+		<node x="81855" y="182635" />
+		<node x="81755" y="182635" />
+		<node x="81755" y="182535" />
+		<node x="81855" y="182535" />
+	</territory>
+	<npcmaker name="ogre_1290438096177659" territory="ogre_1731854573237" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81805;182585;-3616;38318" total="1" respawnDelay="29s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854574867" minZ="-3544" maxZ="-3528">
+		<node x="81230" y="182572" />
+		<node x="81130" y="182572" />
+		<node x="81130" y="182472" />
+		<node x="81230" y="182472" />
+	</territory>
+	<npcmaker name="ogre_1290439727637380" territory="ogre_1731854574867" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81180;182522;-3544;30282" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854576377" minZ="-3520" maxZ="-3504">
+		<node x="80985" y="183050" />
+		<node x="80885" y="183050" />
+		<node x="80885" y="182950" />
+		<node x="80985" y="182950" />
+	</territory>
+	<npcmaker name="ogre_1290441237477969" territory="ogre_1731854576377" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80935;183000;-3520;13115" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854578140" minZ="-3576" maxZ="-3560">
+		<node x="81257" y="183700" />
+		<node x="81157" y="183700" />
+		<node x="81157" y="183600" />
+		<node x="81257" y="183600" />
+	</territory>
+	<npcmaker name="ogre_1290442998210572" territory="ogre_1731854578140" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81207;183650;-3576;13203" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854579784" minZ="-3616" maxZ="-3600">
+		<node x="81418" y="184362" />
+		<node x="81318" y="184362" />
+		<node x="81318" y="184262" />
+		<node x="81418" y="184262" />
+	</territory>
+	<npcmaker name="ogre_1290444643733369" territory="ogre_1731854579784" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81368;184312;-3616;10050" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854581325" minZ="-3640" maxZ="-3624">
+		<node x="81921" y="184317" />
+		<node x="81821" y="184317" />
+		<node x="81821" y="184217" />
+		<node x="81921" y="184217" />
+	</territory>
+	<npcmaker name="ogre_1290446183799834" territory="ogre_1731854581325" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81871;184267;-3640;56583" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854582937" minZ="-3616" maxZ="-3600">
+		<node x="81955" y="183693" />
+		<node x="81855" y="183693" />
+		<node x="81855" y="183593" />
+		<node x="81955" y="183593" />
+	</territory>
+	<npcmaker name="ogre_1290447797011789" territory="ogre_1731854582937" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81905;183643;-3616;45725" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854584732" minZ="-3624" maxZ="-3608">
+		<node x="82178" y="183101" />
+		<node x="82078" y="183101" />
+		<node x="82078" y="183001" />
+		<node x="82178" y="183001" />
+	</territory>
+	<npcmaker name="ogre_1290449592714717" territory="ogre_1731854584732" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82128;183051;-3624;61965" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854618955" minZ="-3760" maxZ="-3744">
+		<node x="79138" y="181341" />
+		<node x="79038" y="181341" />
+		<node x="79038" y="181241" />
+		<node x="79138" y="181241" />
+	</territory>
+	<npcmaker name="ogre_1290483815687203" territory="ogre_1731854618955" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79088;181291;-3760;29648" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854622035" minZ="-3760" maxZ="-3744">
+		<node x="79161" y="181109" />
+		<node x="79061" y="181109" />
+		<node x="79061" y="181009" />
+		<node x="79161" y="181009" />
+	</territory>
+	<npcmaker name="ogre_1290486906324154" territory="ogre_1731854622035" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79111;181059;-3760;50182" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854627432" minZ="-3760" maxZ="-3744">
+		<node x="79481" y="181731" />
+		<node x="79381" y="181731" />
+		<node x="79381" y="181631" />
+		<node x="79481" y="181631" />
+	</territory>
+	<npcmaker name="ogre_1290492293985494" territory="ogre_1731854627432" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79431;181681;-3760;63389" total="1" respawnDelay="28s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854632026" minZ="-3760" maxZ="-3744">
+		<node x="79447" y="182146" />
+		<node x="79347" y="182146" />
+		<node x="79347" y="182046" />
+		<node x="79447" y="182046" />
+	</territory>
+	<npcmaker name="ogre_1290496889310017" territory="ogre_1731854632026" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79397;182096;-3760;2142" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854636368" minZ="-3760" maxZ="-3744">
+		<node x="79457" y="182571" />
+		<node x="79357" y="182571" />
+		<node x="79357" y="182471" />
+		<node x="79457" y="182471" />
+	</territory>
+	<npcmaker name="ogre_1290501227246809" territory="ogre_1731854636368" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79407;182521;-3760;65458" total="1" respawnDelay="16s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854640178" minZ="-3760" maxZ="-3744">
+		<node x="80056" y="182038" />
+		<node x="79956" y="182038" />
+		<node x="79956" y="181938" />
+		<node x="80056" y="181938" />
+	</territory>
+	<npcmaker name="ogre_1290505037712240" territory="ogre_1731854640178" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80006;181988;-3760;56880" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854684977" minZ="-3760" maxZ="-3744">
+		<node x="79700" y="182299" />
+		<node x="79600" y="182299" />
+		<node x="79600" y="182199" />
+		<node x="79700" y="182199" />
+	</territory>
+	<npcmaker name="ogre_1290549837621095" territory="ogre_1731854684977" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79650;182249;-3760;20642" total="1" respawnDelay="24s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854686575" minZ="-3760" maxZ="-3744">
+		<node x="79344" y="182848" />
+		<node x="79244" y="182848" />
+		<node x="79244" y="182748" />
+		<node x="79344" y="182748" />
+	</territory>
+	<npcmaker name="ogre_1290551436016190" territory="ogre_1731854686575" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79294;182798;-3760;24278" total="1" respawnDelay="25s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854687979" minZ="-3760" maxZ="-3744">
+		<node x="79556" y="183336" />
+		<node x="79456" y="183336" />
+		<node x="79456" y="183236" />
+		<node x="79556" y="183236" />
+	</territory>
+	<npcmaker name="ogre_1290552839869488" territory="ogre_1731854687979" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79506;183286;-3760;8842" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854689431" minZ="-3760" maxZ="-3744">
+		<node x="80090" y="183515" />
+		<node x="79990" y="183515" />
+		<node x="79990" y="183415" />
+		<node x="80090" y="183415" />
+	</territory>
+	<npcmaker name="ogre_1290554291961724" territory="ogre_1731854689431" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80040;183465;-3760;65499" total="1" respawnDelay="19s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854691126" minZ="-3760" maxZ="-3744">
+		<node x="79936" y="183921" />
+		<node x="79836" y="183921" />
+		<node x="79836" y="183821" />
+		<node x="79936" y="183821" />
+	</territory>
+	<npcmaker name="ogre_1290555988449897" territory="ogre_1731854691126" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79886;183871;-3760;28541" total="1" respawnDelay="21s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854693017" minZ="-3760" maxZ="-3744">
+		<node x="79819" y="183329" />
+		<node x="79719" y="183329" />
+		<node x="79719" y="183229" />
+		<node x="79819" y="183229" />
+	</territory>
+	<npcmaker name="ogre_1290557876690074" territory="ogre_1731854693017" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="79769;183279;-3760;52644" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854696666" minZ="-3768" maxZ="-3752">
+		<node x="80211" y="182045" />
+		<node x="80111" y="182045" />
+		<node x="80111" y="181945" />
+		<node x="80211" y="181945" />
+	</territory>
+	<npcmaker name="ogre_1290561528548760" territory="ogre_1731854696666" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80161;181995;-3768;51431" total="1" respawnDelay="19s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854698841" minZ="-3760" maxZ="-3744">
+		<node x="80408" y="181294" />
+		<node x="80308" y="181294" />
+		<node x="80308" y="181194" />
+		<node x="80408" y="181194" />
+	</territory>
+	<npcmaker name="ogre_1290563699711373" territory="ogre_1731854698841" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="80358;181244;-3760;63171" total="1" respawnDelay="15s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731854701363" minZ="-3760" maxZ="-3744">
+		<node x="81290" y="181763" />
+		<node x="81190" y="181763" />
+		<node x="81190" y="181663" />
+		<node x="81290" y="181663" />
+	</territory>
+	<npcmaker name="ogre_1290566222215102" territory="ogre_1731854701363" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="81240;181713;-3760;5389" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855193573" minZ="-3760" maxZ="-3744">
+		<node x="84016" y="180274" />
+		<node x="83916" y="180274" />
+		<node x="83916" y="180174" />
+		<node x="84016" y="180174" />
+	</territory>
+	<npcmaker name="ogre_1291058435105457" territory="ogre_1731855193573" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83966;180224;-3760;62487" total="1" respawnDelay="30s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855195013" minZ="-3760" maxZ="-3744">
+		<node x="84314" y="180384" />
+		<node x="84214" y="180384" />
+		<node x="84214" y="180284" />
+		<node x="84314" y="180284" />
+	</territory>
+	<npcmaker name="ogre_1291059873032386" territory="ogre_1731855195013" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84264;180334;-3760;3690" total="1" respawnDelay="18s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855196327" minZ="-3760" maxZ="-3744">
+		<node x="84297" y="180159" />
+		<node x="84197" y="180159" />
+		<node x="84197" y="180059" />
+		<node x="84297" y="180059" />
+	</territory>
+	<npcmaker name="ogre_1291061185873280" territory="ogre_1731855196327" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="84247;180109;-3760;45324" total="1" respawnDelay="31s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855197765" minZ="-3760" maxZ="-3744">
+		<node x="83986" y="180076" />
+		<node x="83886" y="180076" />
+		<node x="83886" y="179976" />
+		<node x="83986" y="179976" />
+	</territory>
+	<npcmaker name="ogre_1291062626241547" territory="ogre_1731855197765" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83936;180026;-3760;35484" total="1" respawnDelay="20s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855210443" minZ="-3760" maxZ="-3744">
+		<node x="83516" y="181750" />
+		<node x="83416" y="181750" />
+		<node x="83416" y="181650" />
+		<node x="83516" y="181650" />
+	</territory>
+	<npcmaker name="ogre_1291075304128821" territory="ogre_1731855210443" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83466;181700;-3760;23480" total="1" respawnDelay="19s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855212103" minZ="-3760" maxZ="-3744">
+		<node x="83097" y="181823" />
+		<node x="82997" y="181823" />
+		<node x="82997" y="181723" />
+		<node x="83097" y="181723" />
+	</territory>
+	<npcmaker name="ogre_1291076962816200" territory="ogre_1731855212103" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="83047;181773;-3760;32707" total="1" respawnDelay="17s" /> <!-- Ogre -->
+	</npcmaker>
+	<territory name="ogre_1731855213546" minZ="-3760" maxZ="-3744">
+		<node x="82931" y="182062" />
+		<node x="82831" y="182062" />
+		<node x="82831" y="181962" />
+		<node x="82931" y="181962" />
+	</territory>
+	<npcmaker name="ogre_1291078407476429" territory="ogre_1731855213546" spawn="ALL" maximumNpcs="1">
+		<npc id="21641" pos="82881;182012;-3760;16814" total="1" respawnDelay="22s" /> <!-- Ogre -->
+	</npcmaker>
+</list>

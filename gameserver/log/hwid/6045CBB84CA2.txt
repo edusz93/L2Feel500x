@@ -1,0 +1,8 @@
+14/11/2024 16:00:21 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+14/11/2024 16:44:23 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+14/11/2024 17:14:13 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+14/11/2024 18:12:39 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+15/11/2024 4:07:33 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+18/11/2024 9:16:05 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]
+18/11/2024 15:26:45 >>> HWID: [6045CBB84CA2] >>> Player: [Mystica]
+18/11/2024 15:30:58 >>> HWID: [6045CBB84CA2] >>> Player: [Hinnata]

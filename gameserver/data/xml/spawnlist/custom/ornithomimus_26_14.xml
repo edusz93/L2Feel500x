@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="ornithomimus_1731190893521" minZ="-1632" maxZ="-1616">
+		<node x="211471" y="-114299" />
+		<node x="211371" y="-114299" />
+		<node x="211371" y="-114399" />
+		<node x="211471" y="-114399" />
+	</territory>
+	<npcmaker name="ornithomimus_626758383767149" territory="ornithomimus_1731190893521" spawn="ALL" maximumNpcs="1">
+		<npc id="22200" pos="211421;-114349;-1632;18207" total="1" respawnDelay="50s" /> <!-- Ornithomimus -->
+	</npcmaker>
+</list>

@@ -54,7 +54,7 @@
 		<set name="castRange" val="600" />
 		<set name="effectRange" val="1100" />
 		<for>
-			<effect name="Debuff" time="30" val="0" stackOrder="#stackOrder" stackType="armor_fire">
+			<effect name="Debuff" time="15" val="0" stackOrder="#stackOrder" stackType="armor_fire">
 				<subDiv stat="fireRes" val="#fireRes" />
 				<addMul stat="waterRes" val="#waterRes" />
 			</effect>

@@ -1,0 +1,6 @@
+11/11/2024 17:38:00 >>> HWID: [51327C079FDF] >>> Player: [PuxaSaco]
+11/11/2024 17:38:48 >>> HWID: [51327C079FDF] >>> Player: [saco3]
+11/11/2024 17:39:04 >>> HWID: [51327C079FDF] >>> Player: [PuxaSaco]
+11/11/2024 17:47:03 >>> HWID: [51327C079FDF] >>> Player: [puxasaco2]
+11/11/2024 17:47:30 >>> HWID: [51327C079FDF] >>> Player: [saco3]
+11/11/2024 17:53:20 >>> HWID: [51327C079FDF] >>> Player: [puxasaco2]

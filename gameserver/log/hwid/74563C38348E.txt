@@ -1,0 +1,4 @@
+01/11/2024 20:10:44 >>> HWID: [74563C38348E] >>> Player: [Manaus]
+01/11/2024 20:41:14 >>> HWID: [74563C38348E] >>> Player: [ManausZL]
+01/11/2024 20:47:10 >>> HWID: [74563C38348E] >>> Player: [ManausZN]
+01/11/2024 20:47:51 >>> HWID: [74563C38348E] >>> Player: [ManausZN]

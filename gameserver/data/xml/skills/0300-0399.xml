@@ -1831,7 +1831,7 @@
 		<set name="skillType" val="BUFF"/>
 		<set name="operateType" val="ACTIVE"/>
 		<for>
-			<effect name="Buff" time="120" val="0" stackOrder="2" stackType="hero_buff">
+			<effect name="Buff" time="300" val="0" stackOrder="2" stackType="hero_buff">
 				<add stat="accCombat" val="8"/>
 				<sub stat="rEvas" val="8"/>
 				<add stat="pAtk" val="500"/>

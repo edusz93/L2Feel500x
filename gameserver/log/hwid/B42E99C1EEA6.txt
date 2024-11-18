@@ -1,0 +1,5 @@
+10/11/2024 5:46:55 >>> HWID: [B42E99C1EEA6] >>> Player: [GodWizanrd]
+10/11/2024 6:15:02 >>> HWID: [B42E99C1EEA6] >>> Player: [F1F2]
+10/11/2024 7:42:39 >>> HWID: [B42E99C1EEA6] >>> Player: [GodWizanrd]
+10/11/2024 7:44:06 >>> HWID: [B42E99C1EEA6] >>> Player: [F1F2]
+10/11/2024 7:44:40 >>> HWID: [B42E99C1EEA6] >>> Player: [GodWizanrd]

@@ -1,0 +1,7 @@
+07/11/2024 8:18:09 >>> HWID: [6EEB142CD6F6] >>> Player: [x0x]
+07/11/2024 9:18:34 >>> HWID: [6EEB142CD6F6] >>> Player: [Bank]
+07/11/2024 9:24:35 >>> HWID: [6EEB142CD6F6] >>> Player: [x0x]
+07/11/2024 9:24:59 >>> HWID: [6EEB142CD6F6] >>> Player: [x0x]
+07/11/2024 9:29:40 >>> HWID: [6EEB142CD6F6] >>> Player: [Bank]
+07/11/2024 9:30:39 >>> HWID: [6EEB142CD6F6] >>> Player: [x0x]
+07/11/2024 10:15:43 >>> HWID: [6EEB142CD6F6] >>> Player: [x0x]

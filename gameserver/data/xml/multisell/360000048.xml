@@ -1,235 +1,235 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list maintainEnchantment="false">
   <item id="1">
-	<ingredient id="13000" count="50"/>
+	<ingredient id="13000" count="10"/>
 	<production id="16000" count="1" enchant="0"/>
   </item>
   <item id="2">
-	<ingredient id="13000" count="50"/>
+	<ingredient id="13000" count="20"/>
 	<production id="16001" count="1" enchant="0"/>
   </item>
   <item id="3">
- 	<ingredient id="13000" count="50"/>
+ 	<ingredient id="13000" count="20"/>
     <production id="16003" count="1" enchant="0"/>
   </item>
   <item id="4">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16004" count="1" enchant="0"/>
   </item>
   <item id="5">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16005" count="1" enchant="0"/>
   </item>
   <item id="6">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16006" count="1" enchant="0"/>
   </item>
   <item id="7">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16007" count="1" enchant="0"/>
   </item>
   <item id="8">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16008" count="1" enchant="0"/>
   </item>
   <item id="9">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16009" count="1" enchant="0"/>
   </item>
   <item id="10">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16010" count="1" enchant="0"/>
   </item>
   <item id="11">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16011" count="1" enchant="0"/>
   </item>
   <item id="12">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16012" count="1" enchant="0"/>
   </item>
   <item id="13">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16013" count="1" enchant="0"/>
   </item>
   <item id="14">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16014" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16015" count="1" enchant="0"/>
   </item>
   <item id="16">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16016" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16017" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16018" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16019" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16020" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16021" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16022" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16023" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16024" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16025" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16026" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16027" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16028" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16029" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16030" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16031" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16032" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16033" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16034" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16035" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16036" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16037" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16038" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16039" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16040" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16041" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16042" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16043" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16044" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16045" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16046" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16047" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16048" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16049" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16050" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16051" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16052" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16053" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16054" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16055" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16056" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16057" count="1" enchant="0"/>
   </item>
   <item id="15">
-  	<ingredient id="13000" count="50"/>
+  	<ingredient id="13000" count="20"/>
     <production id="16058" count="1" enchant="0"/>
   </item>
 </list>

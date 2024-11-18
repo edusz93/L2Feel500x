@@ -1,0 +1,3 @@
+09/11/2024 9:49:01 >>> HWID: [CB36B2FB1843] >>> Player: [Kimmy]
+09/11/2024 10:50:25 >>> HWID: [CB36B2FB1843] >>> Player: [Kimmy]
+09/11/2024 12:56:07 >>> HWID: [CB36B2FB1843] >>> Player: [Kimmy]

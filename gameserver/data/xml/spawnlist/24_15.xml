@@ -572,7 +572,7 @@ Goddard Area
 		<node x="144852" y="-81868" />
 	</territory>
 	<npcmaker name="godard12_mb2415_01" territory="godard12_mb2415_01" spawn="ALL" maximumNpcs="10">
-		<npc id="25302" total="1" respawnDelay="12h" respawnRandom="1h" dbName="ketra_commander_tayr" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25302" total="1" respawnDelay="4h" respawnRandom="1h" dbName="ketra_commander_tayr" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -583,7 +583,7 @@ Goddard Area
 		<node x="144588" y="-84608" />
 	</territory>
 	<npcmaker name="godard12_mb2415_02" territory="godard12_mb2415_02" spawn="ALL" maximumNpcs="10">
-		<npc id="25305" total="1" respawnDelay="12h" respawnRandom="1h" dbName="ketra_chief_brakki" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25305" total="1" respawnDelay="4h" respawnRandom="1h" dbName="ketra_chief_brakki" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -595,7 +595,7 @@ Goddard Area
 		<node x="147592" y="-73040" />
 	</territory>
 	<npcmaker name="godard12_mb2415_03" territory="godard12_mb2415_03" spawn="ALL" maximumNpcs="10">
-		<npc id="25299" total="1" respawnDelay="12h" respawnRandom="1h" dbName="ketra_hero_hekaton" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25299" total="1" respawnDelay="4h" respawnRandom="1h" dbName="ketra_hero_hekaton" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->

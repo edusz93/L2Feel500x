@@ -3,8 +3,8 @@
 	<!--  CP Potion -->
 	<item id="4">
 		<ingredient id="13002" count="10"/>
-		<production id="5592" count="500"/>
-		<production id="5591" count="500"/>
+		<production id="5592" count="1500"/>
+		<production id="5591" count="1500"/>
 	</item>
 	<!--  Hair Style Change Potion - A -->
 	<item id="4">
@@ -58,37 +58,27 @@
 	</item>
 	<!-- Change Sex -->
 	<item id="14">
-		<ingredient id="13002" count="50"/>
+		<ingredient id="13002" count="10"/>
 		<production id="11011" count="1"/>
 	</item>
 	<!-- Floating Stone -->
 	<item id="15">
-		<ingredient id="13002" count="30"/>
+		<ingredient id="13002" count="5"/>
 		<production id="7267" count="1"/>
 	</item>
 	<!-- Portal Stone -->
 	<item id="16">
-		<ingredient id="13002" count="30"/>
+		<ingredient id="13002" count="5"/>
 		<production id="3865" count="1"/>
 	</item>
 	<!-- Blooded Fabric -->
 	<item id="17">
-		<ingredient id="13002" count="30"/>
+		<ingredient id="13002" count="5"/>
 		<production id="4295" count="1"/>
 	</item>
 	<!-- Frintezza's Magic Force Field Removal Scroll -->
 	<item id="18">
-		<ingredient id="13002" count="30"/>
-		<production id="8073" count="1"/>
-	</item>
-	<!-- Hellfire Oil -->
-	<item id="19">
 		<ingredient id="13002" count="5"/>
-		<production id="6033" count="1"/>
-	</item>
-	<!-- Lunargent -->
-	<item id="20">
-		<ingredient id="13002" count="2"/>
-		<production id="6029" count="1"/>
+		<production id="8073" count="1"/>
 	</item>
 </list>

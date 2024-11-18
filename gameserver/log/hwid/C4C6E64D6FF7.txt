@@ -1,0 +1,2 @@
+13/11/2024 17:00:38 >>> HWID: [C4C6E64D6FF7] >>> Player: [Tester]
+13/11/2024 17:03:50 >>> HWID: [C4C6E64D6FF7] >>> Player: [Tester]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="tyrannosaurus_1730772940500" minZ="-3080" maxZ="-3064">
+		<node x="22877" y="-14648" />
+		<node x="22777" y="-14648" />
+		<node x="22777" y="-14748" />
+		<node x="22877" y="-14748" />
+	</territory>
+	<npcmaker name="tyrannosaurus_208805362074439" territory="tyrannosaurus_1730772940500" spawn="ALL" maximumNpcs="1">
+		<npc id="22216" pos="22827;-14698;-3080;29815" total="1" respawnDelay="40s" /> <!-- Tyrannosaurus -->
+	</npcmaker>
+	<territory name="tyrannosaurus_1730773142978" minZ="-2568" maxZ="-2552">
+		<node x="28241" y="-17747" />
+		<node x="28141" y="-17747" />
+		<node x="28141" y="-17847" />
+		<node x="28241" y="-17847" />
+	</territory>
+	<npcmaker name="tyrannosaurus_209007838447593" territory="tyrannosaurus_1730773142978" spawn="ALL" maximumNpcs="1">
+		<npc id="22216" pos="28191;-17797;-2568;30314" total="1" respawnDelay="40s" /> <!-- Tyrannosaurus -->
+	</npcmaker>
+</list>

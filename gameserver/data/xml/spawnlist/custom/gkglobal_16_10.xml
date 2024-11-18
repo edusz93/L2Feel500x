@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="gkglobal_1730504535121" minZ="-2992" maxZ="-2976">
+		<node x="-113016" y="-251027" />
+		<node x="-113116" y="-251027" />
+		<node x="-113116" y="-251127" />
+		<node x="-113016" y="-251127" />
+	</territory>
+	<npcmaker name="gkglobal_467633986176666" territory="gkglobal_1730504535121" spawn="ALL" maximumNpcs="1">
+		<npc id="50008" pos="-113066;-251077;-2992;57344" total="1" respawnDelay="60s" /> <!-- GK Global -->
+	</npcmaker>
+</list>

@@ -963,4 +963,7 @@
 	
 	<!-- Field of Silence -->
 	<teleport id="60099" x="81062" y="180218" z="-3496"/>
+	
+	<!-- Field of Silence 2 -->
+	<teleport id="60100" x="83130" y="191970" z="-3616"/>
 </list>

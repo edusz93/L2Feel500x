@@ -632,7 +632,7 @@
 			<add stat="runSpd" val="7"/>
 			<sub stat="cancel" val="50"/>
 			<add stat="weightPenalty" val="5759"/>
-			<add stat="WIT" val="1"/>
+			<add stat="WIT" val="2"/>
 			<add stat="INT" val="1"/>
 			<sub stat="MEN" val="2"/>
 			<addMul stat="stunVuln" val="50" />

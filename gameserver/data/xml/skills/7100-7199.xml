@@ -6,7 +6,7 @@
 		<set name="target" val="SELF"/>
 		<set name="isHandler" val="true"/> 
 		<set name="altUse" val="true"/>
-		<set name="reuseDelay" val="10000"/>
+		<set name="reuseDelay" val="2000"/>
 		<set name="skillType" val="MANAHEAL"/>
 		<set name="operateType" val="ACTIVE"/>
 		<set name="isPotion" val="true"/>

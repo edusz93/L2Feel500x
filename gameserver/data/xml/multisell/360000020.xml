@@ -2,15 +2,15 @@
 <list maintainEnchantment="true">
 	<!-- Jeweler Grade S -->
 	<item id="1">
-		<ingredient id="13010" count="5000"/>
+		<ingredient id="13010" count="1000"/>
 		<production id="920" count="1" enchant="0"/>
 	</item>
 	<item id="2">
-		<ingredient id="13010" count="5000"/>
+		<ingredient id="13010" count="1000"/>
 		<production id="858" count="1" enchant="0"/>
 	</item>
 	<item id="3">
-		<ingredient id="13010" count="5000"/>
+		<ingredient id="13010" count="1000"/>
 		<production id="889" count="1" enchant="0"/>
 	</item>
 </list>

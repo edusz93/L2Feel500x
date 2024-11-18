@@ -1,0 +1,8 @@
+14/11/2024 18:12:17 >>> HWID: [001CC025B5A6] >>> Player: [22]
+14/11/2024 21:38:02 >>> HWID: [001CC025B5A6] >>> Player: [22]
+14/11/2024 23:46:44 >>> HWID: [001CC025B5A6] >>> Player: [22]
+16/11/2024 22:29:25 >>> HWID: [001CC025B5A6] >>> Player: [22]
+16/11/2024 22:37:46 >>> HWID: [001CC025B5A6] >>> Player: [NegraoRaiz]
+17/11/2024 19:55:31 >>> HWID: [001CC025B5A6] >>> Player: [22]
+17/11/2024 22:06:38 >>> HWID: [001CC025B5A6] >>> Player: [NegraoRaiz]
+18/11/2024 0:09:38 >>> HWID: [001CC025B5A6] >>> Player: [lllllllllllllll]

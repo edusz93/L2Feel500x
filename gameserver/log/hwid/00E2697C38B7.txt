@@ -1,0 +1,8 @@
+04/11/2024 21:02:15 >>> HWID: [00E2697C38B7] >>> Player: [BILY]
+04/11/2024 23:01:32 >>> HWID: [00E2697C38B7] >>> Player: [BILY]
+05/11/2024 9:30:12 >>> HWID: [00E2697C38B7] >>> Player: [BILY]
+06/11/2024 16:59:41 >>> HWID: [00E2697C38B7] >>> Player: [BILY]
+06/11/2024 17:16:16 >>> HWID: [00E2697C38B7] >>> Player: [foguetinha]
+07/11/2024 19:01:03 >>> HWID: [00E2697C38B7] >>> Player: [BILY]
+07/11/2024 19:05:07 >>> HWID: [00E2697C38B7] >>> Player: [foguetinha]
+07/11/2024 20:26:30 >>> HWID: [00E2697C38B7] >>> Player: [foguetinha]

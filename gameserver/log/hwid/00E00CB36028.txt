@@ -1,0 +1,6 @@
+16/11/2024 19:18:14 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]
+16/11/2024 19:49:31 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]
+17/11/2024 3:19:17 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]
+17/11/2024 7:52:59 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]
+17/11/2024 14:58:44 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]
+17/11/2024 20:51:37 >>> HWID: [00E00CB36028] >>> Player: [MeupopoNOseuPIPI]

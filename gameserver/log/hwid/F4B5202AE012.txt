@@ -7,3 +7,5 @@
 11/07/2024 14:43:06 >>> HWID: [F4B5202AE012] >>> Player: [Atalho]
 11/07/2024 14:56:36 >>> HWID: [F4B5202AE012] >>> Player: [Atalho]
 14/07/2024 10:44:05 >>> HWID: [F4B5202AE012] >>> Player: [Atalho]
+08/11/2024 20:20:58 >>> HWID: [F4B5202AE012] >>> Player: [CoMeCu]
+08/11/2024 21:02:19 >>> HWID: [F4B5202AE012] >>> Player: [CoMeCu]

@@ -1,0 +1,4 @@
+12/11/2024 23:04:08 >>> HWID: [74E6E2D13CDC] >>> Player: [Hiena]
+12/11/2024 23:42:53 >>> HWID: [74E6E2D13CDC] >>> Player: [Frizado]
+13/11/2024 5:11:26 >>> HWID: [74E6E2D13CDC] >>> Player: [Frizado]
+13/11/2024 5:11:29 >>> HWID: [74E6E2D13CDC] >>> Player: [Hiena]

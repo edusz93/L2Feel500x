@@ -1,0 +1,4 @@
+12/11/2024 14:38:11 >>> HWID: [7FA9183AF9FA] >>> Player: [SHIELD]
+12/11/2024 15:13:02 >>> HWID: [7FA9183AF9FA] >>> Player: [aaaaaaaa]
+12/11/2024 15:28:38 >>> HWID: [7FA9183AF9FA] >>> Player: [SHIELD]
+12/11/2024 15:35:53 >>> HWID: [7FA9183AF9FA] >>> Player: [aaaaaaaa]

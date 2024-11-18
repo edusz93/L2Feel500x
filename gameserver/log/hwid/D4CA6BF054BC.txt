@@ -1,0 +1,2 @@
+18/11/2024 17:40:09 >>> HWID: [D4CA6BF054BC] >>> Player: [x0x]
+18/11/2024 17:44:05 >>> HWID: [D4CA6BF054BC] >>> Player: [x0x]

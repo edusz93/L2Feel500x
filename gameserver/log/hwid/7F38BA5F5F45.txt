@@ -1,0 +1,6 @@
+12/11/2024 20:57:54 >>> HWID: [7F38BA5F5F45] >>> Player: [Lulu]
+12/11/2024 20:58:12 >>> HWID: [7F38BA5F5F45] >>> Player: [bsss]
+12/11/2024 20:59:10 >>> HWID: [7F38BA5F5F45] >>> Player: [Lulu]
+12/11/2024 21:01:08 >>> HWID: [7F38BA5F5F45] >>> Player: [Thay]
+12/11/2024 21:02:20 >>> HWID: [7F38BA5F5F45] >>> Player: [Lala]
+12/11/2024 21:08:00 >>> HWID: [7F38BA5F5F45] >>> Player: [Thay]

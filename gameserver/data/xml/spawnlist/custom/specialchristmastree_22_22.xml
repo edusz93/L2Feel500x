@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="specialchristmastree_1731245115851" minZ="-3400" maxZ="-3384">
+		<node x="83620" y="147638" />
+		<node x="83520" y="147638" />
+		<node x="83520" y="147538" />
+		<node x="83620" y="147538" />
+	</territory>
+	<npcmaker name="specialchristmastree_680980711647367" territory="specialchristmastree_1731245115851" spawn="ALL" maximumNpcs="1">
+		<npc id="13007" pos="83570;147588;-3400;14018" total="1" respawnDelay="60s" /> <!-- Special Christmas Tree -->
+	</npcmaker>
+	<territory name="specialchristmastree_1731853704529" minZ="-3464" maxZ="-3448">
+		<node x="82905" y="147572" />
+		<node x="82805" y="147572" />
+		<node x="82805" y="147472" />
+		<node x="82905" y="147472" />
+	</territory>
+	<npcmaker name="specialchristmastree_1289569392905430" territory="specialchristmastree_1731853704529" spawn="ALL" maximumNpcs="1">
+		<npc id="13007" pos="82855;147522;-3464;39479" total="1" respawnDelay="60s" /> <!-- Special Christmas Tree -->
+	</npcmaker>
+	<territory name="specialchristmastree_1731855330773" minZ="-3400" maxZ="-3384">
+		<node x="83624" y="149713" />
+		<node x="83524" y="149713" />
+		<node x="83524" y="149613" />
+		<node x="83624" y="149613" />
+	</territory>
+	<npcmaker name="specialchristmastree_1291195633745190" territory="specialchristmastree_1731855330773" spawn="ALL" maximumNpcs="1">
+		<npc id="13007" pos="83574;149663;-3400;49152" total="1" respawnDelay="60s" /> <!-- Special Christmas Tree -->
+	</npcmaker>
+</list>

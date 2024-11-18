@@ -404,8 +404,8 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<add stat="pDef" val="150" />
-			<add stat="mDef" val="150" />
+			<add stat="pDef" val="250" />
+			<add stat="mDef" val="250" />
 		</for>
 	</item>
 	<item id="6843" type="Armor" name="Cat Ear">

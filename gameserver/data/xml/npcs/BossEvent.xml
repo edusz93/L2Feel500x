@@ -11,7 +11,7 @@
 		<set name="type" val="GrandBoss"/>
 		<set name="exp" val="5879"/>
 		<set name="sp" val="590"/>
-		<set name="hp" val="568382.4"/>
+		<set name="hp" val="1968382.4"/>
 		<set name="mp" val="4071.06"/>
 		<set name="hpRegen" val="357"/>
 		<set name="mpRegen" val="8.1"/>
@@ -30,7 +30,7 @@
 		<set name="corpseTime" val="7"/>
 		<set name="walkSpd" val="79"/>
 		<set name="runSpd" val="220"/>
-		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
+		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="false" seedable="false"/>
 		<skills>
 			<skill id="4045" level="1"/>
 			<skill id="4170" level="6"/>
@@ -158,6 +158,168 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
 				<drop itemid="8762" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Top-Grade Life Stone: Level 76 -->
+				<drop itemid="8762" min="20" max="50" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Giant's Codex -->
+				<drop itemid="6622" min="1" max="1" chance="70.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Crystal 13 -->
 				<drop itemid="5914" min="1" max="1" chance="5.0"/>
@@ -320,6 +482,27 @@
 			</category>
 			<category type="DROP" chance="2.0"> <!-- Tateossian Earring -->
 				<drop itemid="858" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Roulette -->
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Roulette -->
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Roulette -->
+				<drop itemid="11017" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Legendary Armor Seed -->
+				<drop itemid="13008" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Legendary Armor Seed -->
+				<drop itemid="13008" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Legendary Armor Seed -->
+				<drop itemid="13008" min="1" max="1" chance="100.0"/>
+			</category>
+			<category type="DROP" chance="50.0"> <!-- Legendary Weapon Seed -->
+				<drop itemid="13009" min="1" max="1" chance="100.0"/>
 			</category>
 		</drops>
 	</npc>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="tyron_1731201580696" minZ="-3464" maxZ="-3448">
+		<node x="82563" y="147611" />
+		<node x="82463" y="147611" />
+		<node x="82463" y="147511" />
+		<node x="82563" y="147511" />
+	</territory>
+	<npcmaker name="tyron_637445563375814" territory="tyron_1731201580696" spawn="ALL" maximumNpcs="1">
+		<npc id="35104" pos="82513;147561;-3464;15332" total="1" respawnDelay="60s" /> <!-- Tyron -->
+	</npcmaker>
+</list>

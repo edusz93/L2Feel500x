@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<!-- Epic Boss -->
-	<config npcId="49999" name="sailren" minDelay="1h" allowedDay="seg,ter,qua,qui,sex,sab,dom" fixedHour="14:00,19:00,00:00" random="0m"/> <!-- Sailren -->
-	<config npcId="29001" name="queen_ant" minDelay="20h" allowedDay="seg,qua" fixedHour="22:15" random="15m"/> <!-- Queen Ant -->	
-	<config npcId="29014" name="orfen" minDelay="20h" allowedDay="seg,qua" fixedHour="23:15" random="15m"/> <!-- Orfen -->
-	<config npcId="29022" name="zaken" minDelay="44h" allowedDay="ter,qui" fixedHour="21:15" random="15m"/> <!-- Zaken -->
-    <config npcId="29006" name="core" minDelay="20h" allowedDay="ter,qui" fixedHour="23:15" random="15m"/> <!-- Core -->
-    <config npcId="29020" name="baium" minDelay="70h" allowedDay="sex" fixedHour="23:15" random="15m"/> <!-- Baium -->
-    <config npcId="29019" name="antharas" minDelay="94h" allowedDay="sab" fixedHour="16:15" random="15m"/> <!-- Antharas -->
-    <config npcId="29066" name="antharas" minDelay="94h" allowedDay="sab" fixedHour="16:15" random="15m"/> <!-- Antharas -->
-    <config npcId="29067" name="antharas" minDelay="94h" allowedDay="sab" fixedHour="16:15" random="15m"/> <!-- Antharas -->
-    <config npcId="29068" name="antharas" minDelay="94h" allowedDay="sab" fixedHour="16:15" random="15m"/> <!-- Antharas -->	
-    <config npcId="29028" name="valakas" minDelay="118h" allowedDay="dom" fixedHour="16:15" random="15m"/> <!-- Valakas -->
-	<config npcId="29047" name="frintezza" minDelay="44h" allowedDay="dom" fixedHour="22:15" random="15m"/> <!-- Frintezza -->	
-	<config npcId="29045" name="frintezza" minDelay="44h" allowedDay="dom" fixedHour="22:15" random="15m"/> <!-- Frintezza -->	
+	<config npcId="49999" name="sailren" minDelay="1h" allowedDay="seg,ter,qua,qui,sex,sab,dom" fixedHour="12:30,16:00,20:00,22:00" random="0m"/> <!-- Sailren -->
+	<config npcId="29001" name="queen_ant" minDelay="20h" allowedDay="seg,ter,qua,qui,sex,sab,dom" fixedHour="22:15" random="0m"/> <!-- Queen Ant -->
+	<config npcId="29014" name="orfen" minDelay="20h" allowedDay="seg,ter,qua,qui,sex,sab,dom" fixedHour="20:15" random="0m"/> <!-- Orfen -->
+	<config npcId="29022" name="zaken" minDelay="44h" allowedDay="seg,ter,qua,qui,sex" fixedHour="19:30" random="0m"/> <!-- Zaken -->
+    <config npcId="29006" name="core" minDelay="20h" allowedDay="seg,ter,qua,qui,sex,sab,dom" fixedHour="21:15" random="0m"/> <!-- Core -->
+    <config npcId="29020" name="baium" minDelay="70h" allowedDay="seg,ter" fixedHour="22:15" random="15m"/> <!-- Baium -->
+    <config npcId="29019" name="antharas" minDelay="94h" allowedDay="qui,sex,sab,dom" fixedHour="21:00" random="0m"/> <!-- Antharas -->
+    <config npcId="29066" name="antharas" minDelay="94h" allowedDay="qui,sex,sab,dom" fixedHour="21:00" random="0m"/> <!-- Antharas -->
+    <config npcId="29067" name="antharas" minDelay="94h" allowedDay="qui,sex,sab,dom" fixedHour="21:00" random="0m"/> <!-- Antharas -->
+    <config npcId="29068" name="antharas" minDelay="94h" allowedDay="qui,sex,sab,dom" fixedHour="21:00" random="0m"/> <!-- Antharas -->
+    <config npcId="29028" name="valakas" minDelay="118h" allowedDay="qui,sex,sab,dom" fixedHour="22:00" random="0m"/> <!-- Valakas -->
+	<config npcId="29047" name="frintezza" minDelay="44h" allowedDay="qui,sex,sab,dom" fixedHour="20:00" random="15m"/> <!-- Frintezza -->
+	<config npcId="29045" name="frintezza" minDelay="44h" allowedDay="qui,sex,sab,dom" fixedHour="20:00" random="15m"/> <!-- Frintezza -->
 </list>

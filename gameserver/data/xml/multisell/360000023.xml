@@ -3,28 +3,28 @@
   <!-- Jester Hat -->
   <item id="1">
     <ingredient id="13001" count="100"/>
-	<ingredient id="13007" count="10"/>
+	<ingredient id="13007" count="5"/>
     <production id="8562" count="1"/>
   </item>
   
   <!-- Wizard Hat -->
   <item id="2">
     <ingredient id="13001" count="100"/>
-	<ingredient id="13007" count="10"/>
+	<ingredient id="13007" count="5"/>
     <production id="8563" count="1"/>
   </item>
   
   <!-- Dapper Cap -->
   <item id="3">
     <ingredient id="13001" count="100"/>
-	<ingredient id="13007" count="10"/>
+	<ingredient id="13007" count="5"/>
     <production id="8564" count="1"/>
   </item>
   
   <!-- Romantic Chapeau -->
   <item id="4">
     <ingredient id="13001" count="100"/>
-	<ingredient id="13007" count="10"/>
+	<ingredient id="13007" count="5"/>
     <production id="8565" count="1"/>
   </item>
 </list>

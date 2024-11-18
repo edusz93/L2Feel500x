@@ -205,7 +205,7 @@
 		<node x="185648" y="-106156" />
 	</zone>
 	<!-- uruka  -->		
-	<zone type='FlagZone' shape='Cylinder' minZ='-4500' maxZ='-2900' rad='3000'>
+	<zone type='FlagZone' shape='Cylinder' minZ='-4500' maxZ='-2900' rad='1000'>
 		<node x="3621" y="-7672" />
 	</zone>
 	<!-- Primeval -->
@@ -220,13 +220,10 @@
 	</zone>
 	<!-- Field of Silence -->
 	<zone type="FlagZone" shape="NPoly" minZ="-9216" maxZ="5216">
-		<node x="89580" y="197778"/>
-		<node x="76563" y="196098"/>
-		<node x="73742" y="189786"/>
-		<node x="76172" y="180877"/>
-		<node x="85215" y="167763"/>
-		<node x="96390" y="186194"/>
-		<node x="93980" y="196023"/>
-		<node x="74364" y="194269"/>
+		<node x="82244" y="179011"/>
+		<node x="81218" y="179671"/>
+		<node x="78062" y="179759"/>
+		<node x="77461" y="177545"/>
+		<node x="78319" y="176256"/>
 	</zone>
 </list>

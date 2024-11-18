@@ -1,0 +1,8 @@
+10/11/2024 17:13:05 >>> HWID: [8C89A58C0F95] >>> Player: [ADMxRony]
+10/11/2024 17:40:22 >>> HWID: [8C89A58C0F95] >>> Player: [GMxRony]
+10/11/2024 17:52:19 >>> HWID: [8C89A58C0F95] >>> Player: [TiraQueVouCagar]
+10/11/2024 19:25:41 >>> HWID: [8C89A58C0F95] >>> Player: [RnN]
+10/11/2024 20:54:18 >>> HWID: [8C89A58C0F95] >>> Player: [GMxRony]
+16/11/2024 16:53:05 >>> HWID: [8C89A58C0F95] >>> Player: [GMxRony]
+16/11/2024 18:13:53 >>> HWID: [8C89A58C0F95] >>> Player: [ADMxABYSSAL]
+16/11/2024 18:28:14 >>> HWID: [8C89A58C0F95] >>> Player: [MinhaPombaNoAdm]

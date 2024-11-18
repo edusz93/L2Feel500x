@@ -203,3 +203,6 @@
 13/08/2024 22:39:36 >>> HWID: [F4B5205A71D3] >>> Player: [SirOwneR]
 13/08/2024 22:40:07 >>> HWID: [F4B5205A71D3] >>> Player: [GiftOfSeraphim]
 13/08/2024 23:11:19 >>> HWID: [F4B5205A71D3] >>> Player: [GiftOfSeraphim]
+16/11/2024 20:01:11 >>> HWID: [F4B5205A71D3] >>> Player: [SirOwneR]
+16/11/2024 20:07:19 >>> HWID: [F4B5205A71D3] >>> Player: [Carla]
+16/11/2024 22:07:00 >>> HWID: [F4B5205A71D3] >>> Player: [Carla]

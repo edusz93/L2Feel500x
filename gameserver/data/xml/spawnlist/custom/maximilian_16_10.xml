@@ -9,4 +9,13 @@
 	<npcmaker name="maximilian_508571255439056" territory="maximilian_1720567773255" spawn="ALL" maximumNpcs="1">
 		<npc id="30120" pos="-115931;-251179;-2992;23694" total="1" respawnDelay="60s" /> <!-- Maximilian -->
 	</npcmaker>
+	<territory name="maximilian_1730766783587" minZ="-2992" maxZ="-2976">
+		<node x="-112946" y="-251119" />
+		<node x="-113046" y="-251119" />
+		<node x="-113046" y="-251219" />
+		<node x="-112946" y="-251219" />
+	</territory>
+	<npcmaker name="maximilian_202648449531746" territory="maximilian_1730766783587" spawn="ALL" maximumNpcs="1">
+		<npc id="30120" pos="-112996;-251169;-2992;32599" total="1" respawnDelay="60s" /> <!-- Maximilian -->
+	</npcmaker>
 </list>

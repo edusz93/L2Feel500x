@@ -1,0 +1,7 @@
+11/11/2024 17:07:08 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]
+11/11/2024 17:11:12 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]
+11/11/2024 17:11:31 >>> HWID: [E93B262E6BAB] >>> Player: [PuxaSaco]
+11/11/2024 17:13:50 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]
+11/11/2024 17:16:43 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]
+11/11/2024 17:18:41 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]
+11/11/2024 17:20:24 >>> HWID: [E93B262E6BAB] >>> Player: [saco3]

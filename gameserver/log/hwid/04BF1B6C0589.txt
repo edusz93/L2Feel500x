@@ -1,0 +1,4 @@
+06/11/2024 0:20:56 >>> HWID: [04BF1B6C0589] >>> Player: [TallaC]
+06/11/2024 21:07:30 >>> HWID: [04BF1B6C0589] >>> Player: [TallaC]
+06/11/2024 21:08:34 >>> HWID: [04BF1B6C0589] >>> Player: [TallaC]
+06/11/2024 21:11:01 >>> HWID: [04BF1B6C0589] >>> Player: [TallaC]

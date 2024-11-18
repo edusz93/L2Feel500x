@@ -1560,7 +1560,7 @@
 		<set name="operateType" val="ACTIVE"/>
 		<set name="isMagic" val="true"/>
 		<for>
-			<effect name="Buff" time="120" val="0" stackOrder="1" stackType="hero_buff">
+			<effect name="Buff" time="600" val="0" stackOrder="1" stackType="hero_buff">
 				<add stat="pAtk" val="250" />
 				<add stat="pDef" val="500" />
 				<addMul stat="cancelVuln" val="40" />

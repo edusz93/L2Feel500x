@@ -1,0 +1,7 @@
+09/11/2024 23:19:57 >>> HWID: [FF2BBC3DC6F7] >>> Player: [AEAE]
+10/11/2024 1:35:39 >>> HWID: [FF2BBC3DC6F7] >>> Player: [P1]
+10/11/2024 1:43:33 >>> HWID: [FF2BBC3DC6F7] >>> Player: [P2]
+10/11/2024 2:03:07 >>> HWID: [FF2BBC3DC6F7] >>> Player: [P2]
+10/11/2024 3:50:00 >>> HWID: [FF2BBC3DC6F7] >>> Player: [HarryPotter]
+10/11/2024 3:50:16 >>> HWID: [FF2BBC3DC6F7] >>> Player: [Vilao]
+10/11/2024 3:52:38 >>> HWID: [FF2BBC3DC6F7] >>> Player: [Kaoru]

@@ -4,7 +4,7 @@
 		<set name="magicLvl" val="30"/>
 		<set name="mpInitialConsume" val="50"/>
 		<set name="target" val="ONE"/>
-		<set name="hitTime" val="30000"/> <!-- 30 seconds -->
+		<set name="hitTime" val="90000"/> <!-- 30 seconds -->
 		<set name="reuseDelay" val="5000"/>
 		<set name="skillType" val="TAKE_TERRITORY"/>
 		<set name="isMagic" val="false"/>

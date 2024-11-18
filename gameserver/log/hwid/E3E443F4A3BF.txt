@@ -1,0 +1,7 @@
+10/11/2024 8:29:00 >>> HWID: [E3E443F4A3BF] >>> Player: [PuxaSaco]
+10/11/2024 9:01:50 >>> HWID: [E3E443F4A3BF] >>> Player: [PuxaSaco]
+10/11/2024 9:01:58 >>> HWID: [E3E443F4A3BF] >>> Player: [puxasaco2]
+10/11/2024 9:02:13 >>> HWID: [E3E443F4A3BF] >>> Player: [PuxaSaco]
+10/11/2024 9:04:48 >>> HWID: [E3E443F4A3BF] >>> Player: [puxasaco2]
+10/11/2024 9:05:07 >>> HWID: [E3E443F4A3BF] >>> Player: [PuxaSaco]
+10/11/2024 9:07:07 >>> HWID: [E3E443F4A3BF] >>> Player: [puxasaco2]

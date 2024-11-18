@@ -115,9 +115,7 @@
 	<aCar name="admin_cancel" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Cancel all buffs from Creature(s)."/>
 	<aCar name="admin_heal" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Heal Creature(s)."/>
 	<aCar name="admin_kill" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Kill Creature(s)."/>
-	<aCar name="admin_allkill" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Kill Creature(s)."/>
 	<aCar name="admin_res" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Resurrect Creature(s)."/>
-	<aCar name="admin_allres" accessLevel="7" params="[name[radius]] - by default, your target or you" desc="Resurrect Creature(s)."/>
 
 	<!-- MANOR -->
 	<aCar name="admin_manor" accessLevel="7" params="" desc="Open the Manor panel."/>

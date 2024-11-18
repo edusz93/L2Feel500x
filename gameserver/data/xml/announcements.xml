@@ -12,5 +12,6 @@
 <announcement message="Respect the rules and have fun!" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
 <announcement message="Visit www.L2Feel.net" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
 <announcement message="Item de clan lvl 8 full skill gratis na GmShop!" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
-<announcement message=".menu | .raid | .info | .translate | .color | .premium" critical="false" auto="false" initial_delay="0" delay="0" limit="0" /> 
+<announcement message=".menu | .raid | .info | .translate | .color | .premium" critical="false" auto="false" initial_delay="0" delay="0" limit="0" />
+<announcement message="Use Alt + b para acessar a Community e acompanhar Rankings e Pacotes de Inauguração!" critical="true" auto="true" initial_delay="600" delay="1800" limit="0" />
 </list>

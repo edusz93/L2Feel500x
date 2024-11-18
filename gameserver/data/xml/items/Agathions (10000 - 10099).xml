@@ -44,7 +44,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
 	</item>
-	<item id="10004" type="EtcItem" name="Agathion Mini Angel">
+	<item id="10004" type="EtcItem" name="Mini Angel">
 		<set name="icon" val="L2JBrazuca.icons.mini_angel" />
 		<set name="default_action" val="skill_maintain" />
 		<set name="etcitem_type" val="PET_COLLAR" />

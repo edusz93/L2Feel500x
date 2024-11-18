@@ -738,7 +738,7 @@ Goddard Area
 		<node x="108272" y="-35468" />
 	</territory>
 	<npcmaker name="godard28_mb2316_01" territory="godard28_mb2316_01" spawn="ALL" maximumNpcs="10">
-		<npc id="25312" total="1" respawnDelay="12h" respawnRandom="1h" dbName="varka_commnder_mos" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25312" total="1" respawnDelay="4h" respawnRandom="1h" dbName="varka_commnder_mos" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -750,7 +750,7 @@ Goddard Area
 		<node x="105076" y="-42480" />
 	</territory>
 	<npcmaker name="godard28_mb2316_02" territory="godard28_mb2316_02" spawn="ALL" maximumNpcs="10">
-		<npc id="25315" total="1" respawnDelay="12h" respawnRandom="1h" dbName="varka_chief_horuth" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25315" total="1" respawnDelay="4h" respawnRandom="1h" dbName="varka_chief_horuth" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -761,7 +761,7 @@ Goddard Area
 		<node x="115468" y="-37932" />
 	</territory>
 	<npcmaker name="godard28_mb2316_03" territory="godard28_mb2316_03" spawn="ALL" maximumNpcs="10">
-		<npc id="25309" total="1" respawnDelay="12h" respawnRandom="1h" dbName="varka_hero_shadith" dbSaving="DEATH_TIME;PARAMETERS"/>
+		<npc id="25309" total="1" respawnDelay="4h" respawnRandom="1h" dbName="varka_hero_shadith" dbSaving="DEATH_TIME;PARAMETERS"/>
 	</npcmaker>
 	
 	<!--  -->

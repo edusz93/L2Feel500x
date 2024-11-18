@@ -1,2 +1,5 @@
 06/07/2024 20:53:32 >>> HWID: [80EE7387C7CC] >>> Player: [SraFoGo]
 07/07/2024 9:35:00 >>> HWID: [80EE7387C7CC] >>> Player: [SraFoGo]
+09/11/2024 18:38:53 >>> HWID: [80EE7387C7CC] >>> Player: [PesTinha]
+09/11/2024 19:01:01 >>> HWID: [80EE7387C7CC] >>> Player: [PesTinha]
+09/11/2024 19:06:56 >>> HWID: [80EE7387C7CC] >>> Player: [PesTinha]

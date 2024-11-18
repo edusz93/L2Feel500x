@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="ronaldo_1731700565771" minZ="-2992" maxZ="-2976">
+		<node x="-112831" y="-251264" />
+		<node x="-112931" y="-251264" />
+		<node x="-112931" y="-251364" />
+		<node x="-112831" y="-251364" />
+	</territory>
+	<npcmaker name="ronaldo_1136430634167799" territory="ronaldo_1731700565771" spawn="ALL" maximumNpcs="1">
+		<npc id="50021" pos="-112881;-251314;-2992;31045" total="1" respawnDelay="60s" /> <!-- Ronaldo -->
+	</npcmaker>
+	<territory name="ronaldo_1731701289462" minZ="-2992" maxZ="-2976">
+		<node x="-112842" y="-251212" />
+		<node x="-112942" y="-251212" />
+		<node x="-112942" y="-251312" />
+		<node x="-112842" y="-251312" />
+	</territory>
+	<npcmaker name="ronaldo_1137154320606598" territory="ronaldo_1731701289462" spawn="ALL" maximumNpcs="1">
+		<npc id="50018" pos="-112892;-251262;-2992;32559" total="1" respawnDelay="60s" /> <!-- Ronaldo -->
+	</npcmaker>
+</list>

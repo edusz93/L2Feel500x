@@ -37,6 +37,7 @@
 		<buff id="1391" desc="Increases P. Def."/><!-- Earth Chant -->
 		<buff id="1397" desc="Decreases MP consumption rate."/><!-- Clarity -->
 		<buff id="1413" desc="Increases mage abilities."/><!-- Magnus' Chant -->
+		<buff id="1416" desc="Increases Max. CP."/><!-- Pa'agrio's Fist -->
 		<buff id="1310" desc="Restores HP by inflicted damage."/><!-- Vampire' Chant -->
 		<buff id="1284" desc="Reflect melee physical damage back."/><!-- Revenge' Chant -->
 		<buff id="4702" desc="MP regen per tick"/><!-- B. of Seraphim -->

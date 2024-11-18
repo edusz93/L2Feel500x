@@ -1,0 +1,3 @@
+16/11/2024 21:26:21 >>> HWID: [3A4FC4F69F19] >>> Player: [AllanVieira]
+16/11/2024 22:49:34 >>> HWID: [3A4FC4F69F19] >>> Player: [AllanVieira]
+16/11/2024 22:50:57 >>> HWID: [3A4FC4F69F19] >>> Player: [AllanVieira]

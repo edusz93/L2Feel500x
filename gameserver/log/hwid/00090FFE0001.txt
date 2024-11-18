@@ -1,3 +1,7 @@
 19/07/2024 15:17:44 >>> HWID: [00090FFE0001] >>> Player: [Jamaica]
 19/07/2024 18:11:48 >>> HWID: [00090FFE0001] >>> Player: [Jamaica]
 21/07/2024 10:01:02 >>> HWID: [00090FFE0001] >>> Player: [Jamaica]
+02/11/2024 18:09:18 >>> HWID: [00090FFE0001] >>> Player: [niCE]
+02/11/2024 19:21:33 >>> HWID: [00090FFE0001] >>> Player: [niCE]
+02/11/2024 20:19:42 >>> HWID: [00090FFE0001] >>> Player: [niCE]
+02/11/2024 20:34:14 >>> HWID: [00090FFE0001] >>> Player: [niCE]

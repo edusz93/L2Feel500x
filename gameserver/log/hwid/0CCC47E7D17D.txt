@@ -1,0 +1,6 @@
+08/11/2024 14:49:59 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]
+14/11/2024 7:30:53 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]
+14/11/2024 10:48:53 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]
+14/11/2024 12:11:29 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]
+14/11/2024 14:33:49 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]
+14/11/2024 14:37:41 >>> HWID: [0CCC47E7D17D] >>> Player: [Jurandim]

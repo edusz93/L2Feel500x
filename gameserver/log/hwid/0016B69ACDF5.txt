@@ -1,0 +1,8 @@
+01/11/2024 19:01:36 >>> HWID: [0016B69ACDF5] >>> Player: [MARK]
+01/11/2024 19:20:41 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]
+01/11/2024 19:39:58 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]
+01/11/2024 21:01:16 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]
+01/11/2024 22:00:27 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]
+01/11/2024 22:18:15 >>> HWID: [0016B69ACDF5] >>> Player: [BlackGhost]
+02/11/2024 0:32:46 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]
+02/11/2024 1:18:19 >>> HWID: [0016B69ACDF5] >>> Player: [Scorpion]

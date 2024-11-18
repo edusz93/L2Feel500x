@@ -1,0 +1,5 @@
+12/11/2024 11:56:52 >>> HWID: [DD2E8C30FAAF] >>> Player: [Sagittarius]
+12/11/2024 12:13:34 >>> HWID: [DD2E8C30FAAF] >>> Player: [acerNitro]
+12/11/2024 12:31:01 >>> HWID: [DD2E8C30FAAF] >>> Player: [Sagittarius]
+12/11/2024 12:36:00 >>> HWID: [DD2E8C30FAAF] >>> Player: [acerNitro]
+12/11/2024 12:47:42 >>> HWID: [DD2E8C30FAAF] >>> Player: [acerNitro]
