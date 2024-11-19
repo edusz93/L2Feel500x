@@ -279,4 +279,188 @@
 			<add stat="mDef" val="150" />
 		</for>
 	</item>
+	<item id="14031" type="Armor" name="Tattoo of Fighter lvl 3">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo1" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.15" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.06" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.06" />
+			<add stat="pDef" val="200" />
+			<add stat="mDef" val="200" />
+			<add stat="CON" val="1" />
+			<add stat="STR" val="1" />
+		</for>
+	</item>
+	<item id="14032" type="Armor" name="Tattoo of Mage lvl 3">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo2" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.06" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+			<add stat="pDef" val="200" />
+			<add stat="mDef" val="200" />
+			<add stat="CON" val="1" />
+			<add stat="INT" val="1" />
+		</for>
+	</item>
+	<item id="14033" type="Armor" name="Tattoo of Fighter lvl 4">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo3" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.20" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.06" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.06" />
+			<add stat="pDef" val="250" />
+			<add stat="mDef" val="250" />
+			<add stat="CON" val="1" />
+			<add stat="STR" val="1" />
+		</for>
+	</item>
+	<item id="14034" type="Armor" name="Tattoo of Mage lvl 4">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo4" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.10" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+			<add stat="pDef" val="250" />
+			<add stat="mDef" val="250" />
+			<add stat="CON" val="1" />
+			<add stat="INT" val="1" />
+		</for>
+	</item>
+	<item id="14035" type="Armor" name="Tattoo of Fighter lvl 5">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo5" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.20" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.06" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.06" />
+			<add stat="pDef" val="300" />
+			<add stat="mDef" val="300" />
+			<add stat="CON" val="2" />
+			<add stat="STR" val="1" />
+		</for>
+	</item>
+	<item id="14036" type="Armor" name="Tattoo of Mage lvl 5">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo6" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.10" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+			<add stat="pDef" val="300" />
+			<add stat="mDef" val="300" />
+			<add stat="CON" val="2" />
+			<add stat="INT" val="1" />
+		</for>
+	</item>
+	<item id="14037" type="Armor" name="Tattoo of Fighter lvl 6">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo7" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.20" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.06" />
+			<mul order="0x30" stat="pvpPhysSkillsDmg" val="1.06" />
+			<add stat="pDef" val="300" />
+			<add stat="mDef" val="300" />
+			<add stat="CON" val="2" />
+			<add stat="STR" val="2" />
+		</for>
+	</item>
+	<item id="14038" type="Armor" name="Tattoo of Mage lvl 6">
+		<set name="icon" val="L2Jbrazuca.icons.tattoo8" />
+		<set name="default_action" val="equip" />
+		<set name="armor_type" val="NONE" />
+		<set name="bodypart" val="underwear" />
+		<set name="material" val="DYESTUFF" />
+		<set name="weight" val="4200" />
+		<set name="price" val="0" />
+		<set name="is_stackable" val="false" />
+		<set name="is_tradable" val="true" />
+		<set name="is_sellable" val="true" />
+		<set name="is_dropable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<for>
+			<mul order="0x30" stat="mAtkSpd" val="1.10" />
+			<mul order="0x30" stat="pvpPhysDmg" val="1.10" />
+			<mul order="0x30" stat="pvpMagicalDmg" val="1.03" />
+			<add stat="pDef" val="300" />
+			<add stat="mDef" val="300" />
+			<add stat="CON" val="2" />
+			<add stat="INT" val="2" />
+		</for>
+	</item>
 </list>
