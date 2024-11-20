@@ -226,6 +226,13 @@
 		<node x="77461" y="177545"/>
 		<node x="78319" y="176256"/>
 	</zone>
+	<!-- Aligator Island -->
+	<zone type="FlagZone" shape="NPoly" minZ="-9216" maxZ="5216">
+		<node x="100415" y="190653"/>
+		<node x="129657" y="193791"/>
+		<node x="131013" y="163895"/>
+		<node x="98754" y="165488"/>
+	</zone>
 	<!-- Giran Harbor -->
 	<zone type="FlagZone" shape="NPoly" minZ="-3690" maxZ="-3370">
         <node x="49281" y="183452" />

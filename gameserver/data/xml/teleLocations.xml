@@ -966,4 +966,10 @@
 	
 	<!-- Field of Silence 2 -->
 	<teleport id="60100" x="83130" y="191970" z="-3616"/>
+	
+	<!-- Aligator Island -->
+	<teleport id="60101" x="110726" y="166988" z="-3320"/>
+	
+	<!-- Aligator Island 2 -->
+	<teleport id="60102" x="111788" y="165898" z="-3192"/>
 </list>

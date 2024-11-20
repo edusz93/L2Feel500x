@@ -2573,7 +2573,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -6186,7 +6186,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -6287,7 +6287,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -48575,7 +48575,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -48681,7 +48681,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -48785,7 +48785,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -48893,7 +48893,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -48998,7 +48998,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -49105,7 +49105,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -49208,7 +49208,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>
@@ -49312,7 +49312,7 @@
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
 			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
-				<drop itemid="8762" min="1" max="1" chance="50.0"/>
+				<drop itemid="8762" min="1" max="1" chance="20.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
 				<drop itemid="15000" min="1" max="1" chance="0.1"/>

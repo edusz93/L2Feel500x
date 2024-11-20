@@ -10277,24 +10277,26 @@
 			</category>
 		</drops>
 	</npc>
-	<npc id="20135" name="Alligator" title="">
-		<set name="level" val="40"/>
+	<npc id="20135" name="Alligator" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="28"/>
 		<set name="height" val="11.5"/>
 		<set name="rHand" val="0"/>
 		<set name="lHand" val="0"/>
 		<set name="type" val="Monster"/>
-		<set name="exp" val="2373"/>
-		<set name="sp" val="153"/>
-		<set name="hp" val="966.57792"/>
-		<set name="mp" val="478.8"/>
+		<set name="exp" val="1777"/>
+		<set name="sp" val="111"/>
+		<set name="hp" val="3290.11306877694"/>
+		<set name="mp" val="1674.8"/>
 		<set name="hpRegen" val="4.5"/>
 		<set name="mpRegen" val="1.8"/>
-		<set name="pAtk" val="176.36077"/>
-		<set name="pDef" val="156.55035"/>
-		<set name="mAtk" val="120.43155"/>
-		<set name="mDef" val="104.232986928232"/>
-		<set name="crit" val="4"/>
+		<set name="pAtk" val="970.537548504614"/>
+		<set name="pDef" val="341.375"/>
+		<set name="mAtk" val="662.751329129412"/>
+		<set name="mDef" val="249.80341"/>
+		<set name="crit" val="1"/>
 		<set name="atkSpd" val="253"/>
 		<set name="str" val="40"/>
 		<set name="int" val="21"/>
@@ -10315,53 +10317,14 @@
 			<skill id="4416" level="4"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1882" min="1" max="1" chance="17.2318"/>
-				<drop itemid="2038" min="1" max="1" chance="0.8193"/>
-				<drop itemid="5231" min="1" max="1" chance="5.5388"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="325" max="649" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.2058">
-				<drop itemid="261" min="1" max="1" chance="1.4025"/>
-				<drop itemid="2039" min="1" max="1" chance="98.5975"/>
-			</category>
-			<category type="DROP" chance="17.3932">
-				<drop itemid="2296" min="1" max="1" chance="0.1833"/>
-				<drop itemid="2286" min="1" max="1" chance="0.1833"/>
-				<drop itemid="1894" min="1" max="1" chance="1.1556"/>
-				<drop itemid="1882" min="1" max="1" chance="7.3166"/>
-				<drop itemid="1872" min="1" max="1" chance="43.8974"/>
-				<drop itemid="1867" min="1" max="1" chance="43.897"/>
-				<drop itemid="2985" min="1" max="1" chance="3.3668"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -53442,7 +53405,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55110,7 +55073,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55216,7 +55179,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55320,7 +55283,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55423,7 +55386,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55526,7 +55489,7 @@
 			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
 				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="20.0"> <!-- Top Life Stone -->
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
 				<drop itemid="8762" min="1" max="1" chance="50.0"/>
 			</category>
 			<category type="DROP" chance="1.0"> <!-- Titanium -->
@@ -55670,8 +55633,10 @@
 			</category>
 		</drops>
 	</npc>
-	<npc id="20789" name="Crokian" title="">
-		<set name="level" val="36"/>
+	<npc id="20789" name="Crokian" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="18"/>
 		<set name="height" val="29"/>
 		<set name="rHand" val="5128"/>
@@ -55708,63 +55673,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="2030" min="1" max="1" chance="0.7705"/>
-				<drop itemid="2154" min="1" max="1" chance="7.0536"/>
-				<drop itemid="2188" min="1" max="1" chance="4.7058"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="278" max="557" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.9454">
-				<drop itemid="393" min="1" max="1" chance="0.8131"/>
-				<drop itemid="394" min="1" max="1" chance="0.8131"/>
-				<drop itemid="415" min="1" max="1" chance="1.301"/>
-				<drop itemid="416" min="1" max="1" chance="1.301"/>
-				<drop itemid="1939" min="1" max="1" chance="54.2533"/>
-				<drop itemid="1938" min="1" max="1" chance="41.5185"/>
-			</category>
-			<category type="DROP" chance="20.7072">
-				<drop itemid="2275" min="1" max="1" chance="0.1511"/>
-				<drop itemid="1889" min="1" max="1" chance="1.4101"/>
-				<drop itemid="1884" min="1" max="1" chance="13.0123"/>
-				<drop itemid="1878" min="1" max="1" chance="8.4579"/>
-				<drop itemid="1874" min="1" max="1" chance="1.4101"/>
-				<drop itemid="1661" min="1" max="1" chance="4.2294"/>
-				<drop itemid="1341" min="10" max="30" chance="70.4832"/>
-				<drop itemid="5220" min="1" max="1" chance="0.8459"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20790" name="Dailaon" title="">
-		<set name="level" val="37"/>
+	<npc id="20790" name="Dailaon" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="20"/>
 		<set name="height" val="28"/>
 		<set name="rHand" val="5127"/>
@@ -55802,63 +55725,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1868" min="1" max="3" chance="84.321"/>
-				<drop itemid="1902" min="1" max="1" chance="8.5432"/>
-				<drop itemid="2039" min="1" max="1" chance="0.8536"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="356" max="711" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.2336">
-				<drop itemid="224" min="1" max="1" chance="0.6827"/>
-				<drop itemid="1660" min="1" max="1" chance="0.6827"/>
-				<drop itemid="2044" min="1" max="1" chance="49.3173"/>
-				<drop itemid="2038" min="1" max="1" chance="49.3173"/>
-			</category>
-			<category type="DROP" chance="23.2157">
-				<drop itemid="5220" min="1" max="1" chance="0.7512"/>
-				<drop itemid="2984" min="1" max="1" chance="1.9197"/>
-				<drop itemid="2289" min="1" max="1" chance="0.1046"/>
-				<drop itemid="2147" min="1" max="1" chance="1.3413"/>
-				<drop itemid="1889" min="1" max="1" chance="1.2517"/>
-				<drop itemid="1884" min="1" max="1" chance="11.5538"/>
-				<drop itemid="1878" min="1" max="1" chance="7.5099"/>
-				<drop itemid="1874" min="1" max="1" chance="1.2517"/>
-				<drop itemid="1341" min="10" max="30" chance="62.5819"/>
-				<drop itemid="6667" min="1" max="1" chance="11.7342"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20791" name="Crokian Warrior" title="">
-		<set name="level" val="38"/>
+	<npc id="20791" name="Crokian Warrior" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="18"/>
 		<set name="height" val="29"/>
 		<set name="rHand" val="5128"/>
@@ -55896,62 +55777,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1825" min="1" max="1" chance="10.3491"/>
-				<drop itemid="2041" min="1" max="1" chance="1.6162"/>
-				<drop itemid="2196" min="1" max="1" chance="5.938"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="613" max="1223" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="2.0126">
-				<drop itemid="2919" min="1" max="1" chance="36.7937"/>
-				<drop itemid="2918" min="1" max="1" chance="36.7937"/>
-				<drop itemid="2378" min="1" max="1" chance="0.6654"/>
-				<drop itemid="2377" min="1" max="1" chance="0.6654"/>
-				<drop itemid="1941" min="1" max="1" chance="24.6648"/>
-				<drop itemid="352" min="1" max="1" chance="0.417"/>
-			</category>
-			<category type="DROP" chance="7.7261">
-				<drop itemid="1882" min="1" max="1" chance="30.7758"/>
-				<drop itemid="1881" min="1" max="1" chance="18.4645"/>
-				<drop itemid="2198" min="1" max="1" chance="2.9044"/>
-				<drop itemid="1880" min="1" max="1" chance="13.849"/>
-				<drop itemid="1877" min="1" max="1" chance="5.5396"/>
-				<drop itemid="1876" min="1" max="1" chance="27.6968"/>
-				<drop itemid="3020" min="1" max="1" chance="0.7699"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20792" name="Farhite" title="">
-		<set name="level" val="39"/>
+	<npc id="20792" name="Farhite" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="16"/>
 		<set name="height" val="31"/>
 		<set name="rHand" val="5131"/>
@@ -55992,61 +55832,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1903" min="1" max="1" chance="22.4868"/>
-				<drop itemid="2035" min="1" max="1" chance="1.3647"/>
-				<drop itemid="2202" min="1" max="1" chance="13.7841"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="570" max="1136" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3518">
-				<drop itemid="2037" min="1" max="1" chance="20.0688"/>
-				<drop itemid="2036" min="1" max="1" chance="20.0688"/>
-				<drop itemid="2035" min="1" max="1" chance="20.0688"/>
-				<drop itemid="2032" min="1" max="1" chance="18.3065"/>
-				<drop itemid="2031" min="1" max="1" chance="20.0688"/>
-				<drop itemid="172" min="1" max="1" chance="0.2837"/>
-				<drop itemid="169" min="1" max="1" chance="0.2837"/>
-				<drop itemid="158" min="1" max="1" chance="0.2837"/>
-				<drop itemid="90" min="1" max="1" chance="0.2837"/>
-				<drop itemid="88" min="1" max="1" chance="0.2835"/>
-			</category>
-			<category type="DROP" chance="4.3554">
-				<drop itemid="7641" min="1" max="1" chance="50.0003"/>
-				<drop itemid="7642" min="1" max="1" chance="49.9997"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20793" name="Nos" title="">
-		<set name="level" val="40"/>
+	<npc id="20793" name="Nos" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="26"/>
 		<set name="height" val="42"/>
 		<set name="rHand" val="5130"/>
@@ -56085,56 +55885,14 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1877" min="1" max="1" chance="5.8846"/>
-				<drop itemid="1881" min="1" max="1" chance="19.6153"/>
-				<drop itemid="2037" min="1" max="1" chance="1.4892"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="617" max="1231" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.4297">
-				<drop itemid="93" min="1" max="1" chance="0.6468"/>
-				<drop itemid="294" min="1" max="1" chance="0.6468"/>
-				<drop itemid="2041" min="1" max="1" chance="49.3532"/>
-				<drop itemid="2033" min="1" max="1" chance="49.3532"/>
-			</category>
-			<category type="DROP" chance="39.2787">
-				<drop itemid="2147" min="1" max="1" chance="1.7289"/>
-				<drop itemid="1882" min="1" max="1" chance="5.3782"/>
-				<drop itemid="1881" min="1" max="1" chance="3.2269"/>
-				<drop itemid="1880" min="1" max="1" chance="2.4204"/>
-				<drop itemid="1877" min="1" max="1" chance="0.9682"/>
-				<drop itemid="1876" min="1" max="1" chance="4.8403"/>
-				<drop itemid="1341" min="10" max="30" chance="80.6711"/>
-				<drop itemid="2205" min="1" max="1" chance="0.766"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -57015,8 +56773,10 @@
 			</category>
 		</drops>
 	</npc>
-	<npc id="20804" name="Crokian Lad" title="">
-		<set name="level" val="41"/>
+	<npc id="20804" name="Crokian Lad" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="36"/>
 		<set name="height" val="61"/>
 		<set name="rHand" val="5128"/>
@@ -57050,36 +56810,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1953" min="1" max="1" chance="5.3848"/>
-				<drop itemid="2160" min="1" max="1" chance="10.8461"/>
-				<drop itemid="4470" min="1" max="1" chance="0.9607"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="692" max="1383" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="4.4023">
-				<drop itemid="2934" min="1" max="1" chance="36.2781"/>
-				<drop itemid="2930" min="1" max="1" chance="25.7654"/>
-				<drop itemid="2494" min="1" max="1" chance="0.6217"/>
-				<drop itemid="2412" min="1" max="1" chance="0.4352"/>
-				<drop itemid="1956" min="1" max="1" chance="36.2781"/>
-				<drop itemid="630" min="1" max="1" chance="0.6215"/>
-			</category>
-			<category type="DROP" chance="43.6116">
-				<drop itemid="1884" min="1" max="1" chance="14.8901"/>
-				<drop itemid="1878" min="1" max="1" chance="9.6786"/>
-				<drop itemid="2207" min="1" max="1" chance="0.6385"/>
-				<drop itemid="2298" min="1" max="1" chance="0.1057"/>
-				<drop itemid="1869" min="1" max="1" chance="24.1966"/>
-				<drop itemid="1864" min="1" max="1" chance="48.3934"/>
-				<drop itemid="735" min="1" max="1" chance="2.0164"/>
-				<drop itemid="5274" min="1" max="1" chance="0.0807"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20805" name="Dailaon Lad" title="">
-		<set name="level" val="42"/>
+	<npc id="20805" name="Dailaon Lad" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="40"/>
 		<set name="height" val="58"/>
 		<set name="rHand" val="5127"/>
@@ -57117,64 +56862,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1905" min="1" max="1" chance="17.6987"/>
-				<drop itemid="2053" min="1" max="1" chance="1.5044"/>
-				<drop itemid="2162" min="1" max="1" chance="8.7895"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="744" max="1503" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3924">
-				<drop itemid="2058" min="1" max="1" chance="19.2628"/>
-				<drop itemid="2051" min="1" max="1" chance="20.4096"/>
-				<drop itemid="2050" min="1" max="1" chance="20.4096"/>
-				<drop itemid="2049" min="1" max="1" chance="19.2628"/>
-				<drop itemid="2048" min="1" max="1" chance="19.2628"/>
-				<drop itemid="159" min="1" max="1" chance="0.2785"/>
-				<drop itemid="190" min="1" max="1" chance="0.2785"/>
-				<drop itemid="189" min="1" max="1" chance="0.2785"/>
-				<drop itemid="188" min="1" max="1" chance="0.2785"/>
-				<drop itemid="187" min="1" max="1" chance="0.2784"/>
-			</category>
-			<category type="DROP" chance="12.466">
-				<drop itemid="5164" min="1" max="1" chance="0.4892"/>
-				<drop itemid="2305" min="1" max="1" chance="0.6401"/>
-				<drop itemid="2205" min="1" max="1" chance="4.639"/>
-				<drop itemid="1895" min="1" max="1" chance="41.8804"/>
-				<drop itemid="6668" min="1" max="1" chance="52.3513"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20806" name="Crokian Lad Warrior" title="">
-		<set name="level" val="43"/>
+	<npc id="20806" name="Crokian Lad Warrior" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="36"/>
 		<set name="height" val="61"/>
 		<set name="rHand" val="5128"/>
@@ -57212,60 +56914,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1805" min="1" max="1" chance="0.5824"/>
-				<drop itemid="2204" min="1" max="1" chance="3.4598"/>
-				<drop itemid="2934" min="1" max="1" chance="19.8321"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="705" max="1432" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="0.3881">
-				<drop itemid="2967" min="1" max="1" chance="49.0218"/>
-				<drop itemid="2499" min="1" max="1" chance="0.642"/>
-				<drop itemid="2047" min="1" max="1" chance="49.6941"/>
-				<drop itemid="70" min="1" max="1" chance="0.6421"/>
-			</category>
-			<category type="DROP" chance="28.9301">
-				<drop itemid="1875" min="1" max="1" chance="2.8883"/>
-				<drop itemid="1879" min="1" max="1" chance="7.2208"/>
-				<drop itemid="1870" min="1" max="1" chance="43.3249"/>
-				<drop itemid="2300" min="1" max="1" chance="0.1894"/>
-				<drop itemid="1865" min="1" max="1" chance="43.3245"/>
-				<drop itemid="2999" min="1" max="1" chance="2.9077"/>
-				<drop itemid="5159" min="1" max="1" chance="0.1444"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20807" name="Farhite Lad" title="">
-		<set name="level" val="44"/>
+	<npc id="20807" name="Farhite Lad" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="24"/>
 		<set name="height" val="48"/>
 		<set name="rHand" val="5131"/>
@@ -57306,62 +56969,21 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1908" min="1" max="1" chance="17.391"/>
-				<drop itemid="1910" min="1" max="1" chance="13.829"/>
-				<drop itemid="2164" min="1" max="1" chance="14.1269"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="737" max="1511" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="1.878">
-				<drop itemid="1962" min="1" max="1" chance="36.9762"/>
-				<drop itemid="1954" min="1" max="1" chance="61.4331"/>
-				<drop itemid="439" min="1" max="1" chance="0.6118"/>
-				<drop itemid="471" min="1" max="1" chance="0.9789"/>
-			</category>
-			<category type="DROP" chance="18.8237">
-				<drop itemid="2321" min="1" max="1" chance="0.1785"/>
-				<drop itemid="2316" min="1" max="1" chance="0.1789"/>
-				<drop itemid="2225" min="1" max="1" chance="1.114"/>
-				<drop itemid="2221" min="1" max="1" chance="1.6967"/>
-				<drop itemid="737" min="1" max="1" chance="5.1233"/>
-				<drop itemid="1885" min="1" max="1" chance="4.2695"/>
-				<drop itemid="1871" min="1" max="1" chance="51.2339"/>
-				<drop itemid="1866" min="1" max="1" chance="34.1557"/>
-				<drop itemid="5220" min="1" max="1" chance="2.0495"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
-	<npc id="20808" name="Nos Lad" title="">
-		<set name="level" val="45"/>
+	<npc id="20808" name="Nos Lad" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="52"/>
 		<set name="height" val="86"/>
 		<set name="rHand" val="128"/>
@@ -57402,54 +57024,14 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1908" min="1" max="1" chance="21.5579"/>
-				<drop itemid="1954" min="1" max="1" chance="12.1027"/>
-				<drop itemid="2163" min="1" max="1" chance="11.6149"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="919" max="1866" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="2.3278">
-				<drop itemid="1962" min="1" max="1" chance="36.9793"/>
-				<drop itemid="1954" min="1" max="1" chance="61.4361"/>
-				<drop itemid="471" min="1" max="1" chance="0.9749"/>
-				<drop itemid="439" min="1" max="1" chance="0.6097"/>
-			</category>
-			<category type="DROP" chance="8.4476">
-				<drop itemid="1894" min="1" max="1" chance="7.4482"/>
-				<drop itemid="2324" min="1" max="1" chance="0.7398"/>
-				<drop itemid="4039" min="1" max="1" chance="7.0765"/>
-				<drop itemid="4041" min="1" max="1" chance="1.8466"/>
-				<drop itemid="4044" min="1" max="1" chance="7.0765"/>
-				<drop itemid="6668" min="1" max="1" chance="75.8124"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -68026,8 +67608,10 @@
 			</category>
 		</drops>
 	</npc>
-	<npc id="20991" name="Swamp Tribe" title="">
-		<set name="level" val="45"/>
+	<npc id="20991" name="Swamp Tribe" title="L2Feel.Net">
+		<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="80"/>
 		<set name="radius" val="24"/>
 		<set name="height" val="48"/>
 		<set name="rHand" val="5131"/>
@@ -68063,61 +67647,16 @@
 			<skill id="4416" level="6"/>
 		</skills>
 		<drops>
-			<category type="SPOIL" chance="100.0">
-				<drop itemid="1908" min="1" max="1" chance="31.7634"/>
-				<drop itemid="1909" min="1" max="1" chance="45.2966"/>
-				<drop itemid="2064" min="1" max="1" chance="2.5926"/>
+			<category type="CURRENCY" chance="70.0"> <!-- Adena -->
+				<drop itemid="57" min="10270" max="20955" chance="100.0"/>
 			</category>
-			<category type="CURRENCY" chance="70.0">
-				<drop itemid="57" min="1354" max="2749" chance="100.0"/>
+			<category type="DROP" chance="10.0"> <!-- Top Life Stone -->
+				<drop itemid="8762" min="1" max="1" chance="100.0"/>
 			</category>
-			<category type="DROP" chance="3.2803">
-				<drop itemid="1960" min="1" max="1" chance="66.2077"/>
-				<drop itemid="1959" min="1" max="1" chance="32.5488"/>
-				<drop itemid="381" min="1" max="1" chance="0.7651"/>
-				<drop itemid="354" min="1" max="1" chance="0.4784"/>
-			</category>
-			<category type="DROP" chance="9.9079">
-				<drop itemid="1875" min="1" max="1" chance="15.2383"/>
-				<drop itemid="1879" min="1" max="1" chance="38.0963"/>
-				<drop itemid="1885" min="1" max="1" chance="19.0484"/>
-				<drop itemid="3021" min="1" max="1" chance="0.7973"/>
-				<drop itemid="4556" min="1" max="1" chance="0.9143"/>
-				<drop itemid="5549" min="1" max="1" chance="22.8574"/>
-				<drop itemid="5550" min="1" max="1" chance="3.048"/>
-			</category>
-			<category type="HERB" chance="42.0">
-				<drop itemid="8600" min="1" max="1" chance="55.0"/>
-				<drop itemid="8601" min="1" max="1" chance="38.0"/>
-				<drop itemid="8602" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8607" min="1" max="1" chance="50.0"/>
-				<drop itemid="8609" min="1" max="1" chance="50.0"/>
-			</category>
-			<category type="HERB" chance="11.0">
-				<drop itemid="8603" min="1" max="1" chance="55.0"/>
-				<drop itemid="8604" min="1" max="1" chance="38.0"/>
-				<drop itemid="8605" min="1" max="1" chance="7.0"/>
-			</category>
-			<category type="HERB" chance="25.0">
-				<drop itemid="8606" min="1" max="1" chance="34.0"/>
-				<drop itemid="8608" min="1" max="1" chance="33.0"/>
-				<drop itemid="8610" min="1" max="1" chance="33.0"/>
-			</category>
-			<category type="HERB" chance="10.0">
-				<drop itemid="8611" min="1" max="1" chance="100.0"/>
-			</category>
-			<category type="HERB" chance="1.0">
-				<drop itemid="8612" min="1" max="1" chance="33.0"/>
-				<drop itemid="8613" min="1" max="1" chance="33.0"/>
-				<drop itemid="8614" min="1" max="1" chance="34.0"/>
+			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
+				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
 		</drops>
-		<minions>
-			<minion id="20992" min="1" max="2"/>
-			<minion id="20993" min="1" max="2"/>
-		</minions>
 	</npc>
 	<npc id="20992" name="Swamp Alligator" title="">
 		<set name="level" val="44"/>
