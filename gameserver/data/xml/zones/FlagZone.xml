@@ -226,4 +226,28 @@
 		<node x="77461" y="177545"/>
 		<node x="78319" y="176256"/>
 	</zone>
+	<!-- Giran Harbor -->
+	<zone type="FlagZone" shape="NPoly" minZ="-3690" maxZ="-3370">
+        <node x="49281" y="183452" />
+        <node x="50402" y="184661" />
+        <node x="52162" y="186420" />
+        <node x="52650" y="186851" />
+        <node x="51396" y="188260" />
+        <node x="49697" y="189944" />
+        <node x="48042" y="190830" />
+        <node x="45875" y="191359" />
+        <node x="43903" y="192415" />
+        <node x="42811" y="190356" />
+        <node x="41856" y="188542" />
+        <node x="47109" y="185753" />
+        <node x="47720" y="185411" />
+    </zone>
+	<!-- Giran Harbor Out -->
+	<zone type="FlagZone" shape="NPoly" minZ="-3690" maxZ="-3370">
+        <node x="41844" y="188527" />
+		<node x="39353" y="183279" />
+		<node x="46702" y="180173" />
+		<node x="49743" y="183128" />
+		<node x="48646" y="183202" />
+    </zone>
 </list>

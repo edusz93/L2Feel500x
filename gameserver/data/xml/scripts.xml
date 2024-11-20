@@ -372,7 +372,8 @@
 <!--	<script path="script.ai.boss.Sailren"/> -->
 	<script path="script.ai.boss.Valakas"/>
 <!--	<script path="script.ai.boss.VanHalter"/> -->
-	<script path="script.ai.boss.Zaken"/>
+<!--	<script path="script.ai.boss.Zaken"/> -->
+	<script path="script.ai.boss.Zaken2"/>
 	<script path="script.ai.boss.Barakiel"/>
 	<script path="script.ai.boss.BossEvent"/>
 	<script path="script.ai.boss.Baylor"/>

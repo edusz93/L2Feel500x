@@ -899,6 +899,7 @@
 		<set name="weight" val="10" />
 		<set name="price" val="500000" />
 		<set name="item_skill" val="3633-1" />
+		<set name="is_oly_restricted" val="true" />
 		<cond msgId="1518">
 			<and>
 				<player castle="3" />

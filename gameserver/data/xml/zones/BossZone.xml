@@ -2,7 +2,7 @@
 <list>
 	<!-- Boss Zones -->
 	<zone id="110000" shape="NPoly" minZ="-4815" maxZ="-315"><!-- Zaken Boss -->
-		<!-- <stat name="InvadeTime" val="1800000"/> -->
+		<stat name="InvadeTime" val="1800000"/>
 		<node x="50797" y="213515"/>
 		<node x="57617" y="213510"/>
 		<node x="57669" y="221683"/>
