@@ -1,0 +1,3 @@
+19/11/2024 14:14:27 >>> HWID: [047C16C29FA2] >>> Player: [AquaMarine]
+19/11/2024 14:26:50 >>> HWID: [047C16C29FA2] >>> Player: [HyperX]
+19/11/2024 14:46:37 >>> HWID: [047C16C29FA2] >>> Player: [HyperX]

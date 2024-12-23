@@ -242,3 +242,8 @@
 14/11/2024 21:52:20 >>> HWID: [04421A25BB80] >>> Player: [davai]
 14/11/2024 21:54:06 >>> HWID: [04421A25BB80] >>> Player: [Kimmy]
 17/11/2024 16:38:56 >>> HWID: [04421A25BB80] >>> Player: [Kimmy]
+04/12/2024 19:44:39 >>> HWID: [04421A25BB80] >>> Player: [davai]
+05/12/2024 20:38:42 >>> HWID: [04421A25BB80] >>> Player: [davai]
+05/12/2024 20:39:05 >>> HWID: [04421A25BB80] >>> Player: [Kimmy]
+05/12/2024 20:50:49 >>> HWID: [04421A25BB80] >>> Player: [davai]
+09/12/2024 20:09:54 >>> HWID: [04421A25BB80] >>> Player: [davai]

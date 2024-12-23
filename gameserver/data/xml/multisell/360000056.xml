@@ -3,60 +3,76 @@
     <!-- Titanium Helm -->
     <item id="15000">
         <ingredient id="13000" count="25"/>
-        <production id="15000" count="1" enchant="12"/>
+        <production id="15000" count="1" enchant="15"/>
     </item>
 
     <!-- Titanium Plate Armor -->
     <item id="15001">
         <ingredient id="13000" count="25"/>
-        <production id="15001" count="1" enchant="12"/>
+        <production id="15001" count="1" enchant="15"/>
     </item> 
 
     <!-- Titanium Gauntlet - Heavy Armor -->
     <item id="15002">
         <ingredient id="13000" count="25"/>
-        <production id="15002" count="1" enchant="12"/>
+        <production id="15002" count="1" enchant="15"/>
     </item>  
 
     <!-- Titanium Solleret - Heavy Armor -->
     <item id="15003">
         <ingredient id="13000" count="25"/>
-        <production id="15003" count="1" enchant="12"/>
+        <production id="15003" count="1" enchant="15"/>
     </item>
 
     <!-- Titanium Brigandine -->
     <item id="15004">
         <ingredient id="13000" count="25"/>
-        <production id="15004" count="1" enchant="12"/>
+        <production id="15004" count="1" enchant="15"/>
     </item>
 
     <!-- Titanium Leather Gloves - Light Armor -->
     <item id="15005">
         <ingredient id="13000" count="25"/>
-        <production id="15005" count="1" enchant="12"/>
+        <production id="15005" count="1" enchant="15"/>
     </item>  
 
     <!-- Titanium Boots - Light Armor -->
     <item id="15006">
         <ingredient id="13000" count="25"/>
-        <production id="15006" count="1" enchant="12"/>
+        <production id="15006" count="1" enchant="15"/>
     </item>
 
     <!-- Titanium Doublet -->
     <item id="15007">
         <ingredient id="13000" count="25"/>
-        <production id="15007" count="1" enchant="12"/>
+        <production id="15007" count="1" enchant="15"/>
     </item>
 
     <!-- Titanium Silk Gloves - Robe -->
     <item id="15008">
         <ingredient id="13000" count="25"/>
-        <production id="15008" count="1" enchant="12"/>
+        <production id="15008" count="1" enchant="15"/>
     </item> 
 
     <!-- Titanium Sandals - Robe -->
     <item id="15009">
         <ingredient id="13000" count="25"/>
-        <production id="15009" count="1" enchant="12"/>
+        <production id="15009" count="1" enchant="15"/>
     </item>
+	
+	<!--  Tateossian Necklace   -->
+	<item>
+		<ingredient id="13000" count="15"/>
+		<production id="920" count="1" enchant="15"/>
+	</item>
+	<!--  Tateossian Ring  -->
+	<item>
+		<ingredient id="13000" count="10"/>
+		<production id="889" count="1" enchant="15"/>
+	</item>
+	<!--  Tateossian Earring   -->
+	<item>
+		<ingredient id="13000" count="10"/>
+		<production id="858" count="1" enchant="15"/>
+	</item>
 </list>

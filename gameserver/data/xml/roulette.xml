@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>
 	<!-- Weapons S Grade -->
-	<reward id="0" itemId="19004" enchant="7" count="1" chance="5"/>	<!-- Draconic Bow [Focus] -->
-	<reward id="1" itemId="19033" enchant="7" count="1" chance="5"/>	<!-- Tallum Blade*Dark Legion's Edge -->
-	<reward id="2" itemId="19032" enchant="7" count="1" chance="5"/>	<!-- Demon Splinter [Crt. Stun] -->
-	<reward id="3" itemId="19029" enchant="7" count="1" chance="5"/>	<!-- Saint Spear [Haste] -->
-	<reward id="4" itemId="19007" enchant="7" count="1" chance="5"/>	<!-- Shining Bow [Focus] -->
-	<reward id="5" itemId="19012" enchant="7" count="1" chance="5"/>	<!-- Angel Slayer [Crt. Damage] -->
-	<reward id="6" itemId="19021" enchant="7" count="1" chance="5"/>	<!-- Imperial Staff [Empower] -->
-	<reward id="7" itemId="19019" enchant="7" count="1" chance="5"/>	<!-- Basalt Battlehammer [Health] -->
-	<reward id="8" itemId="19000" enchant="7" count="1" chance="5"/>	<!-- Arcana Mace [Acumen] -->
-	<reward id="9" itemId="19017" enchant="7" count="1" chance="5"/>	<!-- Forgotten Blade [Focus] -->
-	<reward id="10" itemId="19011" enchant="7" count="1" chance="5"/>	<!-- Heaven's Divider [Focus] -->
+	<reward id="0" itemId="19004" enchant="13" count="1" chance="5"/>	<!-- Draconic Bow [Focus] -->
+	<reward id="1" itemId="19033" enchant="13" count="1" chance="5"/>	<!-- Tallum Blade*Dark Legion's Edge -->
+	<reward id="2" itemId="19032" enchant="13" count="1" chance="5"/>	<!-- Demon Splinter [Crt. Stun] -->
+	<reward id="3" itemId="19029" enchant="13" count="1" chance="5"/>	<!-- Saint Spear [Haste] -->
+	<reward id="4" itemId="19007" enchant="13" count="1" chance="5"/>	<!-- Shining Bow [Focus] -->
+	<reward id="5" itemId="19012" enchant="13" count="1" chance="5"/>	<!-- Angel Slayer [Crt. Damage] -->
+	<reward id="6" itemId="19021" enchant="13" count="1" chance="5"/>	<!-- Imperial Staff [Empower] -->
+	<reward id="7" itemId="19019" enchant="13" count="1" chance="5"/>	<!-- Basalt Battlehammer [Health] -->
+	<reward id="8" itemId="19000" enchant="13" count="1" chance="5"/>	<!-- Arcana Mace [Acumen] -->
+	<reward id="9" itemId="19017" enchant="13" count="1" chance="5"/>	<!-- Forgotten Blade [Focus] -->
+	<reward id="10" itemId="19011" enchant="13" count="1" chance="5"/>	<!-- Heaven's Divider [Focus] -->
 	<!-- Jewels S Grade -->
 	<reward id="11" itemId="858" enchant="12" count="1" chance="10"/>	<!--  Tateossian Earring   -->
 	<reward id="12" itemId="889" enchant="12" count="1" chance="10"/>	<!--  Tateossian Ring  -->
@@ -60,4 +60,6 @@
 	<!-- Evento de Natal -->
 	<reward id="46" itemId="7836" enchant="0" count="1" chance="60"/>	<!--  Santa Hats -->
 	<reward id="47" itemId="8936" enchant="0" count="1" chance="20"/>	<!--  Santa Hats com chifre -->
+	<reward id="48" itemId="13008" enchant="0" count="5" chance="20"/>	<!--  Legendary Armor Seed -->
+	<reward id="49" itemId="13005" enchant="0" count="100" chance="20"/>	<!-- Armor Seed -->
 </list>

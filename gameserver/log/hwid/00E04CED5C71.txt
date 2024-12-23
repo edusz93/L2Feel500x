@@ -34,3 +34,5 @@
 13/11/2024 18:30:41 >>> HWID: [00E04CED5C71] >>> Player: [PastorOfKiller]
 13/11/2024 18:32:13 >>> HWID: [00E04CED5C71] >>> Player: [botdopastorporra]
 13/11/2024 20:02:05 >>> HWID: [00E04CED5C71] >>> Player: [PastorOfKiller]
+08/12/2024 20:40:12 >>> HWID: [00E04CED5C71] >>> Player: [PastorOfKiller]
+08/12/2024 20:53:31 >>> HWID: [00E04CED5C71] >>> Player: [PastorOfKiller]

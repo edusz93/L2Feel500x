@@ -27,9 +27,9 @@
 		<set name="wit" val="70"/>
 		<set name="con" val="57"/>
 		<set name="men" val="80"/>
-		<set name="corpseTime" val="300"/>
+		<set name="corpseTime" val="30"/>
 		<set name="walkSpd" val="42"/>
-		<set name="runSpd" val="190"/>
+		<set name="runSpd" val="90"/>
 		<set name="dropHerbGroup" val="0"/>
 		<ai type="DEFAULT" ssCount="0" ssRate="0" spsCount="0" spsRate="0" aggro="0" canMove="true" seedable="false"/>
 		<skills>

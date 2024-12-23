@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="crokianladwarrior_1732492498387" minZ="-3352" maxZ="-3336">
+		<node x="111717" y="168202" />
+		<node x="111617" y="168202" />
+		<node x="111617" y="168102" />
+		<node x="111717" y="168102" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928363247385514" territory="crokianladwarrior_1732492498387" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111667;168152;-3352;59115" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492499614" minZ="-3352" maxZ="-3336">
+		<node x="112005" y="168319" />
+		<node x="111905" y="168319" />
+		<node x="111905" y="168219" />
+		<node x="112005" y="168219" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928364473477889" territory="crokianladwarrior_1732492499614" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111955;168269;-3352;7372" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492501877" minZ="-3352" maxZ="-3336">
+		<node x="111828" y="168863" />
+		<node x="111728" y="168863" />
+		<node x="111728" y="168763" />
+		<node x="111828" y="168763" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928366736057875" territory="crokianladwarrior_1732492501877" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111778;168813;-3352;28655" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492503907" minZ="-3336" maxZ="-3320">
+		<node x="111240" y="168737" />
+		<node x="111140" y="168737" />
+		<node x="111140" y="168637" />
+		<node x="111240" y="168637" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928368767576775" territory="crokianladwarrior_1732492503907" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111190;168687;-3336;37084" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492505542" minZ="-3296" maxZ="-3280">
+		<node x="110806" y="168478" />
+		<node x="110706" y="168478" />
+		<node x="110706" y="168378" />
+		<node x="110806" y="168378" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928370403172228" territory="crokianladwarrior_1732492505542" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110756;168428;-3296;41805" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492507109" minZ="-3336" maxZ="-3320">
+		<node x="110355" y="168494" />
+		<node x="110255" y="168494" />
+		<node x="110255" y="168394" />
+		<node x="110355" y="168394" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928371970928918" territory="crokianladwarrior_1732492507109" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110305;168444;-3336;31676" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492509298" minZ="-3352" maxZ="-3336">
+		<node x="109768" y="168286" />
+		<node x="109668" y="168286" />
+		<node x="109668" y="168186" />
+		<node x="109768" y="168186" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928374159780977" territory="crokianladwarrior_1732492509298" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109718;168236;-3352;42427" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492513129" minZ="-3352" maxZ="-3336">
+		<node x="109051" y="168265" />
+		<node x="108951" y="168265" />
+		<node x="108951" y="168165" />
+		<node x="109051" y="168165" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928378001832624" territory="crokianladwarrior_1732492513129" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109001;168215;-3352;16871" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492514876" minZ="-3336" maxZ="-3320">
+		<node x="109163" y="168802" />
+		<node x="109063" y="168802" />
+		<node x="109063" y="168702" />
+		<node x="109163" y="168702" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928379735950963" territory="crokianladwarrior_1732492514876" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109113;168752;-3336;12300" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492523725" minZ="-3552" maxZ="-3536">
+		<node x="108994" y="170788" />
+		<node x="108894" y="170788" />
+		<node x="108894" y="170688" />
+		<node x="108994" y="170688" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928388586027493" territory="crokianladwarrior_1732492523725" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108944;170738;-3552;10730" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492525279" minZ="-3704" maxZ="-3688">
+		<node x="109347" y="171105" />
+		<node x="109247" y="171105" />
+		<node x="109247" y="171005" />
+		<node x="109347" y="171005" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928390140111318" territory="crokianladwarrior_1732492525279" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109297;171055;-3704;22230" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492526847" minZ="-3760" maxZ="-3744">
+		<node x="109097" y="171504" />
+		<node x="108997" y="171504" />
+		<node x="108997" y="171404" />
+		<node x="109097" y="171404" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928391705682610" territory="crokianladwarrior_1732492526847" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109047;171454;-3760;23406" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492528510" minZ="-3760" maxZ="-3744">
+		<node x="108993" y="171912" />
+		<node x="108893" y="171912" />
+		<node x="108893" y="171812" />
+		<node x="108993" y="171812" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928393370102923" territory="crokianladwarrior_1732492528510" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108943;171862;-3760;1509" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492529985" minZ="-3768" maxZ="-3752">
+		<node x="109450" y="171979" />
+		<node x="109350" y="171979" />
+		<node x="109350" y="171879" />
+		<node x="109450" y="171879" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928394844355115" territory="crokianladwarrior_1732492529985" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109400;171929;-3768;1509" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492532151" minZ="-3760" maxZ="-3744">
+		<node x="110056" y="171773" />
+		<node x="109956" y="171773" />
+		<node x="109956" y="171673" />
+		<node x="110056" y="171673" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928397010027055" territory="crokianladwarrior_1732492532151" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110006;171723;-3760;57741" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492533789" minZ="-3760" maxZ="-3744">
+		<node x="110493" y="171572" />
+		<node x="110393" y="171572" />
+		<node x="110393" y="171472" />
+		<node x="110493" y="171472" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928398647550885" territory="crokianladwarrior_1732492533789" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110443;171522;-3760;62051" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492536370" minZ="-3760" maxZ="-3744">
+		<node x="111156" y="171967" />
+		<node x="111056" y="171967" />
+		<node x="111056" y="171867" />
+		<node x="111156" y="171867" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928401230056760" territory="crokianladwarrior_1732492536370" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111106;171917;-3760;7851" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492538106" minZ="-3760" maxZ="-3744">
+		<node x="111553" y="172215" />
+		<node x="111453" y="172215" />
+		<node x="111453" y="172115" />
+		<node x="111553" y="172115" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928402966430332" territory="crokianladwarrior_1732492538106" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111503;172165;-3760;65474" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492539739" minZ="-3760" maxZ="-3744">
+		<node x="112036" y="172052" />
+		<node x="111936" y="172052" />
+		<node x="111936" y="171952" />
+		<node x="112036" y="171952" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928404608687091" territory="crokianladwarrior_1732492539739" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111986;172002;-3760;65518" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492541498" minZ="-3768" maxZ="-3752">
+		<node x="112112" y="172503" />
+		<node x="112012" y="172503" />
+		<node x="112012" y="172403" />
+		<node x="112112" y="172403" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928406360266653" territory="crokianladwarrior_1732492541498" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="112062;172453;-3768;17705" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492543810" minZ="-3768" maxZ="-3752">
+		<node x="111563" y="172813" />
+		<node x="111463" y="172813" />
+		<node x="111463" y="172713" />
+		<node x="111563" y="172713" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928408670131649" territory="crokianladwarrior_1732492543810" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111513;172763;-3768;36259" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492548778" minZ="-3736" maxZ="-3720">
+		<node x="110083" y="172650" />
+		<node x="109983" y="172650" />
+		<node x="109983" y="172550" />
+		<node x="110083" y="172550" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928413639147669" territory="crokianladwarrior_1732492548778" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110033;172600;-3736;32751" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492550893" minZ="-3760" maxZ="-3744">
+		<node x="109563" y="172756" />
+		<node x="109463" y="172756" />
+		<node x="109463" y="172656" />
+		<node x="109563" y="172656" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928415751730751" territory="crokianladwarrior_1732492550893" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109513;172706;-3760;25968" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492552994" minZ="-3760" maxZ="-3744">
+		<node x="108988" y="172989" />
+		<node x="108888" y="172989" />
+		<node x="108888" y="172889" />
+		<node x="108988" y="172889" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928417854817018" territory="crokianladwarrior_1732492552994" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108938;172939;-3760;34199" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492559606" minZ="-3760" maxZ="-3744">
+		<node x="107829" y="172816" />
+		<node x="107729" y="172816" />
+		<node x="107729" y="172716" />
+		<node x="107829" y="172716" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928424465524999" territory="crokianladwarrior_1732492559606" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="107779;172766;-3760;28954" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492572502" minZ="-3488" maxZ="-3472">
+		<node x="109176" y="170270" />
+		<node x="109076" y="170270" />
+		<node x="109076" y="170170" />
+		<node x="109176" y="170170" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928437362876460" territory="crokianladwarrior_1732492572502" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="109126;170220;-3488;43488" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492576080" minZ="-3312" maxZ="-3296">
+		<node x="108738" y="169256" />
+		<node x="108638" y="169256" />
+		<node x="108638" y="169156" />
+		<node x="108738" y="169156" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928440941837318" territory="crokianladwarrior_1732492576080" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108688;169206;-3312;44223" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492577745" minZ="-3328" maxZ="-3312">
+		<node x="108644" y="168778" />
+		<node x="108544" y="168778" />
+		<node x="108544" y="168678" />
+		<node x="108644" y="168678" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928442611664790" territory="crokianladwarrior_1732492577745" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108594;168728;-3328;47199" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492579373" minZ="-3320" maxZ="-3304">
+		<node x="108556" y="168268" />
+		<node x="108456" y="168268" />
+		<node x="108456" y="168168" />
+		<node x="108556" y="168168" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928444234431155" territory="crokianladwarrior_1732492579373" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108506;168218;-3320;48576" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492580365" minZ="-3320" maxZ="-3304">
+		<node x="108644" y="167975" />
+		<node x="108544" y="167975" />
+		<node x="108544" y="167875" />
+		<node x="108644" y="167875" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928445224396180" territory="crokianladwarrior_1732492580365" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108594;167925;-3320;52787" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492622404" minZ="-3728" maxZ="-3712">
+		<node x="111148" y="171180" />
+		<node x="111048" y="171180" />
+		<node x="111048" y="171080" />
+		<node x="111148" y="171080" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928487265488570" territory="crokianladwarrior_1732492622404" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111098;171130;-3728;31765" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492630715" minZ="-3320" maxZ="-3304">
+		<node x="110871" y="169666" />
+		<node x="110771" y="169666" />
+		<node x="110771" y="169566" />
+		<node x="110871" y="169566" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928495576232260" territory="crokianladwarrior_1732492630715" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110821;169616;-3320;38766" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492792202" minZ="-3760" maxZ="-3744">
+		<node x="113017" y="173275" />
+		<node x="112917" y="173275" />
+		<node x="112917" y="173175" />
+		<node x="113017" y="173175" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928657061551830" territory="crokianladwarrior_1732492792202" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="112967;173225;-3760;9222" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492796607" minZ="-3760" maxZ="-3744">
+		<node x="113470" y="174285" />
+		<node x="113370" y="174285" />
+		<node x="113370" y="174185" />
+		<node x="113470" y="174185" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928661466673314" territory="crokianladwarrior_1732492796607" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="113420;174235;-3760;64639" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492800964" minZ="-3760" maxZ="-3744">
+		<node x="114328" y="173431" />
+		<node x="114228" y="173431" />
+		<node x="114228" y="173331" />
+		<node x="114328" y="173331" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928665823392071" territory="crokianladwarrior_1732492800964" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="114278;173381;-3760;54433" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492803454" minZ="-3760" maxZ="-3744">
+		<node x="114802" y="172844" />
+		<node x="114702" y="172844" />
+		<node x="114702" y="172744" />
+		<node x="114802" y="172744" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928668313507925" territory="crokianladwarrior_1732492803454" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="114752;172794;-3760;58492" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492806451" minZ="-3760" maxZ="-3744">
+		<node x="114726" y="172245" />
+		<node x="114626" y="172245" />
+		<node x="114626" y="172145" />
+		<node x="114726" y="172145" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928671310828644" territory="crokianladwarrior_1732492806451" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="114676;172195;-3760;36838" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492809564" minZ="-3760" maxZ="-3744">
+		<node x="115312" y="172069" />
+		<node x="115212" y="172069" />
+		<node x="115212" y="171969" />
+		<node x="115312" y="171969" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928674424373934" territory="crokianladwarrior_1732492809564" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="115262;172019;-3760;4527" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492811591" minZ="-3768" maxZ="-3752">
+		<node x="115563" y="172542" />
+		<node x="115463" y="172542" />
+		<node x="115463" y="172442" />
+		<node x="115563" y="172442" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928676452966611" territory="crokianladwarrior_1732492811591" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="115513;172492;-3768;21335" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492813829" minZ="-3760" maxZ="-3744">
+		<node x="115235" y="173167" />
+		<node x="115135" y="173167" />
+		<node x="115135" y="173067" />
+		<node x="115235" y="173067" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928678689257389" territory="crokianladwarrior_1732492813829" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="115185;173117;-3760;21699" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492815945" minZ="-3760" maxZ="-3744">
+		<node x="114935" y="173676" />
+		<node x="114835" y="173676" />
+		<node x="114835" y="173576" />
+		<node x="114935" y="173576" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928680804399161" territory="crokianladwarrior_1732492815945" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="114885;173626;-3760;16280" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492818201" minZ="-3760" maxZ="-3744">
+		<node x="115407" y="174017" />
+		<node x="115307" y="174017" />
+		<node x="115307" y="173917" />
+		<node x="115407" y="173917" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928683061050387" territory="crokianladwarrior_1732492818201" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="115357;173967;-3760;19689" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492827462" minZ="-3760" maxZ="-3744">
+		<node x="113485" y="173053" />
+		<node x="113385" y="173053" />
+		<node x="113385" y="172953" />
+		<node x="113485" y="172953" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928692323129291" territory="crokianladwarrior_1732492827462" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="113435;173003;-3760;47349" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492830091" minZ="-3760" maxZ="-3744">
+		<node x="112869" y="173076" />
+		<node x="112769" y="173076" />
+		<node x="112769" y="172976" />
+		<node x="112869" y="172976" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928694949703094" territory="crokianladwarrior_1732492830091" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="112819;173026;-3760;21976" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492832714" minZ="-3760" maxZ="-3744">
+		<node x="112432" y="173727" />
+		<node x="112332" y="173727" />
+		<node x="112332" y="173627" />
+		<node x="112432" y="173627" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928697576511599" territory="crokianladwarrior_1732492832714" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="112382;173677;-3760;24980" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492837624" minZ="-3760" maxZ="-3744">
+		<node x="111290" y="173364" />
+		<node x="111190" y="173364" />
+		<node x="111190" y="173264" />
+		<node x="111290" y="173264" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928702485923245" territory="crokianladwarrior_1732492837624" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="111240;173314;-3760;24498" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492859462" minZ="-3760" maxZ="-3744">
+		<node x="110060" y="171952" />
+		<node x="109960" y="171952" />
+		<node x="109960" y="171852" />
+		<node x="110060" y="171852" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928724321937059" territory="crokianladwarrior_1732492859462" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="110010;171902;-3760;52312" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492868746" minZ="-3448" maxZ="-3432">
+		<node x="108726" y="170126" />
+		<node x="108626" y="170126" />
+		<node x="108626" y="170026" />
+		<node x="108726" y="170026" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928733618832578" territory="crokianladwarrior_1732492868746" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108676;170076;-3448;37643" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492870854" minZ="-3432" maxZ="-3416">
+		<node x="108269" y="169844" />
+		<node x="108169" y="169844" />
+		<node x="108169" y="169744" />
+		<node x="108269" y="169744" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928735713898280" territory="crokianladwarrior_1732492870854" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108219;169794;-3432;46981" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+	<territory name="crokianladwarrior_1732492872886" minZ="-3392" maxZ="-3376">
+		<node x="108714" y="169574" />
+		<node x="108614" y="169574" />
+		<node x="108614" y="169474" />
+		<node x="108714" y="169474" />
+	</territory>
+	<npcmaker name="crokianladwarrior_1928737749947443" territory="crokianladwarrior_1732492872886" spawn="ALL" maximumNpcs="1">
+		<npc id="20806" pos="108664;169524;-3392;64402" total="1" respawnDelay="10s" /> <!-- Crokian Lad Warrior -->
+	</npcmaker>
+</list>

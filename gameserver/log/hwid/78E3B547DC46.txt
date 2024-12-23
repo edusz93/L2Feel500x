@@ -273,3 +273,6 @@
 16/11/2024 11:56:57 >>> HWID: [78E3B547DC46] >>> Player: [ESPECIALISTA]
 16/11/2024 14:48:58 >>> HWID: [78E3B547DC46] >>> Player: [MegaRoox]
 16/11/2024 17:28:45 >>> HWID: [78E3B547DC46] >>> Player: [MegaRoox]
+18/11/2024 22:57:38 >>> HWID: [78E3B547DC46] >>> Player: [MegaRoox]
+19/11/2024 14:55:50 >>> HWID: [78E3B547DC46] >>> Player: [MegaRoox]
+26/11/2024 17:05:54 >>> HWID: [78E3B547DC46] >>> Player: [MegaRoox]

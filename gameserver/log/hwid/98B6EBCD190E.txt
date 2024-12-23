@@ -1,0 +1,5 @@
+11/12/2024 17:18:27 >>> HWID: [98B6EBCD190E] >>> Player: [saco3]
+11/12/2024 17:18:47 >>> HWID: [98B6EBCD190E] >>> Player: [Meio]
+11/12/2024 17:18:55 >>> HWID: [98B6EBCD190E] >>> Player: [PuxaSaco]
+11/12/2024 17:19:17 >>> HWID: [98B6EBCD190E] >>> Player: [puxasaco2]
+11/12/2024 17:19:30 >>> HWID: [98B6EBCD190E] >>> Player: [Long]

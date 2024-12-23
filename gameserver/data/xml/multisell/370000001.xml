@@ -1605,4 +1605,16 @@
 		<production id="10009" count="1"/>
 		<ingredient id="10045" count="1"/>
 	</item>
+	<item>
+		<production id="6368" count="1"/>
+		<ingredient id="6593" count="1"/>
+	</item>
+	<item>
+		<production id="6368" count="1"/>
+		<ingredient id="6594" count="1"/>
+	</item>
+	<item>
+		<production id="6368" count="1"/>
+		<ingredient id="6595" count="1"/>
+	</item>
 </list>

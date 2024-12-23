@@ -244,3 +244,6 @@
 17/11/2024 22:19:52 >>> HWID: [00E01E760B6E] >>> Player: [Penetra]
 18/11/2024 9:10:37 >>> HWID: [00E01E760B6E] >>> Player: [BlacKPouL]
 18/11/2024 9:11:37 >>> HWID: [00E01E760B6E] >>> Player: [WhitePouL]
+19/11/2024 20:23:49 >>> HWID: [00E01E760B6E] >>> Player: [BlacKPouL]
+19/11/2024 20:35:25 >>> HWID: [00E01E760B6E] >>> Player: [WhitePouL]
+19/11/2024 20:35:55 >>> HWID: [00E01E760B6E] >>> Player: [Penetra]

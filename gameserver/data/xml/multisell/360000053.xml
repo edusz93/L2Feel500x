@@ -2,12 +2,22 @@
 <list maintainEnchantment="true" applyTaxes="true">
 	<!-- Tattoo of fighter lvl 2 -->
 	<item id="4">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="20"/>
 		<production id="14029" count="1"/>
 	</item>
 	<!-- Tattoo of mage lvl 2 -->
 	<item id="5">
-		<ingredient id="13000" count="50"/>
+		<ingredient id="13000" count="20"/>
 		<production id="14030" count="1"/>
+	</item>
+	<!-- Tattoo of fighter lvl 6 -->
+	<item id="6">
+		<ingredient id="13000" count="50"/>
+		<production id="14037" count="1"/>
+	</item>
+	<!-- Tattoo of Mage lvl 6 -->
+	<item id="7">
+		<ingredient id="13000" count="50"/>
+		<production id="14038" count="1"/>
 	</item>
 </list>

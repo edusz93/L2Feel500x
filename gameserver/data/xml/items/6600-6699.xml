@@ -1051,7 +1051,6 @@
 		<for>
 			<baseadd stat="mDef" val="71" />
 			<add stat="maxMp" val="31" />
-			<add stat="STR" val="2" />
 			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
@@ -1068,7 +1067,6 @@
 		<for>
 			<baseadd stat="mDef" val="48" />
 			<add stat="maxMp" val="21" />
-			<add stat="INT" val="2" />
 			<enchant stat="mDef" val="0" />
 		</for>
 	</item>

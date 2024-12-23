@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<territory name="dailaonlad_1732492494503" minZ="-3352" maxZ="-3336">
+		<node x="111036" y="167689" />
+		<node x="110936" y="167689" />
+		<node x="110936" y="167589" />
+		<node x="111036" y="167589" />
+	</territory>
+	<npcmaker name="dailaonlad_1928359367490597" territory="dailaonlad_1732492494503" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110986;167639;-3352;17193" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492495697" minZ="-3352" maxZ="-3336">
+		<node x="111096" y="168041" />
+		<node x="110996" y="168041" />
+		<node x="110996" y="167941" />
+		<node x="111096" y="167941" />
+	</territory>
+	<npcmaker name="dailaonlad_1928360559515461" territory="dailaonlad_1732492495697" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111046;167991;-3352;11524" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492496480" minZ="-3352" maxZ="-3336">
+		<node x="111230" y="168246" />
+		<node x="111130" y="168246" />
+		<node x="111130" y="168146" />
+		<node x="111230" y="168146" />
+	</territory>
+	<npcmaker name="dailaonlad_1928361343798596" territory="dailaonlad_1732492496480" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111180;168196;-3352;9847" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492497637" minZ="-3352" maxZ="-3336">
+		<node x="111541" y="168326" />
+		<node x="111441" y="168326" />
+		<node x="111441" y="168226" />
+		<node x="111541" y="168226" />
+	</territory>
+	<npcmaker name="dailaonlad_1928362502149400" territory="dailaonlad_1732492497637" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111491;168276;-3352;59115" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492500714" minZ="-3352" maxZ="-3336">
+		<node x="112040" y="168638" />
+		<node x="111940" y="168638" />
+		<node x="111940" y="168538" />
+		<node x="112040" y="168538" />
+	</territory>
+	<npcmaker name="dailaonlad_1928365575168899" territory="dailaonlad_1732492500714" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111990;168588;-3352;16179" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492502887" minZ="-3352" maxZ="-3336">
+		<node x="111528" y="168843" />
+		<node x="111428" y="168843" />
+		<node x="111428" y="168743" />
+		<node x="111528" y="168743" />
+	</territory>
+	<npcmaker name="dailaonlad_1928367749538514" territory="dailaonlad_1732492502887" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111478;168793;-3352;34530" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492504758" minZ="-3328" maxZ="-3312">
+		<node x="110981" y="168642" />
+		<node x="110881" y="168642" />
+		<node x="110881" y="168542" />
+		<node x="110981" y="168542" />
+	</territory>
+	<npcmaker name="dailaonlad_1928369617490957" territory="dailaonlad_1732492504758" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110931;168592;-3328;36352" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492506331" minZ="-3304" maxZ="-3288">
+		<node x="110603" y="168471" />
+		<node x="110503" y="168471" />
+		<node x="110503" y="168371" />
+		<node x="110603" y="168371" />
+	</territory>
+	<npcmaker name="dailaonlad_1928371190803114" territory="dailaonlad_1732492506331" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110553;168421;-3304;31890" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492508204" minZ="-3336" maxZ="-3320">
+		<node x="110029" y="168476" />
+		<node x="109929" y="168476" />
+		<node x="109929" y="168376" />
+		<node x="110029" y="168376" />
+	</territory>
+	<npcmaker name="dailaonlad_1928373063551842" territory="dailaonlad_1732492508204" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109979;168426;-3336;34657" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492510358" minZ="-3352" maxZ="-3336">
+		<node x="109555" y="168028" />
+		<node x="109455" y="168028" />
+		<node x="109455" y="167928" />
+		<node x="109555" y="167928" />
+	</territory>
+	<npcmaker name="dailaonlad_1928375217684119" territory="dailaonlad_1732492510358" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109505;167978;-3352;41661" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492511371" minZ="-3336" maxZ="-3320">
+		<node x="109276" y="167943" />
+		<node x="109176" y="167943" />
+		<node x="109176" y="167843" />
+		<node x="109276" y="167843" />
+	</territory>
+	<npcmaker name="dailaonlad_1928376231350144" territory="dailaonlad_1732492511371" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109226;167893;-3336;34140" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492512360" minZ="-3336" maxZ="-3320">
+		<node x="109079" y="168056" />
+		<node x="108979" y="168056" />
+		<node x="108979" y="167956" />
+		<node x="109079" y="167956" />
+	</territory>
+	<npcmaker name="dailaonlad_1928377219426389" territory="dailaonlad_1732492512360" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109029;168006;-3336;18608" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492514019" minZ="-3352" maxZ="-3336">
+		<node x="109073" y="168540" />
+		<node x="108973" y="168540" />
+		<node x="108973" y="168440" />
+		<node x="109073" y="168440" />
+	</territory>
+	<npcmaker name="dailaonlad_1928378878694405" territory="dailaonlad_1732492514019" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109023;168490;-3352;14638" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492515647" minZ="-3336" maxZ="-3320">
+		<node x="109300" y="169005" />
+		<node x="109200" y="169005" />
+		<node x="109200" y="168905" />
+		<node x="109300" y="168905" />
+	</territory>
+	<npcmaker name="dailaonlad_1928380506928045" territory="dailaonlad_1732492515647" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109250;168955;-3336;9582" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492516463" minZ="-3304" maxZ="-3288">
+		<node x="109448" y="169200" />
+		<node x="109348" y="169200" />
+		<node x="109348" y="169100" />
+		<node x="109448" y="169100" />
+	</territory>
+	<npcmaker name="dailaonlad_1928381322746639" territory="dailaonlad_1732492516463" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109398;169150;-3304;9582" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492517326" minZ="-3304" maxZ="-3288">
+		<node x="109452" y="169356" />
+		<node x="109352" y="169356" />
+		<node x="109352" y="169256" />
+		<node x="109452" y="169256" />
+	</territory>
+	<npcmaker name="dailaonlad_1928382185497828" territory="dailaonlad_1732492517326" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109402;169306;-3304;19157" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492518079" minZ="-3320" maxZ="-3304">
+		<node x="109372" y="169552" />
+		<node x="109272" y="169552" />
+		<node x="109272" y="169452" />
+		<node x="109372" y="169452" />
+	</territory>
+	<npcmaker name="dailaonlad_1928382939961857" territory="dailaonlad_1732492518079" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109322;169502;-3320;20981" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492518782" minZ="-3328" maxZ="-3312">
+		<node x="109192" y="169629" />
+		<node x="109092" y="169629" />
+		<node x="109092" y="169529" />
+		<node x="109192" y="169529" />
+	</territory>
+	<npcmaker name="dailaonlad_1928383643498306" territory="dailaonlad_1732492518782" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109142;169579;-3328;31114" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492520255" minZ="-3448" maxZ="-3432">
+		<node x="108808" y="169788" />
+		<node x="108708" y="169788" />
+		<node x="108708" y="169688" />
+		<node x="108808" y="169688" />
+	</territory>
+	<npcmaker name="dailaonlad_1928385114223480" territory="dailaonlad_1732492520255" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108758;169738;-3448;23379" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492521038" minZ="-3448" maxZ="-3432">
+		<node x="108752" y="170011" />
+		<node x="108652" y="170011" />
+		<node x="108652" y="169911" />
+		<node x="108752" y="169911" />
+	</territory>
+	<npcmaker name="dailaonlad_1928385898599848" territory="dailaonlad_1732492521038" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108702;169961;-3448;16155" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492521804" minZ="-3456" maxZ="-3440">
+		<node x="108767" y="170226" />
+		<node x="108667" y="170226" />
+		<node x="108667" y="170126" />
+		<node x="108767" y="170126" />
+	</territory>
+	<npcmaker name="dailaonlad_1928386663296837" territory="dailaonlad_1732492521804" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108717;170176;-3456;14672" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492522572" minZ="-3480" maxZ="-3464">
+		<node x="108821" y="170464" />
+		<node x="108721" y="170464" />
+		<node x="108721" y="170364" />
+		<node x="108821" y="170364" />
+	</territory>
+	<npcmaker name="dailaonlad_1928387431415731" territory="dailaonlad_1732492522572" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108771;170414;-3480;12182" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492523318" minZ="-3512" maxZ="-3496">
+		<node x="108929" y="170681" />
+		<node x="108829" y="170681" />
+		<node x="108829" y="170581" />
+		<node x="108929" y="170581" />
+	</territory>
+	<npcmaker name="dailaonlad_1928388177660490" territory="dailaonlad_1732492523318" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108879;170631;-3512;10730" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492524539" minZ="-3632" maxZ="-3616">
+		<node x="109168" y="170957" />
+		<node x="109068" y="170957" />
+		<node x="109068" y="170857" />
+		<node x="109168" y="170857" />
+	</territory>
+	<npcmaker name="dailaonlad_1928389399470263" territory="dailaonlad_1732492524539" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109118;170907;-3632;7209" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492525936" minZ="-3736" maxZ="-3720">
+		<node x="109243" y="171271" />
+		<node x="109143" y="171271" />
+		<node x="109143" y="171171" />
+		<node x="109243" y="171171" />
+	</territory>
+	<npcmaker name="dailaonlad_1928390797155419" territory="dailaonlad_1732492525936" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109193;171221;-3736;22230" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492527561" minZ="-3760" maxZ="-3744">
+		<node x="108963" y="171672" />
+		<node x="108863" y="171672" />
+		<node x="108863" y="171572" />
+		<node x="108963" y="171572" />
+	</territory>
+	<npcmaker name="dailaonlad_1928392420860235" territory="dailaonlad_1732492527561" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108913;171622;-3760;23406" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492529762" minZ="-3768" maxZ="-3752">
+		<node x="109388" y="171970" />
+		<node x="109288" y="171970" />
+		<node x="109288" y="171870" />
+		<node x="109388" y="171870" />
+	</territory>
+	<npcmaker name="dailaonlad_1928394621913949" territory="dailaonlad_1732492529762" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109338;171920;-3768;1509" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492531115" minZ="-3760" maxZ="-3744">
+		<node x="109804" y="171939" />
+		<node x="109704" y="171939" />
+		<node x="109704" y="171839" />
+		<node x="109804" y="171839" />
+	</territory>
+	<npcmaker name="dailaonlad_1928395975869911" territory="dailaonlad_1732492531115" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109754;171889;-3760;62195" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492533037" minZ="-3760" maxZ="-3744">
+		<node x="110293" y="171642" />
+		<node x="110193" y="171642" />
+		<node x="110193" y="171542" />
+		<node x="110293" y="171542" />
+	</territory>
+	<npcmaker name="dailaonlad_1928397897118198" territory="dailaonlad_1732492533037" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110243;171592;-3760;61863" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492535166" minZ="-3752" maxZ="-3736">
+		<node x="110878" y="171723" />
+		<node x="110778" y="171723" />
+		<node x="110778" y="171623" />
+		<node x="110878" y="171623" />
+	</territory>
+	<npcmaker name="dailaonlad_1928400027220819" territory="dailaonlad_1732492535166" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110828;171673;-3752;6633" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492537204" minZ="-3760" maxZ="-3744">
+		<node x="111310" y="172158" />
+		<node x="111210" y="172158" />
+		<node x="111210" y="172058" />
+		<node x="111310" y="172058" />
+	</territory>
+	<npcmaker name="dailaonlad_1928402063289061" territory="dailaonlad_1732492537204" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111260;172108;-3760;9714" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492538831" minZ="-3760" maxZ="-3744">
+		<node x="111776" y="172122" />
+		<node x="111676" y="172122" />
+		<node x="111676" y="172022" />
+		<node x="111776" y="172022" />
+	</territory>
+	<npcmaker name="dailaonlad_1928403691278279" territory="dailaonlad_1732492538831" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111726;172072;-3760;60426" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492540599" minZ="-3760" maxZ="-3744">
+		<node x="112129" y="172230" />
+		<node x="112029" y="172230" />
+		<node x="112029" y="172130" />
+		<node x="112129" y="172130" />
+	</territory>
+	<npcmaker name="dailaonlad_1928405458635470" territory="dailaonlad_1732492540599" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112079;172180;-3760;14758" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492542372" minZ="-3760" maxZ="-3744">
+		<node x="111944" y="172716" />
+		<node x="111844" y="172716" />
+		<node x="111844" y="172616" />
+		<node x="111944" y="172616" />
+	</territory>
+	<npcmaker name="dailaonlad_1928407232106808" territory="dailaonlad_1732492542372" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111894;172666;-3760;24340" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492544896" minZ="-3760" maxZ="-3744">
+		<node x="111259" y="172673" />
+		<node x="111159" y="172673" />
+		<node x="111159" y="172573" />
+		<node x="111259" y="172573" />
+	</territory>
+	<npcmaker name="dailaonlad_1928409755460434" territory="dailaonlad_1732492544896" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111209;172623;-3760;37616" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492549817" minZ="-3752" maxZ="-3736">
+		<node x="109745" y="172651" />
+		<node x="109645" y="172651" />
+		<node x="109645" y="172551" />
+		<node x="109745" y="172551" />
+	</territory>
+	<npcmaker name="dailaonlad_1928414677764882" territory="dailaonlad_1732492549817" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109695;172601;-3752;32751" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492552045" minZ="-3760" maxZ="-3744">
+		<node x="109285" y="172983" />
+		<node x="109185" y="172983" />
+		<node x="109185" y="172883" />
+		<node x="109285" y="172883" />
+	</territory>
+	<npcmaker name="dailaonlad_1928416905198158" territory="dailaonlad_1732492552045" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109235;172933;-3760;29190" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492554085" minZ="-3760" maxZ="-3744">
+		<node x="108710" y="172858" />
+		<node x="108610" y="172858" />
+		<node x="108610" y="172758" />
+		<node x="108710" y="172758" />
+	</territory>
+	<npcmaker name="dailaonlad_1928418946222872" territory="dailaonlad_1732492554085" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108660;172808;-3760;37898" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492558051" minZ="-3760" maxZ="-3744">
+		<node x="108178" y="172502" />
+		<node x="108078" y="172502" />
+		<node x="108078" y="172402" />
+		<node x="108178" y="172402" />
+	</territory>
+	<npcmaker name="dailaonlad_1928422910842899" territory="dailaonlad_1732492558051" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108128;172452;-3760;20725" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492581904" minZ="-3320" maxZ="-3304">
+		<node x="108570" y="167542" />
+		<node x="108470" y="167542" />
+		<node x="108470" y="167442" />
+		<node x="108570" y="167442" />
+	</territory>
+	<npcmaker name="dailaonlad_1928446762920880" territory="dailaonlad_1732492581904" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108520;167492;-3320;43515" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492583218" minZ="-3248" maxZ="-3232">
+		<node x="108297" y="167272" />
+		<node x="108197" y="167272" />
+		<node x="108197" y="167172" />
+		<node x="108297" y="167172" />
+	</territory>
+	<npcmaker name="dailaonlad_1928448079238397" territory="dailaonlad_1732492583218" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108247;167222;-3248;37922" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492584916" minZ="-3232" maxZ="-3216">
+		<node x="108488" y="167199" />
+		<node x="108388" y="167199" />
+		<node x="108388" y="167099" />
+		<node x="108488" y="167099" />
+	</territory>
+	<npcmaker name="dailaonlad_1928449776892523" territory="dailaonlad_1732492584916" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108438;167149;-3232;2086" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492586751" minZ="-3288" maxZ="-3272">
+		<node x="109009" y="167371" />
+		<node x="108909" y="167371" />
+		<node x="108909" y="167271" />
+		<node x="109009" y="167271" />
+	</territory>
+	<npcmaker name="dailaonlad_1928451619937335" territory="dailaonlad_1732492586751" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108959;167321;-3288;4947" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492591725" minZ="-3352" maxZ="-3336">
+		<node x="110363" y="168030" />
+		<node x="110263" y="168030" />
+		<node x="110263" y="167930" />
+		<node x="110363" y="167930" />
+	</territory>
+	<npcmaker name="dailaonlad_1928456586273715" territory="dailaonlad_1732492591725" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110313;167980;-3352;6649" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492593293" minZ="-3352" maxZ="-3336">
+		<node x="110820" y="167977" />
+		<node x="110720" y="167977" />
+		<node x="110720" y="167877" />
+		<node x="110820" y="167877" />
+	</territory>
+	<npcmaker name="dailaonlad_1928458154435014" territory="dailaonlad_1732492593293" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110770;167927;-3352;60209" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492595210" minZ="-3352" maxZ="-3336">
+		<node x="111351" y="167740" />
+		<node x="111251" y="167740" />
+		<node x="111251" y="167640" />
+		<node x="111351" y="167640" />
+	</territory>
+	<npcmaker name="dailaonlad_1928460070539643" territory="dailaonlad_1732492595210" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111301;167690;-3352;61389" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492597941" minZ="-3352" maxZ="-3336">
+		<node x="112076" y="167351" />
+		<node x="111976" y="167351" />
+		<node x="111976" y="167251" />
+		<node x="112076" y="167251" />
+	</territory>
+	<npcmaker name="dailaonlad_1928462800213392" territory="dailaonlad_1732492597941" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112026;167301;-3352;62700" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492599140" minZ="-3352" maxZ="-3336">
+		<node x="112434" y="167373" />
+		<node x="112334" y="167373" />
+		<node x="112334" y="167273" />
+		<node x="112434" y="167273" />
+	</territory>
+	<npcmaker name="dailaonlad_1928464000363933" territory="dailaonlad_1732492599140" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112384;167323;-3352;2347" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492600560" minZ="-3352" maxZ="-3336">
+		<node x="112832" y="167526" />
+		<node x="112732" y="167526" />
+		<node x="112732" y="167426" />
+		<node x="112832" y="167426" />
+	</territory>
+	<npcmaker name="dailaonlad_1928465419454539" territory="dailaonlad_1732492600560" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112782;167476;-3352;1590" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492601701" minZ="-3352" maxZ="-3336">
+		<node x="113199" y="167532" />
+		<node x="113099" y="167532" />
+		<node x="113099" y="167432" />
+		<node x="113199" y="167432" />
+	</territory>
+	<npcmaker name="dailaonlad_1928466560809205" territory="dailaonlad_1732492601701" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113149;167482;-3352;64968" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492603181" minZ="-3336" maxZ="-3320">
+		<node x="113562" y="167589" />
+		<node x="113462" y="167589" />
+		<node x="113462" y="167489" />
+		<node x="113562" y="167489" />
+	</territory>
+	<npcmaker name="dailaonlad_1928468040480074" territory="dailaonlad_1732492603181" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113512;167539;-3336;11139" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492604302" minZ="-3352" maxZ="-3336">
+		<node x="113731" y="167883" />
+		<node x="113631" y="167883" />
+		<node x="113631" y="167783" />
+		<node x="113731" y="167783" />
+	</territory>
+	<npcmaker name="dailaonlad_1928469165288569" territory="dailaonlad_1732492604302" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113681;167833;-3352;10840" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492607157" minZ="-3280" maxZ="-3264">
+		<node x="113035" y="168306" />
+		<node x="112935" y="168306" />
+		<node x="112935" y="168206" />
+		<node x="113035" y="168206" />
+	</territory>
+	<npcmaker name="dailaonlad_1928472016929543" territory="dailaonlad_1732492607157" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112985;168256;-3280;28228" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492609937" minZ="-3344" maxZ="-3328">
+		<node x="112463" y="168912" />
+		<node x="112363" y="168912" />
+		<node x="112363" y="168812" />
+		<node x="112463" y="168812" />
+	</territory>
+	<npcmaker name="dailaonlad_1928474797368883" territory="dailaonlad_1732492609937" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112413;168862;-3344;20704" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492613604" minZ="-3336" maxZ="-3320">
+		<node x="111455" y="169207" />
+		<node x="111355" y="169207" />
+		<node x="111355" y="169107" />
+		<node x="111455" y="169107" />
+	</territory>
+	<npcmaker name="dailaonlad_1928478464645944" territory="dailaonlad_1732492613604" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111405;169157;-3336;30432" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492615752" minZ="-3360" maxZ="-3344">
+		<node x="111396" y="169760" />
+		<node x="111296" y="169760" />
+		<node x="111296" y="169660" />
+		<node x="111396" y="169660" />
+	</territory>
+	<npcmaker name="dailaonlad_1928480612144634" territory="dailaonlad_1732492615752" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111346;169710;-3360;13247" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492617325" minZ="-3488" maxZ="-3472">
+		<node x="111554" y="170227" />
+		<node x="111454" y="170227" />
+		<node x="111454" y="170127" />
+		<node x="111554" y="170127" />
+	</territory>
+	<npcmaker name="dailaonlad_1928482185112657" territory="dailaonlad_1732492617325" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111504;170177;-3488;12877" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492623199" minZ="-3744" maxZ="-3728">
+		<node x="110932" y="171201" />
+		<node x="110832" y="171201" />
+		<node x="110832" y="171101" />
+		<node x="110932" y="171101" />
+	</territory>
+	<npcmaker name="dailaonlad_1928488060523746" territory="dailaonlad_1732492623199" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110882;171151;-3744;31765" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492626790" minZ="-3624" maxZ="-3608">
+		<node x="110991" y="170637" />
+		<node x="110891" y="170637" />
+		<node x="110891" y="170537" />
+		<node x="110991" y="170537" />
+	</territory>
+	<npcmaker name="dailaonlad_1928491651690578" territory="dailaonlad_1732492626790" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110941;170587;-3624;57384" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492629674" minZ="-3376" maxZ="-3360">
+		<node x="111111" y="169888" />
+		<node x="111011" y="169888" />
+		<node x="111011" y="169788" />
+		<node x="111111" y="169788" />
+	</territory>
+	<npcmaker name="dailaonlad_1928494534393646" territory="dailaonlad_1732492629674" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111061;169838;-3376;42857" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492631703" minZ="-3272" maxZ="-3256">
+		<node x="110741" y="169402" />
+		<node x="110641" y="169402" />
+		<node x="110641" y="169302" />
+		<node x="110741" y="169302" />
+	</territory>
+	<npcmaker name="dailaonlad_1928496563092876" territory="dailaonlad_1732492631703" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110691;169352;-3272;45997" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492659170" minZ="-3320" maxZ="-3304">
+		<node x="111806" y="166813" />
+		<node x="111706" y="166813" />
+		<node x="111706" y="166713" />
+		<node x="111806" y="166713" />
+	</territory>
+	<npcmaker name="dailaonlad_1928524029685916" territory="dailaonlad_1732492659170" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111756;166763;-3320;13278" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492661426" minZ="-3320" maxZ="-3304">
+		<node x="112188" y="166490" />
+		<node x="112088" y="166490" />
+		<node x="112088" y="166390" />
+		<node x="112188" y="166390" />
+	</territory>
+	<npcmaker name="dailaonlad_1928526288804399" territory="dailaonlad_1732492661426" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112138;166440;-3320;62609" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492664002" minZ="-3320" maxZ="-3304">
+		<node x="111695" y="166611" />
+		<node x="111595" y="166611" />
+		<node x="111595" y="166511" />
+		<node x="111695" y="166511" />
+	</territory>
+	<npcmaker name="dailaonlad_1928528864569414" territory="dailaonlad_1732492664002" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111645;166561;-3320;29313" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492665435" minZ="-3320" maxZ="-3304">
+		<node x="111369" y="166917" />
+		<node x="111269" y="166917" />
+		<node x="111269" y="166817" />
+		<node x="111369" y="166817" />
+	</territory>
+	<npcmaker name="dailaonlad_1928530295978666" territory="dailaonlad_1732492665435" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111319;166867;-3320;21473" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492666473" minZ="-3328" maxZ="-3312">
+		<node x="111297" y="167205" />
+		<node x="111197" y="167205" />
+		<node x="111197" y="167105" />
+		<node x="111297" y="167105" />
+	</territory>
+	<npcmaker name="dailaonlad_1928531333207822" territory="dailaonlad_1732492666473" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111247;167155;-3328;15874" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492667794" minZ="-3336" maxZ="-3320">
+		<node x="110991" y="167374" />
+		<node x="110891" y="167374" />
+		<node x="110891" y="167274" />
+		<node x="110991" y="167274" />
+	</territory>
+	<npcmaker name="dailaonlad_1928532657508466" territory="dailaonlad_1732492667794" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110941;167324;-3336;29604" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492669003" minZ="-3336" maxZ="-3320">
+		<node x="110647" y="167497" />
+		<node x="110547" y="167497" />
+		<node x="110547" y="167397" />
+		<node x="110647" y="167397" />
+	</territory>
+	<npcmaker name="dailaonlad_1928533866352002" territory="dailaonlad_1732492669003" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110597;167447;-3336;29067" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492670914" minZ="-3352" maxZ="-3336">
+		<node x="110175" y="167884" />
+		<node x="110075" y="167884" />
+		<node x="110075" y="167784" />
+		<node x="110175" y="167784" />
+	</territory>
+	<npcmaker name="dailaonlad_1928535775126134" territory="dailaonlad_1732492670914" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110125;167834;-3352;24471" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492677299" minZ="-3352" maxZ="-3336">
+		<node x="109704" y="168626" />
+		<node x="109604" y="168626" />
+		<node x="109604" y="168526" />
+		<node x="109704" y="168526" />
+	</territory>
+	<npcmaker name="dailaonlad_1928542161454493" territory="dailaonlad_1732492677299" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109654;168576;-3352;14012" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492789068" minZ="-3760" maxZ="-3744">
+		<node x="112270" y="172768" />
+		<node x="112170" y="172768" />
+		<node x="112170" y="172668" />
+		<node x="112270" y="172668" />
+	</territory>
+	<npcmaker name="dailaonlad_1928653928103617" territory="dailaonlad_1732492789068" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112220;172718;-3760;1259" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492790390" minZ="-3760" maxZ="-3744">
+		<node x="112651" y="172871" />
+		<node x="112551" y="172871" />
+		<node x="112551" y="172771" />
+		<node x="112651" y="172771" />
+	</territory>
+	<npcmaker name="dailaonlad_1928655250383731" territory="dailaonlad_1732492790390" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112601;172821;-3760;4669" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492793946" minZ="-3760" maxZ="-3744">
+		<node x="113151" y="173768" />
+		<node x="113051" y="173768" />
+		<node x="113051" y="173668" />
+		<node x="113151" y="173668" />
+	</territory>
+	<npcmaker name="dailaonlad_1928658806493846" territory="dailaonlad_1732492793946" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113101;173718;-3760;14573" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492795316" minZ="-3760" maxZ="-3744">
+		<node x="113151" y="174152" />
+		<node x="113051" y="174152" />
+		<node x="113051" y="174052" />
+		<node x="113151" y="174052" />
+	</territory>
+	<npcmaker name="dailaonlad_1928660177852356" territory="dailaonlad_1732492795316" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113101;174102;-3760;17215" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492797879" minZ="-3744" maxZ="-3728">
+		<node x="113855" y="174200" />
+		<node x="113755" y="174200" />
+		<node x="113755" y="174100" />
+		<node x="113855" y="174100" />
+	</territory>
+	<npcmaker name="dailaonlad_1928662738293309" territory="dailaonlad_1732492797879" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113805;174150;-3744;57508" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492799740" minZ="-3720" maxZ="-3704">
+		<node x="114164" y="173760" />
+		<node x="114064" y="173760" />
+		<node x="114064" y="173660" />
+		<node x="114164" y="173660" />
+	</territory>
+	<npcmaker name="dailaonlad_1928664611341534" territory="dailaonlad_1732492799740" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114114;173710;-3720;52633" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492802053" minZ="-3760" maxZ="-3744">
+		<node x="114489" y="173130" />
+		<node x="114389" y="173130" />
+		<node x="114389" y="173030" />
+		<node x="114489" y="173030" />
+	</territory>
+	<npcmaker name="dailaonlad_1928666912631606" territory="dailaonlad_1732492802053" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114439;173080;-3760;54196" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492804524" minZ="-3760" maxZ="-3744">
+		<node x="115044" y="172619" />
+		<node x="114944" y="172619" />
+		<node x="114944" y="172519" />
+		<node x="115044" y="172519" />
+	</territory>
+	<npcmaker name="dailaonlad_1928669383830504" territory="dailaonlad_1732492804524" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114994;172569;-3760;54835" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492805513" minZ="-3760" maxZ="-3744">
+		<node x="114961" y="172386" />
+		<node x="114861" y="172386" />
+		<node x="114861" y="172286" />
+		<node x="114961" y="172286" />
+	</territory>
+	<npcmaker name="dailaonlad_1928670373492071" territory="dailaonlad_1732492805513" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114911;172336;-3760;40853" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492807480" minZ="-3760" maxZ="-3744">
+		<node x="114718" y="172147" />
+		<node x="114618" y="172147" />
+		<node x="114618" y="172047" />
+		<node x="114718" y="172047" />
+	</territory>
+	<npcmaker name="dailaonlad_1928672340756462" territory="dailaonlad_1732492807480" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114668;172097;-3760;60380" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492808637" minZ="-3768" maxZ="-3752">
+		<node x="115059" y="172011" />
+		<node x="114959" y="172011" />
+		<node x="114959" y="171911" />
+		<node x="115059" y="171911" />
+	</territory>
+	<npcmaker name="dailaonlad_1928673497385514" territory="dailaonlad_1732492808637" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="115009;171961;-3768;62600" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492810706" minZ="-3768" maxZ="-3752">
+		<node x="115553" y="172291" />
+		<node x="115453" y="172291" />
+		<node x="115453" y="172191" />
+		<node x="115553" y="172191" />
+	</territory>
+	<npcmaker name="dailaonlad_1928675567971233" territory="dailaonlad_1732492810706" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="115503;172241;-3768;12170" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492812964" minZ="-3768" maxZ="-3752">
+		<node x="115367" y="172925" />
+		<node x="115267" y="172925" />
+		<node x="115267" y="172825" />
+		<node x="115367" y="172825" />
+	</territory>
+	<npcmaker name="dailaonlad_1928677823684009" territory="dailaonlad_1732492812964" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="115317;172875;-3768;21293" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492814979" minZ="-3760" maxZ="-3744">
+		<node x="115007" y="173407" />
+		<node x="114907" y="173407" />
+		<node x="114907" y="173307" />
+		<node x="115007" y="173307" />
+	</territory>
+	<npcmaker name="dailaonlad_1928679838581863" territory="dailaonlad_1732492814979" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="114957;173357;-3760;26199" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492816943" minZ="-3760" maxZ="-3744">
+		<node x="115161" y="173854" />
+		<node x="115061" y="173854" />
+		<node x="115061" y="173754" />
+		<node x="115161" y="173754" />
+	</territory>
+	<npcmaker name="dailaonlad_1928681803339040" territory="dailaonlad_1732492816943" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="115111;173804;-3760;5626" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492819263" minZ="-3768" maxZ="-3752">
+		<node x="115215" y="174265" />
+		<node x="115115" y="174265" />
+		<node x="115115" y="174165" />
+		<node x="115215" y="174165" />
+	</territory>
+	<npcmaker name="dailaonlad_1928684124475159" territory="dailaonlad_1732492819263" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="115165;174215;-3768;28200" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492828521" minZ="-3760" maxZ="-3744">
+		<node x="113249" y="172871" />
+		<node x="113149" y="172871" />
+		<node x="113149" y="172771" />
+		<node x="113249" y="172771" />
+	</territory>
+	<npcmaker name="dailaonlad_1928693383441013" territory="dailaonlad_1732492828521" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="113199;172821;-3760;38857" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492831394" minZ="-3768" maxZ="-3752">
+		<node x="112698" y="173436" />
+		<node x="112598" y="173436" />
+		<node x="112598" y="173336" />
+		<node x="112698" y="173336" />
+	</territory>
+	<npcmaker name="dailaonlad_1928696255084982" territory="dailaonlad_1732492831394" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="112648;173386;-3768;20396" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492836081" minZ="-3760" maxZ="-3744">
+		<node x="111681" y="173252" />
+		<node x="111581" y="173252" />
+		<node x="111581" y="173152" />
+		<node x="111681" y="173152" />
+	</territory>
+	<npcmaker name="dailaonlad_1928700943735097" territory="dailaonlad_1732492836081" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="111631;173202;-3760;39654" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492838787" minZ="-3760" maxZ="-3744">
+		<node x="110953" y="173441" />
+		<node x="110853" y="173441" />
+		<node x="110853" y="173341" />
+		<node x="110953" y="173341" />
+	</territory>
+	<npcmaker name="dailaonlad_1928703646841378" territory="dailaonlad_1732492838787" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110903;173391;-3760;32994" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492854168" minZ="-3760" maxZ="-3744">
+		<node x="108669" y="172462" />
+		<node x="108569" y="172462" />
+		<node x="108569" y="172362" />
+		<node x="108669" y="172362" />
+	</territory>
+	<npcmaker name="dailaonlad_1928719028339976" territory="dailaonlad_1732492854168" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108619;172412;-3760;18003" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492858090" minZ="-3768" maxZ="-3752">
+		<node x="109723" y="172191" />
+		<node x="109623" y="172191" />
+		<node x="109623" y="172091" />
+		<node x="109723" y="172091" />
+	</territory>
+	<npcmaker name="dailaonlad_1928722949997912" territory="dailaonlad_1732492858090" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109673;172141;-3768;65112" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492862350" minZ="-3760" maxZ="-3744">
+		<node x="110254" y="171123" />
+		<node x="110154" y="171123" />
+		<node x="110154" y="171023" />
+		<node x="110254" y="171023" />
+	</territory>
+	<npcmaker name="dailaonlad_1928727212028579" territory="dailaonlad_1732492862350" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110204;171073;-3760;49683" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492869864" minZ="-3448" maxZ="-3432">
+		<node x="108373" y="170053" />
+		<node x="108273" y="170053" />
+		<node x="108273" y="169953" />
+		<node x="108373" y="169953" />
+	</territory>
+	<npcmaker name="dailaonlad_1928734722934329" territory="dailaonlad_1732492869864" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108323;170003;-3448;32545" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492871828" minZ="-3384" maxZ="-3368">
+		<node x="108454" y="169623" />
+		<node x="108354" y="169623" />
+		<node x="108354" y="169523" />
+		<node x="108454" y="169523" />
+	</territory>
+	<npcmaker name="dailaonlad_1928736687697625" territory="dailaonlad_1732492871828" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="108404;169573;-3384;57591" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492878135" minZ="-3304" maxZ="-3288">
+		<node x="110187" y="169425" />
+		<node x="110087" y="169425" />
+		<node x="110087" y="169325" />
+		<node x="110187" y="169325" />
+	</territory>
+	<npcmaker name="dailaonlad_1928743005856405" territory="dailaonlad_1732492878135" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110137;169375;-3304;60131" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492881130" minZ="-3320" maxZ="-3304">
+		<node x="109811" y="169543" />
+		<node x="109711" y="169543" />
+		<node x="109711" y="169443" />
+		<node x="109811" y="169443" />
+	</territory>
+	<npcmaker name="dailaonlad_1928745999245496" territory="dailaonlad_1732492881130" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="109761;169493;-3320;38510" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+	<territory name="dailaonlad_1732492883173" minZ="-3280" maxZ="-3264">
+		<node x="110057" y="169167" />
+		<node x="109957" y="169167" />
+		<node x="109957" y="169067" />
+		<node x="110057" y="169067" />
+	</territory>
+	<npcmaker name="dailaonlad_1928748032677294" territory="dailaonlad_1732492883173" spawn="ALL" maximumNpcs="1">
+		<npc id="20805" pos="110007;169117;-3280;55138" total="1" respawnDelay="10s" /> <!-- Dailaon Lad -->
+	</npcmaker>
+</list>

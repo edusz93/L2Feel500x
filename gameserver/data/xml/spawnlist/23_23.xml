@@ -14,8 +14,8 @@ Heine Area
 		<node x="103399" y="178771" />
 	</territory>
 	<npcmaker name="innadril08_01" territory="innadril08_2323_01" spawn="ALL" maximumNpcs="9">
-		<npc id="20805" total="4" respawnDelay="10s"/>
-		<npc id="20806" total="5" respawnDelay="10s"/>
+		<npc id="20805" total="4" respawnDelay="30s"/>
+		<npc id="20806" total="5" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -27,8 +27,8 @@ Heine Area
 		<node x="104234" y="175221" />
 	</territory>
 	<npcmaker name="innadril08_02" territory="innadril08_2323_02" spawn="ALL" maximumNpcs="10">
-		<npc id="20805" total="5" respawnDelay="10s"/>
-		<npc id="20806" total="5" respawnDelay="10s"/>
+		<npc id="20805" total="5" respawnDelay="30s"/>
+		<npc id="20806" total="5" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -39,9 +39,9 @@ Heine Area
 		<node x="107839" y="171463" />
 	</territory>
 	<npcmaker name="innadril08_03" territory="innadril08_2323_03" spawn="ALL" maximumNpcs="9">
-		<npc id="20805" total="3" respawnDelay="10s"/>
-		<npc id="20806" total="3" respawnDelay="10s"/>
-		<npc id="20807" total="3" respawnDelay="10s"/>
+		<npc id="20805" total="3" respawnDelay="30s"/>
+		<npc id="20806" total="3" respawnDelay="30s"/>
+		<npc id="20807" total="3" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -52,9 +52,9 @@ Heine Area
 		<node x="108069" y="169469" />
 	</territory>
 	<npcmaker name="innadril08_04" territory="innadril08_2323_04" spawn="ALL" maximumNpcs="5">
-		<npc id="20805" total="1" respawnDelay="10s"/>
-		<npc id="20806" total="2" respawnDelay="10s"/>
-		<npc id="20807" total="2" respawnDelay="10s"/>
+		<npc id="20805" total="1" respawnDelay="30s"/>
+		<npc id="20806" total="2" respawnDelay="30s"/>
+		<npc id="20807" total="2" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -66,9 +66,9 @@ Heine Area
 		<node x="110057" y="167640" />
 	</territory>
 	<npcmaker name="innadril08_05" territory="innadril08_2323_05" spawn="ALL" maximumNpcs="14">
-		<npc id="20805" total="4" respawnDelay="10s"/>
-		<npc id="20806" total="6" respawnDelay="10s"/>
-		<npc id="20807" total="4" respawnDelay="10s"/>
+		<npc id="20805" total="4" respawnDelay="30s"/>
+		<npc id="20806" total="6" respawnDelay="30s"/>
+		<npc id="20807" total="4" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -80,9 +80,9 @@ Heine Area
 		<node x="115022" y="167441" />
 	</territory>
 	<npcmaker name="innadril08_06" territory="innadril08_2323_06" spawn="ALL" maximumNpcs="15">
-		<npc id="20806" total="5" respawnDelay="10s"/>
-		<npc id="20807" total="6" respawnDelay="10s"/>
-		<npc id="20808" total="4" respawnDelay="10s"/>
+		<npc id="20806" total="5" respawnDelay="30s"/>
+		<npc id="20807" total="6" respawnDelay="30s"/>
+		<npc id="20808" total="4" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -94,9 +94,9 @@ Heine Area
 		<node x="117749" y="166749" />
 	</territory>
 	<npcmaker name="innadril08_07" territory="innadril08_2323_07" spawn="ALL" maximumNpcs="10">
-		<npc id="20806" total="4" respawnDelay="10s"/>
-		<npc id="20807" total="4" respawnDelay="10s"/>
-		<npc id="20808" total="2" respawnDelay="10s"/>
+		<npc id="20806" total="4" respawnDelay="30s"/>
+		<npc id="20807" total="4" respawnDelay="30s"/>
+		<npc id="20808" total="2" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -108,8 +108,8 @@ Heine Area
 		<node x="108123" y="184725" />
 	</territory>
 	<npcmaker name="innadril08_08" territory="innadril08_2323_08" spawn="ALL" maximumNpcs="18">
-		<npc id="20135" total="9" respawnDelay="10s"/>
-		<npc id="20804" total="9" respawnDelay="10s"/>
+		<npc id="20135" total="9" respawnDelay="30s"/>
+		<npc id="20804" total="9" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -121,8 +121,8 @@ Heine Area
 		<node x="111497" y="185914" />
 	</territory>
 	<npcmaker name="innadril08_09" territory="innadril08_2323_09" spawn="ALL" maximumNpcs="18">
-		<npc id="20135" total="9" respawnDelay="10s"/>
-		<npc id="20804" total="9" respawnDelay="10s"/>
+		<npc id="20135" total="9" respawnDelay="30s"/>
+		<npc id="20804" total="9" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -134,8 +134,8 @@ Heine Area
 		<node x="113656" y="186898" />
 	</territory>
 	<npcmaker name="innadril08_10" territory="innadril08_2323_10" spawn="ALL" maximumNpcs="20">
-		<npc id="20135" total="10" respawnDelay="10s"/>
-		<npc id="20804" total="10" respawnDelay="10s"/>
+		<npc id="20135" total="10" respawnDelay="30s"/>
+		<npc id="20804" total="10" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -146,8 +146,8 @@ Heine Area
 		<node x="117565" y="188450" />
 	</territory>
 	<npcmaker name="innadril08_11" territory="innadril08_2323_11" spawn="ALL" maximumNpcs="11">
-		<npc id="20135" total="5" respawnDelay="10s"/>
-		<npc id="20804" total="6" respawnDelay="10s"/>
+		<npc id="20135" total="5" respawnDelay="30s"/>
+		<npc id="20804" total="6" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -159,8 +159,8 @@ Heine Area
 		<node x="120445" y="188822" />
 	</territory>
 	<npcmaker name="innadril08_12" territory="innadril08_2323_12" spawn="ALL" maximumNpcs="14">
-		<npc id="20804" total="7" respawnDelay="10s"/>
-		<npc id="20805" total="7" respawnDelay="10s"/>
+		<npc id="20804" total="7" respawnDelay="30s"/>
+		<npc id="20805" total="7" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -172,9 +172,9 @@ Heine Area
 		<node x="119626" y="184946" />
 	</territory>
 	<npcmaker name="innadril08_13" territory="innadril08_2323_13" spawn="ALL" maximumNpcs="15">
-		<npc id="20804" total="5" respawnDelay="10s"/>
-		<npc id="20805" total="6" respawnDelay="10s"/>
-		<npc id="20806" total="4" respawnDelay="10s"/>
+		<npc id="20804" total="5" respawnDelay="30s"/>
+		<npc id="20805" total="6" respawnDelay="30s"/>
+		<npc id="20806" total="4" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -186,9 +186,9 @@ Heine Area
 		<node x="114607" y="182717" />
 	</territory>
 	<npcmaker name="innadril08_14" territory="innadril08_2323_14" spawn="ALL" maximumNpcs="24">
-		<npc id="20804" total="10" respawnDelay="10s"/>
-		<npc id="20805" total="10" respawnDelay="10s"/>
-		<npc id="20806" total="4" respawnDelay="10s"/>
+		<npc id="20804" total="10" respawnDelay="30s"/>
+		<npc id="20805" total="10" respawnDelay="30s"/>
+		<npc id="20806" total="4" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -199,9 +199,9 @@ Heine Area
 		<node x="113393" y="179860" />
 	</territory>
 	<npcmaker name="innadril08_15" territory="innadril08_2323_15" spawn="ALL" maximumNpcs="13">
-		<npc id="20804" total="4" respawnDelay="10s"/>
-		<npc id="20805" total="5" respawnDelay="10s"/>
-		<npc id="20806" total="4" respawnDelay="10s"/>
+		<npc id="20804" total="4" respawnDelay="30s"/>
+		<npc id="20805" total="5" respawnDelay="30s"/>
+		<npc id="20806" total="4" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -214,8 +214,8 @@ Heine Area
 		<node x="120465" y="184416" />
 	</territory>
 	<npcmaker name="innadril08_16" territory="innadril08_2323_16" spawn="ALL" maximumNpcs="26">
-		<npc id="20807" total="5" respawnDelay="10s"/>
-		<npc id="20808" total="5" respawnDelay="10s"/>
+		<npc id="20807" total="5" respawnDelay="30s"/>
+		<npc id="20808" total="5" respawnDelay="30s"/>
 		<npc id="20991" total="2" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -228,8 +228,8 @@ Heine Area
 		<node x="119181" y="179822" />
 	</territory>
 	<npcmaker name="innadril08_17" territory="innadril08_2323_17" spawn="ALL" maximumNpcs="21">
-		<npc id="20807" total="3" respawnDelay="10s"/>
-		<npc id="20808" total="3" respawnDelay="10s"/>
+		<npc id="20807" total="3" respawnDelay="30s"/>
+		<npc id="20808" total="3" respawnDelay="30s"/>
 		<npc id="20991" total="2" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -242,8 +242,8 @@ Heine Area
 		<node x="122192" y="177364" />
 	</territory>
 	<npcmaker name="innadril08_18" territory="innadril08_2323_18" spawn="ALL" maximumNpcs="21">
-		<npc id="20807" total="2" respawnDelay="10s"/>
-		<npc id="20808" total="3" respawnDelay="10s"/>
+		<npc id="20807" total="2" respawnDelay="30s"/>
+		<npc id="20808" total="3" respawnDelay="30s"/>
 		<npc id="20991" total="2" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -256,8 +256,8 @@ Heine Area
 		<node x="119224" y="175813" />
 	</territory>
 	<npcmaker name="innadril08_19" territory="innadril08_2323_19" spawn="ALL" maximumNpcs="20">
-		<npc id="20807" total="3" respawnDelay="10s"/>
-		<npc id="20808" total="2" respawnDelay="10s"/>
+		<npc id="20807" total="3" respawnDelay="30s"/>
+		<npc id="20808" total="2" respawnDelay="30s"/>
 		<npc id="20991" total="2" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -270,8 +270,8 @@ Heine Area
 		<node x="117517" y="178950" />
 	</territory>
 	<npcmaker name="innadril08_20" territory="innadril08_2323_20" spawn="ALL" maximumNpcs="21">
-		<npc id="20807" total="2" respawnDelay="10s"/>
-		<npc id="20808" total="3" respawnDelay="10s"/>
+		<npc id="20807" total="2" respawnDelay="30s"/>
+		<npc id="20808" total="3" respawnDelay="30s"/>
 		<npc id="20991" total="2" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -284,9 +284,9 @@ Heine Area
 		<node x="114547" y="176088" />
 	</territory>
 	<npcmaker name="innadril08_21" territory="innadril08_2323_21" spawn="ALL" maximumNpcs="16">
-		<npc id="20806" total="2" respawnDelay="10s"/>
-		<npc id="20807" total="3" respawnDelay="10s"/>
-		<npc id="20808" total="2" respawnDelay="10s"/>
+		<npc id="20806" total="2" respawnDelay="30s"/>
+		<npc id="20807" total="3" respawnDelay="30s"/>
+		<npc id="20808" total="2" respawnDelay="30s"/>
 		<npc id="20991" total="1" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -298,8 +298,8 @@ Heine Area
 		<node x="112446" y="174137" />
 	</territory>
 	<npcmaker name="innadril08_22" territory="innadril08_2323_22" spawn="ALL" maximumNpcs="5">
-		<npc id="20807" total="3" respawnDelay="10s"/>
-		<npc id="20808" total="2" respawnDelay="10s"/>
+		<npc id="20807" total="3" respawnDelay="30s"/>
+		<npc id="20808" total="2" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -312,8 +312,8 @@ Heine Area
 		<node x="126636" y="185303" />
 	</territory>
 	<npcmaker name="innadril08_23" territory="innadril08_2323_23" spawn="ALL" maximumNpcs="13">
-		<npc id="20807" total="2" respawnDelay="10s"/>
-		<npc id="20808" total="3" respawnDelay="10s"/>
+		<npc id="20807" total="2" respawnDelay="30s"/>
+		<npc id="20808" total="3" respawnDelay="30s"/>
 		<npc id="20991" total="1" respawnDelay="80s" respawnRandom="30s"/>
 	</npcmaker>
 	
@@ -327,9 +327,9 @@ Heine Area
 		<node x="125694" y="192044" />
 	</territory>
 	<npcmaker name="innadril08_24" territory="innadril08_2323_24" spawn="ALL" maximumNpcs="6">
-		<npc id="20805" total="2" respawnDelay="10s"/>
-		<npc id="20806" total="2" respawnDelay="10s"/>
-		<npc id="20807" total="2" respawnDelay="10s"/>
+		<npc id="20805" total="2" respawnDelay="30s"/>
+		<npc id="20806" total="2" respawnDelay="30s"/>
+		<npc id="20807" total="2" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -340,7 +340,7 @@ Heine Area
 		<node x="115962" y="185031" />
 	</territory>
 	<npcmaker name="innadril08_25s" territory="innadril08_2323_25s" spawn="ALL" maximumNpcs="5">
-		<npc id="20806" total="5" respawnDelay="10s"/>
+		<npc id="20806" total="5" respawnDelay="30s"/>
 	</npcmaker>
 	
 	<!--  -->

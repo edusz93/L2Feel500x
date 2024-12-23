@@ -1,2 +1,6 @@
 15/11/2024 13:09:59 >>> HWID: [00E04D4E7D1F] >>> Player: [Whiskyz]
 15/11/2024 16:02:42 >>> HWID: [00E04D4E7D1F] >>> Player: [DSTRONDAH]
+20/11/2024 15:54:42 >>> HWID: [00E04D4E7D1F] >>> Player: [PanteraNegra]
+20/11/2024 18:31:14 >>> HWID: [00E04D4E7D1F] >>> Player: [brendinhashow]
+20/11/2024 18:52:53 >>> HWID: [00E04D4E7D1F] >>> Player: [PanteraNegra]
+21/11/2024 19:33:59 >>> HWID: [00E04D4E7D1F] >>> Player: [PanteraNegra]

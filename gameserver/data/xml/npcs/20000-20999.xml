@@ -10326,6 +10326,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20136" name="Death Knight" title="">
@@ -55682,6 +55685,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20790" name="Dailaon" title="L2Feel.Net">
@@ -55734,6 +55740,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20791" name="Crokian Warrior" title="L2Feel.Net">
@@ -55785,6 +55794,9 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="2" chance="5.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -55841,6 +55853,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20793" name="Nos" title="L2Feel.Net">
@@ -55893,6 +55908,9 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -56819,6 +56837,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20805" name="Dailaon Lad" title="L2Feel.Net">
@@ -56871,6 +56892,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20806" name="Crokian Lad Warrior" title="L2Feel.Net">
@@ -56922,6 +56946,9 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -56978,6 +57005,9 @@
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
 			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
+			</category>
 		</drops>
 	</npc>
 	<npc id="20808" name="Nos Lad" title="L2Feel.Net">
@@ -57032,6 +57062,9 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
 			</category>
 		</drops>
 	</npc>
@@ -67655,6 +67688,9 @@
 			</category>
 			<category type="DROP" chance="100.0"> <!-- Armor Seed -->
 				<drop itemid="13005" min="1" max="1" chance="5.0"/>
+			</category>
+			<category type="DROP" chance="100.0"> <!-- Lucky Box -->
+				<drop itemid="11015" min="1" max="1" chance="2.0"/>
 			</category>
 		</drops>
 	</npc>

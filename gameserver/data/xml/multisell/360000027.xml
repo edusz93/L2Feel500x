@@ -155,7 +155,7 @@
 	</item>
 	<!-- Primeval Seed -->
 	<item id="35">
-		<ingredient id="13000" count="5"/>
+		<ingredient id="13000" count="10"/>
 		<production id="13010" count="1000"/>
 	</item>
 	<!-- Scroll: Enchant Armor (B) -->
@@ -238,5 +238,9 @@
 		<ingredient id="13000" count="2"/>
 		<production id="961" count="1"/>
 	</item>
-
+	<!-- Armor Seed -->
+	<item id="52">
+		<ingredient id="13000" count="1"/>
+		<production id="13005" count="10"/>
+	</item>
 </list>

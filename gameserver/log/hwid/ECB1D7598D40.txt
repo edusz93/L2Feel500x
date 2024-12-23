@@ -1,0 +1,4 @@
+22/11/2024 17:27:02 >>> HWID: [ECB1D7598D40] >>> Player: [Enjuku]
+22/11/2024 17:34:02 >>> HWID: [ECB1D7598D40] >>> Player: [Enjuku]
+22/11/2024 17:46:16 >>> HWID: [ECB1D7598D40] >>> Player: [qwertyuiop]
+22/11/2024 17:49:32 >>> HWID: [ECB1D7598D40] >>> Player: [123c14]

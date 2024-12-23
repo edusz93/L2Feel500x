@@ -67,3 +67,5 @@
 16/11/2024 10:55:35 >>> HWID: [D85ED3F5FF8B] >>> Player: [PretoRox]
 16/11/2024 15:09:33 >>> HWID: [D85ED3F5FF8B] >>> Player: [PretoRox]
 16/11/2024 15:09:42 >>> HWID: [D85ED3F5FF8B] >>> Player: [Antonella]
+28/11/2024 12:44:08 >>> HWID: [D85ED3F5FF8B] >>> Player: [Antonella]
+07/12/2024 23:08:50 >>> HWID: [D85ED3F5FF8B] >>> Player: [Antonella]

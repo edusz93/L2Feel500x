@@ -279,3 +279,5 @@
 13/08/2024 20:54:16 >>> HWID: [C87F5463CBD8] >>> Player: [Nina]
 16/11/2024 20:33:00 >>> HWID: [C87F5463CBD8] >>> Player: [Limao]
 16/11/2024 20:55:04 >>> HWID: [C87F5463CBD8] >>> Player: [Pipizinho]
+27/11/2024 22:04:11 >>> HWID: [C87F5463CBD8] >>> Player: [Limao]
+28/11/2024 19:34:46 >>> HWID: [C87F5463CBD8] >>> Player: [Limao]

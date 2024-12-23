@@ -1,0 +1,7 @@
+08/12/2024 23:47:16 >>> HWID: [D050998A445D] >>> Player: [Monarch]
+09/12/2024 0:13:51 >>> HWID: [D050998A445D] >>> Player: [Farmes]
+09/12/2024 0:49:46 >>> HWID: [D050998A445D] >>> Player: [Duelist]
+09/12/2024 0:52:23 >>> HWID: [D050998A445D] >>> Player: [Farmes]
+09/12/2024 0:55:40 >>> HWID: [D050998A445D] >>> Player: [Duelist]
+09/12/2024 7:45:56 >>> HWID: [D050998A445D] >>> Player: [Pope]
+09/12/2024 7:49:00 >>> HWID: [D050998A445D] >>> Player: [Healk]

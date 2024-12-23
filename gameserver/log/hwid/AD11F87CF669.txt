@@ -1,0 +1,5 @@
+20/11/2024 17:59:15 >>> HWID: [AD11F87CF669] >>> Player: [Bot2]
+20/11/2024 18:01:14 >>> HWID: [AD11F87CF669] >>> Player: [Bot4]
+20/11/2024 18:01:27 >>> HWID: [AD11F87CF669] >>> Player: [Xdee]
+20/11/2024 18:01:42 >>> HWID: [AD11F87CF669] >>> Player: [Desx]
+20/11/2024 18:01:56 >>> HWID: [AD11F87CF669] >>> Player: [Khon]

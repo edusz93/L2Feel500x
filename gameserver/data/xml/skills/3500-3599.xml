@@ -692,6 +692,7 @@
 		<for>
 			<addMul stat="bleedVuln" val="40" />
 			<mul stat="gainHp" val="1.06" />
+			<add stat="STR" val="2" />
 		</for>
 	</skill>
 	<skill id="3561" levels="1" name="Ring of Baium" >
@@ -728,6 +729,7 @@
 		<for>
 			<addMul stat="poisonVuln" val="40" />
 			<add stat="accCombat" val="1" />
+			<add stat="INT" val="2" />
 		</for>
 	</skill>
 	<skill id="3564" levels="1" name="Special Ability: Haste" >

@@ -1,0 +1,5 @@
+20/11/2024 18:02:34 >>> HWID: [CEE825BF3282] >>> Player: [Kael]
+20/11/2024 18:02:50 >>> HWID: [CEE825BF3282] >>> Player: [Farm1]
+20/11/2024 18:03:14 >>> HWID: [CEE825BF3282] >>> Player: [Farm2]
+20/11/2024 18:03:29 >>> HWID: [CEE825BF3282] >>> Player: [Farm3]
+20/11/2024 18:03:41 >>> HWID: [CEE825BF3282] >>> Player: [Farm4]

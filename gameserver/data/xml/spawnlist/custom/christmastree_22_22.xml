@@ -27,4 +27,13 @@
 	<npcmaker name="christmastree_1291525836914107" territory="christmastree_1731855660977" spawn="ALL" maximumNpcs="1">
 		<npc id="13006" pos="83200;148840;-3368;31692" total="1" respawnDelay="60s" /> <!-- Christmas Tree -->
 	</npcmaker>
+	<territory name="christmastree_1733357999933" minZ="-3464" maxZ="-3448">
+		<node x="82290" y="147554" />
+		<node x="82190" y="147554" />
+		<node x="82190" y="147454" />
+		<node x="82290" y="147454" />
+	</territory>
+	<npcmaker name="christmastree_2793864797774213" territory="christmastree_1733357999933" spawn="ALL" maximumNpcs="1">
+		<npc id="13006" pos="82240;147504;-3464;15086" total="1" respawnDelay="60s" /> <!-- Christmas Tree -->
+	</npcmaker>
 </list>

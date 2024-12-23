@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list maintainEnchantment="true">
 	<item>
-		<ingredient id="13008" count="180"/>
+		<ingredient id="13008" count="150"/>
 		<production id="6656" count="1"/> <!-- Antharas -->
     </item>
 	<item>
-		<ingredient id="13008" count="200"/>
+		<ingredient id="13008" count="180"/>
 		<production id="6657" count="1"/> <!-- Valakas -->
     </item>
 	<item>
-		<ingredient id="13008" count="150"/>
+		<ingredient id="13008" count="120"/>
 		<production id="6658" count="1"/> <!-- Baium -->
     </item>
 	<item>
@@ -29,7 +29,7 @@
 		<production id="6662" count="1"/> <!-- Core -->
     </item>
 	<item>
-		<ingredient id="13008" count="150"/>
+		<ingredient id="13008" count="100"/>
 		<production id="8191" count="1"/> <!-- Frintezza -->
     </item>
 </list>

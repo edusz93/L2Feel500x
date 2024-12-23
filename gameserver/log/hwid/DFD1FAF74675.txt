@@ -1,0 +1,3 @@
+19/11/2024 17:39:17 >>> HWID: [DFD1FAF74675] >>> Player: [Thay]
+19/11/2024 17:42:05 >>> HWID: [DFD1FAF74675] >>> Player: [Thay]
+19/11/2024 17:43:34 >>> HWID: [DFD1FAF74675] >>> Player: [Thay]

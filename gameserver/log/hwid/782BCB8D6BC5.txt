@@ -108,3 +108,5 @@
 16/11/2024 0:39:41 >>> HWID: [782BCB8D6BC5] >>> Player: [Hollywood]
 16/11/2024 0:46:54 >>> HWID: [782BCB8D6BC5] >>> Player: [jhonw]
 16/11/2024 0:59:35 >>> HWID: [782BCB8D6BC5] >>> Player: [PulGa]
+20/11/2024 0:16:31 >>> HWID: [782BCB8D6BC5] >>> Player: [PulGa]
+22/11/2024 0:43:35 >>> HWID: [782BCB8D6BC5] >>> Player: [PulGa]

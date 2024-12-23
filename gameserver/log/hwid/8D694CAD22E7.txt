@@ -1,0 +1,2 @@
+10/12/2024 10:06:03 >>> HWID: [8D694CAD22E7] >>> Player: [Every]
+10/12/2024 10:35:52 >>> HWID: [8D694CAD22E7] >>> Player: [farm8]

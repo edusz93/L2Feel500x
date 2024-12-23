@@ -22,3 +22,8 @@
 14/11/2024 10:21:43 >>> HWID: [001A7DDA7113] >>> Player: [Nuna]
 14/11/2024 14:00:20 >>> HWID: [001A7DDA7113] >>> Player: [Sula]
 14/11/2024 14:00:33 >>> HWID: [001A7DDA7113] >>> Player: [Nuna]
+30/11/2024 14:25:10 >>> HWID: [001A7DDA7113] >>> Player: [HighLander]
+30/11/2024 21:04:52 >>> HWID: [001A7DDA7113] >>> Player: [HighLander]
+01/12/2024 11:37:46 >>> HWID: [001A7DDA7113] >>> Player: [HighLander]
+01/12/2024 22:07:14 >>> HWID: [001A7DDA7113] >>> Player: [HighLander]
+03/12/2024 19:48:52 >>> HWID: [001A7DDA7113] >>> Player: [HighLander]

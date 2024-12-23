@@ -1044,7 +1044,7 @@ Goddard Area
 		<node x="191644" y="-117388" />
 	</territory>
 	<npcmaker name="godard10_2514_01m1" territory="godard10_2514_01" spawn="ALL" maximumNpcs="10">
-		<npc id="21392" total="10" respawnDelay="604800s"/>
+		<npc id="21392" total="10" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1056,7 +1056,7 @@ Goddard Area
 		<node x="192496" y="-113496" />
 	</territory>
 	<npcmaker name="godard10_2514_07m1" territory="godard10_2514_07" spawn="ALL" maximumNpcs="8">
-		<npc id="21395" total="8" respawnDelay="604800s"/>
+		<npc id="21395" total="8" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1068,7 +1068,7 @@ Goddard Area
 		<node x="188608" y="-107080" />
 	</territory>
 	<npcmaker name="godard10_2514_08m1" territory="godard10_2514_08" spawn="ALL" maximumNpcs="4">
-		<npc id="21395" total="4" respawnDelay="604800s"/>
+		<npc id="21395" total="4" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1080,7 +1080,7 @@ Goddard Area
 		<node x="190588" y="-106688" />
 	</territory>
 	<npcmaker name="godard10_2514_09m1" territory="godard10_2514_09" spawn="ALL" maximumNpcs="4">
-		<npc id="21395" total="4" respawnDelay="604800s"/>
+		<npc id="21395" total="4" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1091,7 +1091,7 @@ Goddard Area
 		<node x="189964" y="-116620" />
 	</territory>
 	<npcmaker name="godard10_mb2514_02m1" territory="godard10_mb2514_02" spawn="ALL" maximumNpcs="8">
-		<npc id="29030" total="1" respawnDelay="604800s"/>
+		<npc id="29030" total="1" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1102,7 +1102,7 @@ Goddard Area
 		<node x="193260" y="-113052" />
 	</territory>
 	<npcmaker name="godard10_mb2514_03m1" territory="godard10_mb2514_03" spawn="ALL" maximumNpcs="8">
-		<npc id="29033" total="1" respawnDelay="604800s"/>
+		<npc id="29033" total="1" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1113,7 +1113,7 @@ Goddard Area
 		<node x="189388" y="-109276" />
 	</territory>
 	<npcmaker name="godard10_mb2514_04m1" territory="godard10_mb2514_04" spawn="ALL" maximumNpcs="8">
-		<npc id="29036" total="1" respawnDelay="604800s"/>
+		<npc id="29036" total="1" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1124,7 +1124,7 @@ Goddard Area
 		<node x="192156" y="-108780" />
 	</territory>
 	<npcmaker name="godard10_mb2514_05m1" territory="godard10_mb2514_05" spawn="ALL" maximumNpcs="8">
-		<npc id="29037" total="1" respawnDelay="604800s"/>
+		<npc id="29037" total="1" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->
@@ -1135,7 +1135,7 @@ Goddard Area
 		<node x="189428" y="-105516" />
 	</territory>
 	<npcmaker name="godard10_mb2514_06m1" territory="godard10_mb2514_06" spawn="ALL" maximumNpcs="8">
-		<npc id="29040" total="1" respawnDelay="604800s"/>
+		<npc id="29040" total="1" respawnDelay="24h"/>
 	</npcmaker>
 	
 	<!--  -->

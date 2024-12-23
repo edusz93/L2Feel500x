@@ -2,7 +2,7 @@
 <list maintainEnchantment="true">
 <!-- Pacote prata-->
 	<item>
-		<production id="10004" count="1"/>
+		<production id="14031" count="1"/>
 		<production id="11005" count="1"/>
 		<production id="11017" count="1"/>
         <production id="13007" count="10"/>
@@ -12,10 +12,10 @@
 		<production id="8639" count="20"/>
 		<production id="5592" count="1000"/>
 		<production id="5591" count="1000"/>
-		<ingredient id="13000" count="70"/>
+		<ingredient id="13000" count="30"/>
     </item>
 	<item>
-		<production id="10005" count="1"/>
+		<production id="14032" count="1"/>
 		<production id="11005" count="1"/>
 		<production id="11017" count="1"/>
         <production id="13007" count="10"/>
@@ -25,6 +25,6 @@
 		<production id="8639" count="20"/>
 		<production id="5592" count="1000"/>
 		<production id="5591" count="1000"/>
-		 <ingredient id="13000" count="70"/>
+		 <ingredient id="13000" count="30"/>
     </item>
 </list>

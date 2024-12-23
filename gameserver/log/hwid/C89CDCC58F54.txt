@@ -9,3 +9,4 @@
 18/11/2024 19:21:16 >>> HWID: [C89CDCC58F54] >>> Player: [MarietaDaCarreTa]
 18/11/2024 19:41:48 >>> HWID: [C89CDCC58F54] >>> Player: [STAR]
 18/11/2024 19:46:49 >>> HWID: [C89CDCC58F54] >>> Player: [MarietaDaCarreTa]
+18/11/2024 20:27:59 >>> HWID: [C89CDCC58F54] >>> Player: [MarietaDaCarreTa]

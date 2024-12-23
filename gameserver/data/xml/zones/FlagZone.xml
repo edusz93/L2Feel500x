@@ -251,10 +251,9 @@
     </zone>
 	<!-- Giran Harbor Out -->
 	<zone type="FlagZone" shape="NPoly" minZ="-3690" maxZ="-3370">
-        <node x="41844" y="188527" />
-		<node x="39353" y="183279" />
-		<node x="46702" y="180173" />
-		<node x="49743" y="183128" />
-		<node x="48646" y="183202" />
+        <node x="40856" y="190504" />
+		<node x="34542" y="179732" />
+		<node x="50143" y="170968" />
+		<node x="56872" y="180952" />
     </zone>
 </list>

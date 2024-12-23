@@ -218,3 +218,5 @@
 14/11/2024 21:34:52 >>> HWID: [80EE73D089D2] >>> Player: [Carla]
 16/11/2024 18:10:00 >>> HWID: [80EE73D089D2] >>> Player: [lMeGaLeOzInHOo]
 16/11/2024 20:22:52 >>> HWID: [80EE73D089D2] >>> Player: [SirOwneR]
+18/11/2024 21:53:15 >>> HWID: [80EE73D089D2] >>> Player: [Carla]
+18/11/2024 21:56:03 >>> HWID: [80EE73D089D2] >>> Player: [Carla]

@@ -71,3 +71,8 @@
 18/11/2024 12:02:46 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
 18/11/2024 15:33:26 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
 18/11/2024 18:21:55 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
+18/11/2024 20:58:19 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
+19/11/2024 14:45:39 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
+20/11/2024 1:32:36 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
+20/11/2024 1:51:17 >>> HWID: [5863561C7281] >>> Player: [ChicoMoedaS]
+02/12/2024 18:47:12 >>> HWID: [5863561C7281] >>> Player: [NeverLorD]

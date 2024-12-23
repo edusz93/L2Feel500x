@@ -1,20 +1,91 @@
-[28-08-2024 19:52:13]	INFO	-----------------------------------------------=[ Config ]
-[28-08-2024 19:52:13]	INFO	Loading loginserver configuration files.
-[28-08-2024 19:52:13]	INFO	----------------------------------------------=[ Poolers ]
-[28-08-2024 19:52:13]	INFO	Initializing ConnectionPool.
-[28-08-2024 19:52:13]	INFO	--------------------------------------=[ LoginController ]
-[28-08-2024 19:52:14]	INFO	Cached 10 KeyPairs for RSA communication.
-[28-08-2024 19:52:14]	INFO	Stored 20 keys for Blowfish communication.
-[28-08-2024 19:52:14]	INFO	------------------------------------=[ GameServerManager ]
-[28-08-2024 19:52:14]	INFO	Loaded 127 server names.
-[28-08-2024 19:52:14]	INFO	Loaded 1 registered gameserver(s).
-[28-08-2024 19:52:15]	INFO	Cached 10 RSA keys for gameserver communication.
-[28-08-2024 19:52:15]	INFO	---------------------------------------------=[ Ban List ]
-[28-08-2024 19:52:15]	INFO	Loaded 1 banned IP(s).
-[28-08-2024 19:52:15]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
-[28-08-2024 19:52:15]	INFO	Listening for gameservers on *:9014.
-[28-08-2024 19:52:15]	INFO	Loginserver ready on *:2106.
-[28-08-2024 19:52:15]	INFO	------------------------=[ Waiting for gameserver answer ]
-[28-08-2024 19:52:18]	INFO	Hooked [1] Feel gameserver on: 127.0.0.1.
-[28-08-2024 19:52:27]	INFO	Auto created account 'admin'.
-[28-08-2024 19:55:30]	INFO	GameServer [1] Feel is now set as disconnected.
+[27-10-2024 11:05:27]	INFO	-----------------------------------------------=[ Config ]
+[27-10-2024 11:05:27]	INFO	Loading loginserver configuration files.
+[27-10-2024 11:05:27]	INFO	----------------------------------------------=[ Poolers ]
+[27-10-2024 11:05:27]	INFO	Initializing ConnectionPool.
+[27-10-2024 11:05:27]	INFO	--------------------------------------=[ LoginController ]
+[27-10-2024 11:05:28]	INFO	Cached 10 KeyPairs for RSA communication.
+[27-10-2024 11:05:28]	INFO	Stored 20 keys for Blowfish communication.
+[27-10-2024 11:05:28]	INFO	------------------------------------=[ GameServerManager ]
+[27-10-2024 11:05:28]	INFO	Loaded 127 server names.
+[27-10-2024 11:05:28]	INFO	Loaded 1 registered gameserver(s).
+[27-10-2024 11:05:28]	INFO	Cached 10 RSA keys for gameserver communication.
+[27-10-2024 11:05:28]	INFO	---------------------------------------------=[ Ban List ]
+[27-10-2024 11:05:28]	INFO	Loaded 1 banned IP(s).
+[27-10-2024 11:05:28]	INFO	-----------------------------=[ IP, Ports & Socket infos ]
+[27-10-2024 11:05:28]	INFO	Listening for gameservers on *:9014.
+[27-10-2024 11:05:28]	INFO	Loginserver ready on *:2106.
+[27-10-2024 11:05:28]	INFO	------------------------=[ Waiting for gameserver answer ]
+[27-10-2024 11:05:42]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[27-10-2024 12:37:42]	INFO	GameServer [1] Feel is now set as disconnected.
+[27-10-2024 12:37:55]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[27-10-2024 13:03:18]	INFO	GameServer [1] Feel is now set as disconnected.
+[27-10-2024 13:03:33]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[28-10-2024 05:02:06]	INFO	GameServer [1] Feel is now set as disconnected.
+[28-10-2024 05:02:21]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 05:02:07]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 05:02:22]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 20:09:16]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 20:09:59]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 20:30:33]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 20:31:57]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 20:41:26]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 20:41:53]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 21:08:54]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 21:09:23]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 21:11:47]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 21:12:29]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 21:14:27]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 21:15:09]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 21:16:12]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 21:17:15]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[29-10-2024 21:18:07]	INFO	GameServer [1] Feel is now set as disconnected.
+[29-10-2024 21:18:58]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[30-10-2024 05:02:06]	INFO	GameServer [1] Feel is now set as disconnected.
+[30-10-2024 05:02:21]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[30-10-2024 18:50:48]	INFO	GameServer [1] Feel is now set as disconnected.
+[30-10-2024 18:51:14]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 05:02:06]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 05:02:21]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 11:12:05]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 11:12:22]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 11:43:36]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 11:44:00]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 12:06:49]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 12:07:12]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 12:13:46]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 12:14:57]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 12:35:30]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 12:35:56]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 12:53:45]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 12:54:21]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 13:04:43]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 13:37:01]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 13:37:02]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 13:37:40]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[31-10-2024 15:45:29]	INFO	GameServer [1] Feel is now set as disconnected.
+[31-10-2024 15:45:57]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 05:02:06]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 05:02:22]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 06:49:28]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 06:54:29]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 07:04:03]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 07:04:35]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 07:10:36]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 07:10:58]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 07:13:34]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 07:14:44]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 07:17:48]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 07:18:24]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 07:22:08]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 07:22:33]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 12:51:03]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 12:51:18]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 16:01:54]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 16:34:09]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 16:41:52]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 16:42:06]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 16:43:49]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 16:44:08]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 16:44:48]	INFO	GameServer [1] Feel is now set as disconnected.
+[01-11-2024 16:45:25]	INFO	Hooked [1] Feel gameserver on: 104.234.224.61.
+[01-11-2024 17:52:23]	INFO	GameServer [1] Feel is now set as disconnected.

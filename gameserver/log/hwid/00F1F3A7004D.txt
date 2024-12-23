@@ -311,3 +311,8 @@
 14/08/2024 11:10:25 >>> HWID: [00F1F3A7004D] >>> Player: [Ratazana]
 14/08/2024 11:28:56 >>> HWID: [00F1F3A7004D] >>> Player: [MuiaB]
 14/08/2024 11:32:01 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
+02/12/2024 12:29:20 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
+02/12/2024 17:37:51 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
+03/12/2024 11:11:05 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
+06/12/2024 10:09:21 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
+07/12/2024 13:42:45 >>> HWID: [00F1F3A7004D] >>> Player: [Qisso]
